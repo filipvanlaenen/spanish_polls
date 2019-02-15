@@ -8,5 +8,27 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
+    <pubDate>Fri, 15 Feb 2019 16:05:10 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 26–30 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-01-30-electoPanel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 18.7–21.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 21.6–24.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 13.7–16.3%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 18.2–21.1%&lt;/li&gt;&lt;li&gt;Vox: 11.0–13.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-01-30-electoPanel.png"
+        length="163346"
+        type="image/png"/>
+      <pubDate>Fri, 15 Feb 2019 16:00:17 +0100</pubDate>
+      <dc:date>2019-02-15T16:00:17.011379+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 21–25 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-01-25-NCReport.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 21.4–26.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 21.6–27.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 14.4–19.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 16.4–21.2%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya: 1.9–4.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Vox: 7.7–11.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-01-25-NCReport.png"
+        length="236564"
+        type="image/png"/>
+      <pubDate>Fri, 15 Feb 2019 16:05:10 +0100</pubDate>
+      <dc:date>2019-02-15T16:05:10.657568+01:00</dc:date>
+    </item>
+    <dc:date>2019-02-15T16:05:10.657568+01:00</dc:date>
   </channel>
 </rss>
