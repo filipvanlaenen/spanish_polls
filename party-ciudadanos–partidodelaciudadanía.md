@@ -20,7 +20,7 @@ Last result: **13.1%** (General Election of 26 June 2016)
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 19.9% | 18.5–21.3% | 18.2–21.7% | 17.9–22.1% | 17.2–22.7% |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 17.7% | 16.8–18.6% | 16.6–18.9% | 16.4–19.1% | 16.0–19.6% |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 17.9% | 16.5–19.6% | 16.1–20.0% | 15.7–20.4% | 15.1–21.2% |
-| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 19.6% | 18.2–21.3% | 17.7–21.7% | 17.4–22.1% | 16.7–22.9% |
+| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 19.6% | 18.2–21.2% | 17.7–21.7% | 17.4–22.1% | 16.7–22.9% |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 18.5% | 17.5–19.6% | 17.2–19.9% | 16.9–20.2% | 16.4–20.7% |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 18.8% | 17.3–20.5% | 16.9–20.9% | 16.5–21.4% | 15.8–22.2% |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 18.4% | 16.9–20.1% | 16.5–20.5% | 16.1–20.9% | 15.4–21.7% |
@@ -134,7 +134,7 @@ Last result: **32** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–13 | 6–14 | 5–14 | 3–15 |
+| N/A | [Poll Average](average.html) |  | 6–13 | 6–14 | 5–14 | 3–15 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 8 | 8 | 8–9 | 8–14 | 6–14 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 10–14 | 10–15 | 10–15 | 10–15 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13 | 12–13 | 11–13 | 11–13 |
@@ -144,15 +144,15 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13 | 13 | 11–13 | 10–13 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 13 | 13 | 13 | 13 | 13 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 8 | 8–13 | 7–14 | 7–14 | 7–14 |
-| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 6–7 | 6–7 | 4–7 | 4–7 |
-| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6 | 6 | 6 | 3–6 |
-| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 4–6 | 2–6 | 2–6 | 2–6 |
-| [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 3 | 3–6 | 3–6 | 3–6 | 2–6 |
-| [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6 | 6 | 5–6 | 5–6 |
-| [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 6 | 6 | 6 | 6 | 5–6 |
-| [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 6 | 6 | 6 | 6 | 6 |
+| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 10–17 | 10–17 | 9–17 | 8–17 |
+| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 13–15 | 13–15 | 13–15 | 6–15 |
+| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 8–17 | 6–17 | 6–17 | 6–17 |
+| [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 6 | 6–15 | 6–15 | 6–15 | 6–15 |
+| [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 11–14 | 11–14 | 11–14 | 11–14 |
+| [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 14 | 12–14 | 12–14 | 11–14 | 11–14 |
+| [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 15 | 15 | 15 | 15 | 12–15 |
 | [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 7 | 7 | 7 | 7 | 6–7 |
-| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 6 | 6 | 6 | 6 | 6 |
+| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 42 | 42 | 42 | 33–42 | 29–42 |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 6 | 6 | 6 | 6 | 6 |
 | [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 6 | 6 | 6 | 6 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 6 | 6 | 6 | 6 | 6 |
@@ -232,39 +232,4 @@ Last result: **32** seats (General Election of 26 June 2016)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-ciudadanos–partidodelaciudadanía.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for Ciudadanos–Partido de la Ciudadanía.
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.5% | 100% |  |
-| 3 | 0.1% | 99.5% |  |
-| 4 | 0.6% | 99.5% |  |
-| 5 | 2% | 98.9% |  |
-| 6 | 34% | 97% |  |
-| 7 | 7% | 63% |  |
-| 8 | 9% | 56% | Median |
-| 9 | 1.1% | 47% |  |
-| 10 | 4% | 46% |  |
-| 11 | 6% | 42% |  |
-| 12 | 0.5% | 35% |  |
-| 13 | 27% | 35% |  |
-| 14 | 8% | 8% |  |
-| 15 | 0.6% | 0.6% |  |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% |  |
-| 32 | 0% | 0% | Last Result |
-
 
