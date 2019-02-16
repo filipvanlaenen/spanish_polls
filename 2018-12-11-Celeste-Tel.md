@@ -1,72 +1,70 @@
-# Opinion Poll by Celeste-Tel for eldiario.es, 4–8 February 2019
+# Opinion Poll by Celeste-Tel for eldiario.es, 3–11 December 2018
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](2019-02-08-Celeste-Tel.png "Voting Intentions")
+![Graph with voting intentions not yet produced](2018-12-11-Celeste-Tel.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español | 22.6% | 23.7% | 22.1–25.4% |21.7–25.9% |21.3–26.3% |20.6–27.2% |
-| Partido Popular | 33.0% | 23.1% | 21.5–24.8% |21.1–25.3% |20.7–25.7% |20.0–26.5% |
-| Ciudadanos–Partido de la Ciudadanía | 13.1% | 19.2% | 17.7–20.8% |17.3–21.2% |17.0–21.6% |16.3–22.4% |
-| Unidos Podemos | 21.2% | 15.8% | 14.5–17.3% |14.1–17.7% |13.8–18.1% |13.2–18.8% |
-| Vox | 0.2% | 8.9% | 7.9–10.1% |7.6–10.5% |7.4–10.7% |6.9–11.3% |
-| Esquerra Republicana de Catalunya | 2.7% | 2.8% | 2.3–3.6% |2.1–3.8% |2.0–4.0% |1.8–4.4% |
-| Partit Demòcrata Europeu Català | 2.0% | 1.7% | 1.3–2.3% |1.2–2.5% |1.1–2.7% |0.9–3.0% |
-| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | 1.2% | 1.2% | 0.9–1.7% |0.8–1.9% |0.7–2.0% |0.6–2.3% |
-| Partido Animalista Contra el Maltrato Animal | 1.2% | 1.1% | 0.8–1.6% |0.7–1.8% |0.6–1.9% |0.5–2.2% |
-| Euskal Herria Bildu | 0.8% | 0.8% | 0.6–1.3% |0.5–1.4% |0.4–1.6% |0.3–1.8% |
+| Partido Socialista Obrero Español | 22.6% | 25.2% | 23.5–26.9% |23.1–27.4% |22.7–27.8% |21.9–28.7% |
+| Partido Popular | 33.0% | 24.7% | 23.1–26.5% |22.6–26.9% |22.3–27.4% |21.5–28.2% |
+| Ciudadanos–Partido de la Ciudadanía | 13.1% | 19.4% | 17.9–21.0% |17.5–21.4% |17.1–21.8% |16.4–22.6% |
+| Unidos Podemos | 21.2% | 16.2% | 14.8–17.7% |14.4–18.1% |14.1–18.5% |13.5–19.2% |
+| Vox | 0.2% | 6.8% | 5.9–7.9% |5.7–8.2% |5.5–8.5% |5.1–9.0% |
+| Esquerra Republicana de Catalunya | 2.7% | 2.9% | 2.3–3.7% |2.2–3.9% |2.1–4.1% |1.8–4.5% |
+| Partit Demòcrata Europeu Català | 2.0% | 1.5% | 1.2–2.1% |1.1–2.3% |1.0–2.5% |0.8–2.8% |
+| Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | 1.2% | 1.0% | 0.7–1.5% |0.6–1.7% |0.6–1.8% |0.4–2.1% |
+| Partido Animalista Contra el Maltrato Animal | 1.2% | 0.8% | 0.6–1.3% |0.5–1.4% |0.4–1.6% |0.3–1.8% |
+| Euskal Herria Bildu | 0.8% | 0.6% | 0.4–1.1% |0.4–1.2% |0.3–1.3% |0.2–1.6% |
 | Coalición Canaria–Partido Nacionalista Canario | 0.3% | 0.3% | 0.2–0.6% |0.1–0.7% |0.1–0.8% |0.1–1.0% |
+| Bloque Nacionalista Galego–Nós Candidatura Galega | 0.2% | 0.2% | 0.1–0.5% |0.1–0.6% |0.0–0.7% |0.0–0.9% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 
-![Graph with seats not yet produced](2019-02-08-Celeste-Tel-seats.png "Seats")
+![Graph with seats not yet produced](2018-12-11-Celeste-Tel-seats.png "Seats")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-obrero-español">Partido Socialista Obrero Español</a> | 85 | 66 | 66–68 |66–68 |66–68 |66–75 |
-| <a href="#partido-popular">Partido Popular</a> | 137 | 69 | 69–71 |59–71 |59–71 |59–71 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía">Ciudadanos–Partido de la Ciudadanía</a> | 32 | 49 | 40–49 |40–49 |40–49 |40–49 |
-| <a href="#unidos-podemos">Unidos Podemos</a> | 71 | 29 | 29–37 |29–37 |29–37 |28–37 |
-| <a href="#vox">Vox</a> | 0 | 15 | 14–15 |14–27 |14–27 |14–27 |
+| <a href="#partido-socialista-obrero-español">Partido Socialista Obrero Español</a> | 85 | 66 | 66 |66 |66 |66 |
+| <a href="#partido-popular">Partido Popular</a> | 137 | 82 | 82 |82 |82 |82 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía">Ciudadanos–Partido de la Ciudadanía</a> | 32 | 49 | 49 |49 |49 |49 |
+| <a href="#unidos-podemos">Unidos Podemos</a> | 71 | 23 | 23 |23 |23 |23 |
+| <a href="#vox">Vox</a> | 0 | 6 | 6 |6 |6 |6 |
 | <a href="#esquerra-republicana-de-catalunya">Esquerra Republicana de Catalunya</a> | 9 | 0 | 0 |0 |0 |0 |
 | <a href="#partit-demòcrata-europeu-català">Partit Demòcrata Europeu Català</a> | 8 | 0 | 0 |0 |0 |0 |
-| <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco</a> | 5 | 6 | 4–6 |3–6 |3–6 |3–6 |
+| <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco</a> | 5 | 7 | 7 |7 |7 |7 |
 | <a href="#partido-animalista-contra-el-maltrato-animal">Partido Animalista Contra el Maltrato Animal</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#euskal-herria-bildu">Euskal Herria Bildu</a> | 2 | 3 | 2–3 |1–3 |1–3 |1–3 |
+| <a href="#euskal-herria-bildu">Euskal Herria Bildu</a> | 2 | 4 | 4 |4 |4 |4 |
 | <a href="#coalición-canaria–partido-nacionalista-canario">Coalición Canaria–Partido Nacionalista Canario</a> | 1 | 0 | 0 |0 |0 |0 |
+| <a href="#bloque-nacionalista-galego–nós-candidatura-galega">Bloque Nacionalista Galego–Nós Candidatura Galega</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Partido Socialista Obrero Español
 
 *For a full overview of the results for this party, see the [Partido Socialista Obrero Español](party-partidosocialistaobreroespañol.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-seats-pmf-partidosocialistaobreroespañol.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-seats-pmf-partidosocialistaobreroespañol.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 62 | 0.1% | 100% |  |
-| 63 | 0% | 99.9% |  |
-| 64 | 0% | 99.9% |  |
-| 65 | 0% | 99.9% |  |
-| 66 | 71% | 99.9% | Median |
-| 67 | 0% | 29% |  |
-| 68 | 27% | 29% |  |
-| 69 | 0% | 2% |  |
-| 70 | 0% | 2% |  |
-| 71 | 0% | 2% |  |
-| 72 | 0% | 2% |  |
-| 73 | 0% | 2% |  |
-| 74 | 0% | 2% |  |
-| 75 | 1.5% | 2% |  |
-| 76 | 0% | 0% |  |
+| 66 | 99.8% | 100% | Median |
+| 67 | 0% | 0.2% |  |
+| 68 | 0% | 0.2% |  |
+| 69 | 0% | 0.2% |  |
+| 70 | 0.1% | 0.2% |  |
+| 71 | 0% | 0.1% |  |
+| 72 | 0% | 0.1% |  |
+| 73 | 0% | 0.1% |  |
+| 74 | 0% | 0.1% |  |
+| 75 | 0% | 0.1% |  |
+| 76 | 0.1% | 0.1% |  |
 | 77 | 0% | 0% |  |
 | 78 | 0% | 0% |  |
 | 79 | 0% | 0% |  |
@@ -81,36 +79,31 @@
 
 *For a full overview of the results for this party, see the [Partido Popular](party-partidopopular.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-seats-pmf-partidopopular.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-seats-pmf-partidopopular.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 0.1% | 100% |  |
-| 58 | 0% | 99.9% |  |
-| 59 | 6% | 99.9% |  |
-| 60 | 0% | 94% |  |
-| 61 | 0% | 94% |  |
-| 62 | 0% | 94% |  |
-| 63 | 0% | 94% |  |
-| 64 | 1.5% | 94% |  |
-| 65 | 0% | 92% |  |
-| 66 | 0% | 92% |  |
-| 67 | 0% | 92% |  |
-| 68 | 0% | 92% |  |
-| 69 | 65% | 92% | Median |
-| 70 | 0% | 27% |  |
-| 71 | 27% | 27% |  |
-| 72 | 0% | 0% |  |
-| 73 | 0% | 0% |  |
-| 74 | 0% | 0% |  |
-| 75 | 0% | 0% |  |
-| 76 | 0% | 0% |  |
-| 77 | 0% | 0% |  |
-| 78 | 0% | 0% |  |
-| 79 | 0% | 0% |  |
-| 80 | 0% | 0% |  |
-| 81 | 0% | 0% |  |
-| 82 | 0% | 0% |  |
+| 62 | 0.1% | 100% |  |
+| 63 | 0% | 99.9% |  |
+| 64 | 0% | 99.9% |  |
+| 65 | 0% | 99.9% |  |
+| 66 | 0% | 99.9% |  |
+| 67 | 0% | 99.9% |  |
+| 68 | 0% | 99.9% |  |
+| 69 | 0% | 99.9% |  |
+| 70 | 0.2% | 99.9% |  |
+| 71 | 0% | 99.8% |  |
+| 72 | 0% | 99.8% |  |
+| 73 | 0.1% | 99.8% |  |
+| 74 | 0% | 99.6% |  |
+| 75 | 0% | 99.6% |  |
+| 76 | 0% | 99.6% |  |
+| 77 | 0% | 99.6% |  |
+| 78 | 0% | 99.6% |  |
+| 79 | 0% | 99.6% |  |
+| 80 | 0% | 99.6% |  |
+| 81 | 0% | 99.6% |  |
+| 82 | 99.6% | 99.6% | Median |
 | 83 | 0% | 0% |  |
 | 84 | 0% | 0% |  |
 | 85 | 0% | 0% |  |
@@ -171,7 +164,7 @@
 
 *For a full overview of the results for this party, see the [Ciudadanos–Partido de la Ciudadanía](party-ciudadanos–partidodelaciudadanía.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-seats-pmf-ciudadanos–partidodelaciudadanía.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-seats-pmf-ciudadanos–partidodelaciudadanía.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -183,41 +176,44 @@
 | 37 | 0% | 100% |  |
 | 38 | 0% | 100% |  |
 | 39 | 0% | 100% |  |
-| 40 | 27% | 100% |  |
-| 41 | 0% | 73% |  |
-| 42 | 0% | 73% |  |
-| 43 | 0% | 73% |  |
-| 44 | 0% | 73% |  |
-| 45 | 0% | 73% |  |
-| 46 | 0% | 73% |  |
-| 47 | 0% | 73% |  |
-| 48 | 8% | 73% |  |
-| 49 | 65% | 65% | Median |
-| 50 | 0% | 0.1% |  |
-| 51 | 0% | 0.1% |  |
-| 52 | 0% | 0.1% |  |
-| 53 | 0.1% | 0.1% |  |
-| 54 | 0% | 0% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0% | 100% |  |
+| 42 | 0% | 100% |  |
+| 43 | 0% | 100% |  |
+| 44 | 0% | 100% |  |
+| 45 | 0.1% | 100% |  |
+| 46 | 0% | 99.9% |  |
+| 47 | 0% | 99.9% |  |
+| 48 | 0.1% | 99.9% |  |
+| 49 | 99.6% | 99.8% | Median |
+| 50 | 0% | 0.2% |  |
+| 51 | 0.2% | 0.2% |  |
+| 52 | 0% | 0% |  |
 
 ### Unidos Podemos
 
 *For a full overview of the results for this party, see the [Unidos Podemos](party-unidospodemos.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-seats-pmf-unidospodemos.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-seats-pmf-unidospodemos.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 28 | 2% | 100% |  |
-| 29 | 65% | 98% | Median |
-| 30 | 0% | 34% |  |
-| 31 | 0% | 34% |  |
-| 32 | 0% | 34% |  |
-| 33 | 6% | 34% |  |
-| 34 | 0% | 27% |  |
-| 35 | 0% | 27% |  |
-| 36 | 0% | 27% |  |
-| 37 | 27% | 27% |  |
-| 38 | 0% | 0% |  |
+| 23 | 99.6% | 100% | Median |
+| 24 | 0% | 0.4% |  |
+| 25 | 0% | 0.4% |  |
+| 26 | 0% | 0.4% |  |
+| 27 | 0% | 0.4% |  |
+| 28 | 0% | 0.4% |  |
+| 29 | 0.2% | 0.4% |  |
+| 30 | 0% | 0.2% |  |
+| 31 | 0% | 0.2% |  |
+| 32 | 0% | 0.2% |  |
+| 33 | 0% | 0.2% |  |
+| 34 | 0% | 0.2% |  |
+| 35 | 0% | 0.2% |  |
+| 36 | 0% | 0.2% |  |
+| 37 | 0% | 0.2% |  |
+| 38 | 0.2% | 0.2% |  |
 | 39 | 0% | 0% |  |
 | 40 | 0% | 0% |  |
 | 41 | 0% | 0% |  |
@@ -256,7 +252,7 @@
 
 *For a full overview of the results for this party, see the [Vox](party-vox.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-seats-pmf-vox.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-seats-pmf-vox.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -266,36 +262,21 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 27% | 100% |  |
-| 15 | 65% | 73% | Median |
-| 16 | 0% | 8% |  |
-| 17 | 1.5% | 8% |  |
-| 18 | 0% | 6% |  |
-| 19 | 0% | 6% |  |
-| 20 | 0% | 6% |  |
-| 21 | 0% | 6% |  |
-| 22 | 0% | 6% |  |
-| 23 | 0% | 6% |  |
-| 24 | 0% | 6% |  |
-| 25 | 0% | 6% |  |
-| 26 | 0% | 6% |  |
-| 27 | 6% | 6% |  |
-| 28 | 0.1% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 6 | 99.6% | 100% | Median |
+| 7 | 0% | 0.4% |  |
+| 8 | 0.2% | 0.4% |  |
+| 9 | 0.1% | 0.2% |  |
+| 10 | 0% | 0.1% |  |
+| 11 | 0% | 0.1% |  |
+| 12 | 0% | 0.1% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya
 
 *For a full overview of the results for this party, see the [Esquerra Republicana de Catalunya](party-esquerrarepublicanadecatalunya.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-seats-pmf-esquerrarepublicanadecatalunya.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-seats-pmf-esquerrarepublicanadecatalunya.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -314,7 +295,7 @@
 
 *For a full overview of the results for this party, see the [Partit Demòcrata Europeu Català](party-partitdemòcrataeuropeucatalà.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-seats-pmf-partitdemòcrataeuropeucatalà.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-seats-pmf-partitdemòcrataeuropeucatalà.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -332,22 +313,24 @@
 
 *For a full overview of the results for this party, see the [Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco](party-euzkoalderdijeltzaleapartidonacionalistavasco.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-seats-pmf-euzkoalderdijeltzaleapartidonacionalistavasco.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-seats-pmf-euzkoalderdijeltzaleapartidonacionalistavasco.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.1% | 100% |  |
-| 3 | 8% | 99.9% |  |
-| 4 | 27% | 92% |  |
-| 5 | 0% | 65% | Last Result |
-| 6 | 65% | 65% | Median |
-| 7 | 0% | 0% |  |
+| 2 | 0.2% | 100% |  |
+| 3 | 0% | 99.8% |  |
+| 4 | 0% | 99.8% |  |
+| 5 | 0% | 99.8% | Last Result |
+| 6 | 0.1% | 99.8% |  |
+| 7 | 99.6% | 99.7% | Median |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 ### Partido Animalista Contra el Maltrato Animal
 
 *For a full overview of the results for this party, see the [Partido Animalista Contra el Maltrato Animal](party-partidoanimalistacontraelmaltratoanimal.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-seats-pmf-partidoanimalistacontraelmaltratoanimal.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-seats-pmf-partidoanimalistacontraelmaltratoanimal.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -357,69 +340,78 @@
 
 *For a full overview of the results for this party, see the [Euskal Herria Bildu](party-euskalherriabildu.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-seats-pmf-euskalherriabildu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-seats-pmf-euskalherriabildu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% |  |
-| 2 | 27% | 92% | Last Result |
-| 3 | 65% | 65% | Median |
-| 4 | 0% | 0.1% |  |
-| 5 | 0% | 0.1% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 2 | 0.1% | 100% | Last Result |
+| 3 | 0.2% | 99.9% |  |
+| 4 | 99.6% | 99.6% | Median |
+| 5 | 0% | 0% |  |
 
 ### Coalición Canaria–Partido Nacionalista Canario
 
 *For a full overview of the results for this party, see the [Coalición Canaria–Partido Nacionalista Canario](party-coalicióncanaria–partidonacionalistacanario.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-seats-pmf-coalicióncanaria–partidonacionalistacanario.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-seats-pmf-coalicióncanaria–partidonacionalistacanario.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Median |
 | 1 | 0% | 0% | Last Result |
 
+### Bloque Nacionalista Galego–Nós Candidatura Galega
+
+*For a full overview of the results for this party, see the [Bloque Nacionalista Galego–Nós Candidatura Galega](party-bloquenacionalistagalego–nóscandidaturagalega.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-seats-pmf-bloquenacionalistagalego–nóscandidaturagalega.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](2019-02-08-Celeste-Tel-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](2018-12-11-Celeste-Tel-coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Vox | 169 | 133 | 0% | 125–133 | 125–134 | 125–134 | 125–134 |
-| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Coalición Canaria–Partido Nacionalista Canario | 170 | 118 | 0% | 111–118 | 107–118 | 107–118 | 107–118 |
-| Partido Popular – Ciudadanos–Partido de la Ciudadanía | 169 | 118 | 0% | 111–118 | 107–118 | 107–118 | 107–118 |
-| Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía – Coalición Canaria–Partido Nacionalista Canario | 118 | 115 | 0% | 108–115 | 108–115 | 108–115 | 108–123 |
-| Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía | 117 | 115 | 0% | 108–115 | 108–115 | 108–115 | 108–123 |
-| Partido Socialista Obrero Español – Unidos Podemos | 156 | 95 | 0% | 95–105 | 95–105 | 95–105 | 95–105 |
-| Partido Popular – Vox | 137 | 84 | 0% | 84–85 | 84–86 | 84–86 | 81–86 |
-| Partido Popular | 137 | 69 | 0% | 69–71 | 59–71 | 59–71 | 59–71 |
-| Partido Socialista Obrero Español – Coalición Canaria–Partido Nacionalista Canario | 86 | 66 | 0% | 66–68 | 66–68 | 66–68 | 66–75 |
-| Partido Socialista Obrero Español | 85 | 66 | 0% | 66–68 | 66–68 | 66–68 | 66–75 |
+| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Vox | 169 | 137 | 0% | 137 | 137 | 137 | 137 |
+| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Coalición Canaria–Partido Nacionalista Canario | 170 | 131 | 0% | 131 | 131 | 131 | 131 |
+| Partido Popular – Ciudadanos–Partido de la Ciudadanía | 169 | 131 | 0% | 131 | 131 | 131 | 131 |
+| Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía – Coalición Canaria–Partido Nacionalista Canario | 118 | 115 | 0% | 115 | 115 | 115 | 115 |
+| Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía | 117 | 115 | 0% | 115 | 115 | 115 | 115 |
+| Partido Socialista Obrero Español – Unidos Podemos | 156 | 89 | 0% | 89 | 89 | 89 | 89 |
+| Partido Popular – Vox | 137 | 88 | 0% | 88 | 88 | 88 | 88 |
+| Partido Popular | 137 | 82 | 0% | 82 | 82 | 82 | 82 |
+| Partido Socialista Obrero Español – Coalición Canaria–Partido Nacionalista Canario | 86 | 66 | 0% | 66 | 66 | 66 | 66 |
+| Partido Socialista Obrero Español | 85 | 66 | 0% | 66 | 66 | 66 | 66 |
 
 ### Partido Popular – Ciudadanos–Partido de la Ciudadanía – Vox
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-coalitions-seats-pmf-pp–cs–vox.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-coalitions-seats-pmf-pp–cs–vox.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 125 | 27% | 100% |  |
-| 126 | 0% | 73% |  |
-| 127 | 0% | 73% |  |
-| 128 | 0% | 73% |  |
-| 129 | 1.5% | 73% |  |
-| 130 | 0% | 71% |  |
-| 131 | 0% | 71% |  |
-| 132 | 0% | 71% |  |
-| 133 | 65% | 71% | Median |
-| 134 | 6% | 6% |  |
-| 135 | 0% | 0.1% |  |
-| 136 | 0% | 0.1% |  |
-| 137 | 0% | 0.1% |  |
-| 138 | 0.1% | 0.1% |  |
+| 123 | 0.1% | 100% |  |
+| 124 | 0% | 99.9% |  |
+| 125 | 0% | 99.9% |  |
+| 126 | 0% | 99.9% |  |
+| 127 | 0.1% | 99.9% |  |
+| 128 | 0% | 99.8% |  |
+| 129 | 0.2% | 99.8% |  |
+| 130 | 0% | 99.6% |  |
+| 131 | 0% | 99.6% |  |
+| 132 | 0% | 99.6% |  |
+| 133 | 0% | 99.6% |  |
+| 134 | 0% | 99.6% |  |
+| 135 | 0% | 99.6% |  |
+| 136 | 0% | 99.6% |  |
+| 137 | 99.6% | 99.6% | Median |
+| 138 | 0% | 0% |  |
 | 139 | 0% | 0% |  |
 | 140 | 0% | 0% |  |
 | 141 | 0% | 0% |  |
@@ -454,35 +446,32 @@
 
 ### Partido Popular – Ciudadanos–Partido de la Ciudadanía – Coalición Canaria–Partido Nacionalista Canario
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-coalitions-seats-pmf-pp–cs–cc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-coalitions-seats-pmf-pp–cs–cc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 107 | 6% | 100% |  |
-| 108 | 0% | 94% |  |
-| 109 | 0% | 94% |  |
-| 110 | 0.1% | 94% |  |
-| 111 | 27% | 94% |  |
-| 112 | 1.5% | 66% |  |
-| 113 | 0% | 65% |  |
-| 114 | 0% | 65% |  |
-| 115 | 0% | 65% |  |
-| 116 | 0% | 65% |  |
-| 117 | 0% | 65% |  |
-| 118 | 65% | 65% | Median |
-| 119 | 0% | 0% |  |
-| 120 | 0% | 0% |  |
-| 121 | 0% | 0% |  |
-| 122 | 0% | 0% |  |
-| 123 | 0% | 0% |  |
-| 124 | 0% | 0% |  |
-| 125 | 0% | 0% |  |
-| 126 | 0% | 0% |  |
-| 127 | 0% | 0% |  |
-| 128 | 0% | 0% |  |
-| 129 | 0% | 0% |  |
-| 130 | 0% | 0% |  |
-| 131 | 0% | 0% |  |
+| 110 | 0.1% | 100% |  |
+| 111 | 0% | 99.9% |  |
+| 112 | 0% | 99.9% |  |
+| 113 | 0% | 99.9% |  |
+| 114 | 0% | 99.9% |  |
+| 115 | 0% | 99.9% |  |
+| 116 | 0% | 99.9% |  |
+| 117 | 0% | 99.9% |  |
+| 118 | 0.1% | 99.9% |  |
+| 119 | 0% | 99.8% |  |
+| 120 | 0% | 99.8% |  |
+| 121 | 0.2% | 99.8% |  |
+| 122 | 0% | 99.6% |  |
+| 123 | 0% | 99.6% |  |
+| 124 | 0% | 99.6% |  |
+| 125 | 0% | 99.6% |  |
+| 126 | 0% | 99.6% |  |
+| 127 | 0% | 99.6% |  |
+| 128 | 0% | 99.6% |  |
+| 129 | 0% | 99.6% |  |
+| 130 | 0% | 99.6% |  |
+| 131 | 99.6% | 99.6% | Median |
 | 132 | 0% | 0% |  |
 | 133 | 0% | 0% |  |
 | 134 | 0% | 0% |  |
@@ -525,35 +514,32 @@
 
 ### Partido Popular – Ciudadanos–Partido de la Ciudadanía
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-coalitions-seats-pmf-pp–cs.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-coalitions-seats-pmf-pp–cs.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 107 | 6% | 100% |  |
-| 108 | 0% | 94% |  |
-| 109 | 0% | 94% |  |
-| 110 | 0.1% | 94% |  |
-| 111 | 27% | 94% |  |
-| 112 | 1.5% | 66% |  |
-| 113 | 0% | 65% |  |
-| 114 | 0% | 65% |  |
-| 115 | 0% | 65% |  |
-| 116 | 0% | 65% |  |
-| 117 | 0% | 65% |  |
-| 118 | 65% | 65% | Median |
-| 119 | 0% | 0% |  |
-| 120 | 0% | 0% |  |
-| 121 | 0% | 0% |  |
-| 122 | 0% | 0% |  |
-| 123 | 0% | 0% |  |
-| 124 | 0% | 0% |  |
-| 125 | 0% | 0% |  |
-| 126 | 0% | 0% |  |
-| 127 | 0% | 0% |  |
-| 128 | 0% | 0% |  |
-| 129 | 0% | 0% |  |
-| 130 | 0% | 0% |  |
-| 131 | 0% | 0% |  |
+| 110 | 0.1% | 100% |  |
+| 111 | 0% | 99.9% |  |
+| 112 | 0% | 99.9% |  |
+| 113 | 0% | 99.9% |  |
+| 114 | 0% | 99.9% |  |
+| 115 | 0% | 99.9% |  |
+| 116 | 0% | 99.9% |  |
+| 117 | 0% | 99.9% |  |
+| 118 | 0.1% | 99.9% |  |
+| 119 | 0% | 99.8% |  |
+| 120 | 0% | 99.8% |  |
+| 121 | 0.2% | 99.8% |  |
+| 122 | 0% | 99.6% |  |
+| 123 | 0% | 99.6% |  |
+| 124 | 0% | 99.6% |  |
+| 125 | 0% | 99.6% |  |
+| 126 | 0% | 99.6% |  |
+| 127 | 0% | 99.6% |  |
+| 128 | 0% | 99.6% |  |
+| 129 | 0% | 99.6% |  |
+| 130 | 0% | 99.6% |  |
+| 131 | 99.6% | 99.6% | Median |
 | 132 | 0% | 0% |  |
 | 133 | 0% | 0% |  |
 | 134 | 0% | 0% |  |
@@ -595,74 +581,63 @@
 
 ### Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía – Coalición Canaria–Partido Nacionalista Canario
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-coalitions-seats-pmf-psoe–cs–cc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-coalitions-seats-pmf-psoe–cs–cc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 108 | 27% | 100% |  |
-| 109 | 0% | 73% |  |
-| 110 | 0% | 73% |  |
-| 111 | 0% | 73% |  |
-| 112 | 0% | 73% |  |
-| 113 | 0% | 73% |  |
-| 114 | 6% | 73% |  |
-| 115 | 65% | 66% | Median |
-| 116 | 0% | 2% |  |
-| 117 | 0% | 2% |  |
-| 118 | 0% | 2% | Last Result |
-| 119 | 0% | 2% |  |
-| 120 | 0% | 2% |  |
-| 121 | 0% | 2% |  |
-| 122 | 0% | 2% |  |
-| 123 | 1.5% | 2% |  |
-| 124 | 0% | 0% |  |
+| 115 | 99.7% | 100% | Median |
+| 116 | 0% | 0.2% |  |
+| 117 | 0.2% | 0.2% |  |
+| 118 | 0% | 0.1% | Last Result |
+| 119 | 0% | 0.1% |  |
+| 120 | 0% | 0.1% |  |
+| 121 | 0% | 0.1% |  |
+| 122 | 0% | 0.1% |  |
+| 123 | 0% | 0.1% |  |
+| 124 | 0.1% | 0.1% |  |
+| 125 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-coalitions-seats-pmf-psoe–cs.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-coalitions-seats-pmf-psoe–cs.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 108 | 27% | 100% |  |
-| 109 | 0% | 73% |  |
-| 110 | 0% | 73% |  |
-| 111 | 0% | 73% |  |
-| 112 | 0% | 73% |  |
-| 113 | 0% | 73% |  |
-| 114 | 6% | 73% |  |
-| 115 | 65% | 66% | Median |
-| 116 | 0% | 2% |  |
-| 117 | 0% | 2% | Last Result |
-| 118 | 0% | 2% |  |
-| 119 | 0% | 2% |  |
-| 120 | 0% | 2% |  |
-| 121 | 0% | 2% |  |
-| 122 | 0% | 2% |  |
-| 123 | 1.5% | 2% |  |
-| 124 | 0% | 0% |  |
+| 115 | 99.7% | 100% | Median |
+| 116 | 0% | 0.2% |  |
+| 117 | 0.2% | 0.2% | Last Result |
+| 118 | 0% | 0.1% |  |
+| 119 | 0% | 0.1% |  |
+| 120 | 0% | 0.1% |  |
+| 121 | 0% | 0.1% |  |
+| 122 | 0% | 0.1% |  |
+| 123 | 0% | 0.1% |  |
+| 124 | 0.1% | 0.1% |  |
+| 125 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español – Unidos Podemos
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-coalitions-seats-pmf-psoe–up.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-coalitions-seats-pmf-psoe–up.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 90 | 0.1% | 100% |  |
-| 91 | 0% | 99.9% |  |
-| 92 | 0% | 99.9% |  |
-| 93 | 0% | 99.9% |  |
-| 94 | 0% | 99.9% |  |
-| 95 | 65% | 99.9% | Median |
-| 96 | 0% | 35% |  |
-| 97 | 0% | 35% |  |
-| 98 | 0% | 35% |  |
-| 99 | 6% | 35% |  |
-| 100 | 0% | 29% |  |
-| 101 | 0% | 29% |  |
-| 102 | 0% | 29% |  |
-| 103 | 1.5% | 29% |  |
-| 104 | 0% | 27% |  |
-| 105 | 27% | 27% |  |
+| 89 | 99.6% | 100% | Median |
+| 90 | 0% | 0.4% |  |
+| 91 | 0% | 0.4% |  |
+| 92 | 0% | 0.4% |  |
+| 93 | 0% | 0.4% |  |
+| 94 | 0% | 0.4% |  |
+| 95 | 0% | 0.4% |  |
+| 96 | 0% | 0.4% |  |
+| 97 | 0% | 0.4% |  |
+| 98 | 0% | 0.4% |  |
+| 99 | 0.1% | 0.4% |  |
+| 100 | 0% | 0.2% |  |
+| 101 | 0% | 0.2% |  |
+| 102 | 0% | 0.2% |  |
+| 103 | 0% | 0.2% |  |
+| 104 | 0.2% | 0.2% |  |
+| 105 | 0.1% | 0.1% |  |
 | 106 | 0% | 0% |  |
 | 107 | 0% | 0% |  |
 | 108 | 0% | 0% |  |
@@ -717,18 +692,24 @@
 
 ### Partido Popular – Vox
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-coalitions-seats-pmf-pp–vox.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-coalitions-seats-pmf-pp–vox.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 81 | 1.5% | 100% |  |
-| 82 | 0% | 98% |  |
-| 83 | 0% | 98% |  |
-| 84 | 65% | 98% | Median |
-| 85 | 27% | 34% |  |
-| 86 | 6% | 6% |  |
-| 87 | 0% | 0% |  |
-| 88 | 0% | 0% |  |
+| 75 | 0.1% | 100% |  |
+| 76 | 0% | 99.9% |  |
+| 77 | 0% | 99.9% |  |
+| 78 | 0.2% | 99.9% |  |
+| 79 | 0% | 99.8% |  |
+| 80 | 0% | 99.8% |  |
+| 81 | 0% | 99.8% |  |
+| 82 | 0.1% | 99.8% |  |
+| 83 | 0% | 99.6% |  |
+| 84 | 0% | 99.6% |  |
+| 85 | 0% | 99.6% |  |
+| 86 | 0% | 99.6% |  |
+| 87 | 0% | 99.6% |  |
+| 88 | 99.6% | 99.6% | Median |
 | 89 | 0% | 0% |  |
 | 90 | 0% | 0% |  |
 | 91 | 0% | 0% |  |
@@ -781,36 +762,31 @@
 
 ### Partido Popular
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 0.1% | 100% |  |
-| 58 | 0% | 99.9% |  |
-| 59 | 6% | 99.9% |  |
-| 60 | 0% | 94% |  |
-| 61 | 0% | 94% |  |
-| 62 | 0% | 94% |  |
-| 63 | 0% | 94% |  |
-| 64 | 1.5% | 94% |  |
-| 65 | 0% | 92% |  |
-| 66 | 0% | 92% |  |
-| 67 | 0% | 92% |  |
-| 68 | 0% | 92% |  |
-| 69 | 65% | 92% | Median |
-| 70 | 0% | 27% |  |
-| 71 | 27% | 27% |  |
-| 72 | 0% | 0% |  |
-| 73 | 0% | 0% |  |
-| 74 | 0% | 0% |  |
-| 75 | 0% | 0% |  |
-| 76 | 0% | 0% |  |
-| 77 | 0% | 0% |  |
-| 78 | 0% | 0% |  |
-| 79 | 0% | 0% |  |
-| 80 | 0% | 0% |  |
-| 81 | 0% | 0% |  |
-| 82 | 0% | 0% |  |
+| 62 | 0.1% | 100% |  |
+| 63 | 0% | 99.9% |  |
+| 64 | 0% | 99.9% |  |
+| 65 | 0% | 99.9% |  |
+| 66 | 0% | 99.9% |  |
+| 67 | 0% | 99.9% |  |
+| 68 | 0% | 99.9% |  |
+| 69 | 0% | 99.9% |  |
+| 70 | 0.2% | 99.9% |  |
+| 71 | 0% | 99.8% |  |
+| 72 | 0% | 99.8% |  |
+| 73 | 0.1% | 99.8% |  |
+| 74 | 0% | 99.6% |  |
+| 75 | 0% | 99.6% |  |
+| 76 | 0% | 99.6% |  |
+| 77 | 0% | 99.6% |  |
+| 78 | 0% | 99.6% |  |
+| 79 | 0% | 99.6% |  |
+| 80 | 0% | 99.6% |  |
+| 81 | 0% | 99.6% |  |
+| 82 | 99.6% | 99.6% | Median |
 | 83 | 0% | 0% |  |
 | 84 | 0% | 0% |  |
 | 85 | 0% | 0% |  |
@@ -869,25 +845,21 @@
 
 ### Partido Socialista Obrero Español – Coalición Canaria–Partido Nacionalista Canario
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-coalitions-seats-pmf-psoe–cc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-coalitions-seats-pmf-psoe–cc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 62 | 0.1% | 100% |  |
-| 63 | 0% | 99.9% |  |
-| 64 | 0% | 99.9% |  |
-| 65 | 0% | 99.9% |  |
-| 66 | 71% | 99.9% | Median |
-| 67 | 0% | 29% |  |
-| 68 | 27% | 29% |  |
-| 69 | 0% | 2% |  |
-| 70 | 0% | 2% |  |
-| 71 | 0% | 2% |  |
-| 72 | 0% | 2% |  |
-| 73 | 0% | 2% |  |
-| 74 | 0% | 2% |  |
-| 75 | 1.5% | 2% |  |
-| 76 | 0% | 0% |  |
+| 66 | 99.8% | 100% | Median |
+| 67 | 0% | 0.2% |  |
+| 68 | 0% | 0.2% |  |
+| 69 | 0% | 0.2% |  |
+| 70 | 0.1% | 0.2% |  |
+| 71 | 0% | 0.1% |  |
+| 72 | 0% | 0.1% |  |
+| 73 | 0% | 0.1% |  |
+| 74 | 0% | 0.1% |  |
+| 75 | 0% | 0.1% |  |
+| 76 | 0.1% | 0.1% |  |
 | 77 | 0% | 0% |  |
 | 78 | 0% | 0% |  |
 | 79 | 0% | 0% |  |
@@ -901,25 +873,21 @@
 
 ### Partido Socialista Obrero Español
 
-![Graph with seats probability mass function not yet produced](2019-02-08-Celeste-Tel-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-11-Celeste-Tel-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 62 | 0.1% | 100% |  |
-| 63 | 0% | 99.9% |  |
-| 64 | 0% | 99.9% |  |
-| 65 | 0% | 99.9% |  |
-| 66 | 71% | 99.9% | Median |
-| 67 | 0% | 29% |  |
-| 68 | 27% | 29% |  |
-| 69 | 0% | 2% |  |
-| 70 | 0% | 2% |  |
-| 71 | 0% | 2% |  |
-| 72 | 0% | 2% |  |
-| 73 | 0% | 2% |  |
-| 74 | 0% | 2% |  |
-| 75 | 1.5% | 2% |  |
-| 76 | 0% | 0% |  |
+| 66 | 99.8% | 100% | Median |
+| 67 | 0% | 0.2% |  |
+| 68 | 0% | 0.2% |  |
+| 69 | 0% | 0.2% |  |
+| 70 | 0.1% | 0.2% |  |
+| 71 | 0% | 0.1% |  |
+| 72 | 0% | 0.1% |  |
+| 73 | 0% | 0.1% |  |
+| 74 | 0% | 0.1% |  |
+| 75 | 0% | 0.1% |  |
+| 76 | 0.1% | 0.1% |  |
 | 77 | 0% | 0% |  |
 | 78 | 0% | 0% |  |
 | 79 | 0% | 0% |  |
@@ -937,11 +905,11 @@
 
 + **Polling firm:** Celeste-Tel
 + **Commissioner(s):** eldiario.es
-+ **Fieldwork period:** 4–8 February 2019
++ **Fieldwork period:** 3–11 December 2018
 
 ### Calculations
 
 + **Sample size:** 1100
 + **Simulations done:** 1,024
-+ **Error estimate:** 4.40%
++ **Error estimate:** 3.73%
 

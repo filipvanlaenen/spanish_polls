@@ -33,14 +33,14 @@ Last result: **13.1%** (General Election of 26 June 2016)
 | [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 19.4% | 17.9–21.0% | 17.5–21.4% | 17.1–21.8% | 16.4–22.6% |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 22.9% | 21.4–24.5% | 21.0–25.0% | 20.6–25.4% | 19.9–26.2% |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 21.4% | 20.1–22.8% | 19.7–23.2% | 19.4–23.5% | 18.8–24.2% |
-| [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 22.4% | N/A | N/A | N/A | N/A |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 19.9% | N/A | N/A | N/A | N/A |
-| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 20.4% | N/A | N/A | N/A | N/A |
-| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 21.8% | N/A | N/A | N/A | N/A |
-| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 21.9% | N/A | N/A | N/A | N/A |
-| [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 19.2% | N/A | N/A | N/A | N/A |
-| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 19.5% | N/A | N/A | N/A | N/A |
-| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 21.0% | N/A | N/A | N/A | N/A |
+| [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 22.4% | 20.8–24.1% | 20.3–24.6% | 19.9–25.0% | 19.2–25.9% |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 19.9% | 18.4–21.6% | 17.9–22.1% | 17.5–22.5% | 16.8–23.3% |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 20.4% | 18.9–22.0% | 18.4–22.5% | 18.1–22.8% | 17.4–23.7% |
+| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 21.8% | 20.2–23.7% | 19.7–24.2% | 19.3–24.6% | 18.5–25.5% |
+| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 21.9% | 20.3–23.6% | 19.9–24.1% | 19.5–24.5% | 18.7–25.4% |
+| [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 19.2% | 18.0–20.5% | 17.6–20.9% | 17.3–21.2% | 16.8–21.9% |
+| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 19.5% | 18.0–21.2% | 17.5–21.7% | 17.2–22.1% | 16.4–22.9% |
+| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 21.0% | 20.0–22.0% | 19.8–22.3% | 19.6–22.5% | 19.1–23.0% |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 21.6% | N/A | N/A | N/A | N/A |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 19.3% | N/A | N/A | N/A | N/A |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 23.1% | N/A | N/A | N/A | N/A |
@@ -134,37 +134,37 @@ Last result: **32** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) |  | 6–13 | 6–14 | 5–14 | 3–15 |
-| [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 8 | 8 | 8–9 | 8–14 | 6–14 |
-| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 10–14 | 10–15 | 10–15 | 10–15 |
-| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13 | 12–13 | 11–13 | 11–13 |
-| [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 13 | 13 | 13 | 9–13 | 8–13 |
-| [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 11 | 7–14 | 7–14 | 7–14 | 7–14 |
-| [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 7 | 7–11 | 7–11 | 7–13 | 7–13 |
-| [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13 | 13 | 11–13 | 10–13 |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 13 | 13 | 13 | 13 | 13 |
-| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 8 | 8–13 | 7–14 | 7–14 | 7–14 |
-| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 10–17 | 10–17 | 9–17 | 8–17 |
-| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 13–15 | 13–15 | 13–15 | 6–15 |
-| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 8–17 | 6–17 | 6–17 | 6–17 |
-| [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 6 | 6–15 | 6–15 | 6–15 | 6–15 |
-| [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 11–14 | 11–14 | 11–14 | 11–14 |
-| [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 14 | 12–14 | 12–14 | 11–14 | 11–14 |
-| [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 15 | 15 | 15 | 15 | 12–15 |
-| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 7 | 7 | 7 | 7 | 6–7 |
-| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 42 | 42 | 42 | 33–42 | 29–42 |
-| [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 6 | 6 | 6 | 6 | 6 |
-| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 6 | 6 | 6 | 6 |
-| [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 6 | 6 | 6 | 6 | 6 |
-| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7 | 7 | 6–7 | 6–7 |
-| [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
-| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
-| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
-| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [1–9 October 2018](2018-10-09-CIS.html) | CIS |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 47 | 40–61 | 38–62 | 37–62 | 36–62 |
+| [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 41 | 41 | 40–41 | 40–53 | 34–54 |
+| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 49 | 40–49 | 40–49 | 40–49 | 40–49 |
+| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 48 | 48–51 | 47–53 | 44–53 | 44–54 |
+| [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 44 | 44 | 44 | 41–44 | 38–44 |
+| [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 43 | 36–50 | 36–50 | 36–50 | 36–50 |
+| [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 38 | 38–44 | 38–44 | 38–49 | 38–49 |
+| [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 50 | 49–50 | 48–52 | 45–52 | 43–52 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 47 | 47 | 47 | 47 | 47 |
+| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 39 | 38–51 | 38–54 | 37–54 | 37–55 |
+| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 38 | 38–54 | 38–54 | 38–57 | 36–57 |
+| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 46 | 43–46 | 43–46 | 43–46 | 36–46 |
+| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 48 | 38–59 | 37–59 | 37–59 | 37–59 |
+| [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 39 | 39–53 | 39–53 | 38–55 | 34–55 |
+| [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 48 | 46–48 | 46–48 | 46–48 | 45–48 |
+| [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 49 | 48–51 | 48–51 | 43–52 | 42–56 |
+| [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 49 | 49 | 49 | 49 | 43–49 |
+| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 73 | 73 | 73 | 73 | 54–73 |
+| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 62 | 62 | 62 | 49–62 | 42–62 |
+| [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 48 | 47–55 | 47–55 | 47–55 | 47–59 |
+| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 49 | 49 | 49 | 49 | 49 |
+| [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 61 | 58–61 | 51–62 | 51–71 | 48–71 |
+| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 55 | 55 | 55 | 55–60 | 52–62 |
+| [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 57 | 57–59 | 56–64 | 56–68 | 50–75 |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 48 | 48 | 48 | 48–51 | 45–61 |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 54 | 54 | 44–54 | 44–60 | 43–60 |
+| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 51 | 51–59 | 51–59 | 49–59 | 45–61 |
+| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 53 | 53–66 | 52–66 | 52–66 | 44–66 |
+| [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 51 | 44–52 | 44–52 | 44–52 | 42–54 |
+| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 49 | 49 | 41–49 | 41–56 | 38–56 |
+| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 50 | 50 | 50 | 50 | 50 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es |  |  |  |  |  |
@@ -232,4 +232,49 @@ Last result: **32** seats (General Election of 26 June 2016)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-ciudadanos–partidodelaciudadanía.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for Ciudadanos–Partido de la Ciudadanía.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 32 | 0% | 100% | Last Result |
+| 33 | 0% | 100% |  |
+| 34 | 0.1% | 100% |  |
+| 35 | 0.1% | 99.9% |  |
+| 36 | 2% | 99.8% |  |
+| 37 | 0.8% | 98% |  |
+| 38 | 6% | 97% |  |
+| 39 | 0.1% | 91% |  |
+| 40 | 3% | 91% |  |
+| 41 | 9% | 88% |  |
+| 42 | 1.3% | 80% |  |
+| 43 | 9% | 78% |  |
+| 44 | 10% | 69% |  |
+| 45 | 3% | 60% |  |
+| 46 | 7% | 57% |  |
+| 47 | 9% | 50% | Median |
+| 48 | 6% | 41% |  |
+| 49 | 6% | 34% |  |
+| 50 | 1.3% | 28% |  |
+| 51 | 4% | 27% |  |
+| 52 | 0.3% | 23% |  |
+| 53 | 0.9% | 22% |  |
+| 54 | 0.8% | 22% |  |
+| 55 | 2% | 21% |  |
+| 56 | 0.2% | 19% |  |
+| 57 | 0.1% | 18% |  |
+| 58 | 1.1% | 18% |  |
+| 59 | 1.3% | 17% |  |
+| 60 | 2% | 16% |  |
+| 61 | 5% | 14% |  |
+| 62 | 9% | 9% |  |
+| 63 | 0% | 0.5% |  |
+| 64 | 0% | 0.5% |  |
+| 65 | 0% | 0.5% |  |
+| 66 | 0% | 0.5% |  |
+| 67 | 0% | 0.5% |  |
+| 68 | 0% | 0.4% |  |
+| 69 | 0% | 0.4% |  |
+| 70 | 0% | 0.4% |  |
+| 71 | 0.4% | 0.4% |  |
+| 72 | 0% | 0% |  |
+
 

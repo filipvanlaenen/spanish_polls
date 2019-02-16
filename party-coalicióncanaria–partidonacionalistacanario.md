@@ -34,13 +34,13 @@ Last result: **0.3%** (General Election of 26 June 2016)
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 0.3% | N/A | N/A | N/A | N/A |
-| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.3% | N/A | N/A | N/A | N/A |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
-| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 0.3% | N/A | N/A | N/A | N/A |
+| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 0.3% | 0.2–0.7% | 0.1–0.7% | 0.1–0.9% | 0.1–1.1% |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
-| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 0.3% | N/A | N/A | N/A | N/A |
-| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 0.1% | N/A | N/A | N/A | N/A |
+| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 0.1% | 0.0–0.2% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.3% | N/A | N/A | N/A | N/A |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 0.0% | N/A | N/A | N/A | N/A |
@@ -122,7 +122,7 @@ Last result: **1** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) |  | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
@@ -146,13 +146,13 @@ Last result: **1** seats (General Election of 26 June 2016)
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0 | 0 |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
-| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
-| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [1–9 October 2018](2018-10-09-CIS.html) | CIS |  |  |  |  |  |
+| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0 | 0 |
+| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es |  |  |  |  |  |
@@ -220,4 +220,10 @@ Last result: **1** seats (General Election of 26 June 2016)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-coalicióncanaria–partidonacionalistacanario.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for Coalición Canaria–Partido Nacionalista Canario.
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Median |
+| 1 | 0% | 0% | Last Result |
+
 

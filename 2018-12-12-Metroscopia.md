@@ -1,62 +1,64 @@
-# Opinion Poll by Metroscopia for Henneo, 9–15 January 2019
+# Opinion Poll by Metroscopia for Henneo, 10–12 December 2018
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](2019-01-15-Metroscopia.png "Voting Intentions")
+![Graph with voting intentions not yet produced](2018-12-12-Metroscopia.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español | 22.6% | 23.7% | 22.6–24.9% |22.3–25.2% |22.0–25.5% |21.5–26.0% |
-| Partido Popular | 33.0% | 19.1% | 18.1–20.2% |17.8–20.5% |17.5–20.7% |17.1–21.3% |
-| Ciudadanos–Partido de la Ciudadanía | 13.1% | 17.8% | 16.8–18.9% |16.5–19.1% |16.3–19.4% |15.8–19.9% |
-| Unidos Podemos | 21.2% | 17.1% | 16.1–18.2% |15.9–18.4% |15.6–18.7% |15.2–19.2% |
-| Vox | 0.2% | 12.1% | 11.3–13.0% |11.0–13.3% |10.8–13.5% |10.4–13.9% |
+| Partido Socialista Obrero Español | 22.6% | 22.2% | 21.0–23.5% |20.7–23.8% |20.4–24.2% |19.8–24.8% |
+| Ciudadanos–Partido de la Ciudadanía | 13.1% | 20.5% | 19.3–21.7% |19.0–22.1% |18.7–22.4% |18.2–23.0% |
+| Partido Popular | 33.0% | 18.0% | 16.9–19.2% |16.6–19.5% |16.3–19.8% |15.8–20.4% |
+| Unidos Podemos | 21.2% | 17.9% | 16.8–19.1% |16.5–19.4% |16.2–19.7% |15.7–20.3% |
+| Vox | 0.2% | 11.5% | 10.6–12.5% |10.3–12.8% |10.1–13.0% |9.7–13.5% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 
-![Graph with seats not yet produced](2019-01-15-Metroscopia-seats.png "Seats")
+![Graph with seats not yet produced](2018-12-12-Metroscopia-seats.png "Seats")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-obrero-español">Partido Socialista Obrero Español</a> | 85 | 69 | 63–70 |63–70 |62–72 |61–72 |
-| <a href="#partido-popular">Partido Popular</a> | 137 | 54 | 47–55 |47–58 |47–58 |47–59 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía">Ciudadanos–Partido de la Ciudadanía</a> | 32 | 38 | 38–44 |38–44 |38–49 |38–49 |
-| <a href="#unidos-podemos">Unidos Podemos</a> | 71 | 37 | 33–38 |33–39 |32–39 |32–45 |
-| <a href="#vox">Vox</a> | 0 | 30 | 29–33 |28–33 |27–35 |25–36 |
+| <a href="#partido-socialista-obrero-español">Partido Socialista Obrero Español</a> | 85 | 64 | 61–66 |61–66 |61–67 |58–67 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía">Ciudadanos–Partido de la Ciudadanía</a> | 32 | 48 | 47–55 |47–55 |47–55 |47–59 |
+| <a href="#partido-popular">Partido Popular</a> | 137 | 53 | 51–54 |50–54 |50–54 |42–58 |
+| <a href="#unidos-podemos">Unidos Podemos</a> | 71 | 35 | 33–36 |33–36 |33–36 |33–48 |
+| <a href="#vox">Vox</a> | 0 | 28 | 27–30 |27–32 |26–32 |22–33 |
 
 ### Partido Socialista Obrero Español
 
 *For a full overview of the results for this party, see the [Partido Socialista Obrero Español](party-partidosocialistaobreroespañol.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-01-15-Metroscopia-seats-pmf-partidosocialistaobreroespañol.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-12-Metroscopia-seats-pmf-partidosocialistaobreroespañol.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 59 | 0.1% | 100% |  |
-| 60 | 0.2% | 99.9% |  |
-| 61 | 2% | 99.7% |  |
-| 62 | 2% | 98% |  |
-| 63 | 8% | 96% |  |
-| 64 | 0.1% | 88% |  |
-| 65 | 0% | 88% |  |
-| 66 | 0% | 88% |  |
-| 67 | 0.1% | 88% |  |
-| 68 | 1.1% | 88% |  |
-| 69 | 75% | 87% | Median |
-| 70 | 9% | 12% |  |
-| 71 | 0% | 4% |  |
-| 72 | 3% | 4% |  |
-| 73 | 0% | 0.3% |  |
-| 74 | 0.1% | 0.3% |  |
-| 75 | 0.2% | 0.2% |  |
+| 57 | 0.2% | 100% |  |
+| 58 | 0.4% | 99.8% |  |
+| 59 | 0.1% | 99.3% |  |
+| 60 | 0.2% | 99.2% |  |
+| 61 | 31% | 99.0% |  |
+| 62 | 0.6% | 68% |  |
+| 63 | 9% | 67% |  |
+| 64 | 47% | 58% | Median |
+| 65 | 0.4% | 11% |  |
+| 66 | 9% | 11% |  |
+| 67 | 3% | 3% |  |
+| 68 | 0% | 0% |  |
+| 69 | 0% | 0% |  |
+| 70 | 0% | 0% |  |
+| 71 | 0% | 0% |  |
+| 72 | 0% | 0% |  |
+| 73 | 0% | 0% |  |
+| 74 | 0% | 0% |  |
+| 75 | 0% | 0% |  |
 | 76 | 0% | 0% |  |
 | 77 | 0% | 0% |  |
 | 78 | 0% | 0% |  |
@@ -68,28 +70,73 @@
 | 84 | 0% | 0% |  |
 | 85 | 0% | 0% | Last Result |
 
+### Ciudadanos–Partido de la Ciudadanía
+
+*For a full overview of the results for this party, see the [Ciudadanos–Partido de la Ciudadanía](party-ciudadanos–partidodelaciudadanía.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-12-12-Metroscopia-seats-pmf-ciudadanos–partidodelaciudadanía.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 32 | 0% | 100% | Last Result |
+| 33 | 0% | 100% |  |
+| 34 | 0% | 100% |  |
+| 35 | 0% | 100% |  |
+| 36 | 0% | 100% |  |
+| 37 | 0% | 100% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0% | 100% |  |
+| 42 | 0% | 100% |  |
+| 43 | 0% | 100% |  |
+| 44 | 0% | 100% |  |
+| 45 | 0% | 100% |  |
+| 46 | 0.1% | 99.9% |  |
+| 47 | 11% | 99.8% |  |
+| 48 | 56% | 88% | Median |
+| 49 | 0.3% | 33% |  |
+| 50 | 0% | 32% |  |
+| 51 | 0% | 32% |  |
+| 52 | 0.7% | 32% |  |
+| 53 | 2% | 32% |  |
+| 54 | 13% | 30% |  |
+| 55 | 16% | 17% |  |
+| 56 | 0% | 0.7% |  |
+| 57 | 0.2% | 0.7% |  |
+| 58 | 0% | 0.6% |  |
+| 59 | 0.5% | 0.6% |  |
+| 60 | 0.1% | 0.1% |  |
+| 61 | 0% | 0% |  |
+
 ### Partido Popular
 
 *For a full overview of the results for this party, see the [Partido Popular](party-partidopopular.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-01-15-Metroscopia-seats-pmf-partidopopular.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-12-Metroscopia-seats-pmf-partidopopular.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 47 | 20% | 100% |  |
-| 48 | 2% | 80% |  |
-| 49 | 2% | 79% |  |
-| 50 | 0% | 77% |  |
-| 51 | 2% | 77% |  |
-| 52 | 10% | 75% |  |
-| 53 | 0% | 65% |  |
-| 54 | 54% | 65% | Median |
-| 55 | 2% | 11% |  |
-| 56 | 2% | 9% |  |
-| 57 | 0.2% | 7% |  |
-| 58 | 6% | 7% |  |
-| 59 | 1.3% | 1.4% |  |
-| 60 | 0% | 0.1% |  |
+| 41 | 0.2% | 100% |  |
+| 42 | 0.4% | 99.8% |  |
+| 43 | 0.1% | 99.3% |  |
+| 44 | 0% | 99.2% |  |
+| 45 | 0% | 99.2% |  |
+| 46 | 0.2% | 99.2% |  |
+| 47 | 0% | 98.9% |  |
+| 48 | 0% | 98.9% |  |
+| 49 | 0% | 98.9% |  |
+| 50 | 9% | 98.9% |  |
+| 51 | 3% | 90% |  |
+| 52 | 16% | 88% |  |
+| 53 | 53% | 72% | Median |
+| 54 | 17% | 19% |  |
+| 55 | 0.3% | 2% |  |
+| 56 | 0% | 1.5% |  |
+| 57 | 0% | 1.5% |  |
+| 58 | 1.5% | 1.5% |  |
+| 59 | 0% | 0% |  |
+| 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
@@ -168,65 +215,33 @@
 | 136 | 0% | 0% |  |
 | 137 | 0% | 0% | Last Result |
 
-### Ciudadanos–Partido de la Ciudadanía
-
-*For a full overview of the results for this party, see the [Ciudadanos–Partido de la Ciudadanía](party-ciudadanos–partidodelaciudadanía.html) page.*
-
-![Graph with seats probability mass function not yet produced](2019-01-15-Metroscopia-seats-pmf-ciudadanos–partidodelaciudadanía.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 32 | 0% | 100% | Last Result |
-| 33 | 0% | 100% |  |
-| 34 | 0% | 100% |  |
-| 35 | 0% | 100% |  |
-| 36 | 0.2% | 100% |  |
-| 37 | 0% | 99.8% |  |
-| 38 | 62% | 99.8% | Median |
-| 39 | 0.4% | 38% |  |
-| 40 | 2% | 37% |  |
-| 41 | 3% | 35% |  |
-| 42 | 0.1% | 32% |  |
-| 43 | 20% | 32% |  |
-| 44 | 7% | 12% |  |
-| 45 | 0% | 5% |  |
-| 46 | 2% | 5% |  |
-| 47 | 0% | 3% |  |
-| 48 | 0.2% | 3% |  |
-| 49 | 2% | 3% |  |
-| 50 | 0.1% | 0.1% |  |
-| 51 | 0% | 0% |  |
-
 ### Unidos Podemos
 
 *For a full overview of the results for this party, see the [Unidos Podemos](party-unidospodemos.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-01-15-Metroscopia-seats-pmf-unidospodemos.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-12-Metroscopia-seats-pmf-unidospodemos.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 30 | 0.1% | 100% |  |
-| 31 | 0.4% | 99.9% |  |
-| 32 | 3% | 99.5% |  |
-| 33 | 9% | 96% |  |
-| 34 | 0% | 87% |  |
-| 35 | 2% | 87% |  |
-| 36 | 19% | 85% |  |
-| 37 | 42% | 66% | Median |
-| 38 | 14% | 24% |  |
-| 39 | 8% | 9% |  |
-| 40 | 0.3% | 1.3% |  |
-| 41 | 0% | 1.0% |  |
-| 42 | 0% | 0.9% |  |
-| 43 | 0% | 0.9% |  |
-| 44 | 0% | 0.9% |  |
-| 45 | 0.8% | 0.9% |  |
-| 46 | 0% | 0.1% |  |
-| 47 | 0% | 0.1% |  |
-| 48 | 0% | 0.1% |  |
-| 49 | 0% | 0% |  |
-| 50 | 0% | 0% |  |
-| 51 | 0% | 0% |  |
+| 33 | 31% | 100% |  |
+| 34 | 12% | 69% |  |
+| 35 | 18% | 57% | Median |
+| 36 | 38% | 39% |  |
+| 37 | 0% | 1.2% |  |
+| 38 | 0% | 1.1% |  |
+| 39 | 0.4% | 1.1% |  |
+| 40 | 0% | 0.7% |  |
+| 41 | 0% | 0.7% |  |
+| 42 | 0% | 0.7% |  |
+| 43 | 0% | 0.7% |  |
+| 44 | 0% | 0.7% |  |
+| 45 | 0% | 0.7% |  |
+| 46 | 0% | 0.7% |  |
+| 47 | 0% | 0.7% |  |
+| 48 | 0.3% | 0.7% |  |
+| 49 | 0.1% | 0.3% |  |
+| 50 | 0.1% | 0.2% |  |
+| 51 | 0.2% | 0.2% |  |
 | 52 | 0% | 0% |  |
 | 53 | 0% | 0% |  |
 | 54 | 0% | 0% |  |
@@ -252,7 +267,7 @@
 
 *For a full overview of the results for this party, see the [Vox](party-vox.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-01-15-Metroscopia-seats-pmf-vox.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-12-Metroscopia-seats-pmf-vox.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -272,78 +287,76 @@
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0% | 100% |  |
-| 18 | 0% | 100% |  |
-| 19 | 0% | 100% |  |
-| 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 0% | 100% |  |
-| 24 | 0.1% | 100% |  |
-| 25 | 0.9% | 99.9% |  |
-| 26 | 0.2% | 98.9% |  |
-| 27 | 2% | 98.8% |  |
-| 28 | 4% | 97% |  |
-| 29 | 23% | 94% |  |
-| 30 | 45% | 71% | Median |
-| 31 | 0.6% | 25% |  |
-| 32 | 0% | 25% |  |
-| 33 | 20% | 25% |  |
-| 34 | 2% | 5% |  |
-| 35 | 1.4% | 3% |  |
-| 36 | 2% | 2% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 0.1% | 99.9% |  |
+| 18 | 0.1% | 99.9% |  |
+| 19 | 0% | 99.7% |  |
+| 20 | 0% | 99.7% |  |
+| 21 | 0% | 99.7% |  |
+| 22 | 0.2% | 99.7% |  |
+| 23 | 0.3% | 99.5% |  |
+| 24 | 0.2% | 99.2% |  |
+| 25 | 1.5% | 99.0% |  |
+| 26 | 0.2% | 98% |  |
+| 27 | 29% | 97% |  |
+| 28 | 57% | 69% | Median |
+| 29 | 0% | 12% |  |
+| 30 | 3% | 12% |  |
+| 31 | 0% | 9% |  |
+| 32 | 9% | 9% |  |
+| 33 | 0.2% | 0.6% |  |
+| 34 | 0% | 0.4% |  |
+| 35 | 0% | 0.4% |  |
+| 36 | 0.3% | 0.3% |  |
 | 37 | 0% | 0% |  |
 
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](2019-01-15-Metroscopia-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](2018-12-12-Metroscopia-coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Vox | 169 | 122 | 0% | 121–130 | 119–132 | 119–132 | 119–132 |
-| Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía | 117 | 107 | 0% | 107–112 | 107–113 | 107–116 | 102–118 |
-| Partido Socialista Obrero Español – Unidos Podemos | 156 | 106 | 0% | 98–107 | 96–109 | 96–109 | 96–109 |
-| Partido Popular – Ciudadanos–Partido de la Ciudadanía | 169 | 92 | 0% | 90–100 | 90–102 | 90–102 | 89–104 |
-| Partido Popular – Vox | 137 | 84 | 0% | 80–84 | 80–88 | 79–88 | 77–91 |
-| Partido Socialista Obrero Español | 85 | 69 | 0% | 63–70 | 63–70 | 62–72 | 61–72 |
-| Partido Popular | 137 | 54 | 0% | 47–55 | 47–58 | 47–58 | 47–59 |
+| Ciudadanos–Partido de la Ciudadanía – Partido Popular – Vox | 169 | 129 | 0% | 129–134 | 129–134 | 128–134 | 119–137 |
+| Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía | 117 | 112 | 0% | 112–116 | 111–116 | 111–116 | 109–117 |
+| Ciudadanos–Partido de la Ciudadanía – Partido Popular | 169 | 101 | 0% | 98–107 | 97–107 | 97–107 | 94–107 |
+| Partido Socialista Obrero Español – Unidos Podemos | 156 | 99 | 0% | 94–100 | 94–100 | 94–101 | 92–109 |
+| Partido Popular – Vox | 137 | 81 | 0% | 79–82 | 79–82 | 79–82 | 67–83 |
+| Partido Socialista Obrero Español | 85 | 64 | 0% | 61–66 | 61–66 | 61–67 | 58–67 |
+| Partido Popular | 137 | 53 | 0% | 51–54 | 50–54 | 50–54 | 42–58 |
 
-### Partido Popular – Ciudadanos–Partido de la Ciudadanía – Vox
+### Ciudadanos–Partido de la Ciudadanía – Partido Popular – Vox
 
-![Graph with seats probability mass function not yet produced](2019-01-15-Metroscopia-coalitions-seats-pmf-pp–cs–vox.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-12-Metroscopia-coalitions-seats-pmf-cs–pp–vox.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 114 | 0% | 100% |  |
-| 115 | 0% | 99.9% |  |
-| 116 | 0% | 99.9% |  |
-| 117 | 0% | 99.9% |  |
-| 118 | 0.3% | 99.9% |  |
-| 119 | 8% | 99.6% |  |
-| 120 | 0.8% | 91% |  |
-| 121 | 15% | 91% |  |
-| 122 | 40% | 76% | Median |
-| 123 | 19% | 36% |  |
-| 124 | 3% | 17% |  |
-| 125 | 0% | 13% |  |
-| 126 | 0% | 13% |  |
-| 127 | 1.4% | 13% |  |
-| 128 | 1.0% | 12% |  |
-| 129 | 0% | 11% |  |
-| 130 | 2% | 11% |  |
-| 131 | 2% | 9% |  |
-| 132 | 7% | 7% |  |
-| 133 | 0% | 0.3% |  |
-| 134 | 0% | 0.2% |  |
-| 135 | 0% | 0.2% |  |
-| 136 | 0% | 0.2% |  |
-| 137 | 0% | 0.2% |  |
+| 116 | 0.1% | 100% |  |
+| 117 | 0.1% | 99.9% |  |
+| 118 | 0% | 99.8% |  |
+| 119 | 0.3% | 99.8% |  |
+| 120 | 0% | 99.5% |  |
+| 121 | 0.1% | 99.5% |  |
+| 122 | 0.1% | 99.4% |  |
+| 123 | 0% | 99.3% |  |
+| 124 | 0% | 99.3% |  |
+| 125 | 0% | 99.3% |  |
+| 126 | 0% | 99.3% |  |
+| 127 | 0% | 99.3% |  |
+| 128 | 3% | 99.3% |  |
+| 129 | 46% | 96% | Median |
+| 130 | 17% | 50% |  |
+| 131 | 1.2% | 33% |  |
+| 132 | 0.2% | 32% |  |
+| 133 | 0% | 31% |  |
+| 134 | 31% | 31% |  |
+| 135 | 0.2% | 0.7% |  |
+| 136 | 0% | 0.6% |  |
+| 137 | 0.3% | 0.5% |  |
 | 138 | 0.2% | 0.2% |  |
-| 139 | 0% | 0% |  |
+| 139 | 0.1% | 0.1% |  |
 | 140 | 0% | 0% |  |
 | 141 | 0% | 0% |  |
 | 142 | 0% | 0% |  |
@@ -377,62 +390,138 @@
 
 ### Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía
 
-![Graph with seats probability mass function not yet produced](2019-01-15-Metroscopia-coalitions-seats-pmf-psoe–cs.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-12-Metroscopia-coalitions-seats-pmf-psoe–cs.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 102 | 2% | 100% |  |
-| 103 | 0.1% | 98% |  |
-| 104 | 0% | 98% |  |
-| 105 | 0% | 98% |  |
-| 106 | 0.8% | 98% |  |
-| 107 | 62% | 98% | Median |
-| 108 | 9% | 35% |  |
-| 109 | 0.1% | 26% |  |
-| 110 | 0.1% | 26% |  |
-| 111 | 0.2% | 26% |  |
-| 112 | 20% | 25% |  |
-| 113 | 3% | 6% |  |
-| 114 | 0% | 3% |  |
-| 115 | 0% | 3% |  |
-| 116 | 0.1% | 3% |  |
-| 117 | 1.0% | 2% | Last Result |
-| 118 | 1.4% | 1.5% |  |
-| 119 | 0% | 0.1% |  |
-| 120 | 0% | 0.1% |  |
+| 108 | 0.4% | 100% |  |
+| 109 | 0.1% | 99.5% |  |
+| 110 | 0.4% | 99.5% |  |
+| 111 | 9% | 99.0% |  |
+| 112 | 47% | 90% | Median |
+| 113 | 9% | 43% |  |
+| 114 | 5% | 35% |  |
+| 115 | 13% | 30% |  |
+| 116 | 16% | 17% |  |
+| 117 | 0.7% | 0.8% | Last Result |
+| 118 | 0.1% | 0.1% |  |
+| 119 | 0% | 0% |  |
+
+### Ciudadanos–Partido de la Ciudadanía – Partido Popular
+
+![Graph with seats probability mass function not yet produced](2018-12-12-Metroscopia-coalitions-seats-pmf-cs–pp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 93 | 0.2% | 100% |  |
+| 94 | 0.4% | 99.7% |  |
+| 95 | 0.1% | 99.3% |  |
+| 96 | 0.2% | 99.2% |  |
+| 97 | 8% | 99.0% |  |
+| 98 | 3% | 91% |  |
+| 99 | 0% | 88% |  |
+| 100 | 0.4% | 88% |  |
+| 101 | 38% | 88% | Median |
+| 102 | 17% | 50% |  |
+| 103 | 0% | 33% |  |
+| 104 | 0% | 33% |  |
+| 105 | 0.3% | 33% |  |
+| 106 | 3% | 33% |  |
+| 107 | 29% | 29% |  |
+| 108 | 0% | 0.5% |  |
+| 109 | 0% | 0.5% |  |
+| 110 | 0% | 0.5% |  |
+| 111 | 0.2% | 0.5% |  |
+| 112 | 0% | 0.3% |  |
+| 113 | 0% | 0.3% |  |
+| 114 | 0.3% | 0.3% |  |
+| 115 | 0% | 0% |  |
+| 116 | 0% | 0% |  |
+| 117 | 0% | 0% |  |
+| 118 | 0% | 0% |  |
+| 119 | 0% | 0% |  |
+| 120 | 0% | 0% |  |
 | 121 | 0% | 0% |  |
+| 122 | 0% | 0% |  |
+| 123 | 0% | 0% |  |
+| 124 | 0% | 0% |  |
+| 125 | 0% | 0% |  |
+| 126 | 0% | 0% |  |
+| 127 | 0% | 0% |  |
+| 128 | 0% | 0% |  |
+| 129 | 0% | 0% |  |
+| 130 | 0% | 0% |  |
+| 131 | 0% | 0% |  |
+| 132 | 0% | 0% |  |
+| 133 | 0% | 0% |  |
+| 134 | 0% | 0% |  |
+| 135 | 0% | 0% |  |
+| 136 | 0% | 0% |  |
+| 137 | 0% | 0% |  |
+| 138 | 0% | 0% |  |
+| 139 | 0% | 0% |  |
+| 140 | 0% | 0% |  |
+| 141 | 0% | 0% |  |
+| 142 | 0% | 0% |  |
+| 143 | 0% | 0% |  |
+| 144 | 0% | 0% |  |
+| 145 | 0% | 0% |  |
+| 146 | 0% | 0% |  |
+| 147 | 0% | 0% |  |
+| 148 | 0% | 0% |  |
+| 149 | 0% | 0% |  |
+| 150 | 0% | 0% |  |
+| 151 | 0% | 0% |  |
+| 152 | 0% | 0% |  |
+| 153 | 0% | 0% |  |
+| 154 | 0% | 0% |  |
+| 155 | 0% | 0% |  |
+| 156 | 0% | 0% |  |
+| 157 | 0% | 0% |  |
+| 158 | 0% | 0% |  |
+| 159 | 0% | 0% |  |
+| 160 | 0% | 0% |  |
+| 161 | 0% | 0% |  |
+| 162 | 0% | 0% |  |
+| 163 | 0% | 0% |  |
+| 164 | 0% | 0% |  |
+| 165 | 0% | 0% |  |
+| 166 | 0% | 0% |  |
+| 167 | 0% | 0% |  |
+| 168 | 0% | 0% |  |
+| 169 | 0% | 0% | Last Result |
 
 ### Partido Socialista Obrero Español – Unidos Podemos
 
-![Graph with seats probability mass function not yet produced](2019-01-15-Metroscopia-coalitions-seats-pmf-psoe–up.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-12-Metroscopia-coalitions-seats-pmf-psoe–up.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 90 | 0.1% | 100% |  |
-| 91 | 0.1% | 99.9% |  |
-| 92 | 0% | 99.8% |  |
-| 93 | 0% | 99.8% |  |
-| 94 | 0% | 99.8% |  |
-| 95 | 0% | 99.8% |  |
-| 96 | 7% | 99.8% |  |
-| 97 | 2% | 93% |  |
-| 98 | 2% | 91% |  |
-| 99 | 0% | 89% |  |
-| 100 | 0% | 89% |  |
-| 101 | 1.0% | 89% |  |
-| 102 | 1.4% | 88% |  |
-| 103 | 0% | 87% |  |
-| 104 | 3% | 87% |  |
-| 105 | 19% | 83% |  |
-| 106 | 40% | 64% | Median |
-| 107 | 15% | 24% |  |
-| 108 | 0.7% | 9% |  |
-| 109 | 8% | 9% |  |
-| 110 | 0.3% | 0.5% |  |
-| 111 | 0% | 0.1% |  |
-| 112 | 0% | 0.1% |  |
-| 113 | 0% | 0.1% |  |
-| 114 | 0% | 0.1% |  |
+| 90 | 0.2% | 100% |  |
+| 91 | 0% | 99.8% |  |
+| 92 | 0.3% | 99.8% |  |
+| 93 | 0.2% | 99.5% |  |
+| 94 | 31% | 99.3% |  |
+| 95 | 0% | 69% |  |
+| 96 | 0% | 69% |  |
+| 97 | 0.4% | 69% |  |
+| 98 | 1.1% | 68% |  |
+| 99 | 25% | 67% | Median |
+| 100 | 39% | 42% |  |
+| 101 | 3% | 3% |  |
+| 102 | 0% | 0.7% |  |
+| 103 | 0% | 0.7% |  |
+| 104 | 0% | 0.7% |  |
+| 105 | 0% | 0.7% |  |
+| 106 | 0% | 0.7% |  |
+| 107 | 0.1% | 0.7% |  |
+| 108 | 0.1% | 0.6% |  |
+| 109 | 0% | 0.5% |  |
+| 110 | 0.1% | 0.5% |  |
+| 111 | 0.2% | 0.4% |  |
+| 112 | 0.1% | 0.2% |  |
+| 113 | 0.1% | 0.1% |  |
+| 114 | 0% | 0% |  |
 | 115 | 0% | 0% |  |
 | 116 | 0% | 0% |  |
 | 117 | 0% | 0% |  |
@@ -476,122 +565,40 @@
 | 155 | 0% | 0% |  |
 | 156 | 0% | 0% | Last Result |
 
-### Partido Popular – Ciudadanos–Partido de la Ciudadanía
-
-![Graph with seats probability mass function not yet produced](2019-01-15-Metroscopia-coalitions-seats-pmf-pp–cs.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 88 | 0.2% | 100% |  |
-| 89 | 1.5% | 99.8% |  |
-| 90 | 30% | 98% |  |
-| 91 | 0% | 68% |  |
-| 92 | 53% | 68% | Median |
-| 93 | 0.5% | 15% |  |
-| 94 | 0% | 14% |  |
-| 95 | 2% | 14% |  |
-| 96 | 0% | 12% |  |
-| 97 | 0% | 12% |  |
-| 98 | 0% | 12% |  |
-| 99 | 0% | 12% |  |
-| 100 | 2% | 12% |  |
-| 101 | 0.3% | 10% |  |
-| 102 | 8% | 10% |  |
-| 103 | 1.4% | 2% |  |
-| 104 | 0.2% | 0.5% |  |
-| 105 | 0.2% | 0.4% |  |
-| 106 | 0.1% | 0.1% |  |
-| 107 | 0% | 0% |  |
-| 108 | 0% | 0% |  |
-| 109 | 0% | 0% |  |
-| 110 | 0% | 0% |  |
-| 111 | 0% | 0% |  |
-| 112 | 0% | 0% |  |
-| 113 | 0% | 0% |  |
-| 114 | 0% | 0% |  |
-| 115 | 0% | 0% |  |
-| 116 | 0% | 0% |  |
-| 117 | 0% | 0% |  |
-| 118 | 0% | 0% |  |
-| 119 | 0% | 0% |  |
-| 120 | 0% | 0% |  |
-| 121 | 0% | 0% |  |
-| 122 | 0% | 0% |  |
-| 123 | 0% | 0% |  |
-| 124 | 0% | 0% |  |
-| 125 | 0% | 0% |  |
-| 126 | 0% | 0% |  |
-| 127 | 0% | 0% |  |
-| 128 | 0% | 0% |  |
-| 129 | 0% | 0% |  |
-| 130 | 0% | 0% |  |
-| 131 | 0% | 0% |  |
-| 132 | 0% | 0% |  |
-| 133 | 0% | 0% |  |
-| 134 | 0% | 0% |  |
-| 135 | 0% | 0% |  |
-| 136 | 0% | 0% |  |
-| 137 | 0% | 0% |  |
-| 138 | 0% | 0% |  |
-| 139 | 0% | 0% |  |
-| 140 | 0% | 0% |  |
-| 141 | 0% | 0% |  |
-| 142 | 0% | 0% |  |
-| 143 | 0% | 0% |  |
-| 144 | 0% | 0% |  |
-| 145 | 0% | 0% |  |
-| 146 | 0% | 0% |  |
-| 147 | 0% | 0% |  |
-| 148 | 0% | 0% |  |
-| 149 | 0% | 0% |  |
-| 150 | 0% | 0% |  |
-| 151 | 0% | 0% |  |
-| 152 | 0% | 0% |  |
-| 153 | 0% | 0% |  |
-| 154 | 0% | 0% |  |
-| 155 | 0% | 0% |  |
-| 156 | 0% | 0% |  |
-| 157 | 0% | 0% |  |
-| 158 | 0% | 0% |  |
-| 159 | 0% | 0% |  |
-| 160 | 0% | 0% |  |
-| 161 | 0% | 0% |  |
-| 162 | 0% | 0% |  |
-| 163 | 0% | 0% |  |
-| 164 | 0% | 0% |  |
-| 165 | 0% | 0% |  |
-| 166 | 0% | 0% |  |
-| 167 | 0% | 0% |  |
-| 168 | 0% | 0% |  |
-| 169 | 0% | 0% | Last Result |
-
 ### Partido Popular – Vox
 
-![Graph with seats probability mass function not yet produced](2019-01-15-Metroscopia-coalitions-seats-pmf-pp–vox.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-12-Metroscopia-coalitions-seats-pmf-pp–vox.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 71 | 0.1% | 100% |  |
-| 72 | 0% | 99.9% |  |
-| 73 | 0% | 99.9% |  |
-| 74 | 0% | 99.9% |  |
-| 75 | 0% | 99.9% |  |
-| 76 | 0% | 99.9% |  |
-| 77 | 0.8% | 99.8% |  |
-| 78 | 1.3% | 99.0% |  |
-| 79 | 1.0% | 98% |  |
-| 80 | 20% | 97% |  |
-| 81 | 8% | 77% |  |
-| 82 | 0.6% | 69% |  |
-| 83 | 17% | 68% |  |
-| 84 | 42% | 51% | Median |
-| 85 | 0.3% | 9% |  |
-| 86 | 0% | 9% |  |
-| 87 | 0% | 9% |  |
-| 88 | 7% | 9% |  |
-| 89 | 0% | 2% |  |
-| 90 | 0.2% | 2% |  |
-| 91 | 2% | 2% |  |
+| 64 | 0.2% | 100% |  |
+| 65 | 0% | 99.8% |  |
+| 66 | 0.1% | 99.8% |  |
+| 67 | 0.2% | 99.7% |  |
+| 68 | 0% | 99.4% |  |
+| 69 | 0% | 99.4% |  |
+| 70 | 0.1% | 99.4% |  |
+| 71 | 0% | 99.3% |  |
+| 72 | 0% | 99.3% |  |
+| 73 | 0% | 99.3% |  |
+| 74 | 0% | 99.3% |  |
+| 75 | 0% | 99.3% |  |
+| 76 | 0% | 99.3% |  |
+| 77 | 0.1% | 99.3% |  |
+| 78 | 0.8% | 99.2% |  |
+| 79 | 16% | 98% |  |
+| 80 | 13% | 82% |  |
+| 81 | 43% | 70% | Median |
+| 82 | 25% | 27% |  |
+| 83 | 2% | 2% |  |
+| 84 | 0% | 0% |  |
+| 85 | 0% | 0% |  |
+| 86 | 0% | 0% |  |
+| 87 | 0% | 0% |  |
+| 88 | 0% | 0% |  |
+| 89 | 0% | 0% |  |
+| 90 | 0% | 0% |  |
+| 91 | 0% | 0% |  |
 | 92 | 0% | 0% |  |
 | 93 | 0% | 0% |  |
 | 94 | 0% | 0% |  |
@@ -641,27 +648,29 @@
 
 ### Partido Socialista Obrero Español
 
-![Graph with seats probability mass function not yet produced](2019-01-15-Metroscopia-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-12-Metroscopia-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 59 | 0.1% | 100% |  |
-| 60 | 0.2% | 99.9% |  |
-| 61 | 2% | 99.7% |  |
-| 62 | 2% | 98% |  |
-| 63 | 8% | 96% |  |
-| 64 | 0.1% | 88% |  |
-| 65 | 0% | 88% |  |
-| 66 | 0% | 88% |  |
-| 67 | 0.1% | 88% |  |
-| 68 | 1.1% | 88% |  |
-| 69 | 75% | 87% | Median |
-| 70 | 9% | 12% |  |
-| 71 | 0% | 4% |  |
-| 72 | 3% | 4% |  |
-| 73 | 0% | 0.3% |  |
-| 74 | 0.1% | 0.3% |  |
-| 75 | 0.2% | 0.2% |  |
+| 57 | 0.2% | 100% |  |
+| 58 | 0.4% | 99.8% |  |
+| 59 | 0.1% | 99.3% |  |
+| 60 | 0.2% | 99.2% |  |
+| 61 | 31% | 99.0% |  |
+| 62 | 0.6% | 68% |  |
+| 63 | 9% | 67% |  |
+| 64 | 47% | 58% | Median |
+| 65 | 0.4% | 11% |  |
+| 66 | 9% | 11% |  |
+| 67 | 3% | 3% |  |
+| 68 | 0% | 0% |  |
+| 69 | 0% | 0% |  |
+| 70 | 0% | 0% |  |
+| 71 | 0% | 0% |  |
+| 72 | 0% | 0% |  |
+| 73 | 0% | 0% |  |
+| 74 | 0% | 0% |  |
+| 75 | 0% | 0% |  |
 | 76 | 0% | 0% |  |
 | 77 | 0% | 0% |  |
 | 78 | 0% | 0% |  |
@@ -675,24 +684,30 @@
 
 ### Partido Popular
 
-![Graph with seats probability mass function not yet produced](2019-01-15-Metroscopia-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-12-12-Metroscopia-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 47 | 20% | 100% |  |
-| 48 | 2% | 80% |  |
-| 49 | 2% | 79% |  |
-| 50 | 0% | 77% |  |
-| 51 | 2% | 77% |  |
-| 52 | 10% | 75% |  |
-| 53 | 0% | 65% |  |
-| 54 | 54% | 65% | Median |
-| 55 | 2% | 11% |  |
-| 56 | 2% | 9% |  |
-| 57 | 0.2% | 7% |  |
-| 58 | 6% | 7% |  |
-| 59 | 1.3% | 1.4% |  |
-| 60 | 0% | 0.1% |  |
+| 41 | 0.2% | 100% |  |
+| 42 | 0.4% | 99.8% |  |
+| 43 | 0.1% | 99.3% |  |
+| 44 | 0% | 99.2% |  |
+| 45 | 0% | 99.2% |  |
+| 46 | 0.2% | 99.2% |  |
+| 47 | 0% | 98.9% |  |
+| 48 | 0% | 98.9% |  |
+| 49 | 0% | 98.9% |  |
+| 50 | 9% | 98.9% |  |
+| 51 | 3% | 90% |  |
+| 52 | 16% | 88% |  |
+| 53 | 53% | 72% | Median |
+| 54 | 17% | 19% |  |
+| 55 | 0.3% | 2% |  |
+| 56 | 0% | 1.5% |  |
+| 57 | 0% | 1.5% |  |
+| 58 | 1.5% | 1.5% |  |
+| 59 | 0% | 0% |  |
+| 60 | 0% | 0% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% |  |
@@ -778,11 +793,11 @@
 
 + **Polling firm:** Metroscopia
 + **Commissioner(s):** Henneo
-+ **Fieldwork period:** 9–15 January 2019
++ **Fieldwork period:** 10–12 December 2018
 
 ### Calculations
 
-+ **Sample size:** 2332
++ **Sample size:** 1895
 + **Simulations done:** 1,024
-+ **Error estimate:** 1.91%
++ **Error estimate:** 2.33%
 
