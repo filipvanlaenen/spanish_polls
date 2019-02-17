@@ -760,6 +760,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Partido Popular – Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía | 254 | 246 | 100% | 236–253 | 233–256 | 230–258 | 226–261 |
 | Partido Socialista Obrero Español – Unidos Podemos – Ciudadanos–Partido de la Ciudadanía | 188 | 210 | 100% | 197–213 | 192–217 | 189–227 | 183–231 |
 | Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco – Euskal Herria Bildu | 180 | 173 | 37% | 149–190 | 145–217 | 145–217 | 136–217 |
 | Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Euskal Herria Bildu | 167 | 167 | 18% | 143–184 | 139–211 | 138–211 | 130–211 |
@@ -773,6 +774,60 @@ Only polls for which at least the sample size has been published are included in
 | Partido Socialista Obrero Español | 85 | 100 | 0% | 86–127 | 86–138 | 84–138 | 77–138 |
 | Partido Popular – Vox | 137 | 108 | 0% | 80–118 | 63–121 | 63–125 | 63–131 |
 | Partido Popular | 137 | 76 | 0% | 65–98 | 55–99 | 55–99 | 55–105 |
+
+### Partido Popular – Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pp–psoe–cs.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 220 | 0% | 100% |  |
+| 221 | 0% | 99.9% |  |
+| 222 | 0% | 99.9% |  |
+| 223 | 0% | 99.9% |  |
+| 224 | 0.1% | 99.9% |  |
+| 225 | 0.2% | 99.8% |  |
+| 226 | 0.1% | 99.5% |  |
+| 227 | 0.5% | 99.4% |  |
+| 228 | 0.7% | 98.9% |  |
+| 229 | 0.6% | 98% |  |
+| 230 | 0.7% | 98% |  |
+| 231 | 0.9% | 97% |  |
+| 232 | 0.3% | 96% |  |
+| 233 | 1.3% | 96% |  |
+| 234 | 1.0% | 94% |  |
+| 235 | 1.2% | 93% |  |
+| 236 | 3% | 92% |  |
+| 237 | 4% | 89% |  |
+| 238 | 2% | 85% |  |
+| 239 | 2% | 83% |  |
+| 240 | 4% | 80% | Median |
+| 241 | 2% | 77% |  |
+| 242 | 7% | 75% |  |
+| 243 | 7% | 67% |  |
+| 244 | 5% | 60% |  |
+| 245 | 4% | 55% |  |
+| 246 | 5% | 51% |  |
+| 247 | 3% | 46% |  |
+| 248 | 2% | 44% |  |
+| 249 | 5% | 42% |  |
+| 250 | 8% | 37% |  |
+| 251 | 10% | 29% |  |
+| 252 | 8% | 19% |  |
+| 253 | 3% | 11% |  |
+| 254 | 0.9% | 8% | Last Result |
+| 255 | 1.2% | 7% |  |
+| 256 | 1.1% | 5% |  |
+| 257 | 1.3% | 4% |  |
+| 258 | 0.9% | 3% |  |
+| 259 | 0.6% | 2% |  |
+| 260 | 0.6% | 2% |  |
+| 261 | 0.7% | 1.1% |  |
+| 262 | 0.2% | 0.4% |  |
+| 263 | 0.1% | 0.2% |  |
+| 264 | 0.1% | 0.1% |  |
+| 265 | 0% | 0.1% |  |
+| 266 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español – Unidos Podemos – Ciudadanos–Partido de la Ciudadanía
 
