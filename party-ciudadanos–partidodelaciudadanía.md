@@ -10,8 +10,8 @@ Last result: **13.1%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.4% | 15.8–21.7% | 14.6–22.9% | 13.9–23.7% | 12.8–24.9% |
-| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 18.7% | 17.1–20.4% | 16.7–20.9% | 16.3–21.3% | 15.6–22.1% |
+| N/A | [Poll Average](average.html) | 18.4% | 16.0–21.5% | 14.8–22.8% | 14.0–23.6% | 12.9–24.9% |
+| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 18.7% | 17.2–20.4% | 16.8–20.8% | 16.4–21.2% | 15.7–22.1% |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 14.5% | 13.2–16.0% | 12.8–16.4% | 12.5–16.8% | 11.8–17.6% |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 17.0% | 15.6–18.6% | 15.2–19.1% | 14.8–19.4% | 14.2–20.2% |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 19.2% | 17.7–20.8% | 17.3–21.2% | 17.0–21.6% | 16.3–22.4% |
@@ -36,12 +36,12 @@ Last result: **13.1%** (General Election of 26 June 2016)
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 22.9% | 21.4–24.5% | 21.0–25.0% | 20.6–25.4% | 19.9–26.2% |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 21.4% | 20.1–22.8% | 19.7–23.2% | 19.4–23.5% | 18.8–24.2% |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 22.4% | 20.8–24.1% | 20.3–24.6% | 19.9–25.0% | 19.2–25.9% |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 19.9% | 18.1–21.8% | 17.7–22.2% | 17.3–22.6% | 16.5–23.5% |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 19.9% | 18.4–21.6% | 17.9–22.1% | 17.5–22.5% | 16.8–23.3% |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 20.4% | 18.9–22.0% | 18.4–22.5% | 18.1–22.8% | 17.4–23.7% |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 21.8% | 20.2–23.7% | 19.7–24.2% | 19.3–24.6% | 18.5–25.5% |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 21.9% | 20.3–23.6% | 19.9–24.1% | 19.5–24.5% | 18.7–25.4% |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 19.2% | 18.0–20.5% | 17.6–20.9% | 17.3–21.2% | 16.8–21.9% |
-| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 19.5% | 17.9–21.2% | 17.5–21.7% | 17.1–22.1% | 16.4–22.9% |
+| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 19.5% | 18.0–21.2% | 17.5–21.7% | 17.2–22.1% | 16.4–22.9% |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 21.0% | 20.0–22.0% | 19.8–22.3% | 19.6–22.5% | 19.1–23.0% |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 21.6% | 20.0–23.3% | 19.6–23.8% | 19.2–24.2% | 18.5–25.0% |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 19.3% | 17.8–20.9% | 17.4–21.3% | 17.0–21.7% | 16.4–22.5% |
@@ -112,20 +112,20 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.3% | 100% |  |
-| 12.5–13.5% | 1.4% | 99.7% | Last Result |
+| 11.5–12.5% | 0.2% | 100% |  |
+| 12.5–13.5% | 1.3% | 99.7% | Last Result |
 | 13.5–14.5% | 3% | 98% |  |
-| 14.5–15.5% | 4% | 95% |  |
-| 15.5–16.5% | 7% | 91% |  |
-| 16.5–17.5% | 16% | 84% |  |
-| 17.5–18.5% | 21% | 68% | Median |
-| 18.5–19.5% | 17% | 47% |  |
+| 14.5–15.5% | 4% | 96% |  |
+| 15.5–16.5% | 7% | 92% |  |
+| 16.5–17.5% | 16% | 85% |  |
+| 17.5–18.5% | 21% | 70% | Median |
+| 18.5–19.5% | 19% | 48% |  |
 | 19.5–20.5% | 13% | 30% |  |
-| 20.5–21.5% | 7% | 17% |  |
-| 21.5–22.5% | 4% | 11% |  |
+| 20.5–21.5% | 7% | 16% |  |
+| 21.5–22.5% | 4% | 10% |  |
 | 22.5–23.5% | 3% | 6% |  |
 | 23.5–24.5% | 2% | 3% |  |
-| 24.5–25.5% | 0.7% | 0.9% |  |
+| 24.5–25.5% | 0.7% | 0.8% |  |
 | 25.5–26.5% | 0.1% | 0.2% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
@@ -138,8 +138,8 @@ Last result: **32** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 64 | 52–82 | 47–87 | 43–87 | 37–90 |
-| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 64 | 53–82 | 48–87 | 43–87 | 37–89 |
+| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 67 | 67 | 67 | 67 | 59–67 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 47 | 38–53 | 36–55 | 35–56 | 31–61 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 59 | 55–60 | 55–60 | 55–75 | 48–75 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 65 | 58–65 | 58–68 | 58–68 | 58–68 |
@@ -163,14 +163,14 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 70 | 70 | 70 | 70 | 70 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 87 | 79–87 | 71–90 | 70–99 | 68–99 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 80 | 80 | 80 | 79–83 | 72–88 |
-| [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 57 | 57–59 | 56–64 | 56–68 | 50–75 |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 48 | 48 | 48 | 48–51 | 45–61 |
+| [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 80 | 79–83 | 79–90 | 77–94 | 70–107 |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 69 | 69 | 69 | 67–73 | 63–80 |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 72 | 72 | 63–72 | 63–79 | 59–79 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 71 | 71–79 | 71–79 | 69–79 | 64–84 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 72 | 72–93 | 72–93 | 72–93 | 60–93 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 72 | 60–72 | 60–72 | 60–72 | 60–76 |
-| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 49 | 49 | 41–49 | 41–56 | 38–56 |
-| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 50 | 47–58 | 47–58 | 47–58 | 47–58 |
+| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 71 | 70–71 | 59–71 | 59–76 | 53–76 |
+| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 70 | 65–77 | 65–77 | 65–77 | 65–79 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 74 | 66–80 | 66–85 | 65–93 | 65–94 |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 59 | 59 | 55–59 | 48–65 | 46–72 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 91 | 70–91 | 70–91 | 68–96 | 66–96 |
@@ -178,14 +178,14 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 72 | 70–94 | 70–94 | 70–95 | 65–96 |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 79 | 76–89 | 76–89 | 68–102 | 64–105 |
 | [1–11 September 2018](2018-09-11-CIS.html) | CIS | 69 | 68–70 | 68–70 | 68–70 | 68–70 |
-| [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 44 | 44 | 44 | 44 | 38–45 |
-| [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica | 60 | 59–61 | 59–63 | 59–76 | 48–76 |
-| [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 46 | 41–46 | 41–46 | 41–46 | 40–57 |
-| [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 46 | 46 | 46–48 | 46–48 | 42–48 |
-| [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 45 | 44–45 | 44–45 | 38–49 | 30–49 |
-| [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 65 | 62–65 | 62–65 | 62–65 | 47–65 |
-| [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 41 | 41 | 41 | 41 | 41–43 |
-| [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 50 | 50 | 50 | 50–61 | 47–61 |
+| [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 62 | 62 | 62 | 62 | 50–64 |
+| [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica | 83 | 82–83 | 82–87 | 81–104 | 69–105 |
+| [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 69 | 61–69 | 61–69 | 61–69 | 57–76 |
+| [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 66 | 64–66 | 64–67 | 64–67 | 61–67 |
+| [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 63 | 62–63 | 62–63 | 56–67 | 40–67 |
+| [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 88 | 79–88 | 79–88 | 79–88 | 67–88 |
+| [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 59 | 59 | 59 | 59 | 59 |
+| [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 70 | 70 | 70 | 70–90 | 66–90 |
 | [1–3 August 2018](2018-08-03-SimpleLógica.html) | Simple Lógica | 62 | 56–62 | 56–62 | 56–62 | 52–74 |
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 43 | 43 | 43–45 | 43–49 | 43–52 |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 54 | 37–54 | 37–54 | 37–54 | 37–55 |
@@ -247,59 +247,59 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 0.1% | 99.9% |  |
 | 35 | 0.1% | 99.8% |  |
 | 36 | 0.1% | 99.7% |  |
-| 37 | 0.1% | 99.5% |  |
-| 38 | 0.4% | 99.4% |  |
-| 39 | 0.4% | 99.0% |  |
-| 40 | 0.2% | 98.6% |  |
-| 41 | 0.2% | 98% |  |
-| 42 | 0.2% | 98% |  |
-| 43 | 0.7% | 98% |  |
-| 44 | 0.6% | 97% |  |
-| 45 | 0.3% | 97% |  |
-| 46 | 0.8% | 96% |  |
+| 37 | 0.1% | 99.6% |  |
+| 38 | 0.3% | 99.4% |  |
+| 39 | 0.3% | 99.1% |  |
+| 40 | 0.2% | 98.8% |  |
+| 41 | 0.3% | 98.6% |  |
+| 42 | 0.3% | 98% |  |
+| 43 | 0.6% | 98% |  |
+| 44 | 0.4% | 97% |  |
+| 45 | 0.4% | 97% |  |
+| 46 | 0.7% | 97% |  |
 | 47 | 0.8% | 96% |  |
-| 48 | 0.7% | 95% |  |
-| 49 | 0.3% | 94% |  |
-| 50 | 1.1% | 94% |  |
-| 51 | 0.9% | 93% |  |
+| 48 | 0.6% | 95% |  |
+| 49 | 0.4% | 95% |  |
+| 50 | 0.9% | 94% |  |
+| 51 | 0.8% | 93% |  |
 | 52 | 2% | 92% |  |
-| 53 | 1.0% | 90% |  |
-| 54 | 0.5% | 89% |  |
-| 55 | 3% | 88% |  |
-| 56 | 1.2% | 86% |  |
-| 57 | 4% | 84% |  |
-| 58 | 4% | 81% |  |
-| 59 | 5% | 77% |  |
-| 60 | 13% | 72% |  |
-| 61 | 6% | 59% |  |
-| 62 | 2% | 53% |  |
-| 63 | 0% | 51% |  |
-| 64 | 10% | 51% | Median |
-| 65 | 6% | 41% |  |
-| 66 | 1.2% | 35% |  |
-| 67 | 0.2% | 34% |  |
-| 68 | 1.3% | 33% |  |
-| 69 | 4% | 32% |  |
-| 70 | 3% | 28% |  |
-| 71 | 0.9% | 25% |  |
-| 72 | 3% | 25% |  |
-| 73 | 0.8% | 22% |  |
-| 74 | 0% | 21% |  |
-| 75 | 0.3% | 21% |  |
-| 76 | 2% | 21% |  |
-| 77 | 0.2% | 19% |  |
-| 78 | 0% | 18% |  |
-| 79 | 2% | 18% |  |
-| 80 | 0% | 17% |  |
-| 81 | 0% | 17% |  |
-| 82 | 9% | 17% |  |
-| 83 | 0.8% | 8% |  |
+| 53 | 0.9% | 91% |  |
+| 54 | 0.4% | 90% |  |
+| 55 | 3% | 89% |  |
+| 56 | 1.1% | 87% |  |
+| 57 | 3% | 86% |  |
+| 58 | 4% | 82% |  |
+| 59 | 4% | 79% |  |
+| 60 | 12% | 74% |  |
+| 61 | 5% | 62% |  |
+| 62 | 2% | 57% |  |
+| 63 | 0% | 55% |  |
+| 64 | 9% | 55% | Median |
+| 65 | 6% | 46% |  |
+| 66 | 1.1% | 40% |  |
+| 67 | 8% | 39% |  |
+| 68 | 1.2% | 31% |  |
+| 69 | 3% | 29% |  |
+| 70 | 3% | 26% |  |
+| 71 | 0.8% | 23% |  |
+| 72 | 3% | 22% |  |
+| 73 | 0.7% | 20% |  |
+| 74 | 0% | 19% |  |
+| 75 | 0.3% | 19% |  |
+| 76 | 2% | 19% |  |
+| 77 | 0.2% | 17% |  |
+| 78 | 0% | 17% |  |
+| 79 | 1.5% | 17% |  |
+| 80 | 0% | 15% |  |
+| 81 | 0% | 15% |  |
+| 82 | 8% | 15% |  |
+| 83 | 0.8% | 7% |  |
 | 84 | 0% | 7% |  |
 | 85 | 0% | 7% |  |
 | 86 | 0% | 7% |  |
-| 87 | 7% | 7% |  |
-| 88 | 0.1% | 0.7% |  |
-| 89 | 0% | 0.6% |  |
+| 87 | 6% | 7% |  |
+| 88 | 0.1% | 0.6% |  |
+| 89 | 0% | 0.5% |  |
 | 90 | 0.1% | 0.5% |  |
 | 91 | 0% | 0.4% |  |
 | 92 | 0% | 0.4% |  |
