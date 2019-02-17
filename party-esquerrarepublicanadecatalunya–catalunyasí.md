@@ -37,8 +37,8 @@ Last result: **2.7%** (General Election of 26 June 2016)
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 2.9% | 2.1–3.7% | 2.1–4.1% | 2.1–4.1% | 1.6–4.9% |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.8–4.4% |
-| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.3–4.7% | 2.0–5.2% |
-| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 3.1% | N/A | N/A | N/A | N/A |
+| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 3.3% | 2.7–4.2% | 2.5–4.5% | 2.3–4.7% | 2.0–5.1% |
+| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.8% |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 3.0% | N/A | N/A | N/A | N/A |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 4.3% | N/A | N/A | N/A | N/A |
@@ -154,8 +154,8 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 12 | 12–13 | 12–15 | 11–15 |
-| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
-| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 12 | 12 | 7–12 | 7–12 | 7–15 |
+| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 17 | 10–17 | 9–17 | 9–17 | 9–17 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS |  |  |  |  |  |

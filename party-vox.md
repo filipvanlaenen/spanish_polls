@@ -138,8 +138,8 @@ Last result: **0** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 10–37 | 8–45 | 8–45 | 8–48 |
-| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 36 | 32–47 | 28–48 | 27–49 | 25–51 |
+| N/A | [Poll Average](average.html) | 26 | 10–38 | 8–45 | 8–45 | 8–48 |
+| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 36 | 32–47 | 28–48 | 27–49 | 25–52 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 26 | 26–45 | 26–45 | 26–45 | 26–46 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 19 | 16–19 | 16–25 | 16–25 | 16–25 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 32 | 29–33 | 28–33 | 28–34 | 26–41 |
@@ -165,8 +165,8 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2 | 1–2 | 1–2 | 0–3 |
-| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 2 | 1–2 | 1–3 | 1–3 | 1–6 |
-| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 4 | 4–6 | 4–6 | 3–6 | 3–6 |
+| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 6 |  |  |  |  |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 7 | 6–8 | 2–8 | 1–8 | 1–8 |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0 | 0 |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
@@ -274,22 +274,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 9% | 34% |  |
 | 32 | 5% | 25% |  |
 | 33 | 4% | 20% |  |
-| 34 | 2% | 16% |  |
+| 34 | 3% | 17% |  |
 | 35 | 0.9% | 14% |  |
 | 36 | 3% | 13% |  |
-| 37 | 0.8% | 11% |  |
+| 37 | 0.6% | 11% |  |
 | 38 | 2% | 10% |  |
-| 39 | 0.5% | 8% |  |
-| 40 | 0.3% | 7% |  |
-| 41 | 0.3% | 7% |  |
+| 39 | 0.9% | 8% |  |
+| 40 | 0.4% | 7% |  |
+| 41 | 0.4% | 7% |  |
 | 42 | 0.2% | 7% |  |
-| 43 | 0.2% | 7% |  |
-| 44 | 1.2% | 6% |  |
+| 43 | 0.2% | 6% |  |
+| 44 | 1.1% | 6% |  |
 | 45 | 4% | 5% |  |
-| 46 | 0.3% | 2% |  |
+| 46 | 0.3% | 1.5% |  |
 | 47 | 0.4% | 1.2% |  |
-| 48 | 0.5% | 0.8% |  |
-| 49 | 0.2% | 0.3% |  |
+| 48 | 0.4% | 0.8% |  |
+| 49 | 0.2% | 0.4% |  |
 | 50 | 0.1% | 0.2% |  |
 | 51 | 0% | 0.1% |  |
 | 52 | 0% | 0.1% |  |

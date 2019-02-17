@@ -37,7 +37,7 @@ Last result: **13.1%** (General Election of 26 June 2016)
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 22.4% | 20.8–24.1% | 20.3–24.6% | 19.9–25.0% | 19.2–25.9% |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 19.9% | 18.1–21.8% | 17.7–22.2% | 17.3–22.6% | 16.5–23.5% |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 20.4% | 18.9–22.0% | 18.4–22.5% | 18.1–22.8% | 17.4–23.7% |
-| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 21.8% | 20.2–23.7% | 19.7–24.2% | 19.3–24.6% | 18.5–25.6% |
+| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 21.8% | 20.2–23.7% | 19.7–24.2% | 19.3–24.6% | 18.5–25.5% |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 21.9% | 20.3–23.6% | 19.9–24.1% | 19.5–24.5% | 18.7–25.4% |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 19.2% | 18.0–20.5% | 17.6–20.9% | 17.3–21.2% | 16.8–21.9% |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 19.5% | 18.0–21.2% | 17.5–21.7% | 17.2–22.1% | 16.4–22.9% |
@@ -138,7 +138,7 @@ Last result: **32** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 64 | 54–82 | 48–87 | 43–87 | 37–89 |
-| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 46 | 39–54 | 36–55 | 35–56 | 32–60 |
+| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 47 | 38–54 | 36–55 | 35–56 | 31–60 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 59 | 55–60 | 55–60 | 55–75 | 48–75 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 65 | 58–65 | 58–68 | 58–68 | 58–68 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 70 | 69–72 | 68–72 | 62–72 | 61–73 |
@@ -164,8 +164,8 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 57 | 57–59 | 56–64 | 56–68 | 50–75 |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 48 | 48 | 48 | 48–51 | 45–61 |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 72 | 72 | 63–72 | 63–79 | 59–79 |
-| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 51 | 51–59 | 51–59 | 49–59 | 45–61 |
-| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 53 | 53–66 | 52–66 | 52–66 | 44–66 |
+| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 71 | 71–79 | 71–79 | 69–79 | 64–84 |
+| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 73 | 73–81 | 73–81 | 73–81 | 73–81 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 51 | 44–52 | 44–52 | 44–52 | 42–54 |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 49 | 49 | 41–49 | 41–56 | 38–56 |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 50 | 47–58 | 47–58 | 47–58 | 47–58 |
@@ -240,30 +240,30 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 32 | 0% | 100% | Last Result |
-| 33 | 0.1% | 100% |  |
+| 33 | 0% | 99.9% |  |
 | 34 | 0.1% | 99.9% |  |
-| 35 | 0.1% | 99.8% |  |
-| 36 | 0.2% | 99.7% |  |
-| 37 | 0.1% | 99.5% |  |
-| 38 | 0.3% | 99.4% |  |
-| 39 | 0.5% | 99.1% |  |
-| 40 | 0.1% | 98.7% |  |
-| 41 | 0% | 98.5% |  |
-| 42 | 0.2% | 98.5% |  |
-| 43 | 1.1% | 98% |  |
-| 44 | 0.6% | 97% |  |
-| 45 | 0.1% | 97% |  |
-| 46 | 0.8% | 96% |  |
-| 47 | 0.5% | 96% |  |
-| 48 | 0.5% | 95% |  |
-| 49 | 0.2% | 95% |  |
-| 50 | 1.5% | 94% |  |
-| 51 | 0.7% | 93% |  |
+| 35 | 0.2% | 99.8% |  |
+| 36 | 0.1% | 99.7% |  |
+| 37 | 0.1% | 99.6% |  |
+| 38 | 0.3% | 99.5% |  |
+| 39 | 0.3% | 99.2% |  |
+| 40 | 0.2% | 98.8% |  |
+| 41 | 0.1% | 98.6% |  |
+| 42 | 0.1% | 98.5% |  |
+| 43 | 0.9% | 98% |  |
+| 44 | 0.7% | 97% |  |
+| 45 | 0.2% | 97% |  |
+| 46 | 0.8% | 97% |  |
+| 47 | 0.8% | 96% |  |
+| 48 | 0.6% | 95% |  |
+| 49 | 0.1% | 94% |  |
+| 50 | 1.2% | 94% |  |
+| 51 | 0.9% | 93% |  |
 | 52 | 2% | 92% |  |
-| 53 | 0.5% | 91% |  |
-| 54 | 0.5% | 90% |  |
-| 55 | 3% | 90% |  |
-| 56 | 1.0% | 87% |  |
+| 53 | 0.6% | 91% |  |
+| 54 | 0.6% | 90% |  |
+| 55 | 3% | 89% |  |
+| 56 | 1.1% | 87% |  |
 | 57 | 3% | 86% |  |
 | 58 | 4% | 82% |  |
 | 59 | 4% | 79% |  |
