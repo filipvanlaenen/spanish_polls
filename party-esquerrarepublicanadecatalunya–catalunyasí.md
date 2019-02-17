@@ -10,7 +10,7 @@ Last result: **2.7%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.5–4.7% | 2.3–4.9% | 2.1–5.1% | 1.9–5.5% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.6% | 2.3–4.9% | 2.1–5.1% | 1.9–5.5% |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.8–4.4% |
@@ -29,11 +29,11 @@ Last result: **2.7%** (General Election of 26 June 2016)
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
-| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 3.0% | N/A | N/A | N/A | N/A |
+| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
-| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2.9% | N/A | N/A | N/A | N/A |
+| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.1–4.1% | 1.8–4.5% |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
-| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 3.1% | N/A | N/A | N/A | N/A |
+| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 3.1% | 2.6–3.7% | 2.4–3.9% | 2.3–4.1% | 2.1–4.4% |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 2.9% | N/A | N/A | N/A | N/A |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2.8% | N/A | N/A | N/A | N/A |
@@ -111,11 +111,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 13% | 100% |  |
-| 2.5–3.5% | 53% | 87% | Last Result, Median |
-| 3.5–4.5% | 21% | 34% |  |
-| 4.5–5.5% | 12% | 12% |  |
-| 5.5–6.5% | 0.4% | 0.4% |  |
+| 1.5–2.5% | 14% | 100% |  |
+| 2.5–3.5% | 55% | 86% | Last Result, Median |
+| 3.5–4.5% | 21% | 32% |  |
+| 4.5–5.5% | 10% | 11% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -127,7 +127,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–16 | 9–17 | 9–21 | 8–21 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 9–17 | 9–18 | 8–21 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 9–15 | 8–15 | 8–15 | 8–15 |
@@ -145,8 +145,8 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 7–15 | 7–15 | 7–15 | 7–15 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 11 | 11 | 11 | 11 | 11–12 |
-| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 11 | 11 | 11 | 11 | 11–13 |
+| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 12 | 12 | 12 | 8–12 | 7–15 |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
@@ -229,20 +229,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 1.1% | 100% |  |
-| 9 | 5% | 98.9% | Last Result |
+| 7 | 0.3% | 100% |  |
+| 8 | 1.1% | 99.7% |  |
+| 9 | 5% | 98.6% | Last Result |
 | 10 | 0% | 94% |  |
 | 11 | 0.3% | 94% |  |
-| 12 | 3% | 93% |  |
-| 13 | 6% | 90% |  |
-| 14 | 29% | 84% |  |
-| 15 | 30% | 55% | Median |
-| 16 | 18% | 25% |  |
-| 17 | 5% | 8% |  |
+| 12 | 16% | 94% |  |
+| 13 | 5% | 78% |  |
+| 14 | 25% | 72% | Median |
+| 15 | 26% | 47% |  |
+| 16 | 15% | 22% |  |
+| 17 | 4% | 7% |  |
 | 18 | 0.2% | 3% |  |
-| 19 | 0.2% | 3% |  |
-| 20 | 0% | 3% |  |
-| 21 | 3% | 3% |  |
+| 19 | 0.2% | 2% |  |
+| 20 | 0% | 2% |  |
+| 21 | 2% | 2% |  |
 | 22 | 0% | 0% |  |
 
 

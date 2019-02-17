@@ -124,7 +124,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–7 | 0–7 | 0–7 | 0–7 |
+| N/A | [Poll Average](average.html) | 5 | 0–8 | 0–8 | 0–8 | 0–8 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 2–5 | 2–5 | 2–5 | 1–5 |
@@ -142,8 +142,8 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 3–4 | 3–4 | 3–7 | 1–7 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 4 | 4 | 4 | 4 | 0–4 |
-| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 1 | 1 | 1 | 1 | 1–4 |
-| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 7 | 7 | 5–7 | 2–7 | 1–7 |
+| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 1 | 1 | 1 | 1 | 1–6 |
+| [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 8 | 8 | 6–8 | 2–8 | 1–8 |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 4 | 4 | 4 | 4 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
@@ -232,8 +232,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 9% | 73% |  |
 | 4 | 4% | 64% |  |
 | 5 | 44% | 60% | Median |
-| 6 | 0.1% | 16% |  |
-| 7 | 16% | 16% |  |
-| 8 | 0% | 0% |  |
+| 6 | 0.3% | 16% |  |
+| 7 | 0% | 16% |  |
+| 8 | 16% | 16% |  |
+| 9 | 0% | 0% |  |
 
 

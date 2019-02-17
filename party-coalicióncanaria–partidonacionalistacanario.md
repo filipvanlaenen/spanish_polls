@@ -141,7 +141,7 @@ Last result: **1** seats (General Election of 26 June 2016)
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0–4 | 0–4 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
+| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 1 | 1 | 1 | 1 | 0–1 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
