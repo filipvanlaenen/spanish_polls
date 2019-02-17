@@ -10,7 +10,8 @@ Last result: **0.8%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.7% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.5–1.3% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
+| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 0.8% | 0.4–1.4% | 0.4–1.5% | 0.4–1.6% | 0.3–1.9% |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
@@ -40,7 +41,7 @@ Last result: **0.8%** (General Election of 26 June 2016)
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 0.8% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
-| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
+| [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.5% | 0.2–1.7% |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 0.8% | 0.6–1.1% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
@@ -110,8 +111,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 11% | 100% |  |
-| 0.5–1.5% | 88% | 89% | Last Result, Median |
+| 0.0–0.5% | 13% | 100% |  |
+| 0.5–1.5% | 85% | 87% | Last Result, Median |
 | 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -125,6 +126,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–8 | 0–8 | 0–8 | 0–8 |
+| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 2–5 | 2–5 | 2–5 | 1–5 |
@@ -152,17 +154,17 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 1 | 1–6 | 0–6 | 0–6 | 0–6 |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 6 | 3–6 | 3–6 | 1–6 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
-| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 6 |  |  |  |  |
+| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–8 | 4–8 | 1–8 | 1–8 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 3 | 3–5 | 3–5 | 3–6 | 2–6 |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 5 | 3–5 | 2–5 | 1–5 |
+| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 6–7 | 5–7 | 3–7 | 1–7 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es |  |  |  |  |  |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
-| [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 5 | 1–6 | 1–6 | 1–6 | 0–8 |
-| [1–11 September 2018](2018-09-11-CIS.html) | CIS | 2 | 2–3 | 2–5 | 2–5 | 2–5 |
+| [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 6 | 1–9 | 1–9 | 1–9 | 0–11 |
+| [1–11 September 2018](2018-09-11-CIS.html) | CIS | 4 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2 | 2 | 1–3 |
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 5 | 2–5 | 2–5 | 2–5 | 0–6 |
@@ -226,15 +228,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 0.9% | 81% |  |
-| 2 | 7% | 80% | Last Result |
-| 3 | 9% | 73% |  |
-| 4 | 4% | 64% |  |
-| 5 | 44% | 60% | Median |
-| 6 | 0.3% | 16% |  |
-| 7 | 0% | 16% |  |
-| 8 | 16% | 16% |  |
+| 0 | 23% | 100% |  |
+| 1 | 1.0% | 77% |  |
+| 2 | 8% | 76% | Last Result |
+| 3 | 11% | 68% |  |
+| 4 | 4% | 57% |  |
+| 5 | 33% | 52% | Median |
+| 6 | 0.4% | 19% |  |
+| 7 | 0% | 19% |  |
+| 8 | 19% | 19% |  |
 | 9 | 0% | 0% |  |
 
 
