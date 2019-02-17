@@ -35,7 +35,7 @@ Last result: **22.6%** (General Election of 26 June 2016)
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 23.2% | 21.7–24.8% | 21.2–25.2% | 20.9–25.7% | 20.1–26.4% |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 19.3% | 18.0–20.6% | 17.7–21.0% | 17.4–21.3% | 16.8–22.0% |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 24.1% | 22.5–25.9% | 22.0–26.4% | 21.6–26.9% | 20.8–27.7% |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 26.5% | 24.8–28.3% | 24.3–28.9% | 23.9–29.3% | 23.0–30.2% |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 26.5% | 24.7–28.4% | 24.3–29.2% | 23.9–29.6% | 23.0–30.5% |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 26.9% | 25.2–28.7% | 24.8–29.2% | 24.4–29.6% | 23.6–30.5% |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 25.2% | 23.5–27.2% | 23.0–27.7% | 22.5–28.2% | 21.7–29.1% |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 22.0% | 20.4–23.7% | 20.0–24.2% | 19.6–24.6% | 18.8–25.5% |
@@ -137,7 +137,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 100 | 86–127 | 86–138 | 84–138 | 77–138 |
-| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 119 | 109–130 | 107–132 | 104–135 | 99–139 |
+| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 120 | 110–130 | 107–132 | 103–135 | 99–138 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 122 | 112–122 | 103–122 | 102–122 | 93–123 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 98 | 98–99 | 96–99 | 96–99 | 96–107 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 99 | 93–102 | 93–102 | 93–102 | 92–102 |
@@ -157,12 +157,12 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 89 | 89 | 89 | 89 | 89–107 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 110 | 110 | 110 | 101–110 | 98–110 |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 91 | 88–93 | 88–94 | 86–95 | 84–95 |
-| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 66 | 66 | 66 | 66 | 66 |
+| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 95 | 95 | 95 | 95 | 95 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 86 | 86–93 | 84–94 | 82–100 | 81–100 |
-| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 59 | 59 | 59 | 48–59 | 45–64 |
+| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 90 | 90 | 88–90 | 73–90 | 64–90 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 67 | 64–68 | 63–68 | 63–77 | 63–81 |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 67 | 67–68 | 67–68 | 67–76 | 67–78 |
-| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 70 | 70 | 69–70 | 69–73 | 69–84 |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 99 | 99 | 93–99 | 93–103 | 93–113 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 71 | 71 | 71–75 | 71–75 | 67–81 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 74 | 59–74 | 59–74 | 57–74 | 57–74 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 75 | 74–81 | 74–81 | 66–81 | 65–82 |

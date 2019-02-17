@@ -35,9 +35,9 @@ Last result: **13.1%** (General Election of 26 June 2016)
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 22.9% | 21.4–24.5% | 21.0–25.0% | 20.6–25.4% | 19.9–26.2% |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 21.4% | 20.1–22.8% | 19.7–23.2% | 19.4–23.5% | 18.8–24.2% |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 22.4% | 20.8–24.1% | 20.3–24.6% | 19.9–25.0% | 19.2–25.9% |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 19.9% | 18.4–21.6% | 17.9–22.1% | 17.5–22.5% | 16.8–23.3% |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 19.9% | 18.1–21.8% | 17.7–22.2% | 17.3–22.6% | 16.5–23.5% |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 20.4% | 18.9–22.0% | 18.4–22.5% | 18.1–22.8% | 17.4–23.7% |
-| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 21.8% | 20.2–23.7% | 19.7–24.2% | 19.3–24.6% | 18.5–25.5% |
+| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 21.8% | 20.2–23.7% | 19.7–24.2% | 19.3–24.6% | 18.5–25.6% |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 21.9% | 20.3–23.6% | 19.9–24.1% | 19.5–24.5% | 18.7–25.4% |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 19.2% | 18.0–20.5% | 17.6–20.9% | 17.3–21.2% | 16.8–21.9% |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 19.5% | 18.0–21.2% | 17.5–21.7% | 17.2–22.1% | 16.4–22.9% |
@@ -138,7 +138,7 @@ Last result: **32** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 64 | 54–82 | 48–87 | 43–87 | 37–89 |
-| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 46 | 38–54 | 36–55 | 35–56 | 32–60 |
+| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 46 | 39–54 | 36–55 | 35–56 | 32–60 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 59 | 55–60 | 55–60 | 55–75 | 48–75 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 65 | 58–65 | 58–68 | 58–68 | 58–68 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 70 | 69–72 | 68–72 | 62–72 | 61–73 |
@@ -158,12 +158,12 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 100 | 100 | 100 | 100 | 75–100 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 82 | 82 | 82 | 67–82 | 58–82 |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 67 | 65–76 | 65–76 | 65–76 | 65–79 |
-| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 49 | 49 | 49 | 49 | 49 |
+| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 70 | 70 | 70 | 70 | 70 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 87 | 79–87 | 71–90 | 70–99 | 68–99 |
-| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 55 | 55 | 55 | 55–60 | 52–62 |
+| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 80 | 80 | 80 | 79–83 | 72–88 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 57 | 57–59 | 56–64 | 56–68 | 50–75 |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 48 | 48 | 48 | 48–51 | 45–61 |
-| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 54 | 54 | 44–54 | 44–60 | 43–60 |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 72 | 72 | 63–72 | 63–79 | 59–79 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 51 | 51–59 | 51–59 | 49–59 | 45–61 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 53 | 53–66 | 52–66 | 52–66 | 44–66 |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 51 | 44–52 | 44–52 | 44–52 | 42–54 |
