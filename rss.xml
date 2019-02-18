@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Sun, 17 Feb 2019 20:15:43 +0100</pubDate>
+    <pubDate>Sun, 17 Feb 2019 23:34:13 +0100</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 13–15 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-15-SocioMétrica.html</link>
@@ -156,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-01-05-SocioMétrica.png"
         length="235941"
         type="image/png"/>
-      <pubDate>Sat, 16 Feb 2019 23:24:06 +0100</pubDate>
-      <dc:date>2019-02-16T23:24:06.853638+01:00</dc:date>
+      <pubDate>Sun, 17 Feb 2019 23:34:13 +0100</pubDate>
+      <dc:date>2019-02-17T23:34:13.255276+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 21–27 December 2018 – Voting Intentions</title>
@@ -226,8 +226,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-12-13-IMOP.png"
         length="257657"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 11:47:35 +0100</pubDate>
-      <dc:date>2019-02-17T11:47:35.029587+01:00</dc:date>
+      <pubDate>Sun, 17 Feb 2019 23:33:59 +0100</pubDate>
+      <dc:date>2019-02-17T23:33:59.370885+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metroscopia for Henneo, 10–12 December 2018 – Voting Intentions</title>
@@ -256,8 +256,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-12-07-Invymark.png"
         length="180229"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 12:01:55 +0100</pubDate>
-      <dc:date>2019-02-17T12:01:55.332073+01:00</dc:date>
+      <pubDate>Sun, 17 Feb 2019 21:12:23 +0100</pubDate>
+      <dc:date>2019-02-17T21:12:23.261605+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 3–4 December 2018 – Voting Intentions</title>
@@ -704,11 +704,261 @@
       <link>https://filipvanlaenen.github.io/spanish_polls/2018-05-28-IMOP.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 17.3–22.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 18.2–23.2%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 17.4–22.3%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 25.9–31.4%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 1.6–3.5%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.1–2.8%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.3–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-05-28-IMOP.png"
-        length="239972"
+        length="241050"
         type="image/png"/>
       <pubDate>Sun, 17 Feb 2019 20:15:43 +0100</pubDate>
       <dc:date>2019-02-17T20:15:43.798775+01:00</dc:date>
     </item>
-    <dc:date>2019-02-17T20:15:43.798775+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 17–26 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-05-26-SocioMétrica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 15.1–18.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 18.4–22.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 17.5–21.2%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 26.4–30.7%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.5–4.3%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.0–2.2%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.9–2.1%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 1.0–2.2%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.2–0.9%&lt;/li&gt;&lt;li&gt;Vox: 1.3–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-05-26-SocioMétrica.png"
+        length="255632"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 20:30:05 +0100</pubDate>
+      <dc:date>2019-02-17T20:30:05.535267+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 16–25 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-05-25-NCReport.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 23.0–28.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 21.1–26.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 13.7–18.2%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 21.8–27.2%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.0–4.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.4–1.6%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-05-25-NCReport.png"
+        length="237603"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 20:38:03 +0100</pubDate>
+      <dc:date>2019-02-17T20:38:03.956862+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 3–10 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-05-10-SimpleLógica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 18.6–23.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 17.8–22.6%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 15.1–19.6%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 26.9–32.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-05-10-SimpleLógica.png"
+        length="165953"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 20:42:53 +0100</pubDate>
+      <dc:date>2019-02-17T20:42:53.909039+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metroscopia for El País, 7–9 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-05-09-Metroscopia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 17.7–21.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 17.2–20.9%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 18.0–21.8%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 27.0–31.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-05-09-Metroscopia.png"
+        length="153683"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 20:49:44 +0100</pubDate>
+      <dc:date>2019-02-17T20:49:44.284575+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for PSOE, 26–30 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-04-30-Celeste-Tel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 23.4–28.8%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 22.3–27.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 15.5–20.2%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 17.3–22.3%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.9–2.5%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.4–1.6%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-04-30-Celeste-Tel.png"
+        length="237321"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 20:58:05 +0100</pubDate>
+      <dc:date>2019-02-17T20:58:05.126424+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 12–18 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-04-18-GESOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 18.6–23.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 18.1–23.1%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 15.8–20.6%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 25.8–31.4%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-04-18-GESOP.png"
+        length="210043"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 21:05:02 +0100</pubDate>
+      <dc:date>2019-02-17T21:05:02.20556+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 9–13 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-04-13-NCReport.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 23.7–29.1%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 21.0–26.2%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 14.0–18.6%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 21.7–27.1%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.0–4.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.4–1.6%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-04-13-NCReport.png"
+        length="236571"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 21:13:35 +0100</pubDate>
+      <dc:date>2019-02-17T21:13:35.42759+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CIS, 1–10 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-04-10-CIS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 22.4–25.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 20.4–23.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 18.1–21.2%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 20.8–24.1%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.4–3.8%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.2–2.3%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.9–1.8%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.4–1.0%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-04-10-CIS.png"
+        length="213281"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 21:28:28 +0100</pubDate>
+      <dc:date>2019-02-17T21:28:28.372285+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 2–9 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-04-09-SimpleLógica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 16.8–21.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 17.9–22.8%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 15.4–20.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 27.3–32.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-04-09-SimpleLógica.png"
+        length="163865"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 21:32:51 +0100</pubDate>
+      <dc:date>2019-02-17T21:32:51.64765+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 2–6 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-04-06-Celeste-Tel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 22.4–27.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 21.6–26.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 14.5–19.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 21.6–26.6%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.1–4.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.0–2.5%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.7–2.0%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 0.8–2.1%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega: 0.0–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-04-06-Celeste-Tel.png"
+        length="267511"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 21:40:41 +0100</pubDate>
+      <dc:date>2019-02-17T21:40:41.44482+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metroscopia for El País, 4–5 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-04-05-Metroscopia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 18.3–22.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 17.0–21.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 16.3–20.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 26.3–31.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-04-05-Metroscopia.png"
+        length="160862"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 21:44:40 +0100</pubDate>
+      <dc:date>2019-02-17T21:44:40.987509+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 19–29 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-03-29-SocioMétrica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 19.4–24.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 17.1–22.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 14.0–18.6%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 24.7–30.3%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.9–2.5%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.2–1.2%&lt;/li&gt;&lt;li&gt;Vox: 0.9–2.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-03-29-SocioMétrica.png"
+        length="251305"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 21:51:33 +0100</pubDate>
+      <dc:date>2019-02-17T21:51:33.83502+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 23–27 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-03-27-SigmaDos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 20.8–26.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 17.3–22.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 16.1–20.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 24.1–29.5%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.8–2.2%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.7–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-03-27-SigmaDos.png"
+        length="209900"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 21:57:47 +0100</pubDate>
+      <dc:date>2019-02-17T21:57:47.353424+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MyWord for Cadena SER, 13–16 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-03-16-MyWord.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 22.1–27.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 18.0–23.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 13.8–18.4%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 21.2–26.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-03-16-MyWord.png"
+        length="165852"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 22:01:16 +0100</pubDate>
+      <dc:date>2019-02-17T22:01:16.943259+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for La Vanguardia, 12–14 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-03-14-GAD3.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 21.3–26.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 19.7–24.8%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 14.5–19.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 24.6–30.1%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.0–4.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.0–2.6%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.3–1.3%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-03-14-GAD3.png"
+        length="239504"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 22:07:51 +0100</pubDate>
+      <dc:date>2019-02-17T22:07:51.502044+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 1–7 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-03-07-SimpleLógica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 17.7–22.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 18.7–23.5%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 15.1–19.7%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 26.9–32.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-03-07-SimpleLógica.png"
+        length="164269"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 22:11:21 +0100</pubDate>
+      <dc:date>2019-02-17T22:11:21.127722+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 1–7 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-03-07-Celeste-Tel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 24.1–29.3%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 21.8–26.9%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 14.1–18.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 21.1–26.2%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 1.8–3.8%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.0–2.6%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.8–2.1%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 0.7–2.0%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega: 0.0–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-03-07-Celeste-Tel.png"
+        length="268391"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 22:20:55 +0100</pubDate>
+      <dc:date>2019-02-17T22:20:55.011446+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metroscopia for El País, 2–5 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-03-05-Metroscopia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 19.3–24.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 17.2–21.8%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 15.0–19.3%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 26.4–31.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-03-05-Metroscopia.png"
+        length="160413"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 22:26:21 +0100</pubDate>
+      <dc:date>2019-02-17T22:26:21.832459+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 26 February–2 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-03-02-NCReport.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 25.2–30.8%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 21.4–26.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 13.7–18.2%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 19.6–24.8%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 1.9–4.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.9–2.5%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.4–1.6%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-03-02-NCReport.png"
+        length="237062"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 22:34:48 +0100</pubDate>
+      <dc:date>2019-02-17T22:34:48.870474+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 22–27 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-02-27-IMOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 19.3–23.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 19.4–23.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 15.1–19.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 26.2–31.0%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.2–4.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.1–2.5%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.6–1.8%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 1.4–2.9%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.4–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-02-27-IMOP.png"
+        length="231315"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 22:45:16 +0100</pubDate>
+      <dc:date>2019-02-17T22:45:16.692305+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MyWord for Cadena SER, 7–14 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-02-14-MyWord.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 21.9–27.3%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 18.9–24.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 14.4–19.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 19.6–24.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-02-14-MyWord.png"
+        length="165111"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 22:49:31 +0100</pubDate>
+      <dc:date>2019-02-17T22:49:31.651552+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 5–9 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-02-09-Celeste-Tel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 26.3–31.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 23.0–28.2%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 14.5–18.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 17.0–21.7%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 1.9–3.9%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.0–2.6%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.8–2.1%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 0.7–2.0%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Bloque Nacionalista Galego–Nós Candidatura Galega: 0.0–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-02-09-Celeste-Tel.png"
+        length="268052"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 22:59:16 +0100</pubDate>
+      <dc:date>2019-02-17T22:59:16.200014+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metroscopia for El País, 5–8 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-02-08-Metroscopia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 19.7–24.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 18.1–22.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 14.9–18.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 25.9–30.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-02-08-Metroscopia.png"
+        length="159389"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 23:04:14 +0100</pubDate>
+      <dc:date>2019-02-17T23:04:14.532376+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 1–7 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-02-07-SimpleLógica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 19.8–24.8%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 19.0–24.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 14.9–19.4%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 26.1–31.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-02-07-SimpleLógica.png"
+        length="164383"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 23:08:52 +0100</pubDate>
+      <dc:date>2019-02-17T23:08:52.156146+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for ABC, 31 January–7 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2018-02-07-GAD3.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 23.2–28.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 21.1–26.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 12.7–17.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 23.0–28.5%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.0–4.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.1–2.8%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.4–1.6%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-02-07-GAD3.png"
+        length="238815"
+        type="image/png"/>
+      <pubDate>Sun, 17 Feb 2019 23:15:55 +0100</pubDate>
+      <dc:date>2019-02-17T23:15:55.572156+01:00</dc:date>
+    </item>
+    <dc:date>2019-02-17T23:34:13.255276+01:00</dc:date>
   </channel>
 </rss>
