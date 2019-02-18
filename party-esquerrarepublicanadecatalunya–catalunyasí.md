@@ -133,7 +133,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 11–16 | 9–18 | 9–19 | 7–20 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–17 | 12–19 | 10–19 | 7–21 |
-| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 13 | 9–14 | 7–15 | 7–15 | 7–17 |
+| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 12 | 9–15 | 7–15 | 7–15 | 7–16 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 14 | 14–15 | 14–15 | 12–15 | 9–15 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
@@ -148,7 +148,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 9–13 | 9–13 | 9–13 | 9–16 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 10–13 | 10–13 | 10–15 | 10–15 |
-| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 13–19 | 12–20 | 11–20 | 10–21 |
+| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 13–19 | 12–20 | 12–20 | 10–22 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 7–15 | 7–15 | 7–15 | 7–15 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -239,21 +239,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.1% | 100% |  |
 | 7 | 1.4% | 99.9% |  |
-| 8 | 0.8% | 98% |  |
+| 8 | 0.8% | 98.5% |  |
 | 9 | 5% | 98% | Last Result |
-| 10 | 0.9% | 92% |  |
-| 11 | 2% | 92% |  |
-| 12 | 15% | 90% |  |
-| 13 | 20% | 75% |  |
-| 14 | 18% | 55% | Median |
-| 15 | 12% | 37% |  |
+| 10 | 2% | 93% |  |
+| 11 | 2% | 91% |  |
+| 12 | 15% | 89% |  |
+| 13 | 19% | 74% |  |
+| 14 | 16% | 54% | Median |
+| 15 | 13% | 38% |  |
 | 16 | 16% | 25% |  |
 | 17 | 3% | 9% |  |
 | 18 | 3% | 6% |  |
 | 19 | 2% | 3% |  |
-| 20 | 0.7% | 1.1% |  |
+| 20 | 0.8% | 1.1% |  |
 | 21 | 0.3% | 0.4% |  |
-| 22 | 0% | 0.1% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 

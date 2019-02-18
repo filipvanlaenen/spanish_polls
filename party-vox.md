@@ -142,9 +142,9 @@ Last result: **0** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 10–39 | 8–42 | 8–45 | 8–50 |
+| N/A | [Poll Average](average.html) | 25 | 10–39 | 8–43 | 8–45 | 8–50 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 30 | 26–39 | 25–40 | 23–43 | 21–48 |
-| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 21 | 17–25 | 17–26 | 15–27 | 14–30 |
+| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 22 | 18–25 | 17–26 | 15–28 | 14–30 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 37 | 31–45 | 29–48 | 28–50 | 26–54 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 21 | 16–21 | 16–21 | 16–21 | 16–27 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 36 | 35–36 | 31–36 | 31–37 | 28–44 |
@@ -159,7 +159,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 30 | 29–38 | 26–43 | 23–43 | 20–44 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 10–18 | 10–19 | 7–19 | 7–19 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 41 | 28–41 | 28–44 | 28–44 | 28–44 |
-| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 37 | 28–46 | 27–48 | 27–51 | 25–52 |
+| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 38 | 28–46 | 27–49 | 27–50 | 25–52 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 17 | 16–27 | 16–27 | 12–27 | 11–28 |
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 18–20 | 18–20 | 18–20 | 18–20 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 17 | 16–20 | 12–20 | 12–22 | 12–29 |
@@ -262,22 +262,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.8% | 86% |  |
 | 12 | 3% | 85% |  |
 | 13 | 2% | 83% |  |
-| 14 | 0.9% | 81% |  |
-| 15 | 0.7% | 80% |  |
+| 14 | 1.0% | 81% |  |
+| 15 | 0.5% | 80% |  |
 | 16 | 4% | 79% |  |
-| 17 | 2% | 75% |  |
-| 18 | 4% | 73% |  |
-| 19 | 1.4% | 69% |  |
-| 20 | 0.7% | 68% |  |
-| 21 | 12% | 67% |  |
-| 22 | 1.4% | 55% |  |
-| 23 | 0.5% | 54% |  |
-| 24 | 0.8% | 53% |  |
-| 25 | 3% | 52% | Median |
-| 26 | 2% | 50% |  |
+| 17 | 1.3% | 75% |  |
+| 18 | 3% | 74% |  |
+| 19 | 2% | 70% |  |
+| 20 | 1.0% | 68% |  |
+| 21 | 11% | 67% |  |
+| 22 | 2% | 56% |  |
+| 23 | 0.9% | 54% |  |
+| 24 | 2% | 53% |  |
+| 25 | 2% | 51% | Median |
+| 26 | 1.4% | 50% |  |
 | 27 | 4% | 48% |  |
 | 28 | 3% | 44% |  |
-| 29 | 3% | 41% |  |
+| 29 | 3% | 42% |  |
 | 30 | 3% | 39% |  |
 | 31 | 3% | 36% |  |
 | 32 | 2% | 33% |  |
@@ -288,18 +288,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 2% | 15% |  |
 | 38 | 2% | 12% |  |
 | 39 | 2% | 10% |  |
-| 40 | 1.0% | 8% |  |
-| 41 | 1.1% | 7% |  |
-| 42 | 1.3% | 6% |  |
+| 40 | 0.9% | 8% |  |
+| 41 | 1.2% | 7% |  |
+| 42 | 1.1% | 6% |  |
 | 43 | 1.0% | 5% |  |
-| 44 | 1.1% | 4% |  |
-| 45 | 0.7% | 3% |  |
-| 46 | 0.4% | 2% |  |
-| 47 | 0.4% | 1.5% |  |
-| 48 | 0.3% | 1.1% |  |
-| 49 | 0.1% | 0.8% |  |
-| 50 | 0.2% | 0.7% |  |
-| 51 | 0.2% | 0.5% |  |
+| 44 | 1.2% | 4% |  |
+| 45 | 0.6% | 3% |  |
+| 46 | 0.7% | 2% |  |
+| 47 | 0.4% | 2% |  |
+| 48 | 0.3% | 1.2% |  |
+| 49 | 0.2% | 0.9% |  |
+| 50 | 0.3% | 0.7% |  |
+| 51 | 0.1% | 0.4% |  |
 | 52 | 0.2% | 0.3% |  |
 | 53 | 0.1% | 0.1% |  |
 | 54 | 0% | 0.1% |  |

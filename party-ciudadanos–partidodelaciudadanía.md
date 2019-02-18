@@ -143,7 +143,7 @@ Last result: **32** seats (General Election of 26 June 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 64 | 53–76 | 46–82 | 42–87 | 37–93 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 66 | 58–72 | 57–72 | 55–73 | 53–76 |
-| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 63 | 59–71 | 57–72 | 54–73 | 51–75 |
+| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 64 | 59–70 | 56–72 | 54–73 | 51–75 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 47 | 38–53 | 36–55 | 35–56 | 31–61 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 63 | 55–63 | 55–63 | 55–63 | 52–63 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 53 | 42–53 | 42–53 | 41–53 | 40–54 |
@@ -158,7 +158,7 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 55 | 55–70 | 52–73 | 52–75 | 51–77 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 55 | 55–76 | 55–76 | 52–76 | 52–76 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 68 | 64–68 | 63–68 | 63–68 | 52–68 |
-| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 65 | 57–71 | 55–74 | 55–76 | 52–80 |
+| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 65 | 57–71 | 55–74 | 55–75 | 53–80 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 55 | 55–73 | 55–73 | 54–77 | 48–77 |
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 65 | 64–65 | 64–65 | 63–65 | 63–65 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 68 | 65–70 | 65–70 | 63–70 | 62–78 |
@@ -267,25 +267,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 0.5% | 94% |  |
 | 49 | 0.5% | 93% |  |
 | 50 | 1.0% | 93% |  |
-| 51 | 1.0% | 92% |  |
+| 51 | 1.1% | 92% |  |
 | 52 | 0.5% | 91% |  |
 | 53 | 7% | 90% |  |
 | 54 | 0.9% | 83% |  |
 | 55 | 4% | 82% |  |
-| 56 | 1.3% | 78% |  |
+| 56 | 1.2% | 78% |  |
 | 57 | 1.0% | 77% |  |
 | 58 | 1.2% | 76% |  |
-| 59 | 3% | 74% |  |
-| 60 | 1.3% | 72% |  |
-| 61 | 3% | 70% |  |
-| 62 | 4% | 68% |  |
-| 63 | 13% | 64% |  |
-| 64 | 11% | 51% | Median |
-| 65 | 4% | 40% |  |
-| 66 | 3% | 36% |  |
-| 67 | 5% | 33% |  |
+| 59 | 2% | 74% |  |
+| 60 | 1.1% | 73% |  |
+| 61 | 3% | 71% |  |
+| 62 | 3% | 68% |  |
+| 63 | 13% | 65% |  |
+| 64 | 11% | 52% | Median |
+| 65 | 3% | 41% |  |
+| 66 | 4% | 38% |  |
+| 67 | 6% | 33% |  |
 | 68 | 3% | 28% |  |
-| 69 | 3% | 25% |  |
+| 69 | 2% | 25% |  |
 | 70 | 2% | 22% |  |
 | 71 | 2% | 20% |  |
 | 72 | 3% | 18% |  |
@@ -294,9 +294,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 75 | 1.0% | 13% |  |
 | 76 | 3% | 12% |  |
 | 77 | 0.5% | 8% |  |
-| 78 | 0.9% | 8% |  |
+| 78 | 0.8% | 8% |  |
 | 79 | 0.4% | 7% |  |
-| 80 | 0.6% | 7% |  |
+| 80 | 0.5% | 7% |  |
 | 81 | 0.7% | 6% |  |
 | 82 | 0.5% | 5% |  |
 | 83 | 0.4% | 5% |  |

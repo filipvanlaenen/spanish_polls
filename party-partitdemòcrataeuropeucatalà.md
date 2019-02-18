@@ -131,7 +131,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 0–10 | 0–10 | 0–10 | 0–11 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 1–7 | 1–8 | 1–10 | 1–10 |
-| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 4 | 1–8 | 1–8 | 1–9 | 1–10 |
+| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 4 | 1–8 | 1–8 | 1–8 | 1–10 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 10 | 6–10 | 6–10 | 5–10 | 4–10 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
@@ -146,7 +146,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 4 | 4–7 | 4–7 | 4–7 | 3–7 |
-| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 4 | 1–6 | 1–6 | 1–7 | 0–8 |
+| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 3 | 1–6 | 1–6 | 1–7 | 0–8 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -244,7 +244,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 32% | 52% | Median |
 | 7 | 5% | 20% |  |
 | 8 | 3% | 15% | Last Result |
-| 9 | 0.8% | 12% |  |
+| 9 | 0.7% | 12% |  |
 | 10 | 10% | 11% |  |
 | 11 | 1.1% | 1.2% |  |
 | 12 | 0.1% | 0.1% |  |
