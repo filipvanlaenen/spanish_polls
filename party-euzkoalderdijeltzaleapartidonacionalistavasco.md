@@ -129,9 +129,9 @@ Last result: **5** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 3–9 | 3–9 | 3–9 | 3–10 |
+| N/A | [Poll Average](average.html) | 6 | 3–7 | 3–8 | 3–9 | 2–10 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 3–7 | 3–9 | 3–9 | 2–10 |
-| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 5 | 5–9 | 5–9 | 5–9 | 3–9 |
+| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 6 | 3–7 | 2–8 | 2–8 | 2–10 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 6 | 3–6 | 3–6 | 3–6 | 3–9 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
@@ -235,15 +235,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.3% | 100% |  |
-| 3 | 13% | 99.7% |  |
-| 4 | 9% | 87% |  |
-| 5 | 21% | 78% | Last Result |
-| 6 | 37% | 57% | Median |
-| 7 | 8% | 20% |  |
-| 8 | 2% | 12% |  |
-| 9 | 9% | 10% |  |
-| 10 | 0.6% | 0.7% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 1.0% | 99.9% |  |
+| 3 | 14% | 98.9% |  |
+| 4 | 12% | 85% |  |
+| 5 | 16% | 73% | Last Result |
+| 6 | 41% | 57% | Median |
+| 7 | 9% | 16% |  |
+| 8 | 3% | 7% |  |
+| 9 | 4% | 4% |  |
+| 10 | 0.7% | 0.8% |  |
 | 11 | 0% | 0% |  |
 
 
