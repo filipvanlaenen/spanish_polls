@@ -10,9 +10,12 @@ Last result: **2.7%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.6% | 2.3–4.9% | 2.1–5.1% | 1.9–5.5% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.6–4.8% | 2.4–5.0% | 2.2–5.2% | 1.9–5.5% |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
+| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 2.8% | N/A | N/A | N/A | N/A |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
+| [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 2.8% | N/A | N/A | N/A | N/A |
+| [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.8–4.4% |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
@@ -24,7 +27,7 @@ Last result: **2.7%** (General Election of 26 June 2016)
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.8–4.4% |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.0% | 2.3–4.3% |
-| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
+| [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.6% | 2.9–4.5% | 2.7–4.8% | 2.6–5.1% | 2.3–5.5% |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 3.1% | 2.5–4.0% | 2.3–4.2% | 2.2–4.5% | 1.9–4.9% |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
@@ -112,11 +115,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 14% | 100% |  |
-| 2.5–3.5% | 52% | 86% | Last Result, Median |
-| 3.5–4.5% | 23% | 34% |  |
-| 4.5–5.5% | 11% | 11% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 1.5–2.5% | 10% | 100% |  |
+| 2.5–3.5% | 46% | 90% | Last Result, Median |
+| 3.5–4.5% | 29% | 45% |  |
+| 4.5–5.5% | 15% | 15% |  |
+| 5.5–6.5% | 0.5% | 0.5% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -128,9 +131,12 @@ Last result: **9** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–16 | 9–17 | 9–19 | 7–21 |
+| N/A | [Poll Average](average.html) | 13 | 12–17 | 11–18 | 9–21 | 7–21 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–17 | 12–19 | 10–19 | 7–21 |
+| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
+| [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia |  |  |  |  |  |
+| [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 12–13 | 11–13 | 9–14 | 7–17 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
@@ -232,21 +238,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.1% | 100% |  |
-| 7 | 0.8% | 99.9% |  |
-| 8 | 0.7% | 99.1% |  |
-| 9 | 5% | 98% | Last Result |
-| 10 | 0.9% | 94% |  |
-| 11 | 3% | 93% |  |
-| 12 | 19% | 89% |  |
-| 13 | 23% | 70% | Median |
-| 14 | 16% | 47% |  |
-| 15 | 6% | 32% |  |
-| 16 | 16% | 26% |  |
-| 17 | 6% | 10% |  |
-| 18 | 0.7% | 4% |  |
-| 19 | 0.8% | 3% |  |
-| 20 | 0.1% | 2% |  |
-| 21 | 2% | 2% |  |
+| 7 | 1.0% | 99.9% |  |
+| 8 | 0.4% | 98.9% |  |
+| 9 | 3% | 98% | Last Result |
+| 10 | 0.5% | 96% |  |
+| 11 | 2% | 95% |  |
+| 12 | 21% | 93% |  |
+| 13 | 24% | 72% | Median |
+| 14 | 9% | 48% |  |
+| 15 | 5% | 40% |  |
+| 16 | 21% | 35% |  |
+| 17 | 8% | 14% |  |
+| 18 | 0.9% | 5% |  |
+| 19 | 1.1% | 4% |  |
+| 20 | 0.2% | 3% |  |
+| 21 | 3% | 3% |  |
 | 22 | 0% | 0% |  |
 
 

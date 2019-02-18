@@ -10,9 +10,12 @@ Last result: **0.3%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.1–1.0% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
+| [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 0.3% | N/A | N/A | N/A | N/A |
+| [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
@@ -111,8 +114,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 90% | 100% | Last Result, Median |
-| 0.5–1.5% | 10% | 10% |  |
+| 0.0–0.5% | 88% | 100% | Last Result, Median |
+| 0.5–1.5% | 12% | 12% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -124,9 +127,12 @@ Last result: **1** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–4 | 0–4 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
+| [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia |  |  |  |  |  |
+| [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 1 | 1–2 | 0–2 | 0–4 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
@@ -227,11 +233,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% |  |
-| 1 | 43% | 68% | Last Result, Median |
-| 2 | 22% | 25% |  |
-| 3 | 1.1% | 3% |  |
-| 4 | 2% | 2% |  |
+| 0 | 41% | 100% |  |
+| 1 | 45% | 59% | Last Result, Median |
+| 2 | 10% | 14% |  |
+| 3 | 1.4% | 4% |  |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 
