@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Mon, 18 Feb 2019 19:10:44 +0100</pubDate>
+    <pubDate>Mon, 18 Feb 2019 20:03:44 +0100</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 13–15 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-15-SocioMétrica.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-15-NCReport.png"
         length="238545"
         type="image/png"/>
-      <pubDate>Mon, 18 Feb 2019 18:52:33 +0100</pubDate>
-      <dc:date>2019-02-18T18:52:33.586625+01:00</dc:date>
+      <pubDate>Mon, 18 Feb 2019 20:03:44 +0100</pubDate>
+      <dc:date>2019-02-18T20:03:44.83478+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 13–15 February 2019 – Seat Projections for the Parties</title>
@@ -989,6 +989,6 @@
       <pubDate>Sun, 17 Feb 2019 23:15:55 +0100</pubDate>
       <dc:date>2019-02-17T23:15:55.572156+01:00</dc:date>
     </item>
-    <dc:date>2019-02-18T19:10:44.650492+01:00</dc:date>
+    <dc:date>2019-02-18T20:03:44.83478+01:00</dc:date>
   </channel>
 </rss>
