@@ -128,11 +128,11 @@ Last result: **2** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–6 | 1–6 | 1–7 | 0–8 |
+| N/A | [Poll Average](average.html) | 4 | 1–6 | 0–6 | 0–7 | 0–8 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 2–6 | 1–7 | 1–7 | 0–8 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 2 | 1–6 | 1–6 | 0–6 | 0–7 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
-| [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 2 | 1–2 | 1–2 | 1–2 | 0–7 |
+| [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 2 | 0–4 | 0–5 | 0–6 | 0–7 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 2–3 | 2–4 | 2–7 | 0–7 |
@@ -141,7 +141,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 5 | 5 | 5 | 5 | 5 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 6 | 2–6 | 2–6 | 2–7 | 2–7 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0–4 | 0–4 | 0–7 | 0–7 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 3–6 | 3–6 | 3–6 | 3–6 |
@@ -234,15 +234,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.3% | 100% |  |
-| 1 | 11% | 98.7% |  |
-| 2 | 24% | 88% | Last Result |
-| 3 | 16% | 64% | Median |
-| 4 | 6% | 48% |  |
-| 5 | 22% | 42% |  |
-| 6 | 16% | 20% |  |
-| 7 | 3% | 4% |  |
-| 8 | 1.0% | 1.1% |  |
+| 0 | 6% | 100% |  |
+| 1 | 8% | 94% |  |
+| 2 | 18% | 86% | Last Result |
+| 3 | 17% | 68% |  |
+| 4 | 9% | 51% | Median |
+| 5 | 9% | 42% |  |
+| 6 | 28% | 33% |  |
+| 7 | 3% | 5% |  |
+| 8 | 1.1% | 1.2% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 

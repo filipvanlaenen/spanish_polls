@@ -129,11 +129,11 @@ Last result: **8** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 0–10 | 0–10 | 0–10 | 0–11 |
+| N/A | [Poll Average](average.html) | 5 | 1–8 | 1–9 | 1–10 | 1–11 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 1–7 | 1–8 | 1–10 | 1–10 |
-| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 4 | 1–8 | 1–8 | 1–8 | 1–10 |
+| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 4 | 3–8 | 1–8 | 1–8 | 1–10 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
-| [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 10 | 6–10 | 6–10 | 5–10 | 4–10 |
+| [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 6 | 3–9 | 3–10 | 3–10 | 3–11 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 5–6 | 5–9 | 5–10 | 4–10 |
@@ -142,7 +142,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 1 | 1–3 | 1–4 | 1–5 | 1–5 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 4 | 4–7 | 4–7 | 4–7 | 3–7 |
@@ -235,18 +235,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 8% | 86% |  |
-| 2 | 2% | 78% |  |
-| 3 | 7% | 76% |  |
-| 4 | 11% | 69% |  |
-| 5 | 6% | 58% |  |
-| 6 | 32% | 52% | Median |
-| 7 | 5% | 20% |  |
-| 8 | 3% | 15% | Last Result |
-| 9 | 0.7% | 12% |  |
-| 10 | 10% | 11% |  |
-| 11 | 1.1% | 1.2% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 19% | 99.9% |  |
+| 2 | 3% | 81% |  |
+| 3 | 9% | 78% |  |
+| 4 | 13% | 70% |  |
+| 5 | 8% | 57% | Median |
+| 6 | 32% | 49% |  |
+| 7 | 6% | 17% |  |
+| 8 | 5% | 11% | Last Result |
+| 9 | 1.4% | 5% |  |
+| 10 | 3% | 4% |  |
+| 11 | 1.3% | 1.4% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 

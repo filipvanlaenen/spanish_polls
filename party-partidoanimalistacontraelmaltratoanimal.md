@@ -143,7 +143,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
