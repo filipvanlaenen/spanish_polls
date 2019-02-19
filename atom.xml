@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_polls</id>
   <title>All Registered Polls for the Congress of Deputies</title>
-  <updated>2019-02-19T16:39:15.147787+01:00</updated>
+  <updated>2019-02-19T19:03:11.173293+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular: 17.5–22.5%, 67–96 seats</li><li>Partido Socialista Obrero Español: 24.7–30.3%, 104–135 seats</li><li>Unidos Podemos: 11.6–15.9%, 28–46 seats</li><li>Ciudadanos–Partido de la Ciudadanía: 12.5–16.8%, 35–56 seats</li><li>Vox: 11.1–15.2%, 28–50 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_polls/2019-02-15-GESOP.html</id>
@@ -55,5 +55,13 @@
     <updated>2019-02-19T10:19:35.247905+01:00</updated>
     <dc:date>2019-02-19T10:19:35.247905+01:00</dc:date>
   </entry>
-  <dc:date>2019-02-19T16:39:15.147787+01:00</dc:date>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular: 20.6–25.4%, 83–109 seats</li><li>Partido Socialista Obrero Español: 20.9–25.7%, 83–106 seats</li><li>Unidos Podemos: 12.9–17.0%, 32–55 seats</li><li>Ciudadanos–Partido de la Ciudadanía: 20.6–25.4%, 70–96 seats</li><li>Vox: 6.0–9.0%, 7–18 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_polls/2018-12-07-Invymark.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_polls/2018-12-07-Invymark.html"/>
+    <title>Opinion Poll by Invymark for laSexta, 3–7 December 2018</title>
+    <updated>2019-02-19T19:03:11.173293+01:00</updated>
+    <dc:date>2019-02-19T19:03:11.173293+01:00</dc:date>
+  </entry>
+  <dc:date>2019-02-19T19:03:11.173293+01:00</dc:date>
 </feed>
