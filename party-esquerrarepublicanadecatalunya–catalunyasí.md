@@ -153,10 +153,10 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 7–15 | 7–15 | 7–15 | 7–15 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 12 | 9–14 | 9–15 | 9–15 | 7–17 |
-| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 11 | 11 | 11 | 11 | 11–13 |
+| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 12 | 9–13 | 9–14 | 9–16 | 7–18 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 12 | 10–15 | 9–15 | 9–16 | 7–18 |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
-| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 11 | 11 | 11 | 11 |
+| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 10 | 9–13 | 9–13 | 9–15 | 8–15 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7 | 7–9 | 7–12 | 7–15 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -201,7 +201,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 15 | 11–15 | 11–15 | 9–15 | 8–18 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 7–13 | 7–13 | 7–13 | 7–14 |
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12 | 12 | 12 | 10–15 |
-| [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 11 | 11 | 11 | 11 | 9–11 |
+| [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–15 | 9–15 | 9–17 | 7–17 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 9 | 7–12 | 6–12 | 6–13 | 5–14 |
 | [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 10–15 | 9–15 | 9–15 | 9–15 |
 | [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 9 | 8–16 | 7–16 | 7–16 | 7–18 |

@@ -151,10 +151,10 @@ Last result: **5** seats (General Election of 26 June 2016)
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 8 | 8 | 1–8 | 1–10 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 6 | 3–6 | 2–7 | 2–7 | 1–9 |
-| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 9 | 9 | 9 | 9 | 7–9 |
+| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 6 | 6–7 | 5–9 | 3–9 | 3–10 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 6 | 4–8 | 3–9 | 3–9 | 2–9 |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
-| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 7 | 7 | 7 | 7 |
+| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–6 | 2–6 | 2–6 | 2–8 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 5 | 5 | 5 | 5–10 | 5–11 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -199,7 +199,7 @@ Last result: **5** seats (General Election of 26 June 2016)
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 6 | 6 | 4–8 | 3–9 | 2–10 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 5–10 | 5–10 | 5–10 | 3–10 |
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6 | 6 | 6–10 |
+| [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–7 | 4–7 | 3–7 | 3–9 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 6 | 3–7 | 3–8 | 3–9 | 2–10 |
 | [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 5–7 | 5–9 | 3–10 |
 | [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 6 | 4–7 | 3–8 | 3–12 | 0–12 |

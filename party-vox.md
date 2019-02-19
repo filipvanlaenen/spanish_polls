@@ -148,7 +148,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 37 | 31–45 | 29–48 | 28–50 | 26–54 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 19 | 13–22 | 13–23 | 13–25 | 11–28 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 33 | 30–40 | 29–41 | 28–43 | 26–46 |
-| [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 32 | 26–41 | 25–43 | 24–45 | 21–50 |
+| [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 32 | 27–41 | 25–43 | 24–45 | 21–50 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21 | 17–21 | 16–24 | 15–24 | 13–27 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 31 | 27–36 | 26–38 | 26–40 | 25–42 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 20 | 15–24 | 12–25 | 12–25 | 11–27 |
@@ -164,10 +164,10 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 18–20 | 18–20 | 18–20 | 18–20 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 17 | 16–20 | 12–20 | 12–22 | 12–29 |
 | [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 18 | 14–19 | 12–22 | 12–22 | 9–26 |
-| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 14 |  |  |  |  |
+| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 21 | 14–24 | 12–24 | 12–24 | 10–26 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 16 | 12–20 | 11–21 | 10–24 | 9–25 |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 28 | 28–32 | 28–33 | 28–34 | 22–37 |
-| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 7 | 7 | 7 | 7 |
+| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 7 | 6–12 | 6–17 | 6–17 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 12 | 9–17 | 9–18 | 7–18 | 6–20 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 27 | 27 | 27 | 26–27 | 24–35 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -212,7 +212,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 4–6 | 4–6 | 4–6 |
-| [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 2 | 2 | 2–6 |
+| [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
@@ -275,7 +275,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 2% | 53% |  |
 | 25 | 1.4% | 51% |  |
 | 26 | 2% | 50% | Median |
-| 27 | 4% | 48% |  |
+| 27 | 4% | 49% |  |
 | 28 | 3% | 44% |  |
 | 29 | 3% | 41% |  |
 | 30 | 3% | 38% |  |
@@ -287,7 +287,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 2% | 19% |  |
 | 37 | 3% | 17% |  |
 | 38 | 2% | 14% |  |
-| 39 | 2% | 11% |  |
+| 39 | 2% | 12% |  |
 | 40 | 1.2% | 9% |  |
 | 41 | 1.4% | 8% |  |
 | 42 | 1.2% | 6% |  |

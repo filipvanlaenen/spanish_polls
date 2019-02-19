@@ -162,10 +162,10 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 92 | 92–103 | 92–103 | 85–103 | 85–103 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 107 | 93–112 | 91–112 | 91–112 | 81–114 |
 | [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 91 | 91–105 | 88–110 | 88–111 | 85–113 |
-| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 89 | 89 | 89 | 89 | 89–106 |
+| [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 102 | 91–116 | 91–116 | 88–116 | 86–116 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 109 | 103–116 | 99–117 | 95–121 | 91–126 |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 91 | 88–93 | 88–94 | 86–95 | 84–95 |
-| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 95 | 95 | 95 | 95 | 95 |
+| [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 93 | 93–97 | 93–101 | 93–101 | 86–108 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 92 | 85–101 | 84–104 | 83–106 | 80–111 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 90 | 90 | 88–90 | 73–90 | 64–90 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 99 | 90–109 | 89–113 | 88–116 | 85–120 |
@@ -176,7 +176,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 106 | 104–114 | 103–114 | 92–116 | 90–118 |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 101 | 93–105 | 93–106 | 93–112 | 89–120 |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 130 | 130–131 | 130–133 | 128–133 | 128–136 |
-| [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 97 | 88–110 | 88–111 | 88–117 | 87–118 |
+| [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 101 | 89–111 | 88–113 | 87–114 | 86–116 |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 102 | 102 | 102–116 | 101–126 | 100–126 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 93 | 91–100 | 89–111 | 89–111 | 89–122 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 117 | 112–126 | 111–128 | 111–130 | 110–130 |
@@ -210,7 +210,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 120 | 99–120 | 98–125 | 95–125 | 93–127 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 103 | 86–110 | 86–110 | 86–110 | 86–110 |
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 88 | 88 | 84–88 | 84–88 | 83–88 |
-| [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 90 | 90 | 90 | 90 | 90–97 |
+| [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 90 | 90–99 | 90–108 | 87–108 | 79–108 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 78 | 70–85 | 69–88 | 66–89 | 63–90 |
 | [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 82 | 81–85 | 76–86 | 74–88 | 66–90 |
 | [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 89 | 75–93 | 75–109 | 75–110 | 66–111 |
@@ -235,7 +235,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 90 | 85–102 | 72–102 | 72–102 | 72–102 |
 | [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 96 | 85–106 | 85–111 | 85–111 | 85–111 |
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 78 | 72–85 | 70–87 | 68–88 | 63–90 |
-| [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 77 | 67–79 | 66–88 | 65–90 | 65–99 |
+| [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 83 | 75–88 | 73–90 | 71–92 | 65–97 |
 | [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 83 | 80–90 | 80–90 | 80–90 | 80–96 |
 
 ### Probability Mass Function
@@ -270,7 +270,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 98 | 7% | 71% |  |
 | 99 | 2% | 64% |  |
 | 100 | 3% | 63% |  |
-| 101 | 1.4% | 60% |  |
+| 101 | 1.5% | 60% |  |
 | 102 | 2% | 59% |  |
 | 103 | 1.3% | 57% |  |
 | 104 | 1.4% | 56% |  |
@@ -291,8 +291,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 119 | 3% | 24% |  |
 | 120 | 2% | 21% |  |
 | 121 | 1.3% | 19% |  |
-| 122 | 2% | 17% |  |
-| 123 | 0.9% | 16% |  |
+| 122 | 1.5% | 17% |  |
+| 123 | 1.0% | 16% |  |
 | 124 | 1.0% | 15% |  |
 | 125 | 0.9% | 14% |  |
 | 126 | 2% | 13% |  |
