@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Tue, 19 Feb 2019 15:11:54 +0100</pubDate>
+    <pubDate>Tue, 19 Feb 2019 16:15:00 +0100</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 13–15 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-15-SocioMétrica.html</link>
@@ -126,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-08-SimpleLógica.png"
         length="186605"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 18:47:45 +0100</pubDate>
-      <dc:date>2019-02-17T18:47:45.976498+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 15:40:10 +0100</pubDate>
+      <dc:date>2019-02-19T15:40:10.127133+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 4–8 February 2019 – Voting Intentions</title>
@@ -306,8 +306,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-12-14-GAD3.png"
         length="256315"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 11:38:43 +0100</pubDate>
-      <dc:date>2019-02-17T11:38:43.15503+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 16:15:00 +0100</pubDate>
+      <dc:date>2019-02-19T16:15:00.607569+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 10–13 December 2018 – Seat Projections for the Parties</title>
@@ -586,8 +586,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-08-30-SocioMétrica.png"
         length="266125"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 16:01:02 +0100</pubDate>
-      <dc:date>2019-02-17T16:01:02.98209+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 16:02:44 +0100</pubDate>
+      <dc:date>2019-02-19T16:02:44.663324+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 1–7 August 2018 – Voting Intentions</title>
@@ -676,8 +676,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-07-12-SigmaDos.png"
         length="207801"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 17:05:21 +0100</pubDate>
-      <dc:date>2019-02-17T17:05:21.789775+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 15:43:13 +0100</pubDate>
+      <dc:date>2019-02-19T15:43:13.735877+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CIS, 1–10 July 2018 – Voting Intentions</title>
@@ -1006,8 +1006,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-03-02-NCReport.png"
         length="238735"
         type="image/png"/>
-      <pubDate>Tue, 19 Feb 2019 15:11:54 +0100</pubDate>
-      <dc:date>2019-02-19T15:11:54.679563+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 15:27:20 +0100</pubDate>
+      <dc:date>2019-02-19T15:27:20.481066+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 22–27 February 2018 – Voting Intentions</title>
@@ -1069,6 +1069,6 @@
       <pubDate>Sun, 17 Feb 2019 23:15:55 +0100</pubDate>
       <dc:date>2019-02-17T23:15:55.572156+01:00</dc:date>
     </item>
-    <dc:date>2019-02-19T15:11:54.679563+01:00</dc:date>
+    <dc:date>2019-02-19T16:15:00.607569+01:00</dc:date>
   </channel>
 </rss>
