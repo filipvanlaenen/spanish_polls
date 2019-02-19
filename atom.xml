@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_polls</id>
   <title>All Registered Polls for the Congress of Deputies</title>
-  <updated>2019-02-18T20:13:25.271239+01:00</updated>
+  <updated>2019-02-19T10:19:35.247905+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular: 17.5–22.5%, 67–96 seats</li><li>Partido Socialista Obrero Español: 24.7–30.3%, 104–135 seats</li><li>Unidos Podemos: 11.6–15.9%, 28–46 seats</li><li>Ciudadanos–Partido de la Ciudadanía: 12.5–16.8%, 35–56 seats</li><li>Vox: 11.1–15.2%, 28–50 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_polls/2019-02-15-GESOP.html</id>
@@ -23,5 +23,13 @@
     <updated>2019-02-18T20:13:25.271239+01:00</updated>
     <dc:date>2019-02-18T20:13:25.271239+01:00</dc:date>
   </entry>
-  <dc:date>2019-02-18T20:13:25.271239+01:00</dc:date>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular: 17.3–22.1%, 66–90 seats</li><li>Partido Socialista Obrero Español: 23.2–28.5%, 95–121 seats</li><li>Unidos Podemos: 13.5–17.9%, 36–60 seats</li><li>Ciudadanos–Partido de la Ciudadanía: 18.2–23.1%, 65–84 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí: 2.1–4.2%, 9–16 seats</li><li>Partit Demòcrata Europeu Català: 1.0–2.6%, 3–10 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.7–2.0%, 3–9 seats</li><li>Partido Animalista Contra el Maltrato Animal: 1.0–2.6%, 0–1 seats</li><li>Euskal Herria Bildu: 0.5–1.6%, 1–7 seats</li><li>Vox: 6.5–9.8%, 10–24 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_polls/2018-12-13-IMOP.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_polls/2018-12-13-IMOP.html"/>
+    <title>Opinion Poll by IMOP for El Confidencial, 10–13 December 2018</title>
+    <updated>2019-02-19T10:19:35.247905+01:00</updated>
+    <dc:date>2019-02-19T10:19:35.247905+01:00</dc:date>
+  </entry>
+  <dc:date>2019-02-19T10:19:35.247905+01:00</dc:date>
 </feed>
