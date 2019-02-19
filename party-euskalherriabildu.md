@@ -135,7 +135,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 2 | 0–5 | 0–5 | 0–5 | 0–7 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 2–3 | 2–4 | 2–7 | 0–7 |
+| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 2–4 | 2–5 | 1–7 | 0–7 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 3 | 2–6 | 1–6 | 0–6 | 0–7 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 1 | 1–4 | 1–4 | 1–4 | 0–6 |
@@ -165,7 +165,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 3 | 2–3 | 0–4 | 0–6 | 0–7 |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 2 | 2–4 | 2–4 | 2–4 | 2–7 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 6–7 | 5–7 | 3–7 | 1–7 |
+| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 1–6 | 1–7 | 1–7 | 1–7 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es |  |  |  |  |  |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
@@ -224,7 +224,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 2–4 | 1–5 | 1–6 | 0–7 |
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
 | [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 4 | 1–4 | 1–4 | 1–5 | 1–11 |
+| [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 3 | 1–6 | 1–7 | 1–7 | 0–7 |
 
 ### Probability Mass Function
 
@@ -236,9 +236,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 4% | 100% |  |
 | 1 | 9% | 96% |  |
-| 2 | 23% | 87% | Last Result |
-| 3 | 17% | 64% | Median |
-| 4 | 12% | 46% |  |
+| 2 | 23% | 86% | Last Result |
+| 3 | 16% | 63% | Median |
+| 4 | 13% | 48% |  |
 | 5 | 12% | 35% |  |
 | 6 | 18% | 23% |  |
 | 7 | 5% | 5% |  |

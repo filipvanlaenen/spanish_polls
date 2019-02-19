@@ -129,14 +129,14 @@ Last result: **8** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 1–8 | 1–8 | 1–10 | 1–10 |
+| N/A | [Poll Average](average.html) | 5 | 1–8 | 1–9 | 1–10 | 1–10 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 1–7 | 1–8 | 1–10 | 1–10 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 4 | 3–8 | 1–8 | 1–8 | 1–10 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 7 | 4–8 | 4–10 | 3–10 | 1–10 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 5–6 | 5–9 | 5–10 | 4–10 |
+| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 5–10 | 5–10 | 4–10 | 4–10 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 5 | 3–7 | 2–8 | 2–8 | 1–10 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 6 | 6–8 | 5–10 | 4–10 | 4–10 |
@@ -166,7 +166,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 6 | 3–8 | 3–8 | 3–8 | 1–8 |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 6 | 6–7 | 3–7 | 3–7 | 1–7 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 3–8 | 3–8 | 3–8 | 3–11 |
+| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 4–8 | 4–10 | 3–11 | 1–11 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es |  |  |  |  |  |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
@@ -225,7 +225,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 | [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 5–9 | 4–9 | 4–9 | 2–10 |
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
 | [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 7 | 6–7 | 6–8 | 6–8 | 4–13 |
+| [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 7 | 4–10 | 4–10 | 4–10 | 3–12 |
 
 ### Probability Mass Function
 
@@ -240,12 +240,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 3% | 84% |  |
 | 3 | 11% | 81% |  |
 | 4 | 12% | 70% |  |
-| 5 | 9% | 58% | Median |
-| 6 | 32% | 50% |  |
-| 7 | 5% | 18% |  |
-| 8 | 8% | 13% | Last Result |
-| 9 | 2% | 5% |  |
-| 10 | 3% | 3% |  |
+| 5 | 8% | 58% | Median |
+| 6 | 31% | 50% |  |
+| 7 | 5% | 19% |  |
+| 8 | 8% | 14% | Last Result |
+| 9 | 2% | 6% |  |
+| 10 | 4% | 4% |  |
 | 11 | 0.1% | 0.2% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
