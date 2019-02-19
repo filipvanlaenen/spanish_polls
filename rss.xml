@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Tue, 19 Feb 2019 16:15:00 +0100</pubDate>
+    <pubDate>Tue, 19 Feb 2019 17:30:01 +0100</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 13–15 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-15-SocioMétrica.html</link>
@@ -120,14 +120,34 @@
       <dc:date>2019-02-19T14:42:01.362728+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Simple Lógica, 1–8 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-08-SimpleLógica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 60–87 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 98–128 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 32–53 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 50–69 seats&lt;/li&gt;&lt;li&gt;Vox: 24–45 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-08-SimpleLógica-seats.png"
+        length="170589"
+        type="image/png"/>
+      <pubDate>Tue, 19 Feb 2019 16:39:15 +0100</pubDate>
+      <dc:date>2019-02-19T16:39:15.147787+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Simple Lógica, 1–8 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-08-SimpleLógica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-08-SimpleLógica-coalitions-seats.png"
+        length="458092"
+        type="image/png"/>
+      <pubDate>Tue, 19 Feb 2019 16:39:15 +0100</pubDate>
+      <dc:date>2019-02-19T16:39:15.147787+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Simple Lógica, 1–8 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-08-SimpleLógica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 15.7–20.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 22.8–28.1%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 11.9–16.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 14.8–19.4%&lt;/li&gt;&lt;li&gt;Vox: 9.9–13.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-08-SimpleLógica.png"
         length="186605"
         type="image/png"/>
-      <pubDate>Tue, 19 Feb 2019 15:40:10 +0100</pubDate>
-      <dc:date>2019-02-19T15:40:10.127133+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 16:39:15 +0100</pubDate>
+      <dc:date>2019-02-19T16:39:15.147787+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 4–8 February 2019 – Voting Intentions</title>
@@ -306,8 +326,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-12-14-GAD3.png"
         length="256315"
         type="image/png"/>
-      <pubDate>Tue, 19 Feb 2019 16:15:00 +0100</pubDate>
-      <dc:date>2019-02-19T16:15:00.607569+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 16:33:58 +0100</pubDate>
+      <dc:date>2019-02-19T16:33:58.398637+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 10–13 December 2018 – Seat Projections for the Parties</title>
@@ -356,8 +376,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-12-11-Celeste-Tel.png"
         length="285377"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 12:18:43 +0100</pubDate>
-      <dc:date>2019-02-17T12:18:43.224335+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 17:13:13 +0100</pubDate>
+      <dc:date>2019-02-19T17:13:13.848099+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 3–7 December 2018 – Voting Intentions</title>
@@ -466,8 +486,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-10-05-SimpleLógica.png"
         length="165963"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 13:25:41 +0100</pubDate>
-      <dc:date>2019-02-17T13:25:41.767981+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 17:23:59 +0100</pubDate>
+      <dc:date>2019-02-19T17:23:59.721492+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 1–5 October 2018 – Voting Intentions</title>
@@ -806,8 +826,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-05-28-electoPanel.png"
         length="261561"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 20:07:39 +0100</pubDate>
-      <dc:date>2019-02-17T20:07:39.617383+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 16:50:22 +0100</pubDate>
+      <dc:date>2019-02-19T16:50:22.898563+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 23–28 May 2018 – Voting Intentions</title>
@@ -1056,8 +1076,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-02-07-SimpleLógica.png"
         length="165327"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 23:08:52 +0100</pubDate>
-      <dc:date>2019-02-17T23:08:52.156146+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 17:30:01 +0100</pubDate>
+      <dc:date>2019-02-19T17:30:01.399341+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 31 January–7 February 2018 – Voting Intentions</title>
@@ -1069,6 +1089,6 @@
       <pubDate>Sun, 17 Feb 2019 23:15:55 +0100</pubDate>
       <dc:date>2019-02-17T23:15:55.572156+01:00</dc:date>
     </item>
-    <dc:date>2019-02-19T16:15:00.607569+01:00</dc:date>
+    <dc:date>2019-02-19T17:30:01.399341+01:00</dc:date>
   </channel>
 </rss>
