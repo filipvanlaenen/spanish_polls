@@ -137,7 +137,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia |  |  |  |  |  |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0–1 |
+| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0–1 | 0–1 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
@@ -168,7 +168,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
-| [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
+| [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 1 | 0–1 | 0–1 | 0–1 | 0–2 |

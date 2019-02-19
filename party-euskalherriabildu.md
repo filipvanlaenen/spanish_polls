@@ -128,14 +128,14 @@ Last result: **2** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–6 | 1–6 | 0–7 | 0–7 |
+| N/A | [Poll Average](average.html) | 3 | 1–6 | 1–7 | 0–7 | 0–7 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 2–6 | 1–7 | 1–7 | 0–8 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 2 | 1–6 | 1–6 | 0–6 | 0–7 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 2 | 0–5 | 0–5 | 0–5 | 0–7 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 2–4 | 2–5 | 1–7 | 0–7 |
+| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 1–5 | 1–7 | 1–7 | 0–7 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 3 | 2–6 | 1–6 | 0–6 | 0–7 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 1 | 1–4 | 1–4 | 1–4 | 0–6 |
@@ -175,7 +175,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 2 | 1–4 | 1–5 | 0–6 | 0–7 |
 | [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 1–5 | 1–6 | 1–6 | 1–7 |
-| [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–4 | 1–6 | 1–7 |
+| [27–31 August 2018](2018-08-31-NCReport.html) | NC Report <br> La Razón | 3 | 1–6 | 1–7 | 1–7 | 0–7 |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–4 | 2–4 | 1–6 | 0–7 |
 | [1–7 August 2018](2018-08-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 4 | 4 | 4 | 4–5 |
 | [27 July–3 August 2018](2018-08-03-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–5 | 1–5 | 1–6 | 0–7 |
@@ -235,12 +235,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 4% | 100% |  |
-| 1 | 9% | 96% |  |
-| 2 | 23% | 86% | Last Result |
-| 3 | 16% | 63% | Median |
-| 4 | 13% | 48% |  |
-| 5 | 12% | 35% |  |
-| 6 | 18% | 23% |  |
+| 1 | 11% | 96% |  |
+| 2 | 23% | 85% | Last Result |
+| 3 | 13% | 62% | Median |
+| 4 | 13% | 49% |  |
+| 5 | 12% | 36% |  |
+| 6 | 18% | 24% |  |
 | 7 | 5% | 5% |  |
 | 8 | 0.3% | 0.4% |  |
 | 9 | 0.1% | 0.1% |  |
