@@ -140,7 +140,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 105 | 90–129 | 87–132 | 85–132 | 81–138 |
+| N/A | [Poll Average](average.html) | 105 | 90–129 | 87–132 | 85–139 | 81–143 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 105 | 94–113 | 90–115 | 88–117 | 81–120 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 94 | 87–105 | 85–107 | 84–110 | 82–115 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 120 | 109–130 | 106–132 | 104–135 | 99–139 |
@@ -153,7 +153,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 120 | 101–127 | 101–127 | 101–127 | 101–127 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 99 | 95–100 | 94–104 | 90–109 | 88–109 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 91 | 91–93 | 84–102 | 83–102 | 79–103 |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 132 | 132–143 | 131–143 | 130–143 | 129–143 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 134 | 131–143 | 131–143 | 130–143 | 128–145 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 109 | 106–118 | 105–119 | 103–119 | 92–128 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 101 | 88–101 | 86–101 | 86–101 | 86–101 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 85 | 85–98 | 85–101 | 85–101 | 85–101 |
@@ -202,7 +202,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 106 | 104–116 | 104–118 | 100–119 | 90–127 |
 | [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 99 | 99–110 | 99–110 | 99–110 | 99–123 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 101 | 101–110 | 101–110 | 91–110 | 91–124 |
-| [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 90 | 90–92 | 90–92 | 90–92 | 88–123 |
+| [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 97 | 92–97 | 92–100 | 92–112 | 86–112 |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 113 | 103–117 | 103–117 | 102–125 | 97–127 |
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 118 | 97–119 | 95–123 | 93–124 | 91–126 |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 95 | 90–95 | 90–95 | 90–95 | 90–95 |
@@ -296,24 +296,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 124 | 2% | 17% |  |
 | 125 | 0.8% | 15% |  |
 | 126 | 3% | 14% |  |
-| 127 | 0.4% | 11% |  |
+| 127 | 0.5% | 11% |  |
 | 128 | 0.4% | 11% |  |
 | 129 | 0.6% | 10% |  |
-| 130 | 0.8% | 10% |  |
-| 131 | 0.3% | 9% |  |
-| 132 | 6% | 9% |  |
-| 133 | 0.2% | 2% |  |
-| 134 | 0.3% | 2% |  |
-| 135 | 0.6% | 2% |  |
-| 136 | 0.2% | 1.1% |  |
-| 137 | 0.1% | 0.9% |  |
-| 138 | 0.4% | 0.8% |  |
-| 139 | 0.1% | 0.5% |  |
-| 140 | 0.2% | 0.4% |  |
-| 141 | 0% | 0.2% |  |
-| 142 | 0% | 0.1% |  |
-| 143 | 0.1% | 0.1% |  |
+| 130 | 0.6% | 10% |  |
+| 131 | 0.8% | 9% |  |
+| 132 | 3% | 8% |  |
+| 133 | 0.3% | 5% |  |
+| 134 | 0.4% | 5% |  |
+| 135 | 0.9% | 4% |  |
+| 136 | 0.2% | 3% |  |
+| 137 | 0.1% | 3% |  |
+| 138 | 0.4% | 3% |  |
+| 139 | 0.9% | 3% |  |
+| 140 | 0.3% | 2% |  |
+| 141 | 0.2% | 2% |  |
+| 142 | 0% | 1.5% |  |
+| 143 | 1.3% | 1.5% |  |
 | 144 | 0% | 0.1% |  |
-| 145 | 0% | 0% |  |
+| 145 | 0.1% | 0.1% |  |
+| 146 | 0% | 0% |  |
 
 

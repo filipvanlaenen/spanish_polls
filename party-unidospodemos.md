@@ -150,7 +150,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 30 | 29–30 | 29–31 | 29–31 | 26–31 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 61 | 50–63 | 47–63 | 45–63 | 45–69 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 47 | 45–47 | 45–49 | 45–49 | 39–63 |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 46 | 46–53 | 46–53 | 45–54 | 41–56 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 46 | 46–53 | 43–53 | 42–55 | 40–56 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 37 | 37–46 | 35–46 | 35–47 | 34–48 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 43 | 43–61 | 43–61 | 43–61 | 43–61 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 67 | 53–67 | 39–67 | 39–67 | 39–67 |
@@ -199,7 +199,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 46 | 41–65 | 39–67 | 39–67 | 38–67 |
 | [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 62 | 43–62 | 43–62 | 43–62 | 35–62 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 52 | 35–52 | 35–52 | 35–52 | 30–65 |
-| [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 46 | 45–46 | 45–46 | 45–46 | 40–75 |
+| [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 63 | 55–71 | 50–71 | 48–71 | 45–71 |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 40 | 35–41 | 35–45 | 35–46 | 34–70 |
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 34 | 34–53 | 32–54 | 32–54 | 28–55 |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 46 | 46–63 | 45–63 | 45–63 | 45–63 |
@@ -261,21 +261,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 5% | 69% |  |
 | 40 | 4% | 64% |  |
 | 41 | 4% | 60% |  |
-| 42 | 4% | 56% |  |
+| 42 | 5% | 56% |  |
 | 43 | 6% | 52% | Median |
 | 44 | 4% | 46% |  |
 | 45 | 4% | 42% |  |
-| 46 | 10% | 38% |  |
-| 47 | 2% | 28% |  |
-| 48 | 3% | 26% |  |
-| 49 | 2% | 23% |  |
-| 50 | 7% | 21% |  |
-| 51 | 1.2% | 14% |  |
-| 52 | 2% | 13% |  |
-| 53 | 2% | 11% |  |
-| 54 | 1.3% | 10% |  |
+| 46 | 8% | 37% |  |
+| 47 | 2% | 29% |  |
+| 48 | 3% | 28% |  |
+| 49 | 2% | 25% |  |
+| 50 | 7% | 22% |  |
+| 51 | 2% | 16% |  |
+| 52 | 1.4% | 14% |  |
+| 53 | 2% | 12% |  |
+| 54 | 1.2% | 10% |  |
 | 55 | 4% | 9% |  |
-| 56 | 1.1% | 5% |  |
+| 56 | 1.3% | 5% |  |
 | 57 | 0.6% | 4% |  |
 | 58 | 1.1% | 3% |  |
 | 59 | 0.4% | 2% |  |

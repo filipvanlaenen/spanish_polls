@@ -142,7 +142,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 0 | 0 | 0 | 0 | 0 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 1 | 1–3 | 1–4 | 1–5 | 1–5 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 1 | 1–3 | 1–4 | 1–5 | 1–6 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 4 | 4–7 | 4–7 | 4–7 | 3–7 |
@@ -191,7 +191,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 3–10 | 3–10 | 3–10 | 3–10 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 3 | 3–10 | 3–10 | 3–10 | 1–10 |
-| [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–4 | 2–4 | 2–4 | 2–8 |
+| [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 4 | 4–6 | 3–6 | 3–6 | 2–7 |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 5 | 4–6 | 3–6 | 1–6 | 1–10 |
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 6 | 6 | 6–7 | 6–7 | 6–7 |
@@ -236,10 +236,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 19% | 99.9% |  |
-| 2 | 3% | 81% |  |
-| 3 | 9% | 78% |  |
-| 4 | 13% | 70% |  |
+| 1 | 16% | 99.9% |  |
+| 2 | 3% | 84% |  |
+| 3 | 12% | 81% |  |
+| 4 | 12% | 69% |  |
 | 5 | 8% | 57% | Median |
 | 6 | 32% | 49% |  |
 | 7 | 6% | 17% |  |
