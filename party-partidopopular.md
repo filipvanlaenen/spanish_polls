@@ -206,11 +206,11 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 98 | 81–98 | 81–98 | 80–98 | 76–98 |
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS | 78 | 78–79 | 78–79 | 78–79 | 76–81 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 69 | 66–82 | 66–82 | 58–82 | 57–83 |
-| [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 86 | 86–106 | 86–106 | 86–106 | 83–112 |
+| [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 87 | 86–101 | 86–104 | 83–106 | 80–107 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 95 | 95–110 | 95–110 | 87–123 | 84–123 |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 78 | 69–83 | 68–85 | 68–85 | 59–90 |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 92 | 80–95 | 76–96 | 73–99 | 62–105 |
-| [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 99 | 98–101 | 96–102 | 96–103 | 85–118 |
+| [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 101 | 93–112 | 91–115 | 90–117 | 86–122 |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 103 | 95–117 | 92–120 | 92–120 | 89–123 |
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 92 | 79–92 | 78–93 | 70–94 | 63–95 |
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 104 | 101–114 | 92–115 | 92–120 | 88–121 |
@@ -236,7 +236,7 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 77 | 68–85 | 66–85 | 60–86 | 60–93 |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 115 | 100–115 | 100–115 | 100–115 | 100–118 |
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 83 | 77–92 | 75–95 | 74–97 | 71–101 |
-| [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 121 | 121–130 | 113–130 | 111–130 | 97–130 |
+| [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 121 |  |  |  |  |
 | [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 80 | 74–91 | 74–91 | 74–92 | 72–96 |
 | [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 94 | 91–105 | 90–121 | 90–121 | 88–121 |
 | [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 115 | 111–123 | 105–126 | 101–130 | 99–130 |
@@ -300,7 +300,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 96 | 1.5% | 14% |  |
 | 97 | 0.9% | 13% |  |
 | 98 | 3% | 12% |  |
-| 99 | 0.6% | 9% |  |
+| 99 | 0.7% | 9% |  |
 | 100 | 1.0% | 8% |  |
 | 101 | 1.2% | 7% |  |
 | 102 | 0.7% | 6% |  |

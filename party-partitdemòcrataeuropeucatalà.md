@@ -189,7 +189,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 1 | 1 | 0–7 | 0–7 | 0–7 |
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 3–10 | 3–10 | 3–10 | 3–10 |
+| [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 3–8 | 3–9 | 3–10 | 2–10 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 3 | 3–10 | 3–10 | 3–10 | 1–10 |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 3–6 | 1–7 | 1–10 | 1–10 |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 5 | 4–6 | 3–6 | 1–6 | 1–10 |
@@ -219,7 +219,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 3–8 | 3–8 | 3–8 | 3–8 |
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
-| [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 6 | 3–10 | 3–10 | 3–10 | 3–10 |
+| [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 4 | 3–10 | 3–10 | 3–10 | 2–10 |
 | [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 6 | 4–8 | 4–8 | 4–8 | 3–10 |
 | [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER |  |  |  |  |  |
 | [5–9 February 2018](2018-02-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 5–9 | 4–9 | 4–9 | 2–10 |
