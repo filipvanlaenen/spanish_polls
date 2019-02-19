@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Tue, 19 Feb 2019 20:08:10 +0100</pubDate>
+    <pubDate>Tue, 19 Feb 2019 21:33:44 +0100</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 13–15 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-15-SocioMétrica.html</link>
@@ -150,14 +150,34 @@
       <dc:date>2019-02-19T16:39:15.147787+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 4–8 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-08-Celeste-Tel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 81–109 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 84–108 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 36–58 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 57–73 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 7–15 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 4–10 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 3–8 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 1–7 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0–2 seats&lt;/li&gt;&lt;li&gt;Vox: 14–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-08-Celeste-Tel-seats.png"
+        length="234396"
+        type="image/png"/>
+      <pubDate>Tue, 19 Feb 2019 21:04:46 +0100</pubDate>
+      <dc:date>2019-02-19T21:04:46.822018+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 4–8 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-08-Celeste-Tel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-08-Celeste-Tel-coalitions-seats.png"
+        length="426996"
+        type="image/png"/>
+      <pubDate>Tue, 19 Feb 2019 21:04:46 +0100</pubDate>
+      <dc:date>2019-02-19T21:04:46.822018+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 4–8 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-08-Celeste-Tel.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 20.7–25.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 21.3–26.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 13.8–18.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 17.0–21.6%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.0–4.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.1–2.7%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.7–2.0%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 0.6–1.9%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.4–1.6%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Vox: 7.4–10.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-08-Celeste-Tel.png"
         length="268054"
         type="image/png"/>
-      <pubDate>Tue, 19 Feb 2019 19:48:39 +0100</pubDate>
-      <dc:date>2019-02-19T19:48:39.387324+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 21:04:46 +0100</pubDate>
+      <dc:date>2019-02-19T21:04:46.822018+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 26–30 January 2019 – Voting Intentions</title>
@@ -306,8 +326,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-12-14-SimpleLógica.png"
         length="181879"
         type="image/png"/>
-      <pubDate>Tue, 19 Feb 2019 20:08:10 +0100</pubDate>
-      <dc:date>2019-02-19T20:08:10.8216+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 20:17:06 +0100</pubDate>
+      <dc:date>2019-02-19T20:17:06.54522+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 5–14 December 2018 – Voting Intentions</title>
@@ -526,8 +546,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-10-02-SimpleLógica.png"
         length="183789"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 13:43:42 +0100</pubDate>
-      <dc:date>2019-02-17T13:43:42.328182+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 20:37:21 +0100</pubDate>
+      <dc:date>2019-02-19T20:37:21.754029+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metroscopia for Henneo, 17–19 September 2018 – Voting Intentions</title>
@@ -616,8 +636,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-08-31-NCReport.png"
         length="240633"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 15:53:21 +0100</pubDate>
-      <dc:date>2019-02-17T15:53:21.655578+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 21:22:26 +0100</pubDate>
+      <dc:date>2019-02-19T21:22:26.457733+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 22–30 August 2018 – Voting Intentions</title>
@@ -656,8 +676,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-08-03-SimpleLógica.png"
         length="165903"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 16:21:48 +0100</pubDate>
-      <dc:date>2019-02-17T16:21:48.002562+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 21:33:44 +0100</pubDate>
+      <dc:date>2019-02-19T21:33:44.801978+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 23–27 July 2018 – Voting Intentions</title>
@@ -736,8 +756,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-07-06-SimpleLógica.png"
         length="166137"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 17:46:26 +0100</pubDate>
-      <dc:date>2019-02-17T17:46:26.589923+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 21:10:54 +0100</pubDate>
+      <dc:date>2019-02-19T21:10:54.90506+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 2–6 July 2018 – Voting Intentions</title>
@@ -916,8 +936,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-04-18-GESOP.png"
         length="211765"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 21:05:02 +0100</pubDate>
-      <dc:date>2019-02-17T21:05:02.20556+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 20:57:09 +0100</pubDate>
+      <dc:date>2019-02-19T20:57:09.020186+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 9–13 April 2018 – Voting Intentions</title>
@@ -1109,6 +1129,6 @@
       <pubDate>Tue, 19 Feb 2019 19:32:52 +0100</pubDate>
       <dc:date>2019-02-19T19:32:52.053551+01:00</dc:date>
     </item>
-    <dc:date>2019-02-19T20:08:10.8216+01:00</dc:date>
+    <dc:date>2019-02-19T21:33:44.801978+01:00</dc:date>
   </channel>
 </rss>
