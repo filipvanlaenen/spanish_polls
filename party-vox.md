@@ -146,7 +146,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 30 | 26–39 | 25–40 | 23–43 | 21–48 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 23 | 18–27 | 17–28 | 16–28 | 14–31 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 37 | 31–45 | 29–48 | 28–50 | 26–54 |
-| [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 19 | 14–21 | 13–23 | 13–25 | 12–27 |
+| [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 19 | 13–22 | 13–23 | 13–25 | 11–28 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 33 | 30–40 | 29–41 | 28–43 | 26–46 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 32 | 27–41 | 25–43 | 24–45 | 21–50 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21 | 17–21 | 16–24 | 15–24 | 13–27 |
@@ -163,7 +163,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 20 | 16–25 | 15–26 | 13–27 | 12–29 |
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 18–20 | 18–20 | 18–20 | 18–20 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 17 | 16–20 | 12–20 | 12–22 | 12–29 |
-| [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 14 | 14 | 14 | 14 | 14–18 |
+| [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 18 | 14–19 | 12–22 | 12–22 | 9–26 |
 | [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 14 | 14 | 14 | 14 | 14–19 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 16 | 12–20 | 11–21 | 10–24 | 9–25 |
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 28 | 28–32 | 28–33 | 28–34 | 22–37 |
@@ -183,9 +183,9 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 2 | 2–3 | 1–3 | 1–3 | 0–3 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
-| [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 2 | 2–6 | 2–6 | 1–6 | 1–6 |
+| [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [1–11 September 2018](2018-09-11-CIS.html) | CIS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1–2 | 0–2 |
+| [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 0–2 |
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 1 | 1 | 1 | 1 | 0–2 |
 | [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
@@ -263,18 +263,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 3% | 93% |  |
 | 13 | 3% | 90% |  |
 | 14 | 5% | 87% |  |
-| 15 | 2% | 82% |  |
+| 15 | 1.5% | 82% |  |
 | 16 | 3% | 80% |  |
 | 17 | 2% | 77% |  |
 | 18 | 5% | 75% |  |
-| 19 | 6% | 71% |  |
-| 20 | 1.4% | 65% |  |
-| 21 | 7% | 63% |  |
+| 19 | 6% | 70% |  |
+| 20 | 1.3% | 65% |  |
+| 21 | 6% | 63% |  |
 | 22 | 2% | 57% |  |
 | 23 | 2% | 55% |  |
 | 24 | 2% | 53% |  |
 | 25 | 1.4% | 51% |  |
-| 26 | 1.5% | 50% | Median |
+| 26 | 1.4% | 50% | Median |
 | 27 | 4% | 49% |  |
 | 28 | 3% | 44% |  |
 | 29 | 3% | 41% |  |
@@ -282,15 +282,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 3% | 35% |  |
 | 32 | 3% | 32% |  |
 | 33 | 5% | 29% |  |
-| 34 | 3% | 24% |  |
+| 34 | 3% | 25% |  |
 | 35 | 3% | 21% |  |
 | 36 | 2% | 19% |  |
-| 37 | 3% | 16% |  |
+| 37 | 3% | 17% |  |
 | 38 | 2% | 14% |  |
 | 39 | 2% | 12% |  |
 | 40 | 1.2% | 9% |  |
 | 41 | 1.5% | 8% |  |
-| 42 | 1.3% | 7% |  |
+| 42 | 1.2% | 6% |  |
 | 43 | 1.1% | 5% |  |
 | 44 | 1.2% | 4% |  |
 | 45 | 0.7% | 3% |  |
