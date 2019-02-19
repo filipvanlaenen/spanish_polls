@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Mon, 18 Feb 2019 22:50:40 +0100</pubDate>
+    <pubDate>Tue, 19 Feb 2019 08:12:04 +0100</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 13–15 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-15-SocioMétrica.html</link>
@@ -156,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-01-13-CIS.png"
         length="241602"
         type="image/png"/>
-      <pubDate>Mon, 18 Feb 2019 22:50:40 +0100</pubDate>
-      <dc:date>2019-02-18T22:50:40.105193+01:00</dc:date>
+      <pubDate>Mon, 18 Feb 2019 23:02:44 +0100</pubDate>
+      <dc:date>2019-02-18T23:02:44.026327+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 3–9 January 2019 – Voting Intentions</title>
@@ -666,8 +666,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-06-22-SocioMétrica.png"
         length="268406"
         type="image/png"/>
-      <pubDate>Sun, 17 Feb 2019 18:59:20 +0100</pubDate>
-      <dc:date>2019-02-17T18:59:20.335982+01:00</dc:date>
+      <pubDate>Tue, 19 Feb 2019 08:12:04 +0100</pubDate>
+      <dc:date>2019-02-19T08:12:04.766877+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 11–13 June 2018 – Voting Intentions</title>
@@ -1009,6 +1009,6 @@
       <pubDate>Sun, 17 Feb 2019 23:15:55 +0100</pubDate>
       <dc:date>2019-02-17T23:15:55.572156+01:00</dc:date>
     </item>
-    <dc:date>2019-02-18T22:50:40.105193+01:00</dc:date>
+    <dc:date>2019-02-19T08:12:04.766877+01:00</dc:date>
   </channel>
 </rss>
