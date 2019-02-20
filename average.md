@@ -17,7 +17,7 @@ The table below lists the polls on which the average is based. They are the most
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 19–22% <br> 72–93 | 26–30% <br> 107–129 | 12–15% <br> 32–43 | 14–17% <br> 42–56 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–14% <br> 28–43 | N/A <br> N/A |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 16–20% <br> 60–87 | 23–28% <br> 98–128 | 12–16% <br> 32–53 | 15–19% <br> 50–69 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 24–45 | N/A <br> N/A |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21–26% <br> 81–109 | 21–26% <br> 84–108 | 14–18% <br> 36–58 | 17–22% <br> 57–73 | 2–4% <br> 7–15 | 1–3% <br> 4–10 | 1–2% <br> 3–8 | 1–2% <br> 0–1 | 0–2% <br> 1–7 | 0–1% <br> 0–2 | 7–11% <br> 14–24 | N/A <br> N/A |
-| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 19–22% <br> 73–89 | 22–25% <br> 87–106 | 14–16% <br> 36–52 | 18–21% <br> 62–73 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–13% <br> 26–40 | N/A <br> N/A |
+| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 19–22% <br> 73–89 | 22–25% <br> 87–106 | 14–16% <br> 36–53 | 18–21% <br> 62–74 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–13% <br> 26–40 | N/A <br> N/A |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 14–16% <br> 52–64 | 28–32% <br> 130–143 | 14–17% <br> 42–55 | 16–19% <br> 56–71 | 4–6% <br> 16–21 | 1% <br> 1–5 | 1–2% <br> 4–7 | 1–2% <br> 0–1 | 1–2% <br> 2–7 | 0% <br> 0–1 | 6–7% <br> 8–16 | N/A <br> N/A |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 17–22% <br> 64–90 | 20–25% <br> 80–109 | 14–18% <br> 37–64 | 16–21% <br> 55–75 | 3–5% <br> 12–20 | 1–2% <br> 1–7 | 1–2% <br> 3–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 27–50 | N/A <br> N/A |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 17–22% <br> 66–90 | 23–29% <br> 95–121 | 13–18% <br> 36–60 | 18–23% <br> 65–84 | 2–4% <br> 9–16 | 1–3% <br> 3–10 | 1–2% <br> 3–9 | 1–3% <br> 0–1 | 0–2% <br> 1–7 | N/A <br> N/A | 7–10% <br> 10–24 | N/A <br> N/A |
@@ -325,7 +325,7 @@ Only polls for which at least the sample size has been published are included in
 | 85 | 2% | 42% |  |
 | 86 | 3% | 40% |  |
 | 87 | 3% | 37% |  |
-| 88 | 2% | 34% |  |
+| 88 | 2% | 35% |  |
 | 89 | 2% | 32% |  |
 | 90 | 5% | 30% |  |
 | 91 | 2% | 26% |  |
@@ -400,15 +400,15 @@ Only polls for which at least the sample size has been published are included in
 | 90 | 2% | 89% |  |
 | 91 | 3% | 87% |  |
 | 92 | 2% | 84% |  |
-| 93 | 1.5% | 82% |  |
+| 93 | 2% | 82% |  |
 | 94 | 3% | 80% |  |
 | 95 | 2% | 77% |  |
 | 96 | 3% | 75% |  |
 | 97 | 3% | 72% |  |
 | 98 | 4% | 70% |  |
 | 99 | 2% | 65% |  |
-| 100 | 2% | 64% |  |
-| 101 | 2% | 61% |  |
+| 100 | 3% | 64% |  |
+| 101 | 1.5% | 61% |  |
 | 102 | 2% | 60% |  |
 | 103 | 2% | 58% |  |
 | 104 | 1.4% | 56% |  |
@@ -556,8 +556,8 @@ Only polls for which at least the sample size has been published are included in
 | 63 | 6% | 55% | Median |
 | 64 | 5% | 49% |  |
 | 65 | 4% | 44% |  |
-| 66 | 4% | 40% |  |
-| 67 | 7% | 36% |  |
+| 66 | 3% | 40% |  |
+| 67 | 7% | 37% |  |
 | 68 | 4% | 30% |  |
 | 69 | 4% | 26% |  |
 | 70 | 4% | 22% |  |
@@ -762,7 +762,7 @@ Only polls for which at least the sample size has been published are included in
 | 39 | 2% | 12% |  |
 | 40 | 1.2% | 9% |  |
 | 41 | 1.4% | 8% |  |
-| 42 | 1.2% | 6% |  |
+| 42 | 1.2% | 7% |  |
 | 43 | 1.1% | 5% |  |
 | 44 | 1.2% | 4% |  |
 | 45 | 0.7% | 3% |  |
@@ -823,11 +823,11 @@ Only polls for which at least the sample size has been published are included in
 | 226 | 0.4% | 98% |  |
 | 227 | 0.3% | 97% |  |
 | 228 | 0.7% | 97% |  |
-| 229 | 0.4% | 96% |  |
+| 229 | 0.5% | 96% |  |
 | 230 | 1.0% | 96% |  |
 | 231 | 0.5% | 95% |  |
 | 232 | 0.7% | 95% |  |
-| 233 | 0.8% | 94% |  |
+| 233 | 0.7% | 94% |  |
 | 234 | 1.1% | 93% |  |
 | 235 | 0.7% | 92% |  |
 | 236 | 1.3% | 91% |  |
@@ -843,7 +843,7 @@ Only polls for which at least the sample size has been published are included in
 | 246 | 3% | 73% |  |
 | 247 | 3% | 70% |  |
 | 248 | 3% | 67% |  |
-| 249 | 4% | 63% |  |
+| 249 | 4% | 64% |  |
 | 250 | 3% | 60% |  |
 | 251 | 7% | 57% |  |
 | 252 | 3% | 50% | Median |
@@ -924,7 +924,7 @@ Only polls for which at least the sample size has been published are included in
 | 216 | 3% | 35% |  |
 | 217 | 4% | 32% |  |
 | 218 | 3% | 28% |  |
-| 219 | 3% | 26% |  |
+| 219 | 3% | 25% |  |
 | 220 | 1.5% | 23% |  |
 | 221 | 2% | 21% |  |
 | 222 | 1.2% | 20% |  |
@@ -994,12 +994,12 @@ Only polls for which at least the sample size has been published are included in
 | 169 | 0.8% | 93% |  |
 | 170 | 0.7% | 92% |  |
 | 171 | 0.6% | 91% |  |
-| 172 | 1.2% | 91% |  |
-| 173 | 1.3% | 89% |  |
+| 172 | 1.1% | 91% |  |
+| 173 | 1.4% | 89% |  |
 | 174 | 2% | 88% |  |
 | 175 | 1.2% | 87% |  |
 | 176 | 2% | 85% | Majority |
-| 177 | 1.4% | 84% |  |
+| 177 | 1.3% | 84% |  |
 | 178 | 1.4% | 82% |  |
 | 179 | 2% | 81% |  |
 | 180 | 2% | 79% |  |
@@ -1075,7 +1075,7 @@ Only polls for which at least the sample size has been published are included in
 | 157 | 0.7% | 96% |  |
 | 158 | 1.0% | 95% |  |
 | 159 | 1.0% | 94% |  |
-| 160 | 1.3% | 93% |  |
+| 160 | 1.2% | 93% |  |
 | 161 | 3% | 92% |  |
 | 162 | 2% | 90% |  |
 | 163 | 2% | 88% |  |
@@ -1257,8 +1257,8 @@ Only polls for which at least the sample size has been published are included in
 | 145 | 0.7% | 96% |  |
 | 146 | 0.9% | 95% |  |
 | 147 | 1.5% | 94% |  |
-| 148 | 1.1% | 93% |  |
-| 149 | 2% | 91% |  |
+| 148 | 1.2% | 93% |  |
+| 149 | 1.5% | 91% |  |
 | 150 | 3% | 90% |  |
 | 151 | 2% | 87% |  |
 | 152 | 2% | 85% |  |
@@ -1375,11 +1375,11 @@ Only polls for which at least the sample size has been published are included in
 | 153 | 0.8% | 93% |  |
 | 154 | 1.0% | 92% |  |
 | 155 | 2% | 91% |  |
-| 156 | 1.5% | 89% |  |
+| 156 | 1.4% | 89% |  |
 | 157 | 2% | 88% |  |
 | 158 | 2% | 86% |  |
 | 159 | 3% | 84% |  |
-| 160 | 1.4% | 81% |  |
+| 160 | 1.5% | 81% |  |
 | 161 | 6% | 79% |  |
 | 162 | 3% | 74% |  |
 | 163 | 3% | 71% |  |
@@ -1394,7 +1394,7 @@ Only polls for which at least the sample size has been published are included in
 | 172 | 3% | 42% |  |
 | 173 | 2% | 39% |  |
 | 174 | 2% | 37% |  |
-| 175 | 2% | 35% |  |
+| 175 | 2% | 34% |  |
 | 176 | 2% | 33% | Majority |
 | 177 | 2% | 30% |  |
 | 178 | 3% | 29% |  |
@@ -1453,8 +1453,8 @@ Only polls for which at least the sample size has been published are included in
 | 139 | 0.8% | 96% |  |
 | 140 | 1.1% | 95% |  |
 | 141 | 2% | 94% |  |
-| 142 | 1.2% | 93% |  |
-| 143 | 1.4% | 92% |  |
+| 142 | 1.3% | 93% |  |
+| 143 | 1.3% | 92% |  |
 | 144 | 3% | 90% |  |
 | 145 | 2% | 87% |  |
 | 146 | 2% | 85% |  |
@@ -1592,7 +1592,7 @@ Only polls for which at least the sample size has been published are included in
 | 186 | 2% | 14% |  |
 | 187 | 2% | 12% |  |
 | 188 | 3% | 10% |  |
-| 189 | 1.1% | 8% |  |
+| 189 | 1.0% | 8% |  |
 | 190 | 1.1% | 7% |  |
 | 191 | 1.0% | 5% |  |
 | 192 | 0.8% | 5% |  |
@@ -1632,19 +1632,19 @@ Only polls for which at least the sample size has been published are included in
 | 130 | 0.7% | 97% |  |
 | 131 | 1.3% | 96% |  |
 | 132 | 0.9% | 95% |  |
-| 133 | 1.5% | 94% |  |
-| 134 | 1.2% | 92% |  |
+| 133 | 1.4% | 94% |  |
+| 134 | 1.3% | 92% |  |
 | 135 | 2% | 91% |  |
 | 136 | 4% | 89% |  |
 | 137 | 2% | 86% |  |
 | 138 | 2% | 84% |  |
 | 139 | 2% | 82% |  |
-| 140 | 2% | 80% |  |
+| 140 | 2% | 79% |  |
 | 141 | 3% | 77% |  |
 | 142 | 2% | 74% |  |
 | 143 | 3% | 72% |  |
 | 144 | 3% | 69% |  |
-| 145 | 5% | 67% |  |
+| 145 | 5% | 66% |  |
 | 146 | 3% | 62% |  |
 | 147 | 3% | 59% |  |
 | 148 | 7% | 56% |  |
@@ -1741,7 +1741,7 @@ Only polls for which at least the sample size has been published are included in
 | 141 | 2% | 60% |  |
 | 142 | 1.2% | 58% |  |
 | 143 | 2% | 57% |  |
-| 144 | 2% | 55% |  |
+| 144 | 2% | 56% |  |
 | 145 | 2% | 54% |  |
 | 146 | 2% | 52% | Median |
 | 147 | 2% | 50% |  |
@@ -1756,7 +1756,7 @@ Only polls for which at least the sample size has been published are included in
 | 156 | 2% | 28% |  |
 | 157 | 1.1% | 26% |  |
 | 158 | 2% | 25% |  |
-| 159 | 4% | 23% |  |
+| 159 | 3% | 23% |  |
 | 160 | 1.4% | 20% |  |
 | 161 | 0.8% | 18% |  |
 | 162 | 0.8% | 17% |  |
@@ -1838,18 +1838,18 @@ Only polls for which at least the sample size has been published are included in
 | 142 | 1.4% | 57% |  |
 | 143 | 2% | 55% |  |
 | 144 | 2% | 54% |  |
-| 145 | 3% | 52% | Median |
-| 146 | 2% | 49% |  |
+| 145 | 2% | 52% | Median |
+| 146 | 1.5% | 49% |  |
 | 147 | 3% | 48% |  |
 | 148 | 2% | 45% |  |
 | 149 | 2% | 43% |  |
-| 150 | 1.3% | 41% |  |
-| 151 | 2% | 39% |  |
+| 150 | 1.4% | 41% |  |
+| 151 | 3% | 39% |  |
 | 152 | 3% | 37% |  |
 | 153 | 4% | 34% |  |
 | 154 | 2% | 30% |  |
 | 155 | 2% | 28% |  |
-| 156 | 1.1% | 26% |  |
+| 156 | 1.0% | 26% |  |
 | 157 | 2% | 25% |  |
 | 158 | 3% | 24% |  |
 | 159 | 2% | 20% |  |
@@ -1910,15 +1910,15 @@ Only polls for which at least the sample size has been published are included in
 | 90 | 2% | 89% |  |
 | 91 | 3% | 87% |  |
 | 92 | 2% | 84% |  |
-| 93 | 1.5% | 82% |  |
+| 93 | 2% | 82% |  |
 | 94 | 3% | 80% |  |
 | 95 | 2% | 77% |  |
 | 96 | 3% | 75% |  |
 | 97 | 3% | 72% |  |
 | 98 | 4% | 70% |  |
 | 99 | 2% | 65% |  |
-| 100 | 2% | 64% |  |
-| 101 | 2% | 61% |  |
+| 100 | 3% | 64% |  |
+| 101 | 1.5% | 61% |  |
 | 102 | 2% | 60% |  |
 | 103 | 2% | 58% |  |
 | 104 | 1.4% | 56% |  |
@@ -2024,7 +2024,7 @@ Only polls for which at least the sample size has been published are included in
 | 110 | 4% | 56% |  |
 | 111 | 6% | 52% |  |
 | 112 | 3% | 46% |  |
-| 113 | 3% | 43% |  |
+| 113 | 4% | 43% |  |
 | 114 | 4% | 39% |  |
 | 115 | 4% | 35% |  |
 | 116 | 3% | 31% |  |
@@ -2097,7 +2097,7 @@ Only polls for which at least the sample size has been published are included in
 | 85 | 2% | 42% |  |
 | 86 | 3% | 40% |  |
 | 87 | 3% | 37% |  |
-| 88 | 2% | 34% |  |
+| 88 | 2% | 35% |  |
 | 89 | 2% | 32% |  |
 | 90 | 5% | 30% |  |
 | 91 | 2% | 26% |  |
@@ -2153,5 +2153,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 12
 + **Lowest number of simulations done in a poll included in this average:** 262,144
-+ **Total number of simulations done in the polls included in this average:** 9,961,472
++ **Total number of simulations done in the polls included in this average:** 10,747,904
 + **Error estimate:** 2.74%
