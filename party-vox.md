@@ -158,10 +158,10 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 12 | 9–14 | 8–16 | 8–16 | 8–18 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 30 | 26–39 | 24–41 | 22–43 | 21–47 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 13–17 | 12–21 | 11–21 | 9–23 |
-| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 41 | 28–41 | 28–44 | 28–44 | 28–44 |
+| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 39 | 29–43 | 27–44 | 27–45 | 26–47 |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 38 | 28–46 | 27–49 | 27–50 | 25–52 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 20 | 16–25 | 15–26 | 13–27 | 12–29 |
-| [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 20 | 18–20 | 18–20 | 18–20 | 18–20 |
+| [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 12–21 | 11–25 | 11–25 | 7–27 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 18 | 13–24 | 12–26 | 12–27 | 11–28 |
 | [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 18 | 14–19 | 12–22 | 12–22 | 9–26 |
 | [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 21 | 14–24 | 12–24 | 12–24 | 10–26 |
@@ -169,13 +169,13 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 28 | 28–32 | 28–33 | 28–34 | 22–37 |
 | [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 7 | 6–12 | 6–17 | 6–17 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 12 | 9–17 | 9–18 | 7–18 | 6–20 |
-| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 27 | 27 | 27 | 26–27 | 24–35 |
+| [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 26 | 21–28 | 20–29 | 19–32 | 18–41 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2 | 1–2 | 1–2 | 0–3 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 4 | 4–6 | 4–6 | 3–6 | 3–6 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 6 | 2–6 | 2–6 | 2–6 | 2–6 |
-| [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 8 | 8 | 4–8 | 3–8 | 3–8 |
+| [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 6 | 6–8 | 4–8 | 3–9 | 3–10 |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 1 | 1 | 1 | 0–1 | 0–1 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -211,7 +211,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
-| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 4–6 | 4–6 | 4–6 |
+| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 6 | 3–6 | 3–6 | 3–8 | 3–10 |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
 | [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
@@ -290,7 +290,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 2% | 12% |  |
 | 40 | 1.2% | 9% |  |
 | 41 | 1.4% | 8% |  |
-| 42 | 1.2% | 6% |  |
+| 42 | 1.2% | 7% |  |
 | 43 | 1.1% | 5% |  |
 | 44 | 1.2% | 4% |  |
 | 45 | 0.7% | 3% |  |
