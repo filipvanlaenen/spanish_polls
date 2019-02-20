@@ -131,7 +131,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 2–8 | 1–9 | 1–10 | 1–10 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 1–8 | 1–8 | 1–10 | 1–10 |
-| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 4 | 3–8 | 1–8 | 1–8 | 1–10 |
+| [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 5 | 3–8 | 1–8 | 1–8 | 1–10 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 7 | 4–8 | 4–10 | 3–10 | 1–10 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
@@ -236,14 +236,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 9% | 99.9% |  |
-| 2 | 3% | 91% |  |
+| 1 | 8% | 99.9% |  |
+| 2 | 3% | 92% |  |
 | 3 | 18% | 89% |  |
-| 4 | 14% | 70% |  |
-| 5 | 8% | 56% | Median |
-| 6 | 29% | 49% |  |
+| 4 | 14% | 71% |  |
+| 5 | 9% | 56% | Median |
+| 6 | 28% | 48% |  |
 | 7 | 5% | 20% |  |
-| 8 | 9% | 15% | Last Result |
+| 8 | 8% | 14% | Last Result |
 | 9 | 2% | 6% |  |
 | 10 | 4% | 4% |  |
 | 11 | 0.2% | 0.3% |  |
