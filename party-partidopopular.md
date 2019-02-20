@@ -146,7 +146,7 @@ Last result: **137** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 82 | 62–98 | 60–103 | 56–107 | 53–111 |
+| N/A | [Poll Average](average.html) | 82 | 65–98 | 62–103 | 58–107 | 54–111 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 73 | 61–83 | 56–89 | 56–90 | 56–91 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 95 | 88–104 | 85–108 | 82–111 | 78–115 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 79 | 71–89 | 69–92 | 67–96 | 64–101 |
@@ -159,7 +159,7 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 90 | 90–99 | 90–102 | 90–107 | 88–108 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 75 | 64–77 | 64–87 | 63–87 | 63–87 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 74 | 74–76 | 74–76 | 72–79 | 72–91 |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 60 | 53–62 | 53–64 | 52–64 | 51–67 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 65 | 54–65 | 54–65 | 53–65 | 51–68 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 73 | 66–81 | 62–86 | 60–88 | 58–91 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 98 | 92–104 | 92–107 | 90–111 | 86–115 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 72 | 68–76 | 65–77 | 62–81 | 60–82 |
@@ -252,24 +252,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 51 | 0.2% | 100% |  |
-| 52 | 0% | 99.8% |  |
-| 53 | 0.8% | 99.8% |  |
-| 54 | 0.3% | 98.9% |  |
-| 55 | 0.4% | 98.6% |  |
-| 56 | 0.9% | 98% |  |
-| 57 | 0.7% | 97% |  |
-| 58 | 0.3% | 97% |  |
-| 59 | 0.9% | 96% |  |
-| 60 | 2% | 96% |  |
-| 61 | 0.5% | 94% |  |
-| 62 | 4% | 93% |  |
-| 63 | 0.5% | 90% |  |
-| 64 | 0.8% | 89% |  |
-| 65 | 0.4% | 89% |  |
+| 51 | 0.1% | 100% |  |
+| 52 | 0.1% | 99.9% |  |
+| 53 | 0.2% | 99.8% |  |
+| 54 | 0.6% | 99.6% |  |
+| 55 | 0.1% | 99.0% |  |
+| 56 | 0.9% | 98.9% |  |
+| 57 | 0.2% | 98% |  |
+| 58 | 0.4% | 98% |  |
+| 59 | 0.6% | 97% |  |
+| 60 | 0.4% | 97% |  |
+| 61 | 0.5% | 96% |  |
+| 62 | 1.2% | 96% |  |
+| 63 | 0.5% | 95% |  |
+| 64 | 0.5% | 94% |  |
+| 65 | 6% | 94% |  |
 | 66 | 0.8% | 88% |  |
 | 67 | 1.2% | 87% |  |
-| 68 | 1.0% | 86% |  |
+| 68 | 1.1% | 86% |  |
 | 69 | 1.2% | 85% |  |
 | 70 | 1.4% | 84% |  |
 | 71 | 1.3% | 83% |  |

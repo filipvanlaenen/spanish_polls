@@ -129,7 +129,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 1–8 | 1–9 | 1–10 | 1–10 |
+| N/A | [Poll Average](average.html) | 5 | 2–8 | 1–9 | 1–10 | 1–10 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 1–7 | 1–8 | 1–10 | 1–10 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 4 | 3–8 | 1–8 | 1–8 | 1–10 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
@@ -142,7 +142,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 6 | 6–8 | 5–10 | 4–10 | 4–10 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 1 | 1–3 | 1–4 | 1–5 | 1–6 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 3 | 1–3 | 1–4 | 1–4 | 1–5 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 5–8 | 4–10 | 3–10 | 1–10 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 3–7 | 3–7 | 3–8 | 2–8 |
@@ -236,11 +236,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 16% | 99.9% |  |
-| 2 | 3% | 84% |  |
-| 3 | 11% | 81% |  |
+| 1 | 9% | 99.9% |  |
+| 2 | 2% | 90% |  |
+| 3 | 18% | 88% |  |
 | 4 | 13% | 70% |  |
-| 5 | 8% | 57% | Median |
+| 5 | 8% | 56% | Median |
 | 6 | 29% | 49% |  |
 | 7 | 6% | 20% |  |
 | 8 | 8% | 14% | Last Result |

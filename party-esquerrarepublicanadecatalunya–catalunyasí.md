@@ -144,7 +144,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 11 | 11–13 | 9–14 | 9–15 | 9–16 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 20 | 18–21 | 17–21 | 16–21 | 15–21 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 20 | 18–20 | 16–21 | 16–21 | 15–21 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 11–15 | 9–15 | 7–15 | 7–16 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 12–16 | 11–18 | 11–18 | 9–18 |
@@ -246,12 +246,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 18% | 65% | Median |
 | 14 | 12% | 47% |  |
 | 15 | 9% | 36% |  |
-| 16 | 3% | 26% |  |
+| 16 | 4% | 27% |  |
 | 17 | 4% | 23% |  |
-| 18 | 6% | 19% |  |
-| 19 | 2% | 13% |  |
-| 20 | 9% | 11% |  |
-| 21 | 2% | 2% |  |
+| 18 | 4% | 19% |  |
+| 19 | 2% | 15% |  |
+| 20 | 11% | 13% |  |
+| 21 | 1.1% | 1.2% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 

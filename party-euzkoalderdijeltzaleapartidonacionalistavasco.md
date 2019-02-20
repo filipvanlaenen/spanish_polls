@@ -142,7 +142,7 @@ Last result: **5** seats (General Election of 26 June 2016)
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 7 | 6–8 | 6–8 | 6–9 | 3–9 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 6 | 6–7 | 5–7 | 4–7 | 4–9 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 6 | 6 | 6–7 | 4–7 | 4–9 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 3–6 | 3–7 | 3–7 | 2–9 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–7 | 4–7 | 3–8 | 3–8 |
@@ -239,9 +239,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0.9% | 99.9% |  |
 | 3 | 11% | 99.0% |  |
 | 4 | 5% | 88% |  |
-| 5 | 13% | 83% | Last Result |
-| 6 | 42% | 70% | Median |
-| 7 | 17% | 28% |  |
+| 5 | 12% | 83% | Last Result |
+| 6 | 43% | 71% | Median |
+| 7 | 16% | 27% |  |
 | 8 | 7% | 11% |  |
 | 9 | 3% | 4% |  |
 | 10 | 0.6% | 0.7% |  |
