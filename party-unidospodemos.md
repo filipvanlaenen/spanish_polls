@@ -137,8 +137,8 @@ Last result: **71** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41 | 34–53 | 31–56 | 29–58 | 26–63 |
-| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 44 | 37–56 | 37–58 | 36–62 | 33–65 |
+| N/A | [Poll Average](average.html) | 41 | 34–53 | 31–57 | 29–58 | 26–64 |
+| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 45 | 38–58 | 37–60 | 36–62 | 34–65 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 46 | 40–56 | 38–58 | 36–60 | 34–63 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 37 | 33–43 | 30–44 | 28–46 | 26–51 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 31 | 27–36 | 26–39 | 24–39 | 23–42 |
@@ -259,10 +259,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 6% | 86% |  |
 | 37 | 6% | 80% |  |
 | 38 | 6% | 74% |  |
-| 39 | 5% | 68% |  |
-| 40 | 10% | 63% |  |
-| 41 | 4% | 53% | Median |
-| 42 | 4% | 49% |  |
+| 39 | 5% | 69% |  |
+| 40 | 10% | 64% |  |
+| 41 | 4% | 54% | Median |
+| 42 | 5% | 49% |  |
 | 43 | 7% | 45% |  |
 | 44 | 4% | 38% |  |
 | 45 | 5% | 34% |  |
@@ -276,19 +276,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 53 | 2% | 11% |  |
 | 54 | 2% | 9% |  |
 | 55 | 1.3% | 7% |  |
-| 56 | 1.1% | 6% |  |
+| 56 | 1.0% | 6% |  |
 | 57 | 0.8% | 5% |  |
 | 58 | 2% | 4% |  |
 | 59 | 0.4% | 2% |  |
-| 60 | 0.5% | 2% |  |
-| 61 | 0.3% | 1.2% |  |
-| 62 | 0.4% | 1.0% |  |
-| 63 | 0.2% | 0.6% |  |
-| 64 | 0.1% | 0.4% |  |
+| 60 | 0.6% | 2% |  |
+| 61 | 0.3% | 1.3% |  |
+| 62 | 0.4% | 1.1% |  |
+| 63 | 0.2% | 0.7% |  |
+| 64 | 0.2% | 0.5% |  |
 | 65 | 0.1% | 0.3% |  |
 | 66 | 0.1% | 0.2% |  |
 | 67 | 0% | 0.1% |  |
-| 68 | 0.1% | 0.1% |  |
+| 68 | 0% | 0.1% |  |
 | 69 | 0% | 0% |  |
 | 70 | 0% | 0% |  |
 | 71 | 0% | 0% | Last Result |
