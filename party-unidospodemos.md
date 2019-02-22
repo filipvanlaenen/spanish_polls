@@ -186,13 +186,13 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 60 | 56–60 | 56–61 | 56–61 | 54–70 |
 | [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 59 | 48–61 | 44–61 | 40–61 | 33–61 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 41 | 34–51 | 33–53 | 32–55 | 30–59 |
-| [5 December 2018](2018-12-05-SocioMétrica.html) | SocioMétrica <br> El Español | 48 | 42–48 | 42–53 | 39–53 | 36–53 |
+| [5 December 2018](2018-12-05-SocioMétrica.html) | SocioMétrica <br> El Español | 46 | 43–47 | 39–59 | 35–63 | 35–63 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 59 | 48–68 | 48–68 | 48–68 | 48–72 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 63 | 52–71 | 50–72 | 49–73 | 44–77 |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 59 | 58–59 | 56–59 | 48–59 | 37–63 |
 | [5–9 November 2018](2018-11-09-Invymark.html) | Invymark <br> laSexta | 55 | 40–63 | 40–63 | 40–63 | 36–63 |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 51 | 51 | 51–52 | 41–71 | 38–71 |
-| [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia | 47 | 40–58 | 38–58 | 32–58 | 32–58 |
+| [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia | 41 | 41–54 | 41–58 | 38–62 | 36–65 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 65 | 63–65 | 63–65 | 63–65 | 41–68 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 61 | 42–61 | 42–61 | 42–72 | 42–74 |
 | [22–26 October 2018](2018-10-26-Invymark.html) | Invymark <br> laSexta | 50 | 47–65 | 43–65 | 41–65 | 40–65 |
