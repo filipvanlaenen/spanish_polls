@@ -11,6 +11,7 @@ Last result: **2.7%** (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.2% | 2.4–4.6% | 2.3–4.9% | 2.1–5.1% | 1.9–5.5% |
+| [28–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
@@ -151,6 +152,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 10–20 | 9–20 | 8–20 | 7–21 |
+| [28–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–17 | 11–18 | 10–19 | 8–20 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 13 | 9–15 | 8–15 | 7–16 | 7–17 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
