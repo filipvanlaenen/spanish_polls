@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Sat, 23 Feb 2019 16:04:46 +0100</pubDate>
+    <pubDate>Sat, 23 Feb 2019 16:28:06 +0100</pubDate>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 28–21 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-21-Invymark.html#seats</link>
@@ -836,8 +836,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-06-08-Invymark.png"
         length="163592"
         type="image/png"/>
-      <pubDate>Thu, 21 Feb 2019 09:59:42 +0100</pubDate>
-      <dc:date>2019-02-21T09:59:42.866168+01:00</dc:date>
+      <pubDate>Sat, 23 Feb 2019 16:28:06 +0100</pubDate>
+      <dc:date>2019-02-23T16:28:06.084586+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 7–8 June 2018 – Voting Intentions</title>
@@ -1189,6 +1189,6 @@
       <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
       <dc:date>2019-02-20T20:37:11.530066+01:00</dc:date>
     </item>
-    <dc:date>2019-02-23T16:04:46.635075+01:00</dc:date>
+    <dc:date>2019-02-23T16:28:06.084586+01:00</dc:date>
   </channel>
 </rss>
