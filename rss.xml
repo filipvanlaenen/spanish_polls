@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Sat, 23 Feb 2019 11:24:48 +0100</pubDate>
+    <pubDate>Sat, 23 Feb 2019 12:03:47 +0100</pubDate>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 28–21 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-21-Invymark.html#seats</link>
@@ -156,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-01-18-Invymark.png"
         length="180843"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 11:24:48 +0100</pubDate>
-      <dc:date>2019-02-23T11:24:48.844303+01:00</dc:date>
+      <pubDate>Sat, 23 Feb 2019 11:33:20 +0100</pubDate>
+      <dc:date>2019-02-23T11:33:20.859671+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metroscopia for Henneo, 9–15 January 2019 – Voting Intentions</title>
@@ -466,8 +466,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-10-05-electoPanel.png"
         length="286464"
         type="image/png"/>
-      <pubDate>Thu, 21 Feb 2019 09:24:24 +0100</pubDate>
-      <dc:date>2019-02-21T09:24:24.706917+01:00</dc:date>
+      <pubDate>Sat, 23 Feb 2019 12:03:47 +0100</pubDate>
+      <dc:date>2019-02-23T12:03:47.856791+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Simple Lógica, 1–5 October 2018 – Voting Intentions</title>
@@ -1116,8 +1116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-03-02-Invymark.png"
         length="161145"
         type="image/png"/>
-      <pubDate>Thu, 21 Feb 2019 10:27:44 +0100</pubDate>
-      <dc:date>2019-02-21T10:27:44.175324+01:00</dc:date>
+      <pubDate>Sat, 23 Feb 2019 11:43:43 +0100</pubDate>
+      <dc:date>2019-02-23T11:43:43.538607+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 22–27 February 2018 – Voting Intentions</title>
@@ -1189,6 +1189,6 @@
       <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
       <dc:date>2019-02-20T20:37:11.530066+01:00</dc:date>
     </item>
-    <dc:date>2019-02-23T11:24:48.844303+01:00</dc:date>
+    <dc:date>2019-02-23T12:03:47.856791+01:00</dc:date>
   </channel>
 </rss>
