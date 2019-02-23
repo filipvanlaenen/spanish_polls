@@ -193,7 +193,7 @@ Last result: **5** seats (General Election of 26 June 2016)
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 3 | 3–6 | 3–8 | 3–8 | 2–8 |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 6 | 4–6 | 4–6 | 2–6 | 2–6 |
-| [30 September–5 October 2018](2018-10-05-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3–7 | 3–7 | 2–7 | 2–10 |
+| [30 September–5 October 2018](2018-10-05-electoPanel.html) | electoPanel <br> electomania.es | 7 | 3–7 | 3–7 | 3–7 | 3–8 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 3–7 | 3–7 | 2–7 | 1–8 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es |  |  |  |  |  |

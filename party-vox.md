@@ -175,7 +175,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 31 | 27–36 | 26–38 | 26–40 | 25–42 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 20 | 15–24 | 12–25 | 12–25 | 11–27 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 21 | 21–24 | 21–27 | 20–27 | 18–28 |
-| [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 19 | 14–23 | 13–24 | 13–24 | 11–27 |
+| [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 19 | 14–23 | 13–24 | 13–25 | 11–27 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 29 | 27–34 | 27–38 | 26–40 | 25–43 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 38 | 27–38 | 27–44 | 27–47 | 25–49 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 12 | 10–14 | 9–14 | 8–15 | 8–17 |
@@ -206,7 +206,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 6 | 6–8 | 4–8 | 3–9 | 3–10 |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 1 | 1 | 1 | 0–1 | 0–1 |
-| [30 September–5 October 2018](2018-10-05-electoPanel.html) | electoPanel <br> electomania.es | 6 | 2–6 | 1–6 | 1–6 | 1–6 |
+| [30 September–5 October 2018](2018-10-05-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 2 | 1–2 | 1–2 | 1–2 | 1–2 |

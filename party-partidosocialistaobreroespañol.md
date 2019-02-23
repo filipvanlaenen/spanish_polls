@@ -173,7 +173,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 96 | 90–102 | 88–104 | 87–106 | 85–109 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 94 | 86–103 | 84–108 | 84–111 | 81–113 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 120 | 109–120 | 108–120 | 106–120 | 101–124 |
-| [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 94 | 87–102 | 84–105 | 83–108 | 80–111 |
+| [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 94 | 86–103 | 84–105 | 83–107 | 79–111 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 99 | 95–100 | 94–104 | 90–109 | 88–109 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 91 | 91–93 | 84–102 | 83–102 | 79–103 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 135 | 132–140 | 132–143 | 131–145 | 128–148 |
@@ -204,7 +204,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 100 | 94–109 | 93–112 | 92–115 | 89–118 |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 101 | 93–105 | 93–106 | 93–112 | 89–120 |
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 130 | 130–131 | 130–133 | 128–133 | 128–136 |
-| [30 September–5 October 2018](2018-10-05-electoPanel.html) | electoPanel <br> electomania.es | 88 | 77–90 | 72–96 | 72–96 | 63–102 |
+| [30 September–5 October 2018](2018-10-05-electoPanel.html) | electoPanel <br> electomania.es | 86 | 80–98 | 77–98 | 77–98 | 74–98 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 101 | 89–111 | 88–113 | 87–114 | 86–116 |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 103 | 95–119 | 94–121 | 93–121 | 92–129 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 103 | 93–113 | 91–117 | 90–118 | 88–122 |
@@ -269,7 +269,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 90 | 84–99 | 84–102 | 84–102 | 77–110 |
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 75 | 67–81 | 65–84 | 61–86 | 59–88 |
 | [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 90 | 87–96 | 85–99 | 84–103 | 80–111 |
-| [26 February–2 March 2018](2018-03-02-Invymark.html) | Invymark <br> laSexta | 88 | 86–94 | 78–102 | 78–102 | 74–102 |
+| [26 February–2 March 2018](2018-03-02-Invymark.html) | Invymark <br> laSexta | 88 | 84–94 | 81–97 | 78–100 | 76–104 |
 | [22–27 February 2018](2018-02-27-IMOP.html) | IMOP <br> El Confidencial | 83 | 76–87 | 76–89 | 75–89 | 72–92 |
 | [12–16 February 2018](2018-02-16-Invymark.html) | Invymark <br> laSexta | 87 | 83–94 | 80–96 | 78–99 | 76–103 |
 | [7–14 February 2018](2018-02-14-MyWord.html) | MyWord <br> Cadena SER | 90 | 85–102 | 72–102 | 72–102 | 72–102 |
