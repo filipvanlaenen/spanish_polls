@@ -254,7 +254,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 17–20 | 17–20 | 15–21 | 11–21 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 14 | 13–16 | 13–16 | 9–17 |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER |  |  |  |  |  |
-| [12–16 March 2018](2018-03-16-Invymark.html) | Invymark <br> laSexta | 6 | 6–10 | 6–10 | 4–11 | 4–12 |
+| [12–16 March 2018](2018-03-16-Invymark.html) | Invymark <br> laSexta | 8 | 7–12 | 7–12 | 6–13 | 6–13 |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 12 | 9–13 | 9–14 | 8–14 | 6–16 |
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 8–12 | 7–13 | 7–14 | 6–17 |

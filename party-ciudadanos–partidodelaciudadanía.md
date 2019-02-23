@@ -180,7 +180,7 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 65 | 65–69 | 61–69 | 59–73 | 55–80 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 65 | 62–69 | 60–70 | 57–70 | 55–77 |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 65 | 57–71 | 55–74 | 55–75 | 53–80 |
-| [17–21 December 2018](2018-12-21-Invymark.html) | Invymark <br> laSexta | 78 | 78 | 78–86 | 65–92 | 65–92 |
+| [17–21 December 2018](2018-12-21-Invymark.html) | Invymark <br> laSexta | 80 | 72–91 | 71–93 | 69–96 | 67–100 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 63 | 58–69 | 56–71 | 54–72 | 51–76 |
 | [10–14 December 2018](2018-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 65 | 59–70 | 57–72 | 57–73 | 49–78 |
 | [3–14 December 2018](2018-12-14-SimpleLógica.html) | Simple Lógica | 72 | 66–79 | 63–81 | 63–84 | 61–91 |
@@ -194,7 +194,7 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 82 | 73–87 | 70–87 | 68–89 | 67–89 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 81 | 73–92 | 72–96 | 71–98 | 69–102 |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 69 | 69 | 69 | 67–73 | 63–80 |
-| [5–9 November 2018](2018-11-09-Invymark.html) | Invymark <br> laSexta | 73 | 72–81 | 72–83 | 71–93 | 64–93 |
+| [5–9 November 2018](2018-11-09-Invymark.html) | Invymark <br> laSexta | 76 | 72–85 | 70–88 | 69–90 | 66–94 |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 72 | 72 | 63–72 | 63–79 | 59–79 |
 | [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia | 76 | 72–81 | 69–91 | 67–93 | 61–95 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 71 | 71–79 | 71–79 | 69–79 | 64–84 |
@@ -228,14 +228,14 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 68 | 63–73 | 63–74 | 61–74 | 61–83 |
 | [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 75 | 75 | 74–75 | 74–79 | 74–84 |
 | [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 71 | 71 | 71 | 71 | 70–77 |
-| [9–13 July 2018](2018-07-13-Invymark.html) | Invymark <br> laSexta | 74 | 63–83 | 63–84 | 61–89 | 61–89 |
+| [9–13 July 2018](2018-07-13-Invymark.html) | Invymark <br> laSexta | 73 | 69–79 | 67–81 | 65–83 | 63–89 |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 85 | 75–95 | 74–98 | 72–101 | 71–105 |
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS | 76 | 70–76 | 70–76 | 70–76 | 68–76 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 95 | 85–105 | 82–107 | 80–109 | 75–112 |
 | [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 67 | 66–73 | 65–75 | 61–80 | 60–82 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 73 | 66–73 | 66–73 | 66–73 | 66–82 |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 93 | 86–102 | 85–103 | 83–106 | 83–115 |
-| [18–22 June 2018](2018-06-22-Invymark.html) | Invymark <br> laSexta | 76 | 73–77 | 73–77 | 73–77 | 73–99 |
+| [18–22 June 2018](2018-06-22-Invymark.html) | Invymark <br> laSexta | 74 | 70–81 | 68–83 | 67–85 | 63–91 |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 77 | 71–88 | 69–92 | 68–94 | 66–100 |
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 71 | 65–77 | 62–80 | 61–82 | 58–87 |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 69 | 62–77 | 61–81 | 60–81 | 58–83 |
@@ -254,7 +254,7 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 70 | 70 | 70 | 65–72 | 65–79 |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 107 | 99–115 | 96–119 | 94–121 | 89–125 |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 78 | 78 | 78 | 78–90 | 77–90 |
-| [9–13 April 2018](2018-04-13-Invymark.html) | Invymark <br> laSexta | 91 | 84–95 | 78–96 | 77–99 | 73–108 |
+| [9–13 April 2018](2018-04-13-Invymark.html) | Invymark <br> laSexta | 89 | 79–97 | 77–100 | 75–103 | 73–108 |
 | [1–10 April 2018](2018-04-10-CIS.html) | CIS | 74 | 74–78 | 74–78 | 72–78 | 72–78 |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 119 | 118–122 | 118–122 | 118–122 | 106–132 |
 | [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 83 | 83–85 | 83–85 | 83–85 | 83–85 |
@@ -262,7 +262,7 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 105 | 105–111 | 105–111 | 87–111 | 87–111 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 108 | 94–108 | 93–108 | 87–108 | 79–111 |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 94 | 86–96 | 83–105 | 75–105 | 74–107 |
-| [12–16 March 2018](2018-03-16-Invymark.html) | Invymark <br> laSexta | 94 | 79–94 | 79–94 | 78–96 | 75–96 |
+| [12–16 March 2018](2018-03-16-Invymark.html) | Invymark <br> laSexta | 89 | 78–95 | 75–98 | 75–101 | 72–107 |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 101 | 86–110 | 86–114 | 86–114 | 81–118 |
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 110 | 107–120 | 107–121 | 107–122 | 103–124 |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 78 | 74–90 | 72–93 | 70–93 | 66–98 |
