@@ -247,7 +247,7 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 101 | 93–112 | 91–115 | 90–117 | 86–122 |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 103 | 95–117 | 92–120 | 92–120 | 89–123 |
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 92 | 79–92 | 78–93 | 70–94 | 63–95 |
-| [4–8 June 2018](2018-06-08-Invymark.html) | Invymark <br> laSexta | 97 | 92–98 | 90–106 | 90–113 | 89–114 |
+| [4–8 June 2018](2018-06-08-Invymark.html) | Invymark <br> laSexta | 96 | 89–103 | 86–105 | 83–108 | 79–114 |
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 104 | 101–114 | 92–115 | 92–120 | 88–121 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 95 | 92–100 | 87–109 | 82–109 | 80–118 |
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 73 | 64–75 | 64–78 | 63–79 | 57–84 |
