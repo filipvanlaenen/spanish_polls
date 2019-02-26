@@ -10,8 +10,11 @@ Last result: **2.7%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.6% | 2.3–4.9% | 2.1–5.1% | 1.9–5.5% |
-| [28–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.3% | 2.5–4.6% | 2.3–4.9% | 2.1–5.1% | 1.9–5.4% |
+| [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.2% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.1–4.7% |
+| [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
+| [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 3.8% | 3.2–4.5% | 3.1–4.7% | 2.9–4.9% | 2.7–5.3% |
+| [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
@@ -135,10 +138,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 14% | 100% |  |
-| 2.5–3.5% | 51% | 86% | Last Result, Median |
-| 3.5–4.5% | 24% | 35% |  |
-| 4.5–5.5% | 11% | 11% |  |
+| 1.5–2.5% | 12% | 100% |  |
+| 2.5–3.5% | 50% | 88% | Last Result, Median |
+| 3.5–4.5% | 27% | 37% |  |
+| 4.5–5.5% | 10% | 10% |  |
 | 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -151,8 +154,11 @@ Last result: **9** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–20 | 9–20 | 8–20 | 7–21 |
-| [28–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 15 | 11–20 | 9–20 | 9–20 | 7–21 |
+| [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 15–17 | 13–18 | 12–18 | 9–18 |
+| [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 15 | 15 | 15 | 15 | 15 |
+| [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 14 | 13–17 | 13–19 | 13–19 | 12–21 |
+| [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–17 | 11–18 | 10–19 | 8–20 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 13 | 9–15 | 8–15 | 7–16 | 7–17 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
@@ -277,22 +283,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 1.2% | 100% |  |
-| 8 | 2% | 98.8% |  |
-| 9 | 6% | 97% | Last Result |
-| 10 | 3% | 91% |  |
-| 11 | 7% | 88% |  |
-| 12 | 16% | 81% |  |
-| 13 | 18% | 65% | Median |
-| 14 | 11% | 47% |  |
-| 15 | 10% | 36% |  |
-| 16 | 4% | 26% |  |
-| 17 | 4% | 22% |  |
-| 18 | 4% | 19% |  |
-| 19 | 2% | 15% |  |
-| 20 | 11% | 13% |  |
-| 21 | 1.0% | 1.2% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 7 | 0.9% | 100% |  |
+| 8 | 1.2% | 99.0% |  |
+| 9 | 4% | 98% | Last Result |
+| 10 | 2% | 94% |  |
+| 11 | 2% | 91% |  |
+| 12 | 13% | 89% |  |
+| 13 | 15% | 76% |  |
+| 14 | 10% | 61% |  |
+| 15 | 27% | 51% | Median |
+| 16 | 4% | 24% |  |
+| 17 | 6% | 21% |  |
+| 18 | 3% | 14% |  |
+| 19 | 1.1% | 12% |  |
+| 20 | 10% | 10% |  |
+| 21 | 0.9% | 0.9% |  |
+| 22 | 0% | 0% |  |
 
 
