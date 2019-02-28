@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Wed, 27 Feb 2019 06:57:55 +0100</pubDate>
+    <pubDate>Thu, 28 Feb 2019 19:59:20 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 19–22 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-22-SigmaDos.html</link>
@@ -356,8 +356,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-12-12-Metroscopia.png"
         length="173061"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
-      <dc:date>2019-02-20T20:37:11.838075+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 19:59:20 +0100</pubDate>
+      <dc:date>2019-02-28T19:59:20.872321+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 3–11 December 2018 – Voting Intentions</title>
@@ -1096,8 +1096,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-03-16-MyWord.png"
         length="166865"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
-      <dc:date>2019-02-20T20:37:11.594067+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 13:43:04 +0100</pubDate>
+      <dc:date>2019-02-28T13:43:04.811316+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 12–16 March 2018 – Voting Intentions</title>
@@ -1239,6 +1239,6 @@
       <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
       <dc:date>2019-02-20T20:37:11.530066+01:00</dc:date>
     </item>
-    <dc:date>2019-02-27T06:57:55.688926+01:00</dc:date>
+    <dc:date>2019-02-28T19:59:20.872321+01:00</dc:date>
   </channel>
 </rss>
