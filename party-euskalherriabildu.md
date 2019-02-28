@@ -151,10 +151,10 @@ Last result: **2** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–6 | 1–6 | 1–7 | 0–7 |
+| N/A | [Poll Average](average.html) | 4 | 1–6 | 1–7 | 1–7 | 0–7 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
-| [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 2 | 2 | 2 | 2 | 2 |
-| [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 4 | 1–5 | 1–5 | 1–6 | 0–7 |
+| [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 2 | 1–7 | 1–7 | 0–7 | 0–7 |
+| [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 4 | 1–5 | 1–6 | 1–6 | 0–7 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 4 | 1–6 | 1–7 | 1–7 | 0–8 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 2 | 1–5 | 1–6 | 0–6 | 0–7 |
@@ -280,15 +280,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.2% | 100% |  |
-| 1 | 9% | 98.8% |  |
-| 2 | 30% | 90% | Last Result |
-| 3 | 10% | 60% | Median |
-| 4 | 18% | 50% |  |
-| 5 | 18% | 32% |  |
-| 6 | 10% | 14% |  |
-| 7 | 4% | 4% |  |
-| 8 | 0.2% | 0.3% |  |
+| 0 | 2% | 100% |  |
+| 1 | 10% | 98% |  |
+| 2 | 25% | 88% | Last Result |
+| 3 | 13% | 63% |  |
+| 4 | 15% | 50% | Median |
+| 5 | 18% | 35% |  |
+| 6 | 11% | 17% |  |
+| 7 | 5% | 6% |  |
+| 8 | 0.3% | 0.4% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
