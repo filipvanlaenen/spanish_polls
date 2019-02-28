@@ -197,7 +197,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 18 | 14–19 | 12–22 | 12–22 | 9–26 |
 | [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 21 | 14–24 | 12–24 | 12–24 | 10–26 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 16 | 12–20 | 11–21 | 10–24 | 9–25 |
-| [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 28 | 28–32 | 28–33 | 28–34 | 22–37 |
+| [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 29 | 26–34 | 24–36 | 24–38 | 22–42 |
 | [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 7 | 6–12 | 6–17 | 6–17 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 12 | 9–17 | 9–18 | 7–18 | 6–20 |
 | [5 December 2018](2018-12-05-SocioMétrica.html) | SocioMétrica <br> El Español | 26 | 24–27 | 22–30 | 20–34 | 18–43 |

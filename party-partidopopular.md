@@ -200,7 +200,7 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [5–14 December 2018](2018-12-14-NCReport.html) | NC Report <br> La Razón | 104 | 92–113 | 86–113 | 86–118 | 81–119 |
 | [10–14 December 2018](2018-12-14-GAD3.html) | GAD3 <br> ABC | 83 | 76–91 | 73–92 | 73–94 | 69–111 |
 | [10–13 December 2018](2018-12-13-IMOP.html) | IMOP <br> El Confidencial | 78 | 73–86 | 70–86 | 66–90 | 60–93 |
-| [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 74 | 69–75 | 69–75 | 68–75 | 58–83 |
+| [10–12 December 2018](2018-12-12-Metroscopia.html) | Metroscopia <br> Henneo | 69 | 62–75 | 60–77 | 59–78 | 57–82 |
 | [3–11 December 2018](2018-12-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 99 | 99–106 | 99–111 | 96–111 | 93–117 |
 | [3–7 December 2018](2018-12-07-Invymark.html) | Invymark <br> laSexta | 94 | 87–102 | 85–106 | 83–109 | 77–113 |
 | [5 December 2018](2018-12-05-SocioMétrica.html) | SocioMétrica <br> El Español | 78 | 73–89 | 72–90 | 71–98 | 67–98 |
@@ -274,7 +274,7 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 81 | 78–83 | 78–84 | 77–84 | 70–89 |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 86 | 86 | 85–89 | 85–103 | 85–103 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 86 | 86–104 | 86–106 | 86–108 | 75–108 |
-| [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 106 | 93–107 | 91–114 | 90–114 | 88–127 |
+| [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 105 | 97–115 | 94–117 | 92–120 | 86–124 |
 | [12–16 March 2018](2018-03-16-Invymark.html) | Invymark <br> laSexta | 100 | 94–109 | 91–112 | 88–114 | 83–119 |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 92 | 84–106 | 81–106 | 81–107 | 77–114 |
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 77 | 68–85 | 66–85 | 60–86 | 60–93 |
