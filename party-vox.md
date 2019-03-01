@@ -166,9 +166,9 @@ Last result: **0** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 14–42 | 12–45 | 12–47 | 9–52 |
+| N/A | [Poll Average](average.html) | 29 | 14–42 | 12–45 | 12–47 | 9–52 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 36 | 32–44 | 32–47 | 29–49 | 27–52 |
-| [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 25 | 25–29 | 14–32 | 14–32 | 14–35 |
+| [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 27 | 22–32 | 19–33 | 18–34 | 15–41 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 44 | 37–49 | 35–50 | 34–54 | 32–55 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 27 | 23–33 | 22–35 | 21–37 | 19–41 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 30 | 26–39 | 24–41 | 21–43 | 20–48 |
@@ -207,8 +207,8 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [5–9 November 2018](2018-11-09-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2 | 1–2 | 1–2 | 0–3 |
 | [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia | 2 | 2–3 | 2–3 | 2–6 | 2–6 |
-| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 4 | 4–6 | 4–6 | 3–6 | 3–6 |
-| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 6 | 2–6 | 2–6 | 2–6 | 2–6 |
+| [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 4 | 3–6 | 3–7 | 2–8 | 2–9 |
+| [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 3 | 2–6 | 2–6 | 2–6 | 2–6 |
 | [22–26 October 2018](2018-10-26-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 6 | 6–8 | 4–8 | 3–9 | 3–10 |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
@@ -309,30 +309,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.9% | 98.8% |  |
 | 12 | 6% | 98% |  |
 | 13 | 0.8% | 92% |  |
-| 14 | 2% | 91% |  |
-| 15 | 0.7% | 89% |  |
+| 14 | 1.4% | 91% |  |
+| 15 | 0.7% | 90% |  |
 | 16 | 2% | 89% |  |
 | 17 | 2% | 87% |  |
 | 18 | 4% | 85% |  |
 | 19 | 3% | 81% |  |
-| 20 | 1.3% | 78% |  |
+| 20 | 1.2% | 78% |  |
 | 21 | 4% | 77% |  |
-| 22 | 1.2% | 73% |  |
-| 23 | 2% | 72% |  |
-| 24 | 2% | 70% |  |
-| 25 | 7% | 68% |  |
-| 26 | 3% | 61% |  |
-| 27 | 5% | 58% |  |
-| 28 | 3% | 53% | Median |
-| 29 | 3% | 49% |  |
-| 30 | 3% | 46% |  |
-| 31 | 3% | 43% |  |
-| 32 | 4% | 40% |  |
-| 33 | 5% | 36% |  |
-| 34 | 4% | 31% |  |
+| 22 | 2% | 73% |  |
+| 23 | 3% | 72% |  |
+| 24 | 3% | 69% |  |
+| 25 | 2% | 66% |  |
+| 26 | 4% | 64% |  |
+| 27 | 6% | 60% |  |
+| 28 | 4% | 54% |  |
+| 29 | 3% | 50% | Median |
+| 30 | 3% | 47% |  |
+| 31 | 3% | 44% |  |
+| 32 | 4% | 41% |  |
+| 33 | 5% | 37% |  |
+| 34 | 4% | 32% |  |
 | 35 | 3% | 28% |  |
 | 36 | 3% | 25% |  |
-| 37 | 2% | 21% |  |
+| 37 | 2% | 22% |  |
 | 38 | 3% | 19% |  |
 | 39 | 2% | 16% |  |
 | 40 | 2% | 14% |  |
