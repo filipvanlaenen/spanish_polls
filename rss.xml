@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Thu, 28 Feb 2019 19:59:20 +0100</pubDate>
+    <pubDate>Fri, 01 Mar 2019 20:11:17 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 19–22 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-22-SigmaDos.html</link>
@@ -20,14 +20,34 @@
       <dc:date>2019-02-26T21:17:02.464819+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by GAD3 for ABC, 18–22 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-22-GAD3.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 79–113 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 104–137 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 22–38 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 35–63 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 9–19 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 3–11 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 3–10 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0–7 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0–4 seats&lt;/li&gt;&lt;li&gt;Vox: 18–34 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-22-GAD3-seats.png"
+        length="238076"
+        type="image/png"/>
+      <pubDate>Fri, 01 Mar 2019 20:06:42 +0100</pubDate>
+      <dc:date>2019-03-01T20:06:42.846787+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for ABC, 18–22 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-22-GAD3.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-22-GAD3-coalitions-seats.png"
+        length="534907"
+        type="image/png"/>
+      <pubDate>Fri, 01 Mar 2019 20:06:42 +0100</pubDate>
+      <dc:date>2019-03-01T20:06:42.846787+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by GAD3 for ABC, 18–22 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-22-GAD3.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 20.5–26.3%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 25.8–32.1%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 9.5–13.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 13.4–18.4%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.0–4.4%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.9–2.6%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.7–2.3%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.3–1.5%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.1–0.9%&lt;/li&gt;&lt;li&gt;Vox: 8.8–13.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-22-GAD3.png"
         length="265236"
         type="image/png"/>
-      <pubDate>Wed, 27 Feb 2019 06:57:55 +0100</pubDate>
-      <dc:date>2019-02-27T06:57:55.688926+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 20:06:42 +0100</pubDate>
+      <dc:date>2019-03-01T20:06:42.846787+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sondaxe for La Voz de Galicia, 13–21 February 2019 – Seat Projections for the Parties</title>
@@ -456,8 +476,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-10-30-GESOP.png"
         length="229377"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
-      <dc:date>2019-02-20T20:37:11.838075+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 20:33:56 +0100</pubDate>
+      <dc:date>2019-02-28T20:33:56.654296+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 20–26 October 2018 – Voting Intentions</title>
@@ -466,8 +486,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-10-26-electoPanel.png"
         length="286106"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
-      <dc:date>2019-02-20T20:37:11.838075+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 21:43:56 +0100</pubDate>
+      <dc:date>2019-02-28T21:43:56.079494+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 22–26 October 2018 – Voting Intentions</title>
@@ -476,8 +496,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-10-26-Invymark.png"
         length="163681"
         type="image/png"/>
-      <pubDate>Thu, 21 Feb 2019 09:13:44 +0100</pubDate>
-      <dc:date>2019-02-21T09:13:44.915574+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 21:06:41 +0100</pubDate>
+      <dc:date>2019-02-28T21:06:41.327058+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metroscopia for Henneo, 16–18 October 2018 – Voting Intentions</title>
@@ -676,8 +696,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-08-07-Celeste-Tel.png"
         length="270166"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
-      <dc:date>2019-02-20T20:37:11.810074+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 18:46:28 +0100</pubDate>
+      <dc:date>2019-03-01T18:46:28.742006+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 27 July–3 August 2018 – Voting Intentions</title>
@@ -716,8 +736,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-07-27-Invymark.png"
         length="162498"
         type="image/png"/>
-      <pubDate>Thu, 21 Feb 2019 09:41:16 +0100</pubDate>
-      <dc:date>2019-02-21T09:41:16.72538+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 21:22:43 +0100</pubDate>
+      <dc:date>2019-02-28T21:22:43.070469+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 24–26 July 2018 – Voting Intentions</title>
@@ -746,8 +766,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-07-25-DemoscopiayServicios.png"
         length="240793"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
-      <dc:date>2019-02-20T20:37:11.742072+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 20:11:17 +0100</pubDate>
+      <dc:date>2019-03-01T20:11:17.294347+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 17–22 July 2018 – Voting Intentions</title>
@@ -996,8 +1016,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-04-30-Celeste-Tel.png"
         length="239117"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
-      <dc:date>2019-02-20T20:37:11.650069+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 22:46:57 +0100</pubDate>
+      <dc:date>2019-02-28T22:46:57.6774+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 12–18 April 2018 – Voting Intentions</title>
@@ -1046,8 +1066,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-04-09-SimpleLógica.png"
         length="164975"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
-      <dc:date>2019-02-20T20:37:11.630069+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 22:02:20 +0100</pubDate>
+      <dc:date>2019-02-28T22:02:20.517814+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 2–6 April 2018 – Voting Intentions</title>
@@ -1196,8 +1216,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-02-14-MyWord.png"
         length="166267"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
-      <dc:date>2019-02-20T20:37:11.546066+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 20:45:02 +0100</pubDate>
+      <dc:date>2019-02-28T20:45:02.901753+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 5–9 February 2018 – Voting Intentions</title>
@@ -1239,6 +1259,6 @@
       <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
       <dc:date>2019-02-20T20:37:11.530066+01:00</dc:date>
     </item>
-    <dc:date>2019-02-28T19:59:20.872321+01:00</dc:date>
+    <dc:date>2019-03-01T20:11:17.294347+01:00</dc:date>
   </channel>
 </rss>
