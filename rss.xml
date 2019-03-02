@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Fri, 01 Mar 2019 20:11:17 +0100</pubDate>
+    <pubDate>Sat, 02 Mar 2019 08:12:33 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 19–22 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-22-SigmaDos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 63–87 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 105–131 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 33–49 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 43–63 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 11–18 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1–8 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 3–9 seats&lt;/li&gt;&lt;li&gt;Vox: 28–50 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-22-SigmaDos-seats.png"
+        length="201805"
+        type="image/png"/>
+      <pubDate>Sat, 02 Mar 2019 08:12:33 +0100</pubDate>
+      <dc:date>2019-03-02T08:12:33.337505+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Dos for El Mundo, 19–22 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-22-SigmaDos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-22-SigmaDos-coalitions-seats.png"
+        length="497684"
+        type="image/png"/>
+      <pubDate>Sat, 02 Mar 2019 08:12:33 +0100</pubDate>
+      <dc:date>2019-03-02T08:12:33.337505+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 19–22 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-22-SigmaDos.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-22-SigmaDos.png"
         length="222845"
         type="image/png"/>
-      <pubDate>Tue, 26 Feb 2019 21:17:02 +0100</pubDate>
-      <dc:date>2019-02-26T21:17:02.464819+01:00</dc:date>
+      <pubDate>Sat, 02 Mar 2019 08:12:33 +0100</pubDate>
+      <dc:date>2019-03-02T08:12:33.337505+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 18–22 February 2019 – Seat Projections for the Parties</title>
@@ -236,8 +256,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-01-15-Metroscopia.png"
         length="167030"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
-      <dc:date>2019-02-20T20:37:11.858075+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 20:50:40 +0100</pubDate>
+      <dc:date>2019-03-01T20:50:40.082615+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 6–13 January 2019 – Voting Intentions</title>
@@ -766,8 +786,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-07-25-DemoscopiayServicios.png"
         length="240793"
         type="image/png"/>
-      <pubDate>Fri, 01 Mar 2019 20:11:17 +0100</pubDate>
-      <dc:date>2019-03-01T20:11:17.294347+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 20:23:37 +0100</pubDate>
+      <dc:date>2019-03-01T20:23:37.803717+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 17–22 July 2018 – Voting Intentions</title>
@@ -1076,8 +1096,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-04-06-Celeste-Tel.png"
         length="269427"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
-      <dc:date>2019-02-20T20:37:11.630069+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 21:20:07 +0100</pubDate>
+      <dc:date>2019-03-01T21:20:07.662014+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metroscopia for El País, 4–5 April 2018 – Voting Intentions</title>
@@ -1259,6 +1279,6 @@
       <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
       <dc:date>2019-02-20T20:37:11.530066+01:00</dc:date>
     </item>
-    <dc:date>2019-03-01T20:11:17.294347+01:00</dc:date>
+    <dc:date>2019-03-02T08:12:33.337505+01:00</dc:date>
   </channel>
 </rss>
