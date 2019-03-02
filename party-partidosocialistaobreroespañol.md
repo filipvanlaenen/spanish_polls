@@ -164,7 +164,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 112 | 93–130 | 90–135 | 87–135 | 84–142 |
-| [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 116 | 109–125 | 108–130 | 104–131 | 100–136 |
+| [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 117 | 108–125 | 107–128 | 105–131 | 97–136 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 122 | 109–131 | 106–136 | 104–137 | 100–142 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 122 | 114–129 | 112–132 | 109–133 | 105–137 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 101 | 93–110 | 91–112 | 89–113 | 85–116 |
@@ -180,7 +180,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 94 | 86–103 | 84–108 | 84–111 | 81–113 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 120 | 109–120 | 108–120 | 106–120 | 101–124 |
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 94 | 86–103 | 84–105 | 83–107 | 79–111 |
-| [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 99 | 95–100 | 94–104 | 90–109 | 88–109 |
+| [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 96 | 92–102 | 90–107 | 88–110 | 85–111 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 91 | 91–93 | 84–102 | 83–102 | 79–103 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 135 | 132–140 | 132–143 | 131–145 | 128–148 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 111 | 102–118 | 98–121 | 96–123 | 91–130 |
@@ -233,7 +233,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [23–27 July 2018](2018-07-27-Invymark.html) | Invymark <br> laSexta | 98 | 94–108 | 91–111 | 90–114 | 87–119 |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 113 | 102–115 | 99–119 | 93–126 | 89–132 |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 107 | 97–113 | 97–115 | 97–116 | 95–118 |
-| [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 94 | 94–107 | 93–110 | 92–110 | 91–112 |
+| [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 97 | 88–105 | 87–105 | 84–107 | 83–112 |
 | [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 103 | 103 | 103 | 103 | 101–116 |
 | [9–13 July 2018](2018-07-13-Invymark.html) | Invymark <br> laSexta | 101 | 95–112 | 93–116 | 91–118 | 89–122 |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 106 | 95–114 | 93–117 | 90–118 | 88–124 |
@@ -264,7 +264,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [9–13 April 2018](2018-04-13-Invymark.html) | Invymark <br> laSexta | 86 | 79–92 | 77–94 | 76–96 | 72–100 |
 | [1–10 April 2018](2018-04-10-CIS.html) | CIS | 86 | 85–90 | 85–90 | 85–90 | 82–90 |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 79 | 72–88 | 70–89 | 68–90 | 63–92 |
-| [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 94 | 90–94 | 90–94 | 90–94 | 90–94 |
+| [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 93 | 86–95 | 86–98 | 86–99 | 79–101 |
 | [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 74 | 67–79 | 62–80 | 62–82 | 60–86 |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 79 | 75–79 | 75–79 | 74–82 | 72–82 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 76 | 64–76 | 60–76 | 59–76 | 59–85 |
@@ -325,30 +325,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 110 | 2% | 56% |  |
 | 111 | 2% | 53% |  |
 | 112 | 2% | 51% | Median |
-| 113 | 4% | 49% |  |
-| 114 | 3% | 45% |  |
+| 113 | 4% | 48% |  |
+| 114 | 2% | 45% |  |
 | 115 | 2% | 42% |  |
 | 116 | 3% | 40% |  |
-| 117 | 3% | 36% |  |
-| 118 | 2% | 33% |  |
-| 119 | 4% | 31% |  |
-| 120 | 3% | 27% |  |
+| 117 | 3% | 37% |  |
+| 118 | 3% | 34% |  |
+| 119 | 3% | 31% |  |
+| 120 | 3% | 28% |  |
 | 121 | 2% | 25% |  |
-| 122 | 3% | 23% |  |
+| 122 | 3% | 24% |  |
 | 123 | 2% | 20% |  |
 | 124 | 2% | 19% |  |
 | 125 | 1.2% | 17% |  |
-| 126 | 0.8% | 16% |  |
+| 126 | 0.9% | 16% |  |
 | 127 | 2% | 15% |  |
-| 128 | 0.9% | 13% |  |
-| 129 | 1.2% | 13% |  |
+| 128 | 1.0% | 13% |  |
+| 129 | 1.2% | 12% |  |
 | 130 | 1.3% | 11% |  |
 | 131 | 0.6% | 10% |  |
 | 132 | 0.9% | 9% |  |
 | 133 | 0.4% | 8% |  |
-| 134 | 0.8% | 8% |  |
+| 134 | 0.7% | 8% |  |
 | 135 | 5% | 7% |  |
-| 136 | 0.5% | 2% |  |
+| 136 | 0.4% | 2% |  |
 | 137 | 0.3% | 2% |  |
 | 138 | 0.2% | 1.4% |  |
 | 139 | 0.2% | 1.2% |  |

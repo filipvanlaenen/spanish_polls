@@ -167,7 +167,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29 | 14–42 | 12–45 | 12–47 | 9–52 |
-| [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 36 | 32–44 | 32–47 | 29–49 | 27–52 |
+| [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 38 | 32–45 | 30–48 | 28–50 | 26–52 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 27 | 22–32 | 19–33 | 18–34 | 15–41 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 44 | 37–49 | 35–50 | 34–54 | 32–55 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 27 | 23–33 | 22–35 | 21–37 | 19–41 |
@@ -183,7 +183,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 20 | 15–24 | 12–25 | 12–25 | 11–27 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 21 | 21–24 | 21–27 | 20–27 | 18–28 |
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 19 | 14–23 | 13–24 | 13–25 | 11–27 |
-| [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 29 | 27–34 | 27–38 | 26–40 | 25–43 |
+| [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 31 | 27–37 | 27–39 | 26–41 | 25–44 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 38 | 27–38 | 27–44 | 27–47 | 25–49 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 12 | 10–14 | 9–14 | 8–15 | 8–17 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 30 | 26–39 | 24–41 | 22–43 | 21–47 |
@@ -330,21 +330,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 4% | 41% |  |
 | 33 | 5% | 37% |  |
 | 34 | 4% | 32% |  |
-| 35 | 3% | 28% |  |
+| 35 | 2% | 28% |  |
 | 36 | 3% | 25% |  |
-| 37 | 2% | 22% |  |
-| 38 | 3% | 19% |  |
-| 39 | 2% | 16% |  |
+| 37 | 3% | 23% |  |
+| 38 | 3% | 20% |  |
+| 39 | 3% | 17% |  |
 | 40 | 2% | 14% |  |
 | 41 | 2% | 12% |  |
-| 42 | 1.5% | 10% |  |
+| 42 | 1.3% | 11% |  |
 | 43 | 2% | 9% |  |
 | 44 | 2% | 7% |  |
 | 45 | 1.0% | 5% |  |
-| 46 | 1.3% | 4% |  |
-| 47 | 0.8% | 3% |  |
+| 46 | 1.4% | 4% |  |
+| 47 | 0.7% | 3% |  |
 | 48 | 0.4% | 2% |  |
-| 49 | 0.6% | 2% |  |
+| 49 | 0.7% | 2% |  |
 | 50 | 0.3% | 1.0% |  |
 | 51 | 0.2% | 0.7% |  |
 | 52 | 0.2% | 0.5% |  |

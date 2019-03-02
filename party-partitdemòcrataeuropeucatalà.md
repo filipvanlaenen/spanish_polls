@@ -152,8 +152,8 @@ Last result: **8** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–8 | 1–9 | 1–10 | 1–11 |
-| [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 4 | 1–6 | 1–6 | 1–7 | 1–8 |
+| N/A | [Poll Average](average.html) | 6 | 3–8 | 1–9 | 1–10 | 1–11 |
+| [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 4 | 1–6 | 1–6 | 1–8 | 1–8 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 5 | 4–9 | 3–10 | 3–11 | 1–12 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 7 | 5–8 | 4–9 | 4–9 | 3–10 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
@@ -222,7 +222,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 | [23–27 July 2018](2018-07-27-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 6 | 4–9 | 4–10 | 4–10 | 2–12 |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
-| [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 4 | 4–10 | 4–10 | 4–10 | 2–11 |
+| [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 6 | 4–8 | 4–8 | 4–10 | 3–10 |
 | [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6 | 6 | 3–6 |
 | [9–13 July 2018](2018-07-13-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 4 | 1–6 | 1–6 | 1–7 | 1–8 |
@@ -253,7 +253,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 | [9–13 April 2018](2018-04-13-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [1–10 April 2018](2018-04-10-CIS.html) | CIS | 4 | 3–4 | 3–7 | 3–10 | 3–10 |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 6–14 | 6–14 | 6–14 | 6–14 |
+| [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 7 | 6–7 | 4–7 | 4–7 | 3–10 |
 | [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 6 | 5–6 | 5–8 | 5–10 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 4 | 3–4 | 3–4 | 3–4 | 3–8 |
@@ -282,11 +282,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 6% | 100% |  |
-| 2 | 1.0% | 94% |  |
+| 2 | 1.2% | 94% |  |
 | 3 | 16% | 93% |  |
-| 4 | 16% | 77% |  |
-| 5 | 12% | 62% | Median |
-| 6 | 27% | 49% |  |
+| 4 | 14% | 76% |  |
+| 5 | 12% | 62% |  |
+| 6 | 28% | 50% | Median |
 | 7 | 5% | 22% |  |
 | 8 | 10% | 17% | Last Result |
 | 9 | 2% | 7% |  |
