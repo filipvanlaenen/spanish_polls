@@ -187,7 +187,7 @@ Last result: **1** seats (General Election of 26 June 2016)
 | [5 December 2018](2018-12-05-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–2 | 0–3 | 0–4 | 0–4 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 0 | 0–2 | 0–2 | 0–2 | 0–4 |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 0–3 | 0–3 | 0–4 |
 | [5–9 November 2018](2018-11-09-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 1–5 | 0–5 | 0–5 | 0–5 |
 | [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia | 0 | 0–1 | 0–1 | 0–2 | 0–3 |
@@ -227,7 +227,7 @@ Last result: **1** seats (General Election of 26 June 2016)
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0–1 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0–1 | 0–1 | 0–2 | 0–4 |
-| [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 1 | 0–2 | 0–2 | 0–2 | 0–4 |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [18–22 June 2018](2018-06-22-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |

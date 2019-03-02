@@ -188,7 +188,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [5 December 2018](2018-12-05-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 1–5 | 1–5 | 0–6 | 0–6 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 3 | 2–6 | 2–6 | 1–6 | 0–7 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 1 | 1–7 | 0–7 | 0–7 | 0–7 |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 4 | 1–6 | 1–6 | 1–6 | 0–7 |
 | [5–9 November 2018](2018-11-09-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 6 | 3–6 | 3–6 | 1–6 |
 | [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia | 2 | 1–3 | 1–5 | 1–6 | 0–9 |
@@ -197,7 +197,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [22–26 October 2018](2018-10-26-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 3 | 2–3 | 0–4 | 0–6 | 0–7 |
-| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 2 | 2–4 | 2–4 | 2–4 | 2–7 |
+| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 2 | 2–4 | 2–5 | 2–5 | 2–6 |
 | [30 September–5 October 2018](2018-10-05-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–7 | 1–7 | 1–7 | 1–7 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 1–6 | 1–7 | 1–7 | 1–7 |
@@ -228,7 +228,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 1–6 | 1–6 | 1–7 | 1–9 |
-| [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 1 | 1–4 | 1–4 | 1–7 | 1–9 |
+| [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 2 | 1–5 | 1–7 | 1–7 | 0–7 |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 1–6 | 1–7 | 0–7 | 0–7 |
 | [18–22 June 2018](2018-06-22-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |

@@ -191,7 +191,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [5 December 2018](2018-12-05-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 12–15 | 10–16 | 9–17 | 8–18 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 13 | 10–14 | 10–15 | 10–16 | 9–17 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 9 | 9–12 | 9–13 | 9–13 | 9–13 |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 10 | 9–13 | 8–14 | 8–15 | 7–17 |
 | [5–9 November 2018](2018-11-09-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 12 | 12–13 | 12–15 | 11–15 |
 | [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia | 13 | 9–13 | 9–15 | 8–16 | 6–16 |
@@ -200,7 +200,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [22–26 October 2018](2018-10-26-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 9 | 9–15 | 9–15 | 9–15 | 8–17 |
-| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 15 | 12–16 | 12–16 | 12–16 | 12–17 |
+| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 17 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [30 September–5 October 2018](2018-10-05-electoPanel.html) | electoPanel <br> electomania.es | 12 | 9–13 | 9–14 | 9–14 | 7–17 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 8–15 | 7–15 | 7–16 | 7–18 |
@@ -231,7 +231,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS | 13 | 13–15 | 13–15 | 13–15 | 13–15 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9 | 8–14 | 8–15 | 8–18 | 7–19 |
-| [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 12 | 12–16 | 12–16 | 12–16 | 9–17 |
+| [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 12 | 10–14 | 9–15 | 9–16 | 7–18 |
 | [19–22 June 2018](2018-06-22-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 8–14 | 8–15 | 8–15 | 7–16 |
 | [18–22 June 2018](2018-06-22-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 10 | 7–13 | 7–14 | 6–15 | 6–16 |
@@ -295,7 +295,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 5% | 24% |  |
 | 17 | 3% | 18% |  |
 | 18 | 3% | 15% |  |
-| 19 | 1.3% | 12% |  |
+| 19 | 1.4% | 12% |  |
 | 20 | 10% | 11% |  |
 | 21 | 0.9% | 0.9% |  |
 | 22 | 0% | 0% |  |

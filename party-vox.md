@@ -203,7 +203,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [5 December 2018](2018-12-05-SocioMétrica.html) | SocioMétrica <br> El Español | 26 | 24–27 | 22–30 | 20–34 | 18–43 |
 | [3–4 December 2018](2018-12-04-electoPanel.html) | electoPanel <br> electomania.es | 26 | 21–28 | 20–29 | 19–32 | 18–41 |
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [5–9 November 2018](2018-11-09-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2 | 1–2 | 1–2 | 0–3 |
 | [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia | 2 | 2–3 | 2–3 | 2–6 | 2–6 |
@@ -212,7 +212,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [22–26 October 2018](2018-10-26-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [16–18 October 2018](2018-10-18-Metroscopia.html) | Metroscopia <br> Henneo | 6 | 6–8 | 4–8 | 3–9 | 3–10 |
 | [1–11 October 2018](2018-10-11-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 1–2 | 0–2 | 0–3 |
-| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 1 | 1 | 1 | 0–1 | 0–1 |
+| [1–9 October 2018](2018-10-09-CIS.html) | CIS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 September–5 October 2018](2018-10-05-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
@@ -328,22 +328,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 3% | 47% |  |
 | 31 | 3% | 44% |  |
 | 32 | 4% | 41% |  |
-| 33 | 5% | 37% |  |
-| 34 | 4% | 32% |  |
-| 35 | 2% | 28% |  |
-| 36 | 3% | 25% |  |
-| 37 | 3% | 23% |  |
+| 33 | 6% | 37% |  |
+| 34 | 4% | 31% |  |
+| 35 | 3% | 27% |  |
+| 36 | 2% | 25% |  |
+| 37 | 3% | 22% |  |
 | 38 | 3% | 20% |  |
 | 39 | 3% | 17% |  |
 | 40 | 2% | 14% |  |
-| 41 | 2% | 12% |  |
-| 42 | 1.3% | 11% |  |
+| 41 | 2% | 13% |  |
+| 42 | 1.4% | 11% |  |
 | 43 | 2% | 9% |  |
-| 44 | 2% | 7% |  |
-| 45 | 1.0% | 5% |  |
+| 44 | 2% | 8% |  |
+| 45 | 1.2% | 5% |  |
 | 46 | 1.4% | 4% |  |
 | 47 | 0.7% | 3% |  |
-| 48 | 0.4% | 2% |  |
+| 48 | 0.5% | 2% |  |
 | 49 | 0.7% | 2% |  |
 | 50 | 0.3% | 1.0% |  |
 | 51 | 0.2% | 0.7% |  |
