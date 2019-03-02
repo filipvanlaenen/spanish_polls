@@ -202,7 +202,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 99 | 90–109 | 89–113 | 88–116 | 85–120 |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 103 | 92–113 | 92–116 | 92–119 | 87–121 |
 | [5–9 November 2018](2018-11-09-Invymark.html) | Invymark <br> laSexta | 98 | 91–108 | 89–111 | 88–113 | 86–118 |
-| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 99 | 99 | 93–99 | 93–103 | 93–113 |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 98 | 89–115 | 89–115 | 89–115 | 89–116 |
 | [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia | 115 | 103–115 | 100–115 | 94–117 | 92–127 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 106 | 92–115 | 91–117 | 90–120 | 86–126 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 87 | 83–87 | 83–87 | 79–87 | 77–94 |
@@ -219,7 +219,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 105 | 96–116 | 94–119 | 92–122 | 89–125 |
 | [10–14 September 2018](2018-09-14-Invymark.html) | Invymark <br> laSexta | 95 | 90–102 | 88–105 | 87–109 | 85–113 |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 111 | 105–121 | 105–121 | 102–121 | 90–124 |
-| [1–11 September 2018](2018-09-11-CIS.html) | CIS | 131 | 127–133 | 123–133 | 123–133 | 123–133 |
+| [1–11 September 2018](2018-09-11-CIS.html) | CIS | 132 | 120–132 | 120–132 | 120–134 | 120–135 |
 | [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 94 | 86–98 | 86–107 | 86–107 | 85–112 |
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica | 100 | 92–112 | 90–115 | 89–117 | 86–121 |
 | [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 103 | 96–112 | 93–116 | 92–121 | 90–125 |
@@ -237,7 +237,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 103 | 98–108 | 98–110 | 96–118 | 95–119 |
 | [9–13 July 2018](2018-07-13-Invymark.html) | Invymark <br> laSexta | 101 | 95–112 | 93–116 | 91–118 | 89–122 |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 106 | 95–114 | 93–117 | 90–118 | 88–124 |
-| [1–10 July 2018](2018-07-10-CIS.html) | CIS | 127 | 127–129 | 127–129 | 127–129 | 123–129 |
+| [1–10 July 2018](2018-07-10-CIS.html) | CIS | 127 | 122–133 | 118–134 | 118–138 | 117–138 |
 | [2–6 July 2018](2018-07-06-SimpleLógica.html) | Simple Lógica | 109 | 97–119 | 95–122 | 94–125 | 91–129 |
 | [2–6 July 2018](2018-07-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 116 | 102–118 | 95–118 | 91–119 | 88–123 |
 | [25–30 June 2018](2018-06-30-NCReport.html) | NC Report <br> La Razón | 106 | 93–120 | 91–124 | 90–124 | 87–125 |
@@ -246,7 +246,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [11–13 June 2018](2018-06-13-GESOP.html) | GESOP <br> El Periódico | 116 | 104–128 | 101–130 | 99–132 | 95–136 |
 | [11–12 June 2018](2018-06-12-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 111 | 100–119 | 97–123 | 95–124 | 92–127 |
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 102 | 92–109 | 90–111 | 87–113 | 86–114 |
-| [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 103 | 99–120 | 97–120 | 95–122 | 91–131 |
+| [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 106 | 96–115 | 94–118 | 92–120 | 89–125 |
 | [4–8 June 2018](2018-06-08-Invymark.html) | Invymark <br> laSexta | 97 | 91–108 | 89–111 | 88–113 | 86–118 |
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 120 | 99–120 | 98–125 | 95–125 | 93–127 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 97 | 92–110 | 91–114 | 91–116 | 89–122 |
@@ -262,16 +262,16 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 78 | 72–86 | 69–88 | 66–89 | 62–92 |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 88 | 85–94 | 82–95 | 81–99 | 78–108 |
 | [9–13 April 2018](2018-04-13-Invymark.html) | Invymark <br> laSexta | 86 | 79–92 | 77–94 | 76–96 | 72–100 |
-| [1–10 April 2018](2018-04-10-CIS.html) | CIS | 86 | 85–90 | 85–90 | 85–90 | 82–90 |
+| [1–10 April 2018](2018-04-10-CIS.html) | CIS | 85 | 81–89 | 81–89 | 81–90 | 77–93 |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica | 79 | 72–88 | 70–89 | 68–90 | 63–92 |
 | [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 93 | 86–95 | 86–98 | 86–99 | 79–101 |
-| [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 74 | 67–79 | 62–80 | 62–82 | 60–86 |
-| [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 79 | 75–79 | 75–79 | 74–82 | 72–82 |
+| [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 74 | 67–80 | 64–82 | 62–84 | 59–87 |
+| [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 79 | 72–89 | 67–89 | 66–89 | 59–89 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 76 | 64–76 | 60–76 | 59–76 | 59–85 |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 83 | 75–88 | 72–90 | 70–92 | 65–97 |
 | [12–16 March 2018](2018-03-16-Invymark.html) | Invymark <br> laSexta | 86 | 82–92 | 79–95 | 77–98 | 74–101 |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 88 | 78–93 | 76–93 | 75–94 | 68–97 |
-| [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 81 | 78–87 | 78–88 | 78–88 | 75–89 |
+| [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 83 | 76–89 | 74–90 | 71–92 | 66–96 |
 | [1–7 March 2018](2018-03-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 90 | 84–99 | 84–102 | 84–102 | 77–110 |
 | [2–5 March 2018](2018-03-05-Metroscopia.html) | Metroscopia <br> El País | 75 | 67–81 | 65–84 | 61–86 | 59–88 |
 | [26 February–2 March 2018](2018-03-02-NCReport.html) | NC Report <br> La Razón | 90 | 87–96 | 85–99 | 84–103 | 80–111 |

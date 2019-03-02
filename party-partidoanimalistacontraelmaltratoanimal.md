@@ -192,7 +192,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [5–9 November 2018](2018-11-09-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0–1 |
 | [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia |  |  |  |  |  |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
@@ -209,7 +209,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [17–19 September 2018](2018-09-19-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
 | [10–14 September 2018](2018-09-14-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [1–11 September 2018](2018-09-11-CIS.html) | CIS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–11 September 2018](2018-09-11-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0–1 |
 | [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
