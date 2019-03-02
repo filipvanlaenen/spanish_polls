@@ -225,7 +225,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 13 | 9–15 | 9–15 | 8–15 | 7–17 |
 | [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 9 | 9–12 | 8–13 | 7–14 | 6–15 |
-| [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13 | 13 | 13 | 9–14 |
+| [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–13 | 11–13 | 9–16 | 9–16 |
 | [9–13 July 2018](2018-07-13-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [9–12 July 2018](2018-07-12-SigmaDos.html) | Sigma Dos <br> El Mundo | 13 | 9–15 | 9–15 | 9–17 | 8–18 |
 | [1–10 July 2018](2018-07-10-CIS.html) | CIS | 13 | 13–15 | 13–15 | 13–15 | 13–15 |
@@ -251,7 +251,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
 | [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 15 | 11–18 | 10–18 | 9–18 | 9–20 |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 11 | 9–14 | 8–14 | 7–15 | 7–16 |
-| [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 14 | 14 | 14 | 11–14 | 10–17 |
+| [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 12 | 8–14 | 8–15 | 8–16 | 7–17 |
 | [9–13 April 2018](2018-04-13-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [1–10 April 2018](2018-04-10-CIS.html) | CIS | 15 | 12–15 | 12–15 | 9–15 | 9–15 |
 | [2–9 April 2018](2018-04-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
