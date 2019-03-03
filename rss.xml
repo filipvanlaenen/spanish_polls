@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Sat, 02 Mar 2019 20:13:12 +0100</pubDate>
+    <pubDate>Sat, 02 Mar 2019 21:18:07 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 19–22 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-22-SigmaDos.html#seats</link>
@@ -776,8 +776,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-07-25-Metroscopia.png"
         length="151022"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
-      <dc:date>2019-02-20T20:37:11.742072+01:00</dc:date>
+      <pubDate>Sat, 02 Mar 2019 21:18:07 +0100</pubDate>
+      <dc:date>2019-03-02T21:18:07.304928+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoscopia y Servicios for OKDIARIO, 22–25 July 2018 – Voting Intentions</title>
@@ -1122,12 +1122,12 @@
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 23–27 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2018-03-27-SigmaDos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 20.8–26.1%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 17.3–22.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 16.1–20.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 24.1–29.5%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.7–2.2%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.7–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 20.8–26.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 17.3–22.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 16.1–20.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 24.1–29.5%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.8–2.2%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.7–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-03-27-SigmaDos.png"
         length="211149"
         type="image/png"/>
-      <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
-      <dc:date>2019-02-20T20:37:11.594067+01:00</dc:date>
+      <pubDate>Sat, 02 Mar 2019 20:31:27 +0100</pubDate>
+      <dc:date>2019-03-02T20:31:27.089545+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MyWord for Cadena SER, 13–16 March 2018 – Voting Intentions</title>
@@ -1279,6 +1279,6 @@
       <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
       <dc:date>2019-02-20T20:37:11.530066+01:00</dc:date>
     </item>
-    <dc:date>2019-03-02T20:13:12.264507+01:00</dc:date>
+    <dc:date>2019-03-02T21:18:07.304928+01:00</dc:date>
   </channel>
 </rss>
