@@ -114,7 +114,7 @@ Last result: **21.2%** (General Election of 26 June 2016)
 | [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16.6% | 15.3–18.2% | 14.9–18.6% | 14.5–19.0% | 13.9–19.7% |
 | [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 18.3% | 17.0–19.8% | 16.6–20.2% | 16.3–20.5% | 15.7–21.2% |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
-| [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 18.4% | 16.9–20.1% | 16.5–20.5% | 16.1–20.9% | 15.4–21.8% |
+| [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 18.4% | 16.9–20.1% | 16.5–20.5% | 16.1–20.9% | 15.4–21.7% |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.1% |
 | [12–16 March 2018](2018-03-16-Invymark.html) | Invymark <br> laSexta | 16.8% | 15.5–18.3% | 15.1–18.7% | 14.8–19.1% | 14.2–19.8% |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 16.7% | 15.2–18.3% | 14.8–18.7% | 14.5–19.1% | 13.8–19.9% |
@@ -230,7 +230,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [23–27 July 2018](2018-07-27-NCReport.html) | NC Report <br> La Razón | 40 | 38–41 | 36–46 | 35–49 | 34–61 |
 | [23–27 July 2018](2018-07-27-Invymark.html) | Invymark <br> laSexta | 59 | 50–64 | 48–67 | 46–68 | 41–71 |
 | [24–26 July 2018](2018-07-26-GAD3.html) | GAD3 <br> ABC | 41 | 35–47 | 34–57 | 33–58 | 29–58 |
-| [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 41 | 39–59 | 39–59 | 39–59 | 39–61 |
+| [16–25 July 2018](2018-07-25-Metroscopia.html) | Metroscopia <br> Henneo | 47 | 41–54 | 40–56 | 39–57 | 36–60 |
 | [22–25 July 2018](2018-07-25-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 47 | 44–56 | 40–60 | 37–61 | 35–61 |
 | [17–22 July 2018](2018-07-22-electoPanel.html) | electoPanel <br> electomania.es | 61 | 55–66 | 54–66 | 54–67 | 53–68 |
 | [9–13 July 2018](2018-07-13-Invymark.html) | Invymark <br> laSexta | 57 | 48–64 | 46–67 | 43–67 | 40–70 |
@@ -265,7 +265,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [2–6 April 2018](2018-04-06-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 42 | 42–49 | 41–51 | 37–54 | 37–61 |
 | [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 61 | 53–67 | 50–70 | 47–71 | 43–74 |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 47 | 40–58 | 39–58 | 36–66 | 33–66 |
-| [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 52 | 52–65 | 49–67 | 41–76 | 41–76 |
+| [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 59 | 49–68 | 48–69 | 45–71 | 40–76 |
 | [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 48 | 39–58 | 38–59 | 37–61 | 34–66 |
 | [12–16 March 2018](2018-03-16-Invymark.html) | Invymark <br> laSexta | 48 | 39–57 | 39–60 | 38–61 | 36–65 |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 43 | 39–51 | 39–55 | 37–58 | 36–67 |
