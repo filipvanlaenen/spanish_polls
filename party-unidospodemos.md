@@ -255,8 +255,8 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 61 | 59–66 | 58–70 | 56–72 | 54–77 |
 | [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 40 | 37–53 | 36–56 | 34–58 | 33–60 |
 | [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica | 53 | 43–61 | 41–63 | 40–65 | 39–69 |
-| [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 66 | 61–72 | 60–74 | 58–75 | 55–77 |
-| [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 55 | 44–65 | 44–67 | 40–67 | 38–67 |
+| [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 66 | 61–73 | 60–74 | 58–75 | 55–77 |
+| [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 52 | 44–65 | 43–67 | 40–68 | 38–68 |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 58 | 48–66 | 45–68 | 42–69 | 39–74 |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 47 | 45–57 | 40–59 | 40–60 | 36–62 |
 | [9–13 April 2018](2018-04-13-Invymark.html) | Invymark <br> laSexta | 51 | 41–58 | 39–60 | 39–62 | 38–66 |
@@ -266,7 +266,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [4–5 April 2018](2018-04-05-Metroscopia.html) | Metroscopia <br> El País | 61 | 53–67 | 50–70 | 47–71 | 43–74 |
 | [19–29 March 2018](2018-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 47 | 40–58 | 39–58 | 36–66 | 33–66 |
 | [23–27 March 2018](2018-03-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 59 | 49–68 | 48–69 | 45–71 | 40–76 |
-| [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 48 | 39–58 | 38–59 | 37–61 | 34–66 |
+| [13–16 March 2018](2018-03-16-MyWord.html) | MyWord <br> Cadena SER | 48 | 39–58 | 38–59 | 37–61 | 35–66 |
 | [12–16 March 2018](2018-03-16-Invymark.html) | Invymark <br> laSexta | 48 | 39–57 | 39–60 | 38–61 | 36–65 |
 | [12–14 March 2018](2018-03-14-GAD3.html) | GAD3 <br> La Vanguardia | 43 | 39–51 | 39–55 | 37–58 | 36–67 |
 | [1–7 March 2018](2018-03-07-SimpleLógica.html) | Simple Lógica | 54 | 44–62 | 42–63 | 40–66 | 39–70 |

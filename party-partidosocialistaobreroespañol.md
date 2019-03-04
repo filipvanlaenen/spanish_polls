@@ -258,7 +258,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 89 | 85–100 | 83–102 | 81–102 | 79–108 |
 | [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica | 77 | 71–84 | 68–86 | 65–88 | 60–90 |
 | [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 74 | 66–78 | 64–79 | 63–81 | 60–85 |
-| [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 93 | 91–101 | 90–107 | 87–107 | 83–111 |
+| [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 93 | 88–104 | 88–107 | 87–108 | 83–113 |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 78 | 72–86 | 69–88 | 66–89 | 62–92 |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 88 | 85–94 | 82–95 | 81–99 | 78–108 |
 | [9–13 April 2018](2018-04-13-Invymark.html) | Invymark <br> laSexta | 86 | 79–92 | 77–94 | 76–96 | 72–100 |

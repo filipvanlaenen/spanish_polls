@@ -263,8 +263,8 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [17–26 May 2018](2018-05-26-SocioMétrica.html) | SocioMétrica <br> El Español | 58 | 58–61 | 57–63 | 57–67 | 52–71 |
 | [16–25 May 2018](2018-05-25-NCReport.html) | NC Report <br> La Razón | 100 | 92–115 | 92–117 | 92–120 | 86–120 |
 | [3–10 May 2018](2018-05-10-SimpleLógica.html) | Simple Lógica | 80 | 74–88 | 72–90 | 70–92 | 65–97 |
-| [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 74 | 68–79 | 67–81 | 65–83 | 61–85 |
-| [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 106 | 99–116 | 99–117 | 96–120 | 91–122 |
+| [7–9 May 2018](2018-05-09-Metroscopia.html) | Metroscopia <br> El País | 74 | 68–79 | 67–81 | 65–82 | 61–85 |
+| [26–30 April 2018](2018-04-30-Celeste-Tel.html) | Celeste-Tel <br> PSOE | 106 | 97–116 | 94–117 | 93–120 | 90–122 |
 | [12–18 April 2018](2018-04-18-GESOP.html) | GESOP <br> El Periódico | 79 | 74–86 | 71–89 | 69–93 | 63–99 |
 | [9–13 April 2018](2018-04-13-NCReport.html) | NC Report <br> La Razón | 111 | 103–116 | 98–117 | 96–120 | 90–122 |
 | [9–13 April 2018](2018-04-13-Invymark.html) | Invymark <br> laSexta | 100 | 92–108 | 89–110 | 86–113 | 81–117 |
