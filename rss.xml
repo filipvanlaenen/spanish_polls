@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Sat, 02 Mar 2019 21:18:07 +0100</pubDate>
+    <pubDate>Sun, 03 Mar 2019 21:36:23 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 19–22 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-22-SigmaDos.html#seats</link>
@@ -1026,8 +1026,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-05-09-Metroscopia.png"
         length="154777"
         type="image/png"/>
-      <pubDate>Sat, 02 Mar 2019 08:35:19 +0100</pubDate>
-      <dc:date>2019-03-02T08:35:19.092737+01:00</dc:date>
+      <pubDate>Sun, 03 Mar 2019 21:36:23 +0100</pubDate>
+      <dc:date>2019-03-03T21:36:23.17388+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for PSOE, 26–30 April 2018 – Voting Intentions</title>
@@ -1036,8 +1036,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-04-30-Celeste-Tel.png"
         length="239117"
         type="image/png"/>
-      <pubDate>Thu, 28 Feb 2019 22:46:57 +0100</pubDate>
-      <dc:date>2019-02-28T22:46:57.6774+01:00</dc:date>
+      <pubDate>Sun, 03 Mar 2019 21:20:24 +0100</pubDate>
+      <dc:date>2019-03-03T21:20:24.74279+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 12–18 April 2018 – Voting Intentions</title>
@@ -1136,8 +1136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2018-03-16-MyWord.png"
         length="166865"
         type="image/png"/>
-      <pubDate>Thu, 28 Feb 2019 13:43:04 +0100</pubDate>
-      <dc:date>2019-02-28T13:43:04.811316+01:00</dc:date>
+      <pubDate>Sun, 03 Mar 2019 21:29:49 +0100</pubDate>
+      <dc:date>2019-03-03T21:29:49.359754+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 12–16 March 2018 – Voting Intentions</title>
@@ -1279,6 +1279,6 @@
       <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
       <dc:date>2019-02-20T20:37:11.530066+01:00</dc:date>
     </item>
-    <dc:date>2019-03-02T21:18:07.304928+01:00</dc:date>
+    <dc:date>2019-03-03T21:36:23.17388+01:00</dc:date>
   </channel>
 </rss>
