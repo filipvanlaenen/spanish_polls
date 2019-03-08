@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Sun, 03 Mar 2019 21:36:23 +0100</pubDate>
+    <pubDate>Fri, 08 Mar 2019 19:21:40 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 22 February–3 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-03-electoPanel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 19.4–21.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 25.5–27.9%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 10.7–12.4%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 15.2–17.2%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.9–3.8%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.0–1.7%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 1.0–1.7%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 0.6–1.1%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.6–1.1%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.2–0.5%&lt;/li&gt;&lt;li&gt;Vox: 11.2–13.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-03-electoPanel.png"
+        length="232939"
+        type="image/png"/>
+      <pubDate>Fri, 08 Mar 2019 19:21:40 +0100</pubDate>
+      <dc:date>2019-03-08T19:21:40.828141+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 19–22 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-22-SigmaDos.html#seats</link>
@@ -1279,6 +1289,6 @@
       <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
       <dc:date>2019-02-20T20:37:11.530066+01:00</dc:date>
     </item>
-    <dc:date>2019-03-03T21:36:23.17388+01:00</dc:date>
+    <dc:date>2019-03-08T19:21:40.828141+01:00</dc:date>
   </channel>
 </rss>
