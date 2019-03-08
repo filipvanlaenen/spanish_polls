@@ -11,6 +11,7 @@ Last result: **0.2%** (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.6% | 7.6–13.9% | 6.6–14.5% | 6.3–14.9% | 5.8–15.8% |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 12.1% | 11.5–12.7% | 11.4–12.9% | 11.2–13.0% | 11.0–13.3% |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 13.3% | 12.1–14.7% | 11.8–15.1% | 11.5–15.4% | 11.0–16.0% |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 10.8% | 9.4–12.3% | 9.1–12.7% | 8.8–13.1% | 8.2–13.9% |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 14.2% | 13.1–15.4% | 12.8–15.8% | 12.5–16.1% | 12.0–16.7% |
@@ -148,9 +149,9 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 6% | 90% |  |
 | 8.5–9.5% | 8% | 84% |  |
 | 9.5–10.5% | 10% | 76% |  |
-| 10.5–11.5% | 15% | 66% |  |
-| 11.5–12.5% | 20% | 51% | Median |
-| 12.5–13.5% | 17% | 30% |  |
+| 10.5–11.5% | 14% | 66% |  |
+| 11.5–12.5% | 22% | 51% | Median |
+| 12.5–13.5% | 16% | 30% |  |
 | 13.5–14.5% | 9% | 14% |  |
 | 14.5–15.5% | 4% | 5% |  |
 | 15.5–16.5% | 0.8% | 0.8% |  |
@@ -167,6 +168,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29 | 14–42 | 12–45 | 12–47 | 9–52 |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 35 | 30–35 | 30–35 | 30–36 | 28–38 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 38 | 32–45 | 30–48 | 28–50 | 26–52 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 27 | 22–32 | 19–33 | 18–34 | 15–41 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 44 | 37–49 | 35–50 | 34–54 | 32–55 |
@@ -321,23 +323,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 3% | 72% |  |
 | 24 | 3% | 69% |  |
 | 25 | 2% | 66% |  |
-| 26 | 4% | 64% |  |
-| 27 | 6% | 60% |  |
-| 28 | 4% | 54% |  |
-| 29 | 3% | 50% | Median |
-| 30 | 3% | 47% |  |
-| 31 | 3% | 44% |  |
-| 32 | 4% | 41% |  |
-| 33 | 6% | 37% |  |
-| 34 | 4% | 31% |  |
-| 35 | 3% | 27% |  |
-| 36 | 2% | 25% |  |
-| 37 | 3% | 22% |  |
-| 38 | 3% | 20% |  |
-| 39 | 3% | 17% |  |
+| 26 | 3% | 64% |  |
+| 27 | 5% | 61% |  |
+| 28 | 3% | 56% |  |
+| 29 | 3% | 52% | Median |
+| 30 | 4% | 50% |  |
+| 31 | 4% | 46% |  |
+| 32 | 3% | 43% |  |
+| 33 | 6% | 40% |  |
+| 34 | 4% | 34% |  |
+| 35 | 7% | 31% |  |
+| 36 | 2% | 24% |  |
+| 37 | 2% | 22% |  |
+| 38 | 3% | 19% |  |
+| 39 | 2% | 17% |  |
 | 40 | 2% | 14% |  |
 | 41 | 2% | 13% |  |
-| 42 | 1.4% | 11% |  |
+| 42 | 1.3% | 11% |  |
 | 43 | 2% | 9% |  |
 | 44 | 2% | 8% |  |
 | 45 | 1.2% | 5% |  |

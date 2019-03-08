@@ -10,7 +10,8 @@ Last result: **0.8%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.5–1.3% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.5–1.3% | 0.4–1.4% | 0.4–1.5% | 0.3–1.7% |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 0.8% | 0.7–1.0% | 0.6–1.1% | 0.6–1.1% | 0.5–1.2% |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% |
@@ -137,8 +138,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 13% | 100% |  |
-| 0.5–1.5% | 85% | 87% | Last Result, Median |
+| 0.0–0.5% | 12% | 100% |  |
+| 0.5–1.5% | 87% | 88% | Last Result, Median |
 | 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -152,6 +153,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 1–6 | 1–6 | 0–7 | 0–7 |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 4 | 2–4 | 2–5 | 2–5 | 2–6 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 2 | 0–5 | 0–7 | 0–7 | 0–8 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 4 | 1–5 | 1–6 | 1–6 | 0–7 |
@@ -281,14 +283,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 4% | 100% |  |
-| 1 | 12% | 96% |  |
-| 2 | 19% | 83% | Last Result |
-| 3 | 14% | 65% |  |
-| 4 | 16% | 51% | Median |
-| 5 | 19% | 35% |  |
-| 6 | 11% | 16% |  |
-| 7 | 4% | 5% |  |
-| 8 | 0.3% | 0.4% |  |
+| 1 | 11% | 96% |  |
+| 2 | 20% | 85% | Last Result |
+| 3 | 12% | 65% |  |
+| 4 | 22% | 53% | Median |
+| 5 | 18% | 31% |  |
+| 6 | 9% | 14% |  |
+| 7 | 4% | 4% |  |
+| 8 | 0.2% | 0.4% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
