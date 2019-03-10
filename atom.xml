@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_polls</id>
   <title>All Registered Polls for the Congress of Deputies</title>
-  <updated>2019-03-02T08:12:33.337505+01:00</updated>
+  <updated>2019-03-10T22:12:39.175717+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular: 16.9–21.4%, 63–87 seats</li><li>Partido Socialista Obrero Español: 24.9–29.9%, 105–131 seats</li><li>Unidos Podemos: 12.5–16.5%, 33–49 seats</li><li>Ciudadanos–Partido de la Ciudadanía: 14.0–18.2%, 43–63 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí: 2.3–4.3%, 11–18 seats</li><li>Partit Demòcrata Europeu Català: 0.6–1.8%, 1–8 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.7–2.0%, 3–9 seats</li><li>Vox: 11.5–15.4%, 28–50 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_polls/2019-02-22-SigmaDos.html</id>
@@ -39,5 +39,13 @@
     <updated>2019-02-23T11:17:05.230821+01:00</updated>
     <dc:date>2019-02-23T11:17:05.230821+01:00</dc:date>
   </entry>
-  <dc:date>2019-03-02T08:12:33.337505+01:00</dc:date>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular: 23.7–29.0%, 92–116 seats</li><li>Partido Socialista Obrero Español: 25.1–30.5%, 93–119 seats</li><li>Unidos Podemos: 15.2–19.7%, 40–62 seats</li><li>Ciudadanos–Partido de la Ciudadanía: 17.0–21.7%, 58–70 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí: 2.1–4.2%, 8–15 seats</li><li>Partit Demòcrata Europeu Català: 1.1–2.7%, 3–8 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.6–1.9%, 2–7 seats</li><li>Partido Animalista Contra el Maltrato Animal: 0.4–1.6%, 0 seats</li><li>Euskal Herria Bildu: 0.4–1.6%, 1–6 seats</li><li>Coalición Canaria–Partido Nacionalista Canario: 0.1–0.8%, 0–2 seats</li><li>Vox: 0.6–1.8%, 0–1 seats</li><li>Bloque Nacionalista Galego–Nós Candidatura Galega: 0.0–0.7%, 0–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_polls/2018-10-05-Celeste-Tel.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_polls/2018-10-05-Celeste-Tel.html"/>
+    <title>Opinion Poll by Celeste-Tel for eldiario.es, 1–5 October 2018</title>
+    <updated>2019-03-10T22:12:39.175717+01:00</updated>
+    <dc:date>2019-03-10T22:12:39.175717+01:00</dc:date>
+  </entry>
+  <dc:date>2019-03-10T22:12:39.175717+01:00</dc:date>
 </feed>
