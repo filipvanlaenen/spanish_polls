@@ -212,7 +212,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 50 | 50–55 | 44–55 | 42–55 | 38–57 |
 | [30 September–5 October 2018](2018-10-05-electoPanel.html) | electoPanel <br> electomania.es | 62 | 50–68 | 50–68 | 50–72 | 47–72 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 55 | 46–62 | 43–65 | 40–67 | 39–69 |
-| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 44 | 36–62 | 36–64 | 36–64 | 35–64 |
+| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 43 | 43 | 37–43 | 37–44 | 37–44 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 50 | 41–60 | 40–63 | 37–63 | 35–66 |
 | [24–28 September 2018](2018-09-28-Invymark.html) | Invymark <br> laSexta | 57 | 48–62 | 45–64 | 43–66 | 40–71 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 41 | 36–49 | 34–51 | 33–54 | 31–59 |
