@@ -210,7 +210,7 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 79 | 72–90 | 69–92 | 66–94 | 62–97 |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 107 | 96–120 | 92–120 | 92–120 | 86–122 |
 | [5–9 November 2018](2018-11-09-Invymark.html) | Invymark <br> laSexta | 96 | 91–104 | 88–108 | 85–111 | 80–115 |
-| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 113 | 88–116 | 88–116 | 88–116 | 84–119 |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 113 | 88–116 | 88–118 | 88–119 | 84–119 |
 | [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia | 89 | 80–90 | 73–95 | 73–99 | 73–110 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 88 | 77–95 | 75–99 | 74–100 | 71–106 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 101 | 92–101 | 92–101 | 92–103 | 78–109 |
@@ -220,7 +220,7 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 67 | 63–70 | 63–71 | 63–72 | 62–76 |
 | [30 September–5 October 2018](2018-10-05-electoPanel.html) | electoPanel <br> electomania.es | 87 | 87–102 | 87–102 | 87–102 | 82–111 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 95 | 88–104 | 85–107 | 82–110 | 79–116 |
-| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 99 | 99–107 | 99–107 | 99–111 | 99–111 |
+| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 103 | 95–109 | 95–114 | 92–116 | 85–123 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 86 | 76–95 | 74–96 | 74–98 | 71–103 |
 | [24–28 September 2018](2018-09-28-Invymark.html) | Invymark <br> laSexta | 99 | 92–106 | 90–109 | 88–111 | 82–116 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 93 | 85–101 | 83–103 | 81–105 | 77–110 |

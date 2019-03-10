@@ -202,7 +202,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 63 | 52–71 | 50–72 | 49–73 | 44–77 |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 46 | 41–61 | 40–62 | 40–63 | 38–66 |
 | [5–9 November 2018](2018-11-09-Invymark.html) | Invymark <br> laSexta | 51 | 42–60 | 40–61 | 39–63 | 37–67 |
-| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 49 | 39–53 | 39–53 | 39–57 | 39–63 |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 49 | 39–53 | 39–57 | 39–60 | 39–64 |
 | [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia | 41 | 41–54 | 41–58 | 38–62 | 36–65 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 48 | 40–60 | 38–63 | 37–66 | 34–68 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 59 | 51–62 | 51–62 | 51–66 | 45–67 |
@@ -212,7 +212,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 50 | 50–55 | 44–55 | 42–55 | 38–57 |
 | [30 September–5 October 2018](2018-10-05-electoPanel.html) | electoPanel <br> electomania.es | 62 | 50–68 | 50–68 | 50–72 | 47–72 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 55 | 46–62 | 43–65 | 40–67 | 39–69 |
-| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 43 | 43 | 37–43 | 37–44 | 37–44 |
+| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 45 | 45–59 | 45–62 | 40–62 | 36–64 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 50 | 41–60 | 40–63 | 37–63 | 35–66 |
 | [24–28 September 2018](2018-09-28-Invymark.html) | Invymark <br> laSexta | 57 | 48–62 | 45–64 | 43–66 | 40–71 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 41 | 36–49 | 34–51 | 33–54 | 31–59 |

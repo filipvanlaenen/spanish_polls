@@ -204,7 +204,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [2–14 November 2018](2018-11-14-SimpleLógica.html) | Simple Lógica | 99 | 90–109 | 89–113 | 88–116 | 85–120 |
 | [5–9 November 2018](2018-11-09-NCReport.html) | NC Report <br> La Razón | 103 | 92–113 | 92–116 | 92–119 | 87–121 |
 | [5–9 November 2018](2018-11-09-Invymark.html) | Invymark <br> laSexta | 98 | 91–108 | 89–111 | 88–113 | 86–118 |
-| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 98 | 89–115 | 89–115 | 89–115 | 89–116 |
+| [5–9 November 2018](2018-11-09-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 98 | 89–115 | 89–115 | 89–116 | 88–118 |
 | [2–7 November 2018](2018-11-07-GAD3.html) | GAD3 <br> La Vanguardia | 115 | 103–115 | 100–115 | 94–117 | 92–127 |
 | [22–30 October 2018](2018-10-30-GESOP.html) | GESOP <br> El Periódico | 106 | 92–115 | 91–117 | 90–120 | 86–126 |
 | [20–26 October 2018](2018-10-26-electoPanel.html) | electoPanel <br> electomania.es | 87 | 83–87 | 83–87 | 79–87 | 77–94 |
@@ -214,7 +214,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [1–9 October 2018](2018-10-09-CIS.html) | CIS | 136 | 132–136 | 131–136 | 129–136 | 126–138 |
 | [30 September–5 October 2018](2018-10-05-electoPanel.html) | electoPanel <br> electomania.es | 86 | 80–98 | 77–98 | 77–98 | 74–98 |
 | [1–5 October 2018](2018-10-05-SimpleLógica.html) | Simple Lógica | 101 | 89–111 | 88–113 | 87–114 | 86–116 |
-| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 116 | 108–116 | 103–116 | 103–133 | 103–133 |
+| [1–5 October 2018](2018-10-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 114 | 93–118 | 93–119 | 93–119 | 91–123 |
 | [2 October 2018](2018-10-02-SimpleLógica.html) | Simple Lógica <br> eldebate.es | 103 | 93–113 | 91–117 | 90–118 | 88–122 |
 | [24–28 September 2018](2018-09-28-Invymark.html) | Invymark <br> laSexta | 94 | 88–102 | 87–105 | 86–108 | 84–112 |
 | [17–19 September 2018](2018-09-19-Metroscopia.html) | Metroscopia <br> Henneo | 116 | 107–124 | 104–126 | 102–127 | 96–131 |
