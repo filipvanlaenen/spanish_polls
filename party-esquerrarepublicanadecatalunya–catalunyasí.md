@@ -10,12 +10,13 @@ Last result: **2.7%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.5–4.5% | 2.3–4.8% | 2.2–5.1% | 1.9–5.4% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.6–4.6% | 2.4–4.9% | 2.2–5.1% | 1.9–5.4% |
+| [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
+| [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 3.3% | 3.0–3.6% | 3.0–3.7% | 2.9–3.7% | 2.8–3.9% |
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 3.1% | 2.6–3.8% | 2.5–3.9% | 2.4–4.1% | 2.2–4.4% |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
-| [4–8 March 2019](2019-03-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 3.3% | 3.0–3.7% | 2.9–3.7% | 2.9–3.8% | 2.7–4.0% |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.2% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.1–4.7% |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
@@ -145,9 +146,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 10% | 100% |  |
-| 2.5–3.5% | 56% | 90% | Last Result, Median |
-| 3.5–4.5% | 25% | 34% |  |
-| 4.5–5.5% | 9% | 9% |  |
+| 2.5–3.5% | 54% | 90% | Last Result, Median |
+| 3.5–4.5% | 26% | 36% |  |
+| 4.5–5.5% | 10% | 11% |  |
 | 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -160,12 +161,13 @@ Last result: **9** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 10–20 | 9–20 | 9–20 | 7–21 |
+| N/A | [Poll Average](average.html) | 14 | 10–20 | 9–20 | 9–20 | 8–21 |
+| [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–16 | 14–17 | 14–18 |
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 9–15 | 9–16 | 9–16 | 9–18 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 12 | 9–17 | 9–17 | 9–17 | 8–19 |
-| [4–8 March 2019](2019-03-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–15 | 14–15 | 12–17 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 12–16 | 11–18 | 11–18 | 9–20 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 13 | 9–16 | 9–17 | 9–19 | 7–20 |
@@ -223,7 +225,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [10–14 September 2018](2018-09-14-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 12 | 9–12 | 9–14 | 8–14 | 7–17 |
 | [1–11 September 2018](2018-09-11-CIS.html) | CIS | 15 | 14–16 | 13–16 | 13–16 | 12–18 |
-| [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–15 | 10–15 | 9–15 | 8–19 |
+| [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 12 | 11–15 | 9–15 | 9–16 | 8–18 |
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 10 | 7–14 | 7–14 | 7–15 | 7–15 |
 | [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 11–14 | 9–14 | 9–14 | 7–17 |
@@ -251,7 +253,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 13 | 11–15 | 10–17 | 9–17 | 8–18 |
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [4–8 June 2018](2018-06-08-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 14 | 8–15 | 8–16 | 8–16 | 7–18 |
+| [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 14 | 9–16 | 9–17 | 8–17 | 7–19 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 11–14 | 9–16 | 9–18 | 8–18 |
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9–12 | 8–14 | 7–14 | 7–15 |
 | [28–29 May 2018](2018-05-29-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
@@ -295,22 +297,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 0.5% | 99.9% |  |
-| 8 | 1.1% | 99.4% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0.4% | 99.9% |  |
+| 8 | 1.1% | 99.5% |  |
 | 9 | 8% | 98% | Last Result |
 | 10 | 5% | 91% |  |
 | 11 | 4% | 86% |  |
-| 12 | 13% | 82% |  |
-| 13 | 10% | 69% |  |
-| 14 | 16% | 60% | Median |
-| 15 | 20% | 43% |  |
-| 16 | 6% | 24% |  |
-| 17 | 3% | 17% |  |
-| 18 | 3% | 14% |  |
-| 19 | 0.9% | 11% |  |
-| 20 | 10% | 10% |  |
-| 21 | 0.8% | 0.8% |  |
+| 12 | 8% | 82% |  |
+| 13 | 8% | 74% |  |
+| 14 | 17% | 66% | Median |
+| 15 | 23% | 49% |  |
+| 16 | 7% | 26% |  |
+| 17 | 4% | 19% |  |
+| 18 | 3% | 16% |  |
+| 19 | 1.0% | 13% |  |
+| 20 | 11% | 12% |  |
+| 21 | 0.9% | 1.0% |  |
 | 22 | 0% | 0% |  |
 
 
