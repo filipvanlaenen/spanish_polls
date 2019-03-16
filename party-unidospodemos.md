@@ -166,12 +166,12 @@ Last result: **71** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38 | 28–48 | 25–50 | 24–54 | 24–59 |
-| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 28 | 27–28 | 27–28 | 27–28 | 27–30 |
-| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 34 | 34 | 34 | 34 | 33–34 |
-| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 34 | 25–45 | 25–45 | 24–45 | 23–45 |
-| [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 29 | 24–36 | 24–36 | 23–36 | 22–36 |
-| [4–8 March 2019](2019-03-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 48 | 41–48 | 37–49 | 31–49 | 26–50 |
+| N/A | [Poll Average](average.html) | 38 | 29–47 | 26–50 | 25–54 | 24–59 |
+| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 26 | 26–33 | 25–35 | 25–35 | 25–35 |
+| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 39 | 33–49 | 31–49 | 31–52 | 29–55 |
+| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 35 | 31–41 | 27–42 | 26–44 | 25–47 |
+| [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 29 | 24–36 | 24–37 | 23–38 | 22–41 |
+| [4–8 March 2019](2019-03-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 39 | 34–45 | 32–47 | 30–51 | 28–55 |
 | [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 26 | 26–29 | 25–30 | 25–33 | 25–34 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 40 | 35–45 | 34–46 | 33–49 | 29–54 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 28 | 22–35 | 22–36 | 22–38 | 20–40 |
@@ -229,7 +229,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [10–14 September 2018](2018-09-14-Invymark.html) | Invymark <br> laSexta | 60 | 53–66 | 50–68 | 47–70 | 43–73 |
 | [6–11 September 2018](2018-09-11-IMOP.html) | IMOP <br> El Confidencial | 44 | 38–48 | 37–52 | 36–56 | 32–63 |
 | [1–11 September 2018](2018-09-11-CIS.html) | CIS | 47 | 42–50 | 38–51 | 38–51 | 37–51 |
-| [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 64 | 49–64 | 40–66 | 40–66 | 38–66 |
+| [7–9 September 2018](2018-09-09-electoPanel.html) | electoPanel <br> electomania.es | 57 | 47–64 | 40–66 | 40–66 | 36–71 |
 | [3–7 September 2018](2018-09-07-SimpleLógica.html) | Simple Lógica | 53 | 42–63 | 41–64 | 39–66 | 36–70 |
 | [3–7 September 2018](2018-09-07-GAD3.html) | GAD3 <br> ABC | 47 | 37–55 | 36–60 | 36–62 | 33–62 |
 | [3–7 September 2018](2018-09-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 44 | 42–53 | 41–61 | 40–62 | 36–63 |
@@ -257,7 +257,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [1–9 June 2018](2018-06-09-NCReport.html) | NC Report <br> La Razón | 45 | 39–58 | 39–60 | 37–62 | 36–66 |
 | [4–8 June 2018](2018-06-08-SimpleLógica.html) | Simple Lógica | 46 | 39–58 | 39–60 | 38–63 | 34–66 |
 | [4–8 June 2018](2018-06-08-Invymark.html) | Invymark <br> laSexta | 56 | 45–61 | 43–63 | 41–66 | 39–69 |
-| [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 31 | 27–36 | 25–41 | 24–47 | 24–48 |
+| [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 31 | 26–37 | 25–39 | 24–42 | 24–47 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 56 | 46–61 | 42–61 | 40–61 | 38–70 |
 | [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 56 | 49–61 | 48–65 | 47–65 | 41–68 |
 | [28–29 May 2018](2018-05-29-Invymark.html) | Invymark <br> laSexta | 52 | 42–60 | 40–62 | 39–65 | 39–68 |
@@ -301,46 +301,46 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.3% | 100% |  |
-| 23 | 0.2% | 99.7% |  |
-| 24 | 4% | 99.5% |  |
-| 25 | 2% | 96% |  |
-| 26 | 0.1% | 93% |  |
-| 27 | 2% | 93% |  |
-| 28 | 6% | 92% |  |
-| 29 | 2% | 85% |  |
-| 30 | 2% | 83% |  |
-| 31 | 0.6% | 82% |  |
-| 32 | 0.6% | 81% |  |
-| 33 | 1.3% | 80% |  |
-| 34 | 10% | 79% |  |
-| 35 | 3% | 69% |  |
-| 36 | 5% | 65% |  |
-| 37 | 6% | 60% |  |
-| 38 | 6% | 54% | Median |
-| 39 | 4% | 48% |  |
-| 40 | 9% | 45% |  |
-| 41 | 4% | 36% |  |
-| 42 | 4% | 32% |  |
-| 43 | 6% | 28% |  |
-| 44 | 3% | 22% |  |
-| 45 | 4% | 18% |  |
-| 46 | 2% | 15% |  |
-| 47 | 0.9% | 12% |  |
-| 48 | 5% | 11% |  |
-| 49 | 1.3% | 7% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.1% | 99.9% |  |
+| 24 | 2% | 99.8% |  |
+| 25 | 2% | 98% |  |
+| 26 | 2% | 96% |  |
+| 27 | 1.2% | 94% |  |
+| 28 | 2% | 93% |  |
+| 29 | 1.4% | 91% |  |
+| 30 | 2% | 90% |  |
+| 31 | 2% | 88% |  |
+| 32 | 3% | 86% |  |
+| 33 | 2% | 83% |  |
+| 34 | 3% | 80% |  |
+| 35 | 6% | 78% |  |
+| 36 | 8% | 71% |  |
+| 37 | 8% | 63% |  |
+| 38 | 7% | 55% | Median |
+| 39 | 5% | 47% |  |
+| 40 | 9% | 42% |  |
+| 41 | 5% | 33% |  |
+| 42 | 4% | 29% |  |
+| 43 | 5% | 24% |  |
+| 44 | 3% | 19% |  |
+| 45 | 3% | 16% |  |
+| 46 | 3% | 13% |  |
+| 47 | 1.0% | 10% |  |
+| 48 | 1.0% | 9% |  |
+| 49 | 2% | 8% |  |
 | 50 | 1.3% | 6% |  |
-| 51 | 0.5% | 4% |  |
-| 52 | 0.5% | 4% |  |
-| 53 | 0.6% | 3% |  |
+| 51 | 0.6% | 5% |  |
+| 52 | 0.7% | 4% |  |
+| 53 | 0.7% | 3% |  |
 | 54 | 0.5% | 3% |  |
-| 55 | 0.4% | 2% |  |
+| 55 | 0.5% | 2% |  |
 | 56 | 0.4% | 2% |  |
 | 57 | 0.2% | 1.3% |  |
 | 58 | 0.5% | 1.1% |  |
 | 59 | 0.2% | 0.7% |  |
 | 60 | 0.1% | 0.5% |  |
-| 61 | 0.1% | 0.4% |  |
+| 61 | 0.1% | 0.3% |  |
 | 62 | 0.1% | 0.3% |  |
 | 63 | 0.1% | 0.2% |  |
 | 64 | 0% | 0.1% |  |
