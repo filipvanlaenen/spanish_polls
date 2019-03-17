@@ -165,15 +165,15 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–15 | 14–16 | 14–18 |
-| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 11–16 | 9–17 | 9–17 | 7–18 |
+| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–16 | 11–16 | 9–17 | 9–17 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 14 | 10–15 | 9–16 | 9–17 | 7–19 |
-| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–15 | 14–15 | 12–17 |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 12–16 | 11–18 | 11–18 | 9–20 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 13 | 9–16 | 9–17 | 9–19 | 7–20 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 15 | 14–18 | 13–18 | 13–19 | 12–21 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–17 | 11–18 | 10–19 | 8–20 |
+| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–17 | 12–19 | 10–19 | 7–21 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 13 | 9–15 | 8–15 | 7–16 | 7–17 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 12 | 9–15 | 9–15 | 9–16 | 7–18 |
@@ -298,15 +298,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.5% | 100% |  |
-| 8 | 1.2% | 99.4% |  |
+| 8 | 1.2% | 99.5% |  |
 | 9 | 4% | 98% | Last Result |
-| 10 | 2% | 94% |  |
-| 11 | 4% | 92% |  |
-| 12 | 9% | 88% |  |
-| 13 | 8% | 79% |  |
-| 14 | 19% | 71% |  |
-| 15 | 26% | 52% | Median |
-| 16 | 7% | 26% |  |
+| 10 | 2% | 95% |  |
+| 11 | 4% | 93% |  |
+| 12 | 7% | 89% |  |
+| 13 | 7% | 82% |  |
+| 14 | 23% | 74% |  |
+| 15 | 27% | 52% | Median |
+| 16 | 6% | 25% |  |
 | 17 | 3% | 19% |  |
 | 18 | 3% | 16% |  |
 | 19 | 0.9% | 13% |  |

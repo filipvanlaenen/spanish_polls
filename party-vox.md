@@ -177,15 +177,15 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 19 | 15–24 | 14–26 | 13–27 | 12–29 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21 | 18–26 | 17–27 | 16–28 | 13–30 |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 34 | 32–36 | 30–37 | 29–38 | 29–41 |
-| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 31 | 29–40 | 27–42 | 27–42 | 24–43 |
-| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 27 | 24–33 | 22–35 | 21–38 | 20–42 |
+| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 28–38 | 27–42 | 26–42 | 25–44 |
+| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 27 | 24–33 | 22–36 | 21–38 | 20–42 |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 32 | 27–36 | 26–40 | 24–44 | 23–48 |
-| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 35 | 30–35 | 30–35 | 30–36 | 28–38 |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 33 | 29–35 | 29–37 | 28–39 | 27–41 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 38 | 32–45 | 30–48 | 28–50 | 26–52 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 27 | 22–32 | 19–33 | 18–34 | 15–41 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 44 | 37–49 | 35–50 | 34–54 | 32–55 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 27 | 23–33 | 22–35 | 21–37 | 19–41 |
-| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 30 | 26–39 | 24–41 | 21–43 | 20–48 |
+| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 30 | 26–39 | 25–40 | 23–43 | 21–48 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 22 | 18–27 | 17–27 | 15–28 | 13–32 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 37 | 31–45 | 29–48 | 28–50 | 26–54 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 19 | 13–22 | 13–23 | 13–25 | 11–28 |
@@ -333,25 +333,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 2% | 79% |  |
 | 22 | 3% | 77% |  |
 | 23 | 3% | 74% |  |
-| 24 | 3% | 71% |  |
+| 24 | 2% | 71% |  |
 | 25 | 2% | 69% |  |
 | 26 | 3% | 67% |  |
-| 27 | 4% | 64% |  |
+| 27 | 3% | 64% |  |
 | 28 | 2% | 61% |  |
-| 29 | 2% | 59% |  |
-| 30 | 3% | 57% |  |
-| 31 | 6% | 54% | Median |
-| 32 | 6% | 48% |  |
-| 33 | 8% | 42% |  |
-| 34 | 7% | 34% |  |
+| 29 | 3% | 59% |  |
+| 30 | 3% | 56% |  |
+| 31 | 4% | 53% | Median |
+| 32 | 6% | 49% |  |
+| 33 | 8% | 43% |  |
+| 34 | 8% | 36% |  |
 | 35 | 3% | 27% |  |
 | 36 | 2% | 24% |  |
-| 37 | 2% | 22% |  |
-| 38 | 2% | 20% |  |
-| 39 | 2% | 18% |  |
-| 40 | 2% | 16% |  |
+| 37 | 3% | 22% |  |
+| 38 | 2% | 19% |  |
+| 39 | 2% | 17% |  |
+| 40 | 2% | 15% |  |
 | 41 | 2% | 13% |  |
-| 42 | 2% | 12% |  |
+| 42 | 2% | 11% |  |
 | 43 | 2% | 10% |  |
 | 44 | 2% | 8% |  |
 | 45 | 1.3% | 6% |  |

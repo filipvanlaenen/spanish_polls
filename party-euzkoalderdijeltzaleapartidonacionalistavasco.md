@@ -163,10 +163,10 @@ Last result: **5** seats (General Election of 26 June 2016)
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 4–6 | 3–7 | 3–7 | 2–8 |
+| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 3–6 | 3–7 | 3–7 | 2–8 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 6 | 3–8 | 3–9 | 3–10 | 2–11 |
-| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 3–8 | 3–8 | 3–9 | 2–10 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 7 | 3–10 | 3–10 | 3–10 | 2–12 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 7 | 6–8 | 5–9 | 4–10 | 3–10 |
@@ -297,12 +297,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
 | 2 | 0.6% | 99.9% |  |
-| 3 | 7% | 99.4% |  |
-| 4 | 7% | 93% |  |
-| 5 | 5% | 85% | Last Result |
-| 6 | 52% | 80% | Median |
-| 7 | 14% | 27% |  |
-| 8 | 11% | 13% |  |
+| 3 | 8% | 99.3% |  |
+| 4 | 5% | 91% |  |
+| 5 | 5% | 86% | Last Result |
+| 6 | 55% | 82% | Median |
+| 7 | 13% | 27% |  |
+| 8 | 10% | 13% |  |
 | 9 | 1.5% | 3% |  |
 | 10 | 1.2% | 1.4% |  |
 | 11 | 0.2% | 0.2% |  |

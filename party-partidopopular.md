@@ -176,19 +176,19 @@ Last result: **137** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 79 | 65–96 | 60–101 | 58–104 | 54–111 |
+| N/A | [Poll Average](average.html) | 79 | 64–96 | 61–101 | 58–104 | 54–111 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 67 | 60–74 | 58–76 | 57–79 | 54–83 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 94 | 85–103 | 83–107 | 82–109 | 77–114 |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 83 | 80–87 | 78–90 | 78–91 | 76–94 |
-| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 65 | 59–73 | 59–75 | 58–75 | 56–79 |
-| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 82 | 74–89 | 72–92 | 70–94 | 66–98 |
+| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 63 | 60–71 | 59–74 | 59–75 | 57–78 |
+| [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 82 | 74–90 | 72–92 | 70–93 | 66–98 |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 96 | 79–104 | 77–107 | 75–108 | 72–110 |
-| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 84 | 82–91 | 77–91 | 76–91 | 76–92 |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 84 | 80–90 | 79–91 | 77–93 | 76–95 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 75 | 67–81 | 64–84 | 63–87 | 59–91 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 92 | 80–105 | 79–110 | 79–113 | 72–117 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 75 | 70–80 | 68–82 | 67–84 | 64–88 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 86 | 76–92 | 75–95 | 73–97 | 70–102 |
-| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 73 | 62–85 | 59–88 | 56–90 | 56–91 |
+| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 73 | 61–83 | 56–89 | 56–90 | 56–91 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 95 | 87–106 | 85–109 | 82–113 | 78–116 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 79 | 71–89 | 69–92 | 67–96 | 64–101 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 97 | 87–105 | 87–107 | 85–109 | 81–114 |
@@ -319,28 +319,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 0.2% | 99.0% |  |
 | 56 | 0.5% | 98.8% |  |
 | 57 | 0.4% | 98% |  |
-| 58 | 0.7% | 98% |  |
-| 59 | 1.5% | 97% |  |
-| 60 | 0.8% | 96% |  |
-| 61 | 1.3% | 95% |  |
+| 58 | 0.6% | 98% |  |
+| 59 | 0.9% | 97% |  |
+| 60 | 1.2% | 96% |  |
+| 61 | 1.0% | 95% |  |
 | 62 | 1.1% | 94% |  |
-| 63 | 0.6% | 92% |  |
-| 64 | 1.4% | 92% |  |
-| 65 | 7% | 91% |  |
-| 66 | 1.3% | 84% |  |
-| 67 | 1.5% | 82% |  |
-| 68 | 1.3% | 81% |  |
-| 69 | 1.5% | 80% |  |
-| 70 | 2% | 78% |  |
-| 71 | 4% | 76% |  |
+| 63 | 3% | 93% |  |
+| 64 | 1.4% | 91% |  |
+| 65 | 7% | 89% |  |
+| 66 | 1.1% | 82% |  |
+| 67 | 2% | 81% |  |
+| 68 | 1.3% | 80% |  |
+| 69 | 1.4% | 78% |  |
+| 70 | 2% | 77% |  |
+| 71 | 2% | 75% |  |
 | 72 | 2% | 73% |  |
-| 73 | 3% | 70% |  |
-| 74 | 3% | 68% |  |
-| 75 | 5% | 65% |  |
+| 73 | 2% | 70% |  |
+| 74 | 4% | 68% |  |
+| 75 | 4% | 64% |  |
 | 76 | 4% | 60% |  |
 | 77 | 3% | 56% |  |
 | 78 | 3% | 53% |  |
-| 79 | 2% | 51% | Median |
+| 79 | 2% | 50% | Median |
 | 80 | 3% | 48% |  |
 | 81 | 3% | 45% |  |
 | 82 | 4% | 42% |  |
@@ -351,15 +351,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 87 | 2% | 26% |  |
 | 88 | 2% | 24% |  |
 | 89 | 2% | 23% |  |
-| 90 | 1.5% | 21% |  |
-| 91 | 2% | 19% |  |
-| 92 | 1.1% | 18% |  |
+| 90 | 2% | 21% |  |
+| 91 | 2% | 20% |  |
+| 92 | 1.2% | 18% |  |
 | 93 | 1.4% | 17% |  |
 | 94 | 1.4% | 15% |  |
 | 95 | 2% | 14% |  |
 | 96 | 2% | 12% |  |
 | 97 | 0.9% | 10% |  |
-| 98 | 0.8% | 9% |  |
+| 98 | 0.9% | 9% |  |
 | 99 | 0.7% | 8% |  |
 | 100 | 0.6% | 7% |  |
 | 101 | 2% | 7% |  |

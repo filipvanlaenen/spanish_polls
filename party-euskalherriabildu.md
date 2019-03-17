@@ -162,7 +162,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
-| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 2–7 | 2–7 | 1–7 | 1–7 |
+| [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 2–7 | 2–7 | 2–7 | 1–7 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 2 | 1–4 | 0–5 | 0–6 | 0–7 |
 | [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 4 | 2–4 | 2–5 | 2–5 | 2–6 |
@@ -170,7 +170,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 2 | 0–5 | 0–7 | 0–7 | 0–8 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 4 | 1–5 | 1–6 | 1–6 | 0–7 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 4 | 1–6 | 1–7 | 1–7 | 0–8 |
+| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 2–6 | 1–7 | 1–7 | 0–8 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 2 | 1–5 | 1–6 | 0–6 | 0–7 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 2 | 0–5 | 0–5 | 0–5 | 0–7 |
@@ -299,9 +299,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 25% | 88% | Last Result |
 | 3 | 12% | 63% |  |
 | 4 | 19% | 51% | Median |
-| 5 | 20% | 31% |  |
-| 6 | 5% | 12% |  |
-| 7 | 7% | 7% |  |
+| 5 | 19% | 32% |  |
+| 6 | 7% | 12% |  |
+| 7 | 5% | 5% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
