@@ -183,9 +183,9 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 122 | 109–131 | 106–136 | 104–137 | 100–142 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 122 | 114–129 | 112–132 | 109–133 | 105–137 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 101 | 93–110 | 91–112 | 89–113 | 85–116 |
-| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 105 | 94–113 | 90–115 | 88–117 | 81–120 |
+| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 106 | 94–114 | 91–117 | 89–117 | 84–123 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 94 | 87–105 | 85–107 | 84–110 | 82–114 |
-| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 120 | 109–130 | 106–132 | 104–135 | 99–139 |
+| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 120 | 110–130 | 106–132 | 103–135 | 99–138 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 119 | 111–126 | 108–127 | 106–131 | 102–136 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 118 | 111–125 | 109–127 | 107–129 | 105–133 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 113 | 104–122 | 101–125 | 98–128 | 93–134 |
@@ -332,7 +332,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 104 | 1.4% | 86% |  |
 | 105 | 1.4% | 85% |  |
 | 106 | 2% | 84% |  |
-| 107 | 2% | 82% |  |
+| 107 | 1.5% | 82% |  |
 | 108 | 2% | 81% |  |
 | 109 | 2% | 79% |  |
 | 110 | 2% | 77% |  |
@@ -342,23 +342,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 114 | 3% | 68% |  |
 | 115 | 2% | 65% |  |
 | 116 | 3% | 63% |  |
-| 117 | 3% | 60% |  |
+| 117 | 2% | 60% |  |
 | 118 | 3% | 58% |  |
 | 119 | 4% | 55% |  |
 | 120 | 7% | 51% | Median |
-| 121 | 2% | 44% |  |
+| 121 | 3% | 44% |  |
 | 122 | 4% | 42% |  |
 | 123 | 3% | 38% |  |
 | 124 | 2% | 35% |  |
 | 125 | 2% | 33% |  |
 | 126 | 2% | 31% |  |
-| 127 | 1.4% | 29% |  |
-| 128 | 1.0% | 27% |  |
-| 129 | 1.3% | 26% |  |
-| 130 | 0.8% | 25% |  |
+| 127 | 2% | 29% |  |
+| 128 | 1.1% | 27% |  |
+| 129 | 1.2% | 26% |  |
+| 130 | 0.9% | 25% |  |
 | 131 | 2% | 24% |  |
-| 132 | 2% | 22% |  |
-| 133 | 1.0% | 20% |  |
+| 132 | 3% | 22% |  |
+| 133 | 0.9% | 19% |  |
 | 134 | 1.4% | 19% |  |
 | 135 | 6% | 17% |  |
 | 136 | 0.9% | 11% |  |

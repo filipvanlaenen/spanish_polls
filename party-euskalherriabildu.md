@@ -170,7 +170,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 2 | 0–5 | 0–7 | 0–7 | 0–8 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 4 | 1–5 | 1–6 | 1–6 | 0–7 |
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 2–6 | 1–7 | 1–7 | 0–8 |
+| [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 4 | 1–6 | 1–7 | 1–7 | 0–8 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 2 | 1–5 | 1–6 | 0–6 | 0–7 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 2 | 0–5 | 0–5 | 0–5 | 0–7 |
