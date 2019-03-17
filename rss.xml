@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Sun, 17 Mar 2019 20:13:28 +0100</pubDate>
+    <pubDate>Sun, 17 Mar 2019 21:27:42 +0100</pubDate>
     <item>
       <title>Opinion Poll by Simple Lógica, 4–13 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-13-SimpleLógica.html#seats</link>
@@ -400,14 +400,34 @@
       <dc:date>2019-03-17T19:58:25.891424+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by GESOP for El Periódico, 13–15 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-15-GESOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 67–96 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 104–135 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 28–46 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 35–56 seats&lt;/li&gt;&lt;li&gt;Vox: 28–50 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-15-GESOP-seats.png"
+        length="176098"
+        type="image/png"/>
+      <pubDate>Sun, 17 Mar 2019 21:27:42 +0100</pubDate>
+      <dc:date>2019-03-17T21:27:42.754393+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 13–15 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-15-GESOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-15-GESOP-coalitions-seats.png"
+        length="531212"
+        type="image/png"/>
+      <pubDate>Sun, 17 Mar 2019 21:27:42 +0100</pubDate>
+      <dc:date>2019-03-17T21:27:42.754393+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by GESOP for El Periódico, 13–15 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-02-15-GESOP.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 17.5–22.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 24.7–30.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 11.6–15.9%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 12.5–16.8%&lt;/li&gt;&lt;li&gt;Vox: 11.1–15.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-15-GESOP.png"
         length="186722"
         type="image/png"/>
-      <pubDate>Sun, 17 Mar 2019 20:13:28 +0100</pubDate>
-      <dc:date>2019-03-17T20:13:28.964093+01:00</dc:date>
+      <pubDate>Sun, 17 Mar 2019 21:27:42 +0100</pubDate>
+      <dc:date>2019-03-17T21:27:42.754393+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for La Vanguardia, 12–15 February 2019 – Seat Projections for the Parties</title>
@@ -1609,6 +1629,6 @@
       <pubDate>Wed, 20 Feb 2019 20:37:11 +0100</pubDate>
       <dc:date>2019-02-20T20:37:11.530066+01:00</dc:date>
     </item>
-    <dc:date>2019-03-17T20:13:28.964093+01:00</dc:date>
+    <dc:date>2019-03-17T21:27:42.754393+01:00</dc:date>
   </channel>
 </rss>
