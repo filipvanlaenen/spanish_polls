@@ -183,7 +183,7 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [18–21 February 2019](2019-02-21-Invymark.html) | Invymark <br> laSexta | 69 | 64–75 | 62–77 | 60–79 | 56–85 |
 | [13–15 February 2019](2019-02-15-SocioMétrica.html) | SocioMétrica <br> El Español | 64 | 56–71 | 54–72 | 54–73 | 52–78 |
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 64 | 57–70 | 55–72 | 53–73 | 51–75 |
-| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 47 | 38–54 | 36–55 | 35–56 | 31–60 |
+| [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 47 | 38–53 | 36–55 | 35–56 | 31–61 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 58 | 51–63 | 51–64 | 49–66 | 45–69 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 50 | 45–54 | 43–55 | 42–56 | 39–60 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 61 | 54–67 | 52–68 | 50–69 | 47–73 |
@@ -323,13 +323,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 1.3% | 93% |  |
 | 37 | 0.6% | 91% |  |
 | 38 | 1.4% | 91% |  |
-| 39 | 2% | 90% |  |
+| 39 | 2% | 89% |  |
 | 40 | 1.0% | 87% |  |
-| 41 | 0.5% | 86% |  |
-| 42 | 1.1% | 86% |  |
+| 41 | 0.7% | 86% |  |
+| 42 | 1.2% | 86% |  |
 | 43 | 2% | 85% |  |
 | 44 | 2% | 83% |  |
-| 45 | 1.2% | 81% |  |
+| 45 | 1.4% | 81% |  |
 | 46 | 2% | 80% |  |
 | 47 | 2% | 78% |  |
 | 48 | 2% | 76% |  |
@@ -338,7 +338,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 2% | 67% |  |
 | 52 | 1.4% | 65% |  |
 | 53 | 4% | 63% |  |
-| 54 | 4% | 60% |  |
+| 54 | 4% | 59% |  |
 | 55 | 5% | 55% |  |
 | 56 | 3% | 50% | Median |
 | 57 | 4% | 47% |  |
