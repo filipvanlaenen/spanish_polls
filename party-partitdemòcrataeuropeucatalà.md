@@ -10,7 +10,9 @@ Last result: **2.0%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.9–1.9% | 0.8–2.1% | 0.8–2.3% | 0.6–2.6% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.3% | 0.6–2.6% |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.1–1.5% | 1.1–1.5% | 1.1–1.6% | 1.0–1.7% |
+| [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.1–1.5% | 1.1–1.6% | 1.1–1.6% | 1.0–1.7% |
@@ -144,10 +146,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% |  |
-| 0.5–1.5% | 68% | 99.9% | Median |
-| 1.5–2.5% | 31% | 32% | Last Result |
-| 2.5–3.5% | 0.7% | 0.7% |  |
+| 0.0–0.5% | 0.2% | 100% |  |
+| 0.5–1.5% | 70% | 99.8% | Median |
+| 1.5–2.5% | 30% | 30% | Last Result |
+| 2.5–3.5% | 0.6% | 0.6% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -160,6 +162,8 @@ Last result: **8** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 3–8 | 2–8 | 1–9 | 1–10 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–6 | 4–6 | 4–7 |
+| [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 4 | 3–6 | 1–8 | 1–9 | 1–9 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–6 | 4–6 | 4–6 | 3–8 |
@@ -296,15 +300,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 4% | 100% |  |
-| 2 | 0.9% | 96% |  |
-| 3 | 18% | 95% |  |
-| 4 | 18% | 77% |  |
-| 5 | 14% | 59% | Median |
-| 6 | 23% | 45% |  |
-| 7 | 4% | 21% |  |
-| 8 | 14% | 17% | Last Result |
+| 2 | 1.0% | 96% |  |
+| 3 | 17% | 95% |  |
+| 4 | 25% | 77% |  |
+| 5 | 14% | 52% | Median |
+| 6 | 18% | 38% |  |
+| 7 | 4% | 20% |  |
+| 8 | 13% | 16% | Last Result |
 | 9 | 2% | 3% |  |
-| 10 | 0.8% | 1.2% |  |
+| 10 | 0.6% | 1.0% |  |
 | 11 | 0.1% | 0.4% |  |
 | 12 | 0.3% | 0.3% |  |
 | 13 | 0% | 0% |  |
