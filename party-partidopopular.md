@@ -198,7 +198,7 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 88 | 78–94 | 76–97 | 75–99 | 71–104 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 83 | 76–88 | 74–88 | 73–89 | 71–92 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 99 | 83–107 | 83–114 | 83–114 | 82–117 |
-| [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 90 | 90–99 | 90–102 | 90–107 | 88–108 |
+| [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 95 | 90–104 | 87–107 | 86–110 | 84–111 |
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 88 | 79–95 | 77–98 | 75–100 | 72–104 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 75 | 70–80 | 68–83 | 66–85 | 63–88 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 74 | 69–83 | 66–86 | 64–88 | 62–91 |
