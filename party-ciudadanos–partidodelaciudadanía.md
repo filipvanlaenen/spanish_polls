@@ -171,9 +171,9 @@ Last result: **32** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 56 | 38–67 | 34–70 | 30–72 | 26–77 |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 53 | 48–56 | 48–56 | 47–57 | 47–58 |
-| [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 58 | 51–63 | 51–67 | 51–67 | 46–73 |
+| N/A | [Poll Average](average.html) | 54 | 38–67 | 34–70 | 30–72 | 26–77 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 53 | 49–56 | 48–56 | 48–56 | 47–58 |
+| [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 57 | 51–65 | 51–68 | 50–70 | 47–73 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 57 | 52–65 | 50–66 | 49–68 | 47–71 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 61 | 55–67 | 53–69 | 52–70 | 50–73 |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 55 | 50–57 | 50–58 | 50–60 | 49–61 |
@@ -335,31 +335,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 2% | 83% |  |
 | 45 | 1.4% | 81% |  |
 | 46 | 2% | 80% |  |
-| 47 | 3% | 78% |  |
-| 48 | 2% | 75% |  |
+| 47 | 2% | 78% |  |
+| 48 | 3% | 75% |  |
 | 49 | 2% | 73% |  |
-| 50 | 6% | 71% |  |
+| 50 | 5% | 71% |  |
 | 51 | 3% | 65% |  |
-| 52 | 2% | 62% |  |
-| 53 | 4% | 60% |  |
-| 54 | 3% | 56% |  |
-| 55 | 3% | 53% |  |
-| 56 | 6% | 50% | Median |
-| 57 | 4% | 44% |  |
+| 52 | 3% | 63% |  |
+| 53 | 7% | 60% |  |
+| 54 | 4% | 53% | Median |
+| 55 | 3% | 50% |  |
+| 56 | 4% | 47% |  |
+| 57 | 3% | 43% |  |
 | 58 | 3% | 40% |  |
 | 59 | 2% | 37% |  |
-| 60 | 3% | 35% |  |
-| 61 | 2% | 33% |  |
-| 62 | 5% | 31% |  |
+| 60 | 2% | 35% |  |
+| 61 | 2% | 32% |  |
+| 62 | 5% | 30% |  |
 | 63 | 3% | 25% |  |
 | 64 | 7% | 22% |  |
 | 65 | 2% | 15% |  |
-| 66 | 2% | 12% |  |
+| 66 | 2% | 13% |  |
 | 67 | 3% | 11% |  |
 | 68 | 1.3% | 8% |  |
-| 69 | 1.3% | 7% |  |
+| 69 | 1.4% | 7% |  |
 | 70 | 1.3% | 6% |  |
-| 71 | 1.3% | 4% |  |
+| 71 | 1.4% | 4% |  |
 | 72 | 0.7% | 3% |  |
 | 73 | 0.5% | 2% |  |
 | 74 | 0.5% | 2% |  |

@@ -163,9 +163,9 @@ Last result: **9** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 12–20 | 11–20 | 9–20 | 8–21 |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–15 | 14–15 | 13–18 |
-| [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 13 | 10–15 | 9–15 | 8–16 | 8–18 |
+| N/A | [Poll Average](average.html) | 14 | 12–20 | 11–20 | 9–20 | 8–21 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–15 | 14–16 | 14–17 |
+| [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 13 | 9–15 | 9–15 | 8–16 | 8–18 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–15 | 14–16 | 14–18 |
@@ -302,18 +302,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.1% | 100% |  |
-| 8 | 0.6% | 99.9% |  |
-| 9 | 2% | 99.3% | Last Result |
+| 8 | 0.5% | 99.8% |  |
+| 9 | 3% | 99.3% | Last Result |
 | 10 | 2% | 97% |  |
-| 11 | 4% | 95% |  |
-| 12 | 8% | 91% |  |
-| 13 | 6% | 83% |  |
-| 14 | 26% | 76% |  |
-| 15 | 26% | 51% | Median |
+| 11 | 5% | 95% |  |
+| 12 | 8% | 90% |  |
+| 13 | 7% | 82% |  |
+| 14 | 27% | 76% | Median |
+| 15 | 24% | 49% |  |
 | 16 | 6% | 25% |  |
 | 17 | 3% | 19% |  |
 | 18 | 3% | 16% |  |
-| 19 | 1.0% | 13% |  |
+| 19 | 0.9% | 13% |  |
 | 20 | 11% | 12% |  |
 | 21 | 0.9% | 1.0% |  |
 | 22 | 0% | 0% |  |
