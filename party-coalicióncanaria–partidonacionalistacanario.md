@@ -106,7 +106,8 @@ Last result: **0.3%** (General Election of 26 June 2016)
 | [4–8 June 2018](2018-06-08-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 0.2% | 0.1–0.7% | 0.1–0.8% | 0.1–0.9% | 0.0–1.2% |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
-| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 0.0% | N/A | N/A | N/A | N/A |
+| [6–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.1–1.0% | 0.1–1.3% |
+| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 0.3% | 0.2–0.5% | 0.2–0.6% | 0.1–0.6% | 0.1–0.8% |
 | [28–29 May 2018](2018-05-29-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.7% | 0.1–0.9% |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 0.0% | N/A | N/A | N/A | N/A |
@@ -139,6 +140,12 @@ Last result: **0.3%** (General Election of 26 June 2016)
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 0.0% | N/A | N/A | N/A | N/A |
 | [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [22–26 January 2018](2018-01-26-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
+| [2–14 January 2018](2018-01-14-CIS.html) | CIS | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.1–0.5% | 0.1–0.6% |
+| [9–11 January 2018](2018-01-11-Metroscopia.html) | Metroscopia <br> El País | 0.0% | N/A | N/A | N/A | N/A |
+| [8–11 January 2018](2018-01-11-GAD3.html) | GAD3 <br> ABC | 0.2% | 0.1–0.7% | 0.1–0.8% | 0.1–0.9% | 0.0–1.2% |
+| [2–8 January 2018](2018-01-08-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
+| [2–5 January 2018](2018-01-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
 
 ### Probability Mass Function
 
@@ -255,7 +262,8 @@ Last result: **1** seats (General Election of 26 June 2016)
 | [4–8 June 2018](2018-06-08-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 1 | 0–2 | 0–2 | 0–2 | 0–4 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 0–1 | 0–2 | 0–2 | 0–3 |
-| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [6–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es | 2 | 1–3 | 1–3 | 1–4 | 0–4 |
+| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [28–29 May 2018](2018-05-29-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 1 | 0–1 | 0–2 | 0–2 | 0–4 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
@@ -288,6 +296,12 @@ Last result: **1** seats (General Election of 26 June 2016)
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
 | [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 1 | 0–2 | 0–2 | 0–3 | 0–4 |
+| [22–26 January 2018](2018-01-26-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
+| [2–14 January 2018](2018-01-14-CIS.html) | CIS | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [9–11 January 2018](2018-01-11-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
+| [8–11 January 2018](2018-01-11-GAD3.html) | GAD3 <br> ABC | 1 | 0–2 | 0–3 | 0–4 | 0–4 |
+| [2–8 January 2018](2018-01-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
+| [2–5 January 2018](2018-01-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 0–1 | 0–1 | 0–2 | 0–3 |
 
 ### Probability Mass Function
 
