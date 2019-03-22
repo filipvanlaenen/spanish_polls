@@ -281,8 +281,8 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [4–8 June 2018](2018-06-08-Invymark.html) | Invymark <br> laSexta | 96 | 89–103 | 86–105 | 83–108 | 79–114 |
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 100 | 92–111 | 90–114 | 88–118 | 86–122 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 95 | 92–100 | 87–109 | 82–109 | 80–118 |
-| [6–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es | 67 | 51–67 | 51–70 | 51–73 | 51–75 |
-| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 75 | 75–79 | 72–79 | 67–79 | 55–79 |
+| [6–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es | 67 | 51–70 | 51–73 | 51–75 | 50–78 |
+| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 66 | 63–79 | 63–79 | 63–79 | 56–79 |
 | [28–29 May 2018](2018-05-29-Invymark.html) | Invymark <br> laSexta | 94 | 81–100 | 80–102 | 78–105 | 76–108 |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 74 | 62–78 | 61–78 | 59–78 | 58–80 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 76 | 66–79 | 66–80 | 62–80 | 58–83 |
@@ -315,11 +315,11 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [5–8 February 2018](2018-02-08-Metroscopia.html) | Metroscopia <br> El País | 85 | 78–93 | 77–96 | 75–99 | 73–103 |
 | [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica | 84 | 77–92 | 75–94 | 74–99 | 70–103 |
 | [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 103 | 92–112 | 91–116 | 89–117 | 87–121 |
-| [22–26 January 2018](2018-01-26-Invymark.html) | Invymark <br> laSexta | 103 | 95–111 | 95–112 | 95–122 | 95–122 |
-| [2–14 January 2018](2018-01-14-CIS.html) | CIS | 101 | 101–104 | 101–106 | 101–106 | 101–117 |
+| [22–26 January 2018](2018-01-26-Invymark.html) | Invymark <br> laSexta | 108 | 99–117 | 97–119 | 95–120 | 92–123 |
+| [2–14 January 2018](2018-01-14-CIS.html) | CIS | 107 | 102–114 | 100–114 | 97–114 | 94–118 |
 | [9–11 January 2018](2018-01-11-Metroscopia.html) | Metroscopia <br> El País | 93 | 86–103 | 84–105 | 82–106 | 80–109 |
 | [8–11 January 2018](2018-01-11-GAD3.html) | GAD3 <br> ABC | 97 | 90–110 | 85–112 | 84–112 | 82–118 |
-| [2–8 January 2018](2018-01-08-SimpleLógica.html) | Simple Lógica | 93 | 79–93 | 79–99 | 79–100 | 78–100 |
+| [2–8 January 2018](2018-01-08-SimpleLógica.html) | Simple Lógica | 87 | 78–96 | 76–99 | 74–101 | 71–104 |
 | [2–5 January 2018](2018-01-05-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 112 | 112–125 | 112–128 | 110–128 | 106–135 |
 
 ### Probability Mass Function

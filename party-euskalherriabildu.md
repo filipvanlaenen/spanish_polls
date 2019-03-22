@@ -263,8 +263,8 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [4–8 June 2018](2018-06-08-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [7–8 June 2018](2018-06-08-GAD3.html) | GAD3 <br> ABC | 3 | 2–5 | 1–6 | 1–7 | 0–7 |
 | [4–8 June 2018](2018-06-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 3–6 | 2–7 | 2–7 | 1–9 |
-| [6–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es | 5 | 3–6 | 3–6 | 2–7 | 1–9 |
-| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6–7 | 6–7 | 4–8 |
+| [6–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es | 5 | 3–6 | 2–7 | 2–7 | 1–9 |
+| [26 May–2 June 2018](2018-06-02-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–6 | 4–7 | 4–7 | 3–8 |
 | [28–29 May 2018](2018-05-29-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [26–28 May 2018](2018-05-28-electoPanel.html) | electoPanel <br> electomania.es | 5 | 2–6 | 2–6 | 2–6 | 2–7 |
 | [23–28 May 2018](2018-05-28-IMOP.html) | IMOP <br> El Confidencial | 2 | 1–5 | 0–6 | 0–6 | 0–7 |
@@ -298,7 +298,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [1–7 February 2018](2018-02-07-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [31 January–7 February 2018](2018-02-07-GAD3.html) | GAD3 <br> ABC | 3 | 1–6 | 1–7 | 1–7 | 0–7 |
 | [22–26 January 2018](2018-01-26-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [2–14 January 2018](2018-01-14-CIS.html) | CIS | 4 | 1–4 | 1–4 | 1–4 | 1–4 |
+| [2–14 January 2018](2018-01-14-CIS.html) | CIS | 2 | 2–4 | 2–4 | 1–4 | 1–6 |
 | [9–11 January 2018](2018-01-11-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
 | [8–11 January 2018](2018-01-11-GAD3.html) | GAD3 <br> ABC | 2 | 1–6 | 1–6 | 0–7 | 0–8 |
 | [2–8 January 2018](2018-01-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
