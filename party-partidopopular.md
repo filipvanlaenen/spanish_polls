@@ -206,17 +206,17 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 81 | 75–88 | 74–91 | 72–93 | 69–97 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 73 | 64–81 | 62–84 | 60–87 | 57–91 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 93 | 89–108 | 85–108 | 81–109 | 79–115 |
-| [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 88 | 78–94 | 76–97 | 75–99 | 71–104 |
+| [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 88 | 79–94 | 76–97 | 75–99 | 71–104 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 83 | 76–88 | 74–88 | 73–89 | 71–92 |
-| [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 99 | 83–107 | 83–114 | 83–114 | 82–117 |
+| [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 98 | 88–108 | 86–111 | 84–114 | 81–117 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 95 | 90–104 | 87–107 | 86–110 | 84–111 |
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 88 | 79–95 | 77–98 | 75–100 | 72–104 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 75 | 70–80 | 68–83 | 66–85 | 63–88 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 74 | 69–83 | 66–86 | 64–88 | 62–91 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 65 | 54–65 | 54–65 | 53–65 | 51–68 |
-| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 73 | 66–81 | 62–86 | 60–88 | 58–91 |
-| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 98 | 92–104 | 92–107 | 90–111 | 86–115 |
-| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 72 | 68–76 | 65–77 | 62–81 | 60–82 |
+| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 74 | 65–82 | 62–85 | 61–88 | 58–91 |
+| [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 98 | 91–107 | 88–112 | 84–112 | 81–117 |
+| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 66 | 64–76 | 64–76 | 56–79 | 56–79 |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 75 | 68–85 | 66–88 | 64–90 | 60–95 |
 | [17–21 December 2018](2018-12-21-Invymark.html) | Invymark <br> laSexta | 88 | 82–97 | 80–97 | 77–98 | 73–108 |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 | 87 | 77–96 | 76–98 | 75–101 | 71–107 |
