@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Fri, 22 Mar 2019 20:13:32 +0100</pubDate>
+    <pubDate>Fri, 22 Mar 2019 23:28:18 +0100</pubDate>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–17 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-17-electoPanel.html#seats</link>
@@ -730,14 +730,34 @@
       <dc:date>2019-03-22T18:58:02.020497+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 22 December 2018–5 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-01-05-SocioMétrica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 63–79 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 82–101 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 48–66 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 57–71 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 11–16 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 3–8 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 3–7 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 2–6 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0–2 seats&lt;/li&gt;&lt;li&gt;Vox: 28–44 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-01-05-SocioMétrica-seats.png"
+        length="211960"
+        type="image/png"/>
+      <pubDate>Fri, 22 Mar 2019 23:28:18 +0100</pubDate>
+      <dc:date>2019-03-22T23:28:18.592043+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 22 December 2018–5 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-01-05-SocioMétrica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-01-05-SocioMétrica-coalitions-seats.png"
+        length="440737"
+        type="image/png"/>
+      <pubDate>Fri, 22 Mar 2019 23:28:18 +0100</pubDate>
+      <dc:date>2019-03-22T23:28:18.592043+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SocioMétrica for El Español, 22 December 2018–5 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-01-05-SocioMétrica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 16.8–20.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 20.7–24.2%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 15.6–18.7%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 16.9–20.2%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.5–4.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.0–2.0%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.8–1.7%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.6–1.4%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.2–0.7%&lt;/li&gt;&lt;li&gt;Vox: 11.2–14.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-01-05-SocioMétrica.png"
         length="237081"
         type="image/png"/>
-      <pubDate>Fri, 22 Mar 2019 20:13:32 +0100</pubDate>
-      <dc:date>2019-03-22T20:13:32.813349+01:00</dc:date>
+      <pubDate>Fri, 22 Mar 2019 23:28:18 +0100</pubDate>
+      <dc:date>2019-03-22T23:28:18.592043+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 21–27 December 2018 – Voting Intentions</title>
@@ -1839,6 +1859,6 @@
       <pubDate>Thu, 21 Mar 2019 19:48:55 +0100</pubDate>
       <dc:date>2019-03-21T19:48:55.652918+01:00</dc:date>
     </item>
-    <dc:date>2019-03-22T20:13:32.813349+01:00</dc:date>
+    <dc:date>2019-03-22T23:28:18.592043+01:00</dc:date>
   </channel>
 </rss>
