@@ -201,7 +201,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 20 | 18–20 | 16–21 | 16–21 | 15–21 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 9–15 | 9–15 | 8–15 | 7–17 |
-| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 10–20 | 10–20 | 10–20 | 10–20 |
+| [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 12–16 | 12–16 | 11–16 | 9–18 |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 13–19 | 12–20 | 12–20 | 10–22 |
 | [17–21 December 2018](2018-12-21-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [16 December 2018](2018-12-16-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
