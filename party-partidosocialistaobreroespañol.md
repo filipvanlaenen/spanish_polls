@@ -182,8 +182,8 @@ Last result: **85** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 120 | 105–136 | 100–142 | 97–146 | 91–152 |
-| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 120 | 109–130 | 105–132 | 103–134 | 98–138 |
-| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 118 | 113–126 | 111–129 | 110–132 | 105–136 |
+| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 120 | 109–129 | 106–132 | 103–134 | 98–139 |
+| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 118 | 113–126 | 111–130 | 109–132 | 105–136 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 123 | 116–125 | 116–127 | 113–128 | 112–129 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 107 | 97–115 | 94–117 | 90–119 | 88–124 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 143 | 134–151 | 131–153 | 128–155 | 122–159 |
@@ -210,7 +210,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 114 | 107–120 | 104–120 | 103–122 | 100–126 |
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 94 | 86–103 | 84–105 | 83–107 | 79–111 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 96 | 92–102 | 90–107 | 88–110 | 85–111 |
-| [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 86 | 79–93 | 78–95 | 77–97 | 74–101 |
+| [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 86 | 79–92 | 78–95 | 77–97 | 74–102 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 135 | 132–140 | 132–143 | 131–145 | 128–148 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 111 | 102–119 | 98–121 | 96–124 | 91–130 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 93 | 89–102 | 88–105 | 86–108 | 83–113 |
@@ -359,27 +359,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 113 | 3% | 73% |  |
 | 114 | 3% | 70% |  |
 | 115 | 2% | 67% |  |
-| 116 | 5% | 65% |  |
+| 116 | 4% | 65% |  |
 | 117 | 3% | 60% |  |
-| 118 | 4% | 57% |  |
+| 118 | 3% | 57% |  |
 | 119 | 3% | 54% |  |
 | 120 | 5% | 50% | Median |
 | 121 | 3% | 46% |  |
-| 122 | 3% | 43% |  |
+| 122 | 4% | 43% |  |
 | 123 | 4% | 39% |  |
 | 124 | 3% | 35% |  |
 | 125 | 3% | 32% |  |
 | 126 | 2% | 29% |  |
 | 127 | 1.3% | 27% |  |
 | 128 | 1.1% | 26% |  |
-| 129 | 1.2% | 25% |  |
-| 130 | 0.9% | 24% |  |
+| 129 | 1.1% | 25% |  |
+| 130 | 0.9% | 23% |  |
 | 131 | 2% | 23% |  |
 | 132 | 2% | 20% |  |
 | 133 | 0.9% | 18% |  |
 | 134 | 1.3% | 17% |  |
 | 135 | 6% | 16% |  |
-| 136 | 0.9% | 10% |  |
+| 136 | 0.8% | 10% |  |
 | 137 | 0.6% | 10% |  |
 | 138 | 1.1% | 9% |  |
 | 139 | 0.8% | 8% |  |

@@ -209,7 +209,7 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 60 | 53–64 | 50–66 | 50–66 | 49–68 |
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 82 | 73–93 | 71–96 | 70–98 | 69–101 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 61 | 56–64 | 55–65 | 55–66 | 53–69 |
-| [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 69 | 64–75 | 63–76 | 61–78 | 56–83 |
+| [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 69 | 64–75 | 62–76 | 60–78 | 57–82 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 64 | 61–67 | 59–69 | 57–70 | 56–71 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 64 | 57–69 | 55–70 | 54–73 | 50–77 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 65 | 61–71 | 59–74 | 59–77 | 55–79 |
@@ -344,13 +344,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 2% | 96% |  |
 | 36 | 0.6% | 94% |  |
 | 37 | 0.6% | 94% |  |
-| 38 | 1.1% | 93% |  |
-| 39 | 0.9% | 92% |  |
+| 38 | 0.9% | 93% |  |
+| 39 | 1.0% | 92% |  |
 | 40 | 0.9% | 91% |  |
-| 41 | 0.9% | 90% |  |
-| 42 | 1.1% | 89% |  |
+| 41 | 1.0% | 90% |  |
+| 42 | 1.2% | 89% |  |
 | 43 | 2% | 88% |  |
-| 44 | 1.5% | 87% |  |
+| 44 | 1.4% | 86% |  |
 | 45 | 1.4% | 85% |  |
 | 46 | 2% | 84% |  |
 | 47 | 4% | 82% |  |
@@ -361,7 +361,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 2% | 64% |  |
 | 53 | 5% | 63% |  |
 | 54 | 4% | 57% |  |
-| 55 | 3% | 53% |  |
+| 55 | 3% | 54% |  |
 | 56 | 3% | 51% | Median |
 | 57 | 3% | 48% |  |
 | 58 | 3% | 45% |  |
@@ -370,9 +370,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 61 | 3% | 37% |  |
 | 62 | 5% | 34% |  |
 | 63 | 4% | 29% |  |
-| 64 | 7% | 25% |  |
+| 64 | 8% | 25% |  |
 | 65 | 3% | 17% |  |
-| 66 | 3% | 14% |  |
+| 66 | 2% | 14% |  |
 | 67 | 3% | 11% |  |
 | 68 | 2% | 8% |  |
 | 69 | 1.4% | 7% |  |

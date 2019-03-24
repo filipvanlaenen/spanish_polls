@@ -181,7 +181,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 37 | 28–43 | 26–46 | 25–48 | 23–54 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 37 | 33–43 | 30–44 | 28–46 | 26–51 |
-| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 34 | 29–38 | 27–39 | 25–40 | 24–43 |
+| [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 34 | 29–38 | 27–38 | 26–40 | 24–43 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 28 | 25–31 | 25–32 | 25–33 | 24–35 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 40 | 35–47 | 34–51 | 32–53 | 30–57 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 34 | 29–39 | 28–40 | 26–42 | 24–46 |
@@ -208,7 +208,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 31 | 25–34 | 25–36 | 24–36 | 22–38 |
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 39 | 33–47 | 32–50 | 31–52 | 28–56 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 58 | 50–63 | 48–63 | 45–65 | 44–67 |
-| [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 51 | 45–61 | 43–63 | 41–65 | 38–67 |
+| [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 52 | 46–61 | 44–64 | 42–65 | 37–67 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 40 | 40–50 | 40–53 | 40–54 | 38–56 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 39 | 35–47 | 34–50 | 33–54 | 29–60 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 49 | 42–58 | 39–58 | 38–60 | 34–66 |
@@ -331,17 +331,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 0.6% | 99.5% |  |
 | 25 | 3% | 98.9% |  |
 | 26 | 2% | 96% |  |
-| 27 | 1.5% | 94% |  |
+| 27 | 2% | 94% |  |
 | 28 | 4% | 92% |  |
 | 29 | 2% | 88% |  |
-| 30 | 4% | 86% |  |
+| 30 | 4% | 87% |  |
 | 31 | 3% | 83% |  |
 | 32 | 4% | 80% |  |
 | 33 | 4% | 76% |  |
 | 34 | 4% | 72% |  |
 | 35 | 6% | 68% |  |
 | 36 | 11% | 62% |  |
-| 37 | 10% | 50% | Median |
+| 37 | 10% | 51% | Median |
 | 38 | 8% | 41% |  |
 | 39 | 4% | 33% |  |
 | 40 | 8% | 29% |  |
