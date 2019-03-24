@@ -184,8 +184,8 @@ Last result: **0** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 17–42 | 12–45 | 12–48 | 9–54 |
-| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 44 | 36–52 | 34–54 | 33–55 | 30–57 |
+| N/A | [Poll Average](average.html) | 30 | 17–42 | 12–45 | 12–47 | 9–52 |
+| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 44 | 37–50 | 35–52 | 33–54 | 31–58 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 25 | 21–28 | 21–30 | 20–32 | 17–34 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 33 | 31–37 | 31–37 | 31–39 | 30–41 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 23 | 18–28 | 18–29 | 17–31 | 14–34 |
@@ -211,7 +211,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 31 | 27–36 | 26–38 | 26–40 | 25–42 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 19 | 14–24 | 14–25 | 13–26 | 11–28 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 22 | 20–27 | 18–28 | 18–28 | 17–29 |
-| [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 19 | 14–23 | 13–24 | 13–25 | 11–27 |
+| [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 19 | 14–23 | 13–24 | 13–24 | 11–27 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 31 | 27–37 | 27–39 | 26–41 | 25–44 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 39 | 30–46 | 29–48 | 27–50 | 26–52 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 12 | 10–14 | 9–14 | 8–15 | 8–17 |
@@ -369,26 +369,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 3% | 26% |  |
 | 36 | 2% | 23% |  |
 | 37 | 3% | 21% |  |
-| 38 | 2% | 18% |  |
-| 39 | 2% | 16% |  |
-| 40 | 2% | 14% |  |
+| 38 | 1.5% | 18% |  |
+| 39 | 2% | 17% |  |
+| 40 | 2% | 15% |  |
 | 41 | 2% | 12% |  |
 | 42 | 2% | 11% |  |
-| 43 | 1.2% | 9% |  |
+| 43 | 1.1% | 9% |  |
 | 44 | 2% | 8% |  |
-| 45 | 1.3% | 6% |  |
-| 46 | 1.0% | 5% |  |
-| 47 | 0.8% | 4% |  |
-| 48 | 0.5% | 3% |  |
-| 49 | 0.5% | 2% |  |
-| 50 | 0.4% | 2% |  |
-| 51 | 0.3% | 1.4% |  |
-| 52 | 0.3% | 1.1% |  |
-| 53 | 0.2% | 0.7% |  |
-| 54 | 0.2% | 0.5% |  |
-| 55 | 0.2% | 0.3% |  |
-| 56 | 0.1% | 0.2% |  |
+| 45 | 2% | 6% |  |
+| 46 | 1.4% | 4% |  |
+| 47 | 0.7% | 3% |  |
+| 48 | 0.4% | 2% |  |
+| 49 | 0.3% | 2% |  |
+| 50 | 0.5% | 2% |  |
+| 51 | 0.4% | 1.1% |  |
+| 52 | 0.2% | 0.7% |  |
+| 53 | 0.1% | 0.5% |  |
+| 54 | 0.2% | 0.4% |  |
+| 55 | 0.1% | 0.2% |  |
+| 56 | 0% | 0.1% |  |
 | 57 | 0% | 0.1% |  |
-| 58 | 0% | 0% |  |
+| 58 | 0% | 0.1% |  |
+| 59 | 0% | 0% |  |
 
 

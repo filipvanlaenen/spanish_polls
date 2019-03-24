@@ -181,8 +181,8 @@ Last result: **85** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 120 | 105–136 | 100–142 | 97–146 | 91–152 |
-| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 120 | 109–129 | 106–132 | 103–134 | 98–139 |
+| N/A | [Poll Average](average.html) | 120 | 104–136 | 100–142 | 97–146 | 91–152 |
+| [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 120 | 110–127 | 105–130 | 103–131 | 98–135 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 118 | 113–126 | 111–130 | 109–132 | 105–136 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 123 | 116–125 | 116–127 | 113–128 | 112–129 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 107 | 97–115 | 94–117 | 90–119 | 88–124 |
@@ -209,7 +209,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 95 | 88–106 | 85–109 | 84–112 | 82–115 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 114 | 107–120 | 104–120 | 103–122 | 100–126 |
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 94 | 86–103 | 84–105 | 83–107 | 79–111 |
-| [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 96 | 92–102 | 90–107 | 88–110 | 85–111 |
+| [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 96 | 91–103 | 90–107 | 88–109 | 85–112 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 86 | 79–92 | 78–95 | 77–97 | 74–102 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 135 | 132–140 | 132–143 | 131–145 | 128–148 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 111 | 102–119 | 98–121 | 96–124 | 91–130 |
@@ -343,16 +343,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 97 | 0.5% | 98% |  |
 | 98 | 0.6% | 97% |  |
 | 99 | 0.9% | 96% |  |
-| 100 | 0.9% | 96% |  |
+| 100 | 0.8% | 96% |  |
 | 101 | 0.7% | 95% |  |
 | 102 | 1.5% | 94% |  |
-| 103 | 1.1% | 92% |  |
+| 103 | 1.2% | 93% |  |
 | 104 | 1.3% | 91% |  |
 | 105 | 2% | 90% |  |
 | 106 | 2% | 88% |  |
 | 107 | 2% | 87% |  |
 | 108 | 2% | 85% |  |
-| 109 | 2% | 82% |  |
+| 109 | 2% | 83% |  |
 | 110 | 2% | 80% |  |
 | 111 | 2% | 78% |  |
 | 112 | 2% | 75% |  |
@@ -363,22 +363,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 117 | 3% | 60% |  |
 | 118 | 3% | 57% |  |
 | 119 | 3% | 54% |  |
-| 120 | 5% | 50% | Median |
-| 121 | 3% | 46% |  |
-| 122 | 4% | 43% |  |
-| 123 | 4% | 39% |  |
+| 120 | 5% | 51% | Median |
+| 121 | 4% | 46% |  |
+| 122 | 3% | 42% |  |
+| 123 | 3% | 39% |  |
 | 124 | 3% | 35% |  |
 | 125 | 3% | 32% |  |
 | 126 | 2% | 29% |  |
-| 127 | 1.3% | 27% |  |
-| 128 | 1.1% | 26% |  |
-| 129 | 1.1% | 25% |  |
-| 130 | 0.9% | 23% |  |
-| 131 | 2% | 23% |  |
+| 127 | 2% | 27% |  |
+| 128 | 1.1% | 25% |  |
+| 129 | 1.0% | 24% |  |
+| 130 | 0.8% | 23% |  |
+| 131 | 2% | 22% |  |
 | 132 | 2% | 20% |  |
 | 133 | 0.9% | 18% |  |
 | 134 | 1.3% | 17% |  |
-| 135 | 6% | 16% |  |
+| 135 | 5% | 16% |  |
 | 136 | 0.8% | 10% |  |
 | 137 | 0.6% | 10% |  |
 | 138 | 1.1% | 9% |  |
