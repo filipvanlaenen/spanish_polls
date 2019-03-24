@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Fri, 22 Mar 2019 23:28:18 +0100</pubDate>
+    <pubDate>Sun, 24 Mar 2019 11:52:00 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sondaxe for La Voz de Galicia, 15–20 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-20-Sondaxe.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 16.6–21.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 24.2–29.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 11.4–15.7%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 11.8–16.1%&lt;/li&gt;&lt;li&gt;Vox: 11.9–16.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-20-Sondaxe.png"
+        length="187336"
+        type="image/png"/>
+      <pubDate>Sun, 24 Mar 2019 11:52:00 +0100</pubDate>
+      <dc:date>2019-03-24T11:52:00.863313+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by 40dB for El País, 14–19 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-19-40dB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 17.4–21.4%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 24.9–29.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 10.8–14.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 15.9–19.8%&lt;/li&gt;&lt;li&gt;Vox: 8.8–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-19-40dB.png"
+        length="174882"
+        type="image/png"/>
+      <pubDate>Sun, 24 Mar 2019 11:25:02 +0100</pubDate>
+      <dc:date>2019-03-24T11:25:02.243064+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–17 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-17-electoPanel.html#seats</link>
@@ -1859,6 +1879,6 @@
       <pubDate>Thu, 21 Mar 2019 19:48:55 +0100</pubDate>
       <dc:date>2019-03-21T19:48:55.652918+01:00</dc:date>
     </item>
-    <dc:date>2019-03-22T23:28:18.592043+01:00</dc:date>
+    <dc:date>2019-03-24T11:52:00.863313+01:00</dc:date>
   </channel>
 </rss>
