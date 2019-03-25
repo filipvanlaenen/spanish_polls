@@ -170,7 +170,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–8 | 3–8 | 1–9 | 1–11 |
+| N/A | [Poll Average](average.html) | 5 | 3–8 | 1–8 | 1–9 | 1–10 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 7 | 5–9 | 3–9 | 3–10 | 3–11 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País |  |  |  |  |  |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -200,7 +200,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 5 | 5 | 5 | 5 | 1–5 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 3 | 1–3 | 1–4 | 1–4 | 1–5 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 5 | 4–8 | 3–9 | 3–10 | 1–10 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 3–6 | 3–7 | 3–8 | 2–8 |
@@ -317,19 +317,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 4% | 100% |  |
-| 2 | 0.9% | 96% |  |
-| 3 | 7% | 95% |  |
-| 4 | 18% | 88% |  |
-| 5 | 24% | 70% | Median |
-| 6 | 22% | 46% |  |
-| 7 | 5% | 24% |  |
-| 8 | 15% | 19% | Last Result |
-| 9 | 3% | 4% |  |
-| 10 | 1.0% | 2% |  |
-| 11 | 0.2% | 0.6% |  |
-| 12 | 0.3% | 0.4% |  |
-| 13 | 0% | 0.1% |  |
-| 14 | 0% | 0% |  |
+| 1 | 5% | 100% |  |
+| 2 | 0.9% | 95% |  |
+| 3 | 17% | 94% |  |
+| 4 | 16% | 77% |  |
+| 5 | 21% | 60% | Median |
+| 6 | 19% | 39% |  |
+| 7 | 4% | 20% |  |
+| 8 | 13% | 16% | Last Result |
+| 9 | 2% | 4% |  |
+| 10 | 0.9% | 1.4% |  |
+| 11 | 0.2% | 0.5% |  |
+| 12 | 0.3% | 0.3% |  |
+| 13 | 0% | 0% |  |
 
 

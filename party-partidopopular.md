@@ -187,7 +187,7 @@ Last result: **137** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 79 | 61–96 | 55–101 | 55–104 | 55–109 |
+| N/A | [Poll Average](average.html) | 79 | 64–96 | 61–101 | 59–104 | 54–109 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 73 | 68–81 | 67–86 | 65–88 | 62–94 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 79 | 73–85 | 70–87 | 68–89 | 64–94 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 85 | 82–87 | 81–90 | 79–93 | 78–93 |
@@ -217,7 +217,7 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 88 | 79–95 | 76–98 | 75–100 | 72–104 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 75 | 70–81 | 68–83 | 66–85 | 63–88 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 74 | 69–83 | 66–86 | 64–88 | 62–91 |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 55 | 55 | 55 | 55 | 55–56 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 65 | 54–65 | 54–65 | 53–65 | 51–68 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 74 | 65–82 | 62–85 | 61–88 | 58–91 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 98 | 91–107 | 88–112 | 84–112 | 81–117 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 72 | 66–77 | 65–78 | 63–79 | 60–84 |
@@ -334,20 +334,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 54 | 0% | 100% |  |
-| 55 | 8% | 99.9% |  |
-| 56 | 0.1% | 92% |  |
-| 57 | 0.2% | 92% |  |
-| 58 | 0.3% | 92% |  |
-| 59 | 0.6% | 92% |  |
-| 60 | 0.9% | 91% |  |
-| 61 | 0.9% | 90% |  |
-| 62 | 0.7% | 89% |  |
-| 63 | 2% | 89% |  |
-| 64 | 1.3% | 86% |  |
-| 65 | 1.5% | 85% |  |
+| 51 | 0.1% | 100% |  |
+| 52 | 0.1% | 99.9% |  |
+| 53 | 0.2% | 99.8% |  |
+| 54 | 0.5% | 99.6% |  |
+| 55 | 0.2% | 99.1% |  |
+| 56 | 0.5% | 98.9% |  |
+| 57 | 0.3% | 98% |  |
+| 58 | 0.6% | 98% |  |
+| 59 | 0.8% | 98% |  |
+| 60 | 1.2% | 97% |  |
+| 61 | 1.0% | 96% |  |
+| 62 | 1.0% | 95% |  |
+| 63 | 2% | 94% |  |
+| 64 | 1.4% | 91% |  |
+| 65 | 6% | 90% |  |
 | 66 | 1.1% | 83% |  |
-| 67 | 1.5% | 82% |  |
+| 67 | 2% | 82% |  |
 | 68 | 2% | 81% |  |
 | 69 | 2% | 79% |  |
 | 70 | 2% | 77% |  |

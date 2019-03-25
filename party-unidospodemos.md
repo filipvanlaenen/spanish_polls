@@ -179,7 +179,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37 | 28–47 | 26–52 | 25–52 | 23–52 |
+| N/A | [Poll Average](average.html) | 37 | 28–43 | 26–46 | 25–48 | 23–54 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 37 | 32–41 | 30–43 | 28–44 | 25–48 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 34 | 29–38 | 27–38 | 26–40 | 24–43 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 28 | 25–31 | 25–32 | 25–33 | 24–35 |
@@ -209,7 +209,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 39 | 33–47 | 32–50 | 31–52 | 28–56 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 58 | 50–62 | 47–63 | 46–65 | 44–66 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 52 | 46–61 | 43–63 | 42–65 | 38–67 |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 52 | 52 | 52 | 52 | 52–53 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 40 | 40–50 | 40–53 | 40–54 | 38–56 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 40 | 35–47 | 34–50 | 32–54 | 29–60 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 49 | 42–58 | 39–58 | 38–60 | 34–66 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 56 | 51–63 | 50–65 | 48–66 | 45–68 |
@@ -344,23 +344,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 9% | 50% | Median |
 | 38 | 8% | 42% |  |
 | 39 | 4% | 33% |  |
-| 40 | 4% | 29% |  |
-| 41 | 4% | 25% |  |
-| 42 | 3% | 21% |  |
-| 43 | 3% | 17% |  |
-| 44 | 2% | 14% |  |
-| 45 | 2% | 13% |  |
-| 46 | 1.0% | 11% |  |
-| 47 | 0.5% | 10% |  |
-| 48 | 0.4% | 9% |  |
-| 49 | 0.3% | 9% |  |
-| 50 | 0.2% | 9% |  |
-| 51 | 0.2% | 9% |  |
-| 52 | 8% | 8% |  |
-| 53 | 0.1% | 0.5% |  |
-| 54 | 0.1% | 0.3% |  |
-| 55 | 0.1% | 0.2% |  |
-| 56 | 0% | 0.2% |  |
+| 40 | 9% | 29% |  |
+| 41 | 4% | 20% |  |
+| 42 | 3% | 16% |  |
+| 43 | 3% | 12% |  |
+| 44 | 2% | 9% |  |
+| 45 | 2% | 7% |  |
+| 46 | 2% | 5% |  |
+| 47 | 0.6% | 4% |  |
+| 48 | 0.7% | 3% |  |
+| 49 | 0.4% | 2% |  |
+| 50 | 0.5% | 2% |  |
+| 51 | 0.4% | 2% |  |
+| 52 | 0.2% | 1.2% |  |
+| 53 | 0.4% | 0.9% |  |
+| 54 | 0.2% | 0.6% |  |
+| 55 | 0.2% | 0.4% |  |
+| 56 | 0.1% | 0.2% |  |
 | 57 | 0% | 0.1% |  |
 | 58 | 0% | 0.1% |  |
 | 59 | 0% | 0% |  |
