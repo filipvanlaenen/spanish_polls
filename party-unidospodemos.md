@@ -203,7 +203,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 39 | 35–47 | 34–49 | 32–53 | 29–60 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 50 | 39–58 | 38–58 | 36–58 | 34–62 |
 | [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 36 | 31–42 | 28–44 | 27–45 | 26–50 |
-| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 43 | 38–49 | 37–51 | 36–53 | 35–56 |
+| [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 43 | 39–49 | 38–51 | 36–52 | 36–57 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 49 | 43–60 | 41–62 | 39–64 | 36–66 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 31 | 25–34 | 25–36 | 24–36 | 22–38 |
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 39 | 33–47 | 32–50 | 31–52 | 28–56 |
