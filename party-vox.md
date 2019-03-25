@@ -206,7 +206,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 19 | 13–22 | 13–23 | 13–25 | 11–28 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 33 | 30–40 | 29–41 | 28–43 | 26–46 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 32 | 27–41 | 25–43 | 24–45 | 21–50 |
-| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 19 | 17–22 | 15–24 | 14–24 | 12–27 |
+| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21 | 17–21 | 16–24 | 15–24 | 12–27 |
 | [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 26 | 23–31 | 21–33 | 21–35 | 19–40 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 31 | 27–36 | 26–38 | 26–40 | 25–42 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 19 | 14–24 | 14–25 | 13–26 | 11–28 |

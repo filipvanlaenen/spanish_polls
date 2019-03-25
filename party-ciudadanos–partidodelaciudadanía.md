@@ -202,16 +202,16 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 58 | 51–63 | 51–64 | 49–66 | 45–69 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 50 | 45–54 | 43–55 | 42–56 | 39–60 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 61 | 54–67 | 52–68 | 50–69 | 47–73 |
-| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 63 | 59–69 | 58–72 | 57–73 | 53–78 |
+| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 63 | 59–65 | 58–71 | 58–73 | 56–76 |
 | [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 71 | 67–79 | 65–82 | 63–85 | 60–90 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 68 | 65–71 | 63–73 | 62–74 | 60–76 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 62 | 55–69 | 54–71 | 53–71 | 51–74 |
 | [14–24 January 2019](2019-01-24-GAD3.html) | GAD3 <br> ABC | 60 | 53–64 | 50–66 | 50–66 | 49–68 |
-| [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 82 | 73–93 | 71–96 | 70–98 | 69–101 |
+| [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta | 82 | 73–93 | 71–95 | 70–98 | 69–101 |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 61 | 56–64 | 56–65 | 55–66 | 53–69 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 69 | 64–75 | 62–76 | 60–78 | 57–83 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 64 | 61–67 | 59–69 | 57–70 | 56–71 |
-| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 64 | 57–69 | 55–70 | 54–73 | 50–77 |
+| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 64 | 57–69 | 55–71 | 54–73 | 50–77 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 65 | 61–71 | 59–74 | 59–77 | 55–79 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 65 | 58–69 | 58–69 | 57–71 | 56–73 |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 65 | 57–71 | 55–74 | 55–75 | 53–80 |

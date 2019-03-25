@@ -203,7 +203,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 119 | 111–126 | 108–127 | 106–131 | 102–136 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 118 | 111–125 | 109–127 | 107–129 | 105–133 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 113 | 104–122 | 101–125 | 98–128 | 93–134 |
-| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 98 | 87–103 | 87–106 | 84–108 | 82–111 |
+| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 98 | 90–103 | 87–103 | 84–106 | 81–111 |
 | [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 98 | 91–107 | 88–110 | 87–111 | 83–115 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 96 | 90–102 | 88–104 | 87–106 | 85–109 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 95 | 88–106 | 85–109 | 84–112 | 82–115 |
@@ -212,7 +212,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 96 | 91–103 | 90–107 | 88–109 | 85–112 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 86 | 79–92 | 78–95 | 77–97 | 74–102 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 135 | 132–140 | 132–143 | 131–145 | 128–148 |
-| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 111 | 102–119 | 98–121 | 96–124 | 91–130 |
+| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 112 | 101–118 | 98–122 | 96–124 | 91–130 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 93 | 89–102 | 88–105 | 86–108 | 83–113 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 90 | 87–95 | 85–98 | 82–101 | 80–107 |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 91 | 84–102 | 82–105 | 80–109 | 77–113 |

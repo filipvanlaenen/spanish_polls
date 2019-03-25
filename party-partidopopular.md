@@ -209,7 +209,7 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 97 | 87–105 | 87–107 | 85–109 | 81–114 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 81 | 75–88 | 74–91 | 72–93 | 69–97 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 73 | 64–81 | 62–84 | 60–87 | 57–91 |
-| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 93 | 89–108 | 85–108 | 81–109 | 79–115 |
+| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 90 | 90–108 | 88–108 | 85–108 | 79–114 |
 | [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 88 | 79–94 | 76–97 | 75–99 | 71–104 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 83 | 76–88 | 74–88 | 73–89 | 71–92 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 98 | 88–108 | 86–111 | 84–114 | 81–117 |
@@ -218,7 +218,7 @@ Last result: **137** seats (General Election of 26 June 2016)
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 75 | 70–81 | 68–83 | 66–85 | 63–88 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 74 | 69–83 | 66–86 | 64–88 | 62–91 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 65 | 54–65 | 54–65 | 53–65 | 51–68 |
-| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 74 | 65–82 | 62–85 | 61–88 | 58–91 |
+| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 74 | 65–82 | 62–86 | 61–88 | 58–91 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 98 | 91–107 | 88–112 | 84–112 | 81–117 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 72 | 66–77 | 65–78 | 63–79 | 60–84 |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 75 | 68–85 | 66–88 | 64–90 | 60–95 |

@@ -201,7 +201,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 31 | 27–36 | 26–39 | 24–39 | 23–42 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 37 | 35–41 | 33–42 | 32–43 | 29–45 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 39 | 35–47 | 34–49 | 32–53 | 29–60 |
-| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 50 | 39–58 | 38–58 | 36–58 | 34–62 |
+| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 50 | 39–50 | 39–55 | 36–58 | 35–61 |
 | [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 36 | 31–42 | 28–44 | 27–45 | 26–50 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 43 | 38–49 | 37–51 | 36–53 | 35–56 |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón | 49 | 43–60 | 41–62 | 39–64 | 36–66 |
@@ -210,7 +210,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo | 58 | 50–62 | 47–63 | 46–65 | 44–66 |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 52 | 46–61 | 43–63 | 42–65 | 38–67 |
 | [1–13 January 2019](2019-01-13-CIS.html) | CIS | 40 | 40–50 | 40–53 | 40–54 | 38–56 |
-| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 39 | 35–47 | 34–50 | 33–54 | 29–60 |
+| [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica | 39 | 35–47 | 34–50 | 32–54 | 29–60 |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 49 | 42–58 | 39–58 | 38–60 | 34–66 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 56 | 51–63 | 50–65 | 48–66 | 45–68 |
 | [21–27 December 2018](2018-12-27-SigmaDos.html) | Sigma Dos <br> El Mundo | 49 | 41–59 | 39–61 | 37–64 | 35–67 |
