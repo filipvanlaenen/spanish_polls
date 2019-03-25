@@ -192,7 +192,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia |  |  |  |  |  |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
-| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0–1 |
+| [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0–1 | 0–1 |
 | [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [21–25 January 2019](2019-01-25-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
@@ -200,7 +200,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [14–18 January 2019](2019-01-18-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [9–15 January 2019](2019-01-15-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [6–13 January 2019](2019-01-13-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0–1 |
-| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 0 | 0 | 0 | 0–1 | 0–1 |
+| [1–13 January 2019](2019-01-13-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0–1 |
 | [3–9 January 2019](2019-01-09-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [2–8 January 2019](2019-01-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0 | 0 | 0 | 0 |
 | [22 December 2018–5 January 2019](2019-01-05-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
@@ -317,8 +317,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Last Result, Median |
-| 1 | 26% | 26% |  |
+| 0 | 63% | 100% | Last Result, Median |
+| 1 | 37% | 37% |  |
 | 2 | 0% | 0% |  |
 
 
