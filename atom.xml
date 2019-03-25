@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_polls</id>
   <title>All Registered Polls for the Congress of Deputies</title>
-  <updated>2019-03-24T19:12:49.537906+01:00</updated>
+  <updated>2019-03-24T20:30:24.830997+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular: 16.6–21.5%, 65–88 seats</li><li>Partido Socialista Obrero Español: 24.2–29.7%, 103–131 seats</li><li>Unidos Podemos: 11.4–15.7%, 28–44 seats</li><li>Ciudadanos–Partido de la Ciudadanía: 11.8–16.1%, 31–54 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí: 2.9–5.3%, 13–21 seats</li><li>Partit Demòcrata Europeu Català: 1.1–2.7%, 3–10 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.5–1.8%, 3–8 seats</li><li>Euskal Herria Bildu: 0.4–1.6%, 1–7 seats</li><li>Coalición Canaria–Partido Nacionalista Canario: 0.2–1.2%, 1–4 seats</li><li>Vox: 11.9–16.2%, 33–54 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_polls/2019-03-20-Sondaxe.html</id>
@@ -184,6 +184,14 @@
     <dc:date>2019-03-18T19:54:45.472844+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular: 19.3–23.9%, 75–100 seats</li><li>Partido Socialista Obrero Español: 20.9–25.7%, 83–107 seats</li><li>Unidos Podemos: 12.5–16.5%, 31–52 seats</li><li>Ciudadanos–Partido de la Ciudadanía: 20.7–25.5%, 70–98 seats</li><li>Vox: 7.4–10.7%, 13–24 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_polls/2019-01-18-Invymark.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_polls/2019-01-18-Invymark.html"/>
+    <title>Opinion Poll by Invymark for laSexta, 14–18 January 2019</title>
+    <updated>2019-03-24T20:30:24.830997+01:00</updated>
+    <dc:date>2019-03-24T20:30:24.830997+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular: 17.5–20.7%, 66–85 seats</li><li>Partido Socialista Obrero Español: 22.0–25.5%, 88–109 seats</li><li>Unidos Podemos: 15.6–18.7%, 46–65 seats</li><li>Ciudadanos–Partido de la Ciudadanía: 16.3–19.4%, 55–66 seats</li><li>Vox: 10.8–13.5%, 26–41 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_polls/2019-01-15-Metroscopia.html</id>
     <link href="https://filipvanlaenen.github.io/spanish_polls/2019-01-15-Metroscopia.html"/>
@@ -239,5 +247,5 @@
     <updated>2019-03-16T18:43:40.083724+01:00</updated>
     <dc:date>2019-03-16T18:43:40.083724+01:00</dc:date>
   </entry>
-  <dc:date>2019-03-24T19:12:49.537906+01:00</dc:date>
+  <dc:date>2019-03-24T20:30:24.830997+01:00</dc:date>
 </feed>
