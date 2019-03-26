@@ -11,9 +11,13 @@ Last result: **0.3%** (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.1–0.6% | 0.1–0.8% | 0.1–0.9% | 0.1–1.2% |
+| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 0.2% | 0.1–0.3% | 0.1–0.3% | 0.1–0.3% | 0.1–0.4% |
+| [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 0.0% | N/A | N/A | N/A | N/A |
+| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
+| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 0.3% | N/A | N/A | N/A | N/A |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 0.0% | N/A | N/A | N/A | N/A |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 0.3% | 0.2–0.4% | 0.2–0.4% | 0.2–0.5% | 0.2–0.5% |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 0.3% | N/A | N/A | N/A | N/A |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.0% | N/A | N/A | N/A | N/A |
@@ -155,8 +159,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 87% | 100% | Last Result, Median |
-| 0.5–1.5% | 13% | 13% |  |
+| 0.0–0.5% | 86% | 100% | Last Result, Median |
+| 0.5–1.5% | 14% | 14% |  |
 | 1.5–2.5% | 0% | 0% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -169,10 +173,14 @@ Last result: **1** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–3 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–3 | 0–4 | 0–4 |
+| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0–1 |
+| [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
+| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 2 | 1–4 | 1–4 | 1–4 | 0–5 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País |  |  |  |  |  |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
@@ -316,11 +324,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% |  |
-| 1 | 49% | 64% | Last Result, Median |
-| 2 | 9% | 14% |  |
-| 3 | 3% | 6% |  |
-| 4 | 3% | 3% |  |
+| 0 | 55% | 100% | Median |
+| 1 | 30% | 45% | Last Result |
+| 2 | 8% | 15% |  |
+| 3 | 3% | 7% |  |
+| 4 | 3% | 4% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
