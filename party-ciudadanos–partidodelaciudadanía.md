@@ -184,14 +184,14 @@ Last result: **32** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 56 | 40–67 | 37–70 | 36–72 | 31–77 |
+| N/A | [Poll Average](average.html) | 56 | 40–67 | 37–70 | 36–72 | 32–77 |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 58 | 54–62 | 53–62 | 53–62 | 52–63 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 46 | 39–51 | 38–52 | 37–52 | 33–58 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 59 | 51–65 | 50–66 | 48–68 | 44–72 |
-| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 38 | 35–44 | 34–44 | 33–44 | 30–45 |
+| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 38 | 34–43 | 33–44 | 32–44 | 30–45 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 43 | 34–48 | 32–51 | 31–54 | 25–56 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 64 | 58–67 | 55–68 | 53–69 | 51–73 |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 53 | 48–56 | 48–56 | 47–57 | 47–58 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 53 | 49–56 | 48–56 | 48–56 | 47–58 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 60 | 53–65 | 51–67 | 50–69 | 46–72 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 57 | 52–65 | 50–66 | 49–68 | 47–71 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 61 | 55–67 | 53–69 | 52–70 | 50–73 |
@@ -340,21 +340,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 0% | 99.9% |  |
 | 28 | 0% | 99.9% |  |
 | 29 | 0.1% | 99.9% |  |
-| 30 | 0.2% | 99.8% |  |
+| 30 | 0.1% | 99.8% |  |
 | 31 | 0.2% | 99.7% |  |
-| 32 | 0.1% | 99.5% | Last Result |
-| 33 | 0.4% | 99.4% |  |
-| 34 | 0.5% | 99.0% |  |
-| 35 | 0.5% | 98% |  |
-| 36 | 0.7% | 98% |  |
+| 32 | 0.3% | 99.5% | Last Result |
+| 33 | 0.5% | 99.2% |  |
+| 34 | 0.5% | 98.7% |  |
+| 35 | 0.4% | 98% |  |
+| 36 | 0.8% | 98% |  |
 | 37 | 2% | 97% |  |
 | 38 | 2% | 95% |  |
-| 39 | 2% | 92% |  |
+| 39 | 2% | 93% |  |
 | 40 | 3% | 90% |  |
-| 41 | 1.3% | 88% |  |
-| 42 | 1.2% | 87% |  |
-| 43 | 1.2% | 85% |  |
-| 44 | 3% | 84% |  |
+| 41 | 1.2% | 88% |  |
+| 42 | 1.3% | 87% |  |
+| 43 | 1.4% | 85% |  |
+| 44 | 2% | 84% |  |
 | 45 | 2% | 82% |  |
 | 46 | 2% | 79% |  |
 | 47 | 2% | 77% |  |
