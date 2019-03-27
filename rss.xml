@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Tue, 26 Mar 2019 20:05:56 +0100</pubDate>
+    <pubDate>Wed, 27 Mar 2019 15:46:31 +0100</pubDate>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–24 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-24-electoPanel.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-24-electoPanel.png"
         length="227802"
         type="image/png"/>
-      <pubDate>Tue, 26 Mar 2019 19:58:34 +0100</pubDate>
-      <dc:date>2019-03-26T19:58:34.179568+01:00</dc:date>
+      <pubDate>Wed, 27 Mar 2019 15:19:45 +0100</pubDate>
+      <dc:date>2019-03-27T15:19:45.100036+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 17–23 March 2019 – Voting Intentions</title>
@@ -26,8 +26,28 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-23-IMOP.png"
         length="250060"
         type="image/png"/>
-      <pubDate>Tue, 26 Mar 2019 20:05:56 +0100</pubDate>
-      <dc:date>2019-03-26T20:05:56.392322+01:00</dc:date>
+      <pubDate>Wed, 27 Mar 2019 07:02:51 +0100</pubDate>
+      <dc:date>2019-03-27T07:02:51.039191+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 18–22 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-22-NCReport.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 19.9–25.1%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 24.2–29.7%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 10.1–14.2%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 14.9–19.6%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.0–4.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.8–2.2%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Vox: 8.9–12.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-22-NCReport.png"
+        length="242328"
+        type="image/png"/>
+      <pubDate>Wed, 27 Mar 2019 15:46:31 +0100</pubDate>
+      <dc:date>2019-03-27T15:46:31.843446+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for ABC, 1–22 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-22-GAD3.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 21.0–22.9%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 29.9–32.0%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 10.6–12.1%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 12.4–13.9%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.3–3.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.2–1.8%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 1.0–1.5%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.5–0.9%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.2–0.5%&lt;/li&gt;&lt;li&gt;Vox: 10.8–12.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-22-GAD3.png"
+        length="211770"
+        type="image/png"/>
+      <pubDate>Wed, 27 Mar 2019 07:16:59 +0100</pubDate>
+      <dc:date>2019-03-27T07:16:59.402844+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sondaxe for La Voz de Galicia, 15–20 March 2019 – Seat Projections for the Parties</title>
@@ -88,6 +108,16 @@
         type="image/png"/>
       <pubDate>Sun, 24 Mar 2019 13:39:31 +0100</pubDate>
       <dc:date>2019-03-24T13:39:31.866094+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 22 February–17 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-17-electoPanel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 19.8–21.6%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 26.3–28.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 10.6–12.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 14.6–16.2%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.8–3.6%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.1–1.6%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 1.1–1.6%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 0.7–1.2%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.6–1.0%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.2–0.5%&lt;/li&gt;&lt;li&gt;Vox: 11.8–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-17-electoPanel.png"
+        length="229579"
+        type="image/png"/>
+      <pubDate>Wed, 27 Mar 2019 15:02:43 +0100</pubDate>
+      <dc:date>2019-03-27T15:02:43.183786+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 11–15 March 2019 – Seat Projections for the Parties</title>
@@ -586,8 +616,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-02-08-SimpleLógica.png"
         length="186605"
         type="image/png"/>
-      <pubDate>Mon, 25 Mar 2019 23:30:53 +0100</pubDate>
-      <dc:date>2019-03-25T23:30:53.369484+01:00</dc:date>
+      <pubDate>Wed, 27 Mar 2019 15:09:12 +0100</pubDate>
+      <dc:date>2019-03-27T15:09:12.239001+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 4–8 February 2019 – Seat Projections for the Parties</title>
@@ -2069,6 +2099,6 @@
       <pubDate>Thu, 21 Mar 2019 19:48:55 +0100</pubDate>
       <dc:date>2019-03-21T19:48:55.652918+01:00</dc:date>
     </item>
-    <dc:date>2019-03-26T20:05:56.392322+01:00</dc:date>
+    <dc:date>2019-03-27T15:46:31.843446+01:00</dc:date>
   </channel>
 </rss>
