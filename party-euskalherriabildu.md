@@ -173,10 +173,10 @@ Last result: **2** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 2–7 | 1–7 | 1–7 | 1–7 |
-| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 2–5 | 2–6 |
-| [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 5 | 3–7 | 2–7 | 2–7 | 1–9 |
-| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 3 | 1–6 | 1–6 | 1–6 | 0–7 |
+| N/A | [Poll Average](average.html) | 4 | 2–6 | 1–7 | 1–7 | 0–7 |
+| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 4 | 2–5 | 2–5 | 2–5 | 2–6 |
+| [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 5 | 2–6 | 2–7 | 2–7 | 1–9 |
+| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 3 | 1–6 | 1–6 | 0–7 | 0–7 |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 2 | 2–4 | 2–4 | 2–4 | 1–4 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 2 | 1–7 | 1–7 | 1–7 | 1–7 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País |  |  |  |  |  |
@@ -324,16 +324,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 8% | 99.6% |  |
+| 0 | 0.6% | 100% |  |
+| 1 | 8% | 99.4% |  |
 | 2 | 24% | 91% | Last Result |
-| 3 | 6% | 68% |  |
-| 4 | 25% | 62% | Median |
-| 5 | 17% | 38% |  |
-| 6 | 10% | 20% |  |
-| 7 | 10% | 10% |  |
-| 8 | 0.1% | 0.3% |  |
-| 9 | 0.2% | 0.2% |  |
+| 3 | 10% | 68% |  |
+| 4 | 21% | 58% | Median |
+| 5 | 20% | 37% |  |
+| 6 | 9% | 17% |  |
+| 7 | 7% | 7% |  |
+| 8 | 0.2% | 0.3% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
 
