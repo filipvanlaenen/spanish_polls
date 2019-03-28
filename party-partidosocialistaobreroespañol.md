@@ -192,7 +192,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 137 | 132–139 | 131–139 | 131–141 | 129–144 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 120 | 110–127 | 105–130 | 103–131 | 98–135 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 118 | 113–126 | 111–130 | 109–132 | 105–136 |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 121 | 116–126 | 113–128 | 112–128 | 112–129 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 123 | 116–125 | 116–127 | 113–128 | 112–129 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 107 | 97–115 | 94–117 | 90–119 | 88–124 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 143 | 134–151 | 131–153 | 128–155 | 122–159 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 106 | 96–113 | 93–115 | 91–117 | 88–121 |
@@ -210,7 +210,7 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 120 | 109–130 | 106–132 | 104–135 | 99–139 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 119 | 111–126 | 108–127 | 106–131 | 102–136 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 118 | 111–125 | 109–127 | 107–129 | 105–133 |
-| [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 113 | 105–123 | 101–125 | 98–128 | 92–133 |
+| [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 113 | 104–122 | 101–125 | 98–128 | 93–134 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 98 | 87–103 | 87–106 | 84–108 | 82–111 |
 | [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 98 | 91–107 | 88–110 | 87–111 | 83–115 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 96 | 90–102 | 88–104 | 87–106 | 85–109 |
@@ -357,7 +357,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 103 | 1.1% | 95% |  |
 | 104 | 1.1% | 94% |  |
 | 105 | 1.2% | 93% |  |
-| 106 | 1.4% | 92% |  |
+| 106 | 1.4% | 91% |  |
 | 107 | 2% | 90% |  |
 | 108 | 2% | 89% |  |
 | 109 | 2% | 87% |  |
@@ -384,7 +384,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 130 | 1.3% | 31% |  |
 | 131 | 2% | 30% |  |
 | 132 | 2% | 28% |  |
-| 133 | 1.4% | 26% |  |
+| 133 | 1.3% | 26% |  |
 | 134 | 1.4% | 25% |  |
 | 135 | 8% | 23% |  |
 | 136 | 1.1% | 15% |  |

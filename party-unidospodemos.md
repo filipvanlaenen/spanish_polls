@@ -189,7 +189,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 27 | 24–30 | 24–31 | 24–32 | 24–33 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 37 | 32–41 | 30–43 | 28–44 | 25–48 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 34 | 29–38 | 27–38 | 26–40 | 24–43 |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 28 | 25–31 | 25–33 | 25–33 | 24–35 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 28 | 25–31 | 25–32 | 25–33 | 24–35 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 40 | 35–47 | 34–51 | 32–53 | 30–57 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 34 | 29–39 | 28–40 | 26–42 | 24–46 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 39 | 34–45 | 32–47 | 31–50 | 28–55 |
@@ -207,7 +207,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 37 | 33–43 | 30–44 | 28–46 | 26–51 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 31 | 27–36 | 26–39 | 24–39 | 23–42 |
 | [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 37 | 35–41 | 33–42 | 32–43 | 29–45 |
-| [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 39 | 35–47 | 34–48 | 32–52 | 29–60 |
+| [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 39 | 35–47 | 34–49 | 32–53 | 29–60 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 50 | 39–58 | 38–58 | 36–58 | 34–62 |
 | [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 36 | 31–42 | 28–44 | 27–45 | 26–50 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 43 | 38–49 | 37–51 | 36–53 | 35–56 |
@@ -341,14 +341,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 5% | 92% |  |
 | 28 | 4% | 88% |  |
 | 29 | 3% | 84% |  |
-| 30 | 3% | 81% |  |
+| 30 | 4% | 81% |  |
 | 31 | 4% | 77% |  |
 | 32 | 5% | 74% |  |
 | 33 | 5% | 69% |  |
 | 34 | 6% | 64% |  |
 | 35 | 6% | 59% |  |
 | 36 | 10% | 53% | Median |
-| 37 | 8% | 43% |  |
+| 37 | 8% | 42% |  |
 | 38 | 8% | 34% |  |
 | 39 | 3% | 26% |  |
 | 40 | 8% | 23% |  |

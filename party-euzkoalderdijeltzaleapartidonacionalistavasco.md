@@ -181,7 +181,7 @@ Last result: **5** seats (General Election of 26 June 2016)
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 6 | 6 | 6 | 5–7 | 4–8 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 6 | 3–8 | 3–8 | 3–8 | 1–10 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País |  |  |  |  |  |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 6 | 3–8 | 3–8 | 3–9 | 2–10 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |

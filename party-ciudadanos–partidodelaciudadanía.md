@@ -191,7 +191,7 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 38 | 34–43 | 33–44 | 32–44 | 30–45 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 43 | 34–48 | 32–51 | 31–54 | 25–56 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 64 | 58–67 | 55–68 | 53–69 | 51–73 |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 53 | 49–56 | 48–56 | 48–56 | 47–58 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 51 | 47–55 | 47–56 | 47–56 | 47–56 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 60 | 53–65 | 51–67 | 50–69 | 46–72 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 57 | 52–65 | 50–66 | 49–68 | 47–71 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 61 | 55–67 | 53–69 | 52–70 | 50–73 |
@@ -208,8 +208,8 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 64 | 57–70 | 55–72 | 53–73 | 51–75 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 47 | 38–53 | 36–55 | 35–56 | 31–61 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 58 | 51–63 | 51–64 | 49–66 | 45–69 |
-| [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 50 | 45–54 | 43–55 | 42–56 | 39–60 |
-| [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 61 | 54–67 | 51–68 | 50–69 | 47–73 |
+| [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 50 | 45–54 | 43–55 | 42–56 | 39–59 |
+| [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 61 | 54–67 | 52–68 | 50–69 | 47–73 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 63 | 59–69 | 58–72 | 57–73 | 53–78 |
 | [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 71 | 67–79 | 65–82 | 63–85 | 60–90 |
 | [26–30 January 2019](2019-01-30-electoPanel.html) | electoPanel <br> electomania.es | 68 | 65–71 | 63–73 | 62–74 | 60–76 |

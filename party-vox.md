@@ -195,7 +195,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 30 | 29–32 | 29–32 | 28–33 | 27–34 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 44 | 37–50 | 35–52 | 33–54 | 31–58 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 25 | 21–28 | 21–30 | 20–32 | 17–34 |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 33 | 32–37 | 32–37 | 31–40 | 29–41 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 33 | 31–37 | 31–37 | 31–39 | 30–41 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 23 | 18–28 | 18–29 | 17–31 | 14–34 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 19 | 15–24 | 14–26 | 13–27 | 12–29 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21 | 18–26 | 17–27 | 16–28 | 13–30 |
@@ -212,7 +212,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [11–15 February 2019](2019-02-15-NCReport.html) | NC Report <br> La Razón | 22 | 18–27 | 17–27 | 15–28 | 13–32 |
 | [13–15 February 2019](2019-02-15-GESOP.html) | GESOP <br> El Periódico | 37 | 31–45 | 29–48 | 28–50 | 26–54 |
 | [12–15 February 2019](2019-02-15-GAD3.html) | GAD3 <br> La Vanguardia | 19 | 13–22 | 13–23 | 13–25 | 11–28 |
-| [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 33 | 30–40 | 29–41 | 28–43 | 26–46 |
+| [11–13 February 2019](2019-02-13-Metroscopia.html) | Metroscopia <br> Henneo | 33 | 30–40 | 29–41 | 28–43 | 26–45 |
 | [1–8 February 2019](2019-02-08-SimpleLógica.html) | Simple Lógica | 32 | 27–41 | 25–43 | 24–45 | 21–50 |
 | [4–8 February 2019](2019-02-08-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 19 | 17–22 | 15–24 | 14–24 | 12–27 |
 | [28 January–1 February 2019](2019-02-01-Invymark.html) | Invymark <br> laSexta | 26 | 23–31 | 21–33 | 21–35 | 19–40 |
