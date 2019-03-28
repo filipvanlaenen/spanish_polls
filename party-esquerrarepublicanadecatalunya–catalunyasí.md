@@ -179,7 +179,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 11–20 | 10–20 | 10–20 | 9–21 |
-| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 14 | 11–18 | 10–19 | 10–20 | 9–21 |
+| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 14 | 12–17 | 10–18 | 10–19 | 9–21 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–13 | 10–13 | 10–14 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 15 | 14–17 | 13–19 | 13–20 | 10–20 |
@@ -337,16 +337,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 5% | 98.7% |  |
 | 11 | 16% | 94% |  |
 | 12 | 10% | 78% |  |
-| 13 | 8% | 67% |  |
-| 14 | 17% | 59% | Median |
-| 15 | 16% | 42% |  |
-| 16 | 5% | 27% |  |
+| 13 | 8% | 68% |  |
+| 14 | 19% | 60% | Median |
+| 15 | 15% | 41% |  |
+| 16 | 5% | 26% |  |
 | 17 | 3% | 21% |  |
 | 18 | 3% | 18% |  |
 | 19 | 3% | 15% |  |
 | 20 | 11% | 12% |  |
-| 21 | 1.3% | 1.4% |  |
-| 22 | 0.2% | 0.2% |  |
+| 21 | 1.2% | 1.4% |  |
+| 22 | 0.1% | 0.2% |  |
 | 23 | 0% | 0% |  |
 
 

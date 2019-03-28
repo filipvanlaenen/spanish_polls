@@ -194,7 +194,7 @@ Last result: **137** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 78 | 65–93 | 61–97 | 59–100 | 54–107 |
-| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 79 | 69–87 | 68–90 | 68–95 | 63–99 |
+| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 80 | 70–86 | 68–89 | 67–92 | 63–99 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 75 | 67–81 | 65–83 | 64–84 | 61–86 |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 83 | 80–85 | 79–86 | 78–86 | 74–88 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 78 | 68–85 | 68–86 | 67–88 | 65–91 |
@@ -357,7 +357,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 59 | 0.8% | 98% |  |
 | 60 | 1.1% | 97% |  |
 | 61 | 0.9% | 96% |  |
-| 62 | 1.0% | 95% |  |
+| 62 | 1.1% | 95% |  |
 | 63 | 2% | 94% |  |
 | 64 | 1.4% | 92% |  |
 | 65 | 6% | 90% |  |
@@ -365,21 +365,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 2% | 83% |  |
 | 68 | 2% | 81% |  |
 | 69 | 2% | 79% |  |
-| 70 | 3% | 77% |  |
-| 71 | 4% | 74% |  |
-| 72 | 2% | 71% |  |
+| 70 | 2% | 77% |  |
+| 71 | 4% | 75% |  |
+| 72 | 3% | 71% |  |
 | 73 | 2% | 68% |  |
 | 74 | 3% | 66% |  |
-| 75 | 4% | 63% |  |
+| 75 | 4% | 62% |  |
 | 76 | 4% | 59% |  |
 | 77 | 3% | 54% |  |
 | 78 | 3% | 52% | Median |
 | 79 | 3% | 49% |  |
-| 80 | 3% | 45% |  |
+| 80 | 3% | 46% |  |
 | 81 | 4% | 43% |  |
-| 82 | 4% | 39% |  |
+| 82 | 5% | 40% |  |
 | 83 | 3% | 35% |  |
-| 84 | 3% | 32% |  |
+| 84 | 3% | 31% |  |
 | 85 | 3% | 29% |  |
 | 86 | 3% | 26% |  |
 | 87 | 2% | 23% |  |
@@ -389,12 +389,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 91 | 2% | 14% |  |
 | 92 | 1.4% | 12% |  |
 | 93 | 1.0% | 10% |  |
-| 94 | 1.5% | 9% |  |
+| 94 | 2% | 9% |  |
 | 95 | 1.0% | 8% |  |
 | 96 | 1.3% | 7% |  |
-| 97 | 1.3% | 5% |  |
+| 97 | 1.2% | 5% |  |
 | 98 | 0.6% | 4% |  |
-| 99 | 0.6% | 4% |  |
+| 99 | 0.7% | 4% |  |
 | 100 | 0.5% | 3% |  |
 | 101 | 0.6% | 2% |  |
 | 102 | 0.3% | 2% |  |
