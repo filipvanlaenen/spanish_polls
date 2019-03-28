@@ -10,7 +10,9 @@ Last result: **1.2%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.9–1.6% | 0.8–1.8% | 0.7–1.9% | 0.6–2.2% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.9–1.6% | 0.8–1.8% | 0.7–1.9% | 0.5–2.3% |
+| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 1.2% | 0.9–1.8% | 0.7–2.0% | 0.7–2.2% | 0.5–2.5% |
+| [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.1–1.5% | 1.1–1.5% | 1.1–1.6% | 1.0–1.7% |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.0% | 0.7–2.3% |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
@@ -174,7 +176,9 @@ Last result: **5** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 3–8 | 3–9 | 3–10 |
+| N/A | [Poll Average](average.html) | 6 | 4–8 | 3–8 | 3–9 | 2–10 |
+| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 6 | 4–8 | 3–10 | 3–10 | 2–10 |
+| [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 6 | 4–7 | 3–9 | 3–9 | 3–10 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 6 | 5–8 | 4–9 | 3–10 | 3–11 |
@@ -327,15 +331,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
 | 2 | 0.4% | 99.9% |  |
-| 3 | 6% | 99.5% |  |
+| 3 | 6% | 99.4% |  |
 | 4 | 6% | 93% |  |
-| 5 | 3% | 87% | Last Result |
-| 6 | 60% | 84% | Median |
+| 5 | 4% | 87% | Last Result |
+| 6 | 59% | 83% | Median |
 | 7 | 13% | 24% |  |
-| 8 | 8% | 11% |  |
-| 9 | 1.5% | 3% |  |
-| 10 | 1.1% | 1.2% |  |
-| 11 | 0.1% | 0.1% |  |
+| 8 | 8% | 12% |  |
+| 9 | 1.2% | 3% |  |
+| 10 | 2% | 2% |  |
+| 11 | 0.1% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 
