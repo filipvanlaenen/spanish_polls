@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Thu, 28 Mar 2019 21:16:56 +0100</pubDate>
+    <pubDate>Sat, 30 Mar 2019 10:27:50 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Demoscopia y Servicios for OKDIARIO, 24–27 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-27-DemoscopiayServicios.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 18.8–23.5%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 25.2–30.3%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 12.9–17.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 14.9–19.2%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 1.4–3.1%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.8–2.2%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 1.0–2.4%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.6–1.8%&lt;/li&gt;&lt;li&gt;Vox: 9.5–13.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-27-DemoscopiayServicios.png"
+        length="240222"
+        type="image/png"/>
+      <pubDate>Sat, 30 Mar 2019 10:27:50 +0100</pubDate>
+      <dc:date>2019-03-30T10:27:50.16233+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 20–26 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-26-IMOP.html#seats</link>
@@ -2299,6 +2309,6 @@
       <pubDate>Thu, 21 Mar 2019 19:48:55 +0100</pubDate>
       <dc:date>2019-03-21T19:48:55.652918+01:00</dc:date>
     </item>
-    <dc:date>2019-03-28T21:16:56.461169+01:00</dc:date>
+    <dc:date>2019-03-30T10:27:50.16233+01:00</dc:date>
   </channel>
 </rss>
