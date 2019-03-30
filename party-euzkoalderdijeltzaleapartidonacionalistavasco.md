@@ -10,11 +10,12 @@ Last result: **1.2%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.7% | 0.8–1.9% | 0.7–2.1% | 0.6–2.4% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.7% | 0.8–1.9% | 0.7–2.0% | 0.6–2.4% |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 1.5% | 1.2–2.1% | 1.1–2.3% | 1.0–2.4% | 0.8–2.7% |
+| [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1.2% | 0.9–1.7% | 0.8–1.9% | 0.7–2.0% | 0.6–2.3% |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 1.2% | 0.9–1.8% | 0.7–2.0% | 0.7–2.2% | 0.5–2.5% |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
-| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.1–1.5% | 1.1–1.5% | 1.1–1.6% | 1.0–1.7% |
+| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.1–1.5% | 1.1–1.6% | 1.1–1.6% | 1.0–1.7% |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.0% | 0.7–2.3% |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 1.2% | 1.1–1.4% | 1.0–1.4% | 1.0–1.5% | 0.9–1.6% |
@@ -177,9 +178,10 @@ Last result: **5** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 3–8 | 3–9 | 2–10 |
-| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 7 | 6–8 | 5–10 | 4–10 | 3–10 |
-| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 6 | 3–7 | 3–9 | 3–10 | 2–10 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 3–8 | 3–8 | 3–10 |
+| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 7 | 7 | 7–8 | 3–10 | 3–10 |
+| [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 6 | 6 | 6 | 6 |
+| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 7 | 6–7 | 6–7 | 6–7 | 1–7 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 6 | 4–7 | 3–9 | 3–9 | 3–10 |
@@ -331,16 +333,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 0.4% | 99.9% |  |
-| 3 | 6% | 99.4% |  |
-| 4 | 6% | 93% |  |
-| 5 | 3% | 87% | Last Result |
-| 6 | 57% | 84% | Median |
-| 7 | 16% | 27% |  |
-| 8 | 8% | 11% |  |
-| 9 | 1.4% | 3% |  |
-| 10 | 2% | 2% |  |
+| 1 | 0.2% | 100% |  |
+| 2 | 0.3% | 99.8% |  |
+| 3 | 5% | 99.5% |  |
+| 4 | 4% | 95% |  |
+| 5 | 2% | 91% | Last Result |
+| 6 | 56% | 89% | Median |
+| 7 | 25% | 33% |  |
+| 8 | 6% | 8% |  |
+| 9 | 0.9% | 2% |  |
+| 10 | 1.1% | 1.2% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
