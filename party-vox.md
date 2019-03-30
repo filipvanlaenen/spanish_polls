@@ -191,8 +191,8 @@ Last result: **0** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 18–40 | 12–44 | 12–47 | 9–52 |
-| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 24 | 22–31 | 21–33 | 21–33 | 18–36 |
+| N/A | [Poll Average](average.html) | 28 | 18–40 | 12–44 | 12–47 | 9–52 |
+| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 27 | 23–33 | 21–33 | 21–34 | 20–37 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 29 | 18–33 | 17–34 | 15–36 | 13–38 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 30 | 26–34 | 26–36 | 24–38 | 23–41 |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 26 | 25–27 | 24–27 | 23–28 | 22–29 |
@@ -369,20 +369,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 3% | 84% |  |
 | 22 | 3% | 81% |  |
 | 23 | 4% | 78% |  |
-| 24 | 5% | 73% |  |
-| 25 | 3% | 68% |  |
-| 26 | 8% | 64% |  |
-| 27 | 7% | 57% | Median |
-| 28 | 4% | 49% |  |
+| 24 | 4% | 74% |  |
+| 25 | 4% | 70% |  |
+| 26 | 8% | 66% |  |
+| 27 | 8% | 58% |  |
+| 28 | 4% | 50% | Median |
 | 29 | 5% | 46% |  |
 | 30 | 5% | 41% |  |
-| 31 | 5% | 35% |  |
+| 31 | 5% | 36% |  |
 | 32 | 4% | 30% |  |
-| 33 | 4% | 26% |  |
-| 34 | 4% | 22% |  |
+| 33 | 4% | 27% |  |
+| 34 | 4% | 23% |  |
 | 35 | 2% | 18% |  |
 | 36 | 1.5% | 17% |  |
-| 37 | 1.3% | 15% |  |
+| 37 | 1.4% | 15% |  |
 | 38 | 0.9% | 14% |  |
 | 39 | 1.2% | 13% |  |
 | 40 | 2% | 12% |  |
