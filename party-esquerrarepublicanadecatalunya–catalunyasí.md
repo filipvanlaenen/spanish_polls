@@ -10,7 +10,8 @@ Last result: **2.7%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.4–4.6% | 2.3–4.9% | 2.2–5.1% | 2.0–5.5% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.3–4.5% | 2.1–4.9% | 1.9–5.1% | 1.5–5.5% |
+| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 2.1% | 1.7–2.8% | 1.5–3.0% | 1.4–3.1% | 1.2–3.5% |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 3.3% | 2.7–4.2% | 2.5–4.5% | 2.3–4.7% | 2.0–5.1% |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 0.0% | N/A | N/A | N/A | N/A |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 2.4% | 2.2–2.6% | 2.1–2.7% | 2.1–2.8% | 2.0–2.9% |
@@ -161,12 +162,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 20% | 100% |  |
-| 2.5–3.5% | 46% | 80% | Last Result, Median |
-| 3.5–4.5% | 23% | 34% |  |
-| 4.5–5.5% | 11% | 11% |  |
-| 5.5–6.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 0.6% | 100% |  |
+| 1.5–2.5% | 26% | 99.4% |  |
+| 2.5–3.5% | 43% | 74% | Last Result, Median |
+| 3.5–4.5% | 21% | 31% |  |
+| 4.5–5.5% | 9% | 10% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -178,7 +180,8 @@ Last result: **9** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–20 | 10–20 | 10–20 | 9–21 |
+| N/A | [Poll Average](average.html) | 14 | 10–20 | 8–20 | 8–20 | 7–21 |
+| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 8 | 8–12 | 7–12 | 7–13 | 6–15 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 14 | 12–17 | 10–18 | 10–19 | 9–21 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–13 | 10–13 | 10–14 |
@@ -331,22 +334,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.1% | 100% |  |
-| 8 | 0.1% | 99.9% |  |
-| 9 | 1.1% | 99.8% | Last Result |
-| 10 | 5% | 98.7% |  |
-| 11 | 16% | 94% |  |
-| 12 | 10% | 78% |  |
-| 13 | 8% | 68% |  |
-| 14 | 19% | 60% | Median |
-| 15 | 15% | 41% |  |
-| 16 | 5% | 26% |  |
-| 17 | 3% | 21% |  |
-| 18 | 3% | 18% |  |
-| 19 | 3% | 15% |  |
-| 20 | 11% | 12% |  |
-| 21 | 1.2% | 1.4% |  |
-| 22 | 0.1% | 0.2% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 0.7% | 99.8% |  |
+| 8 | 5% | 99.2% |  |
+| 9 | 3% | 94% | Last Result |
+| 10 | 5% | 91% |  |
+| 11 | 15% | 86% |  |
+| 12 | 11% | 71% |  |
+| 13 | 7% | 60% |  |
+| 14 | 17% | 53% | Median |
+| 15 | 13% | 36% |  |
+| 16 | 4% | 23% |  |
+| 17 | 3% | 19% |  |
+| 18 | 2% | 16% |  |
+| 19 | 3% | 13% |  |
+| 20 | 9% | 11% |  |
+| 21 | 1.1% | 1.2% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 
