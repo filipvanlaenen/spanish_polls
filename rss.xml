@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Sat, 30 Mar 2019 10:27:50 +0100</pubDate>
+    <pubDate>Sat, 30 Mar 2019 11:40:18 +0100</pubDate>
     <item>
       <title>Opinion Poll by Demoscopia y Servicios for OKDIARIO, 24–27 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-27-DemoscopiayServicios.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-27-DemoscopiayServicios.png"
         length="240222"
         type="image/png"/>
-      <pubDate>Sat, 30 Mar 2019 10:27:50 +0100</pubDate>
-      <dc:date>2019-03-30T10:27:50.16233+01:00</dc:date>
+      <pubDate>Sat, 30 Mar 2019 11:40:18 +0100</pubDate>
+      <dc:date>2019-03-30T11:40:18.005527+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 20–26 March 2019 – Seat Projections for the Parties</title>
@@ -2309,6 +2309,6 @@
       <pubDate>Thu, 21 Mar 2019 19:48:55 +0100</pubDate>
       <dc:date>2019-03-21T19:48:55.652918+01:00</dc:date>
     </item>
-    <dc:date>2019-03-30T10:27:50.16233+01:00</dc:date>
+    <dc:date>2019-03-30T11:40:18.005527+01:00</dc:date>
   </channel>
 </rss>
