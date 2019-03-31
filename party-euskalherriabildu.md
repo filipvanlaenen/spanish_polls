@@ -25,7 +25,7 @@ Last result: **0.8%** (General Election of 26 June 2016)
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.0% | N/A | N/A | N/A | N/A |
-| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 0.8% | 0.7–1.0% | 0.6–1.0% | 0.6–1.0% | 0.5–1.1% |
+| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 0.8% | 0.6–1.0% | 0.6–1.0% | 0.6–1.1% | 0.5–1.1% |
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 0.9% | 0.6–1.3% | 0.6–1.4% | 0.5–1.5% | 0.4–1.7% |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
@@ -178,7 +178,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 1–6 | 1–7 | 1–7 | 0–7 |
-| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 6 | 2–6 | 1–6 | 1–7 | 1–7 |
+| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 5 | 2–6 | 2–7 | 2–7 | 1–9 |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 4 | 4 | 4 | 4 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 6 | 5–6 | 5–7 | 4–7 | 3–7 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
@@ -334,14 +334,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.3% | 100% |  |
 | 1 | 10% | 98.7% |  |
-| 2 | 19% | 88% | Last Result |
-| 3 | 0.8% | 70% |  |
-| 4 | 15% | 69% |  |
-| 5 | 24% | 54% | Median |
-| 6 | 24% | 29% |  |
-| 7 | 5% | 5% |  |
-| 8 | 0.1% | 0.2% |  |
-| 9 | 0.1% | 0.2% |  |
+| 2 | 20% | 89% | Last Result |
+| 3 | 2% | 69% |  |
+| 4 | 17% | 67% |  |
+| 5 | 26% | 50% | Median |
+| 6 | 19% | 25% |  |
+| 7 | 5% | 6% |  |
+| 8 | 0.2% | 0.4% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
 
