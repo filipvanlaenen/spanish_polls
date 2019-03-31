@@ -189,8 +189,8 @@ Last result: **85** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 120 | 105–137 | 105–146 | 103–148 | 95–152 |
-| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 116 | 106–122 | 105–126 | 103–129 | 101–133 |
+| N/A | [Poll Average](average.html) | 121 | 105–137 | 105–146 | 102–148 | 95–152 |
+| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 116 | 108–121 | 106–125 | 105–128 | 99–134 |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 105 | 105 | 105 | 105 | 105 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 136 | 136–148 | 136–148 | 134–148 | 122–148 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 133 | 117–137 | 114–137 | 114–137 | 112–137 |
@@ -204,11 +204,11 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 107 | 97–115 | 94–117 | 90–119 | 88–124 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 143 | 134–151 | 131–153 | 128–155 | 122–159 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 106 | 96–113 | 93–115 | 91–117 | 88–121 |
-| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 120 | 114–126 | 113–126 | 112–127 | 110–127 |
+| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 120 | 117–120 | 117–120 | 117–120 | 116–120 |
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 120 | 114–126 | 112–129 | 109–132 | 105–135 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 106 | 96–113 | 94–115 | 93–117 | 90–120 |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 132 | 123–142 | 119–143 | 116–145 | 113–152 |
-| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 119 | 113–124 | 110–126 | 108–126 | 107–127 |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 109 | 103–117 | 103–119 | 103–119 | 103–119 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 117 | 108–125 | 107–128 | 105–131 | 97–136 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 122 | 109–131 | 106–136 | 104–137 | 100–142 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 122 | 114–129 | 112–132 | 109–133 | 105–137 |
@@ -362,37 +362,37 @@ The following table shows the probability mass function per seat for the [poll a
 | 100 | 0.3% | 98% |  |
 | 101 | 0.3% | 98% |  |
 | 102 | 0.4% | 98% |  |
-| 103 | 0.7% | 98% |  |
-| 104 | 0.7% | 97% |  |
+| 103 | 0.6% | 97% |  |
+| 104 | 0.6% | 97% |  |
 | 105 | 7% | 96% |  |
-| 106 | 1.0% | 89% |  |
+| 106 | 0.9% | 89% |  |
 | 107 | 0.7% | 88% |  |
-| 108 | 1.2% | 87% |  |
-| 109 | 1.0% | 86% |  |
-| 110 | 1.3% | 85% |  |
-| 111 | 1.1% | 83% |  |
+| 108 | 1.0% | 87% |  |
+| 109 | 1.1% | 86% |  |
+| 110 | 2% | 85% |  |
+| 111 | 2% | 84% |  |
 | 112 | 2% | 82% |  |
-| 113 | 4% | 80% |  |
+| 113 | 5% | 80% |  |
 | 114 | 3% | 75% |  |
-| 115 | 1.3% | 73% |  |
-| 116 | 4% | 72% |  |
-| 117 | 3% | 67% |  |
+| 115 | 2% | 73% |  |
+| 116 | 2% | 71% |  |
+| 117 | 3% | 69% |  |
 | 118 | 6% | 65% |  |
 | 119 | 5% | 59% |  |
-| 120 | 4% | 53% | Median |
-| 121 | 2% | 49% |  |
+| 120 | 4% | 54% |  |
+| 121 | 3% | 50% | Median |
 | 122 | 2% | 47% |  |
 | 123 | 2% | 45% |  |
-| 124 | 2% | 42% |  |
+| 124 | 1.5% | 42% |  |
 | 125 | 1.0% | 41% |  |
 | 126 | 2% | 40% |  |
 | 127 | 3% | 38% |  |
 | 128 | 0.6% | 35% |  |
 | 129 | 0.8% | 34% |  |
-| 130 | 1.3% | 34% |  |
+| 130 | 1.3% | 33% |  |
 | 131 | 0.7% | 32% |  |
-| 132 | 8% | 31% |  |
-| 133 | 1.1% | 24% |  |
+| 132 | 8% | 32% |  |
+| 133 | 1.0% | 24% |  |
 | 134 | 2% | 23% |  |
 | 135 | 6% | 21% |  |
 | 136 | 5% | 16% |  |
