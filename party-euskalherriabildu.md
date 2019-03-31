@@ -182,17 +182,17 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–6 | 1–7 | 1–7 | 0–7 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 5 | 3–7 | 3–7 | 2–7 | 1–9 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
-| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
+| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 4 | 3–5 | 3–5 | 2–5 | 2–6 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 5 | 2–6 | 2–7 | 2–7 | 1–9 |
-| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 2 | 1–6 | 1–6 | 1–7 | 0–7 |
+| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 2 | 1–5 | 1–6 | 1–7 | 0–7 |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 2 | 1–2 | 1–3 | 1–4 | 1–4 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 2 | 1–7 | 1–7 | 1–7 | 1–7 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País |  |  |  |  |  |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 4 | 2–4 | 2–4 | 1–4 | 1–5 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 2 | 1–4 | 0–6 | 0–6 | 0–7 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
-| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 2–7 | 2–7 | 2–7 | 1–7 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 2 | 1–4 | 0–5 | 0–6 | 0–7 |
@@ -332,14 +332,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% |  |
-| 1 | 12% | 99.5% |  |
+| 0 | 0.4% | 100% |  |
+| 1 | 13% | 99.6% |  |
 | 2 | 24% | 87% | Last Result |
-| 3 | 8% | 63% |  |
-| 4 | 15% | 55% | Median |
-| 5 | 21% | 40% |  |
-| 6 | 11% | 19% |  |
-| 7 | 8% | 8% |  |
+| 3 | 7% | 63% |  |
+| 4 | 19% | 56% | Median |
+| 5 | 19% | 37% |  |
+| 6 | 10% | 18% |  |
+| 7 | 7% | 8% |  |
 | 8 | 0.2% | 0.4% |  |
 | 9 | 0.1% | 0.2% |  |
 | 10 | 0% | 0% |  |
