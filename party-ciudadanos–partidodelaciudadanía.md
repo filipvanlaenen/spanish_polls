@@ -188,18 +188,18 @@ Last result: **32** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 56 | 40–66 | 39–69 | 38–71 | 32–77 |
+| N/A | [Poll Average](average.html) | 56 | 40–66 | 38–69 | 38–71 | 33–77 |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 56 | 50–63 | 50–65 | 48–66 | 44–68 |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 60 | 52–62 | 49–63 | 49–66 | 44–68 |
-| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 49 | 42–53 | 40–56 | 38–56 | 35–60 |
-| [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 54 | 50–59 | 50–61 | 48–61 | 46–61 |
+| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 49 | 42–53 | 39–55 | 38–56 | 36–60 |
+| [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 52 | 50–59 | 49–61 | 48–61 | 45–64 |
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 59 | 53–60 | 52–62 | 52–62 | 52–62 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 46 | 39–51 | 38–52 | 37–52 | 33–58 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 57 | 48–64 | 48–66 | 48–68 | 41–72 |
-| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 39 | 38–39 | 34–39 | 34–39 | 32–42 |
+| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 38 | 38–40 | 37–41 | 35–41 | 31–44 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 43 | 34–48 | 32–51 | 31–54 | 25–56 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 64 | 58–67 | 55–68 | 53–69 | 51–73 |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 49 | 47–49 | 47–49 | 47–49 | 47–49 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 49 | 48–51 | 47–51 | 47–52 | 45–54 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 60 | 53–65 | 51–67 | 50–69 | 46–72 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 57 | 52–65 | 50–66 | 49–68 | 47–71 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 61 | 55–67 | 53–69 | 52–70 | 50–73 |
@@ -348,36 +348,36 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 0% | 99.9% |  |
 | 28 | 0% | 99.9% |  |
 | 29 | 0% | 99.9% |  |
-| 30 | 0.1% | 99.9% |  |
-| 31 | 0.1% | 99.8% |  |
-| 32 | 0.2% | 99.6% | Last Result |
-| 33 | 0.3% | 99.5% |  |
-| 34 | 0.5% | 99.2% |  |
-| 35 | 0.3% | 98.7% |  |
-| 36 | 0.3% | 98% |  |
+| 30 | 0.1% | 99.8% |  |
+| 31 | 0.2% | 99.8% |  |
+| 32 | 0.1% | 99.6% | Last Result |
+| 33 | 0.4% | 99.5% |  |
+| 34 | 0.2% | 99.1% |  |
+| 35 | 0.3% | 99.0% |  |
+| 36 | 0.4% | 98.6% |  |
 | 37 | 0.4% | 98% |  |
-| 38 | 0.9% | 98% |  |
-| 39 | 7% | 97% |  |
-| 40 | 1.0% | 90% |  |
-| 41 | 1.0% | 89% |  |
-| 42 | 0.8% | 88% |  |
-| 43 | 0.7% | 88% |  |
-| 44 | 2% | 87% |  |
+| 38 | 6% | 98% |  |
+| 39 | 1.1% | 92% |  |
+| 40 | 1.5% | 91% |  |
+| 41 | 1.3% | 90% |  |
+| 42 | 1.2% | 88% |  |
+| 43 | 0.7% | 87% |  |
+| 44 | 2% | 86% |  |
 | 45 | 2% | 85% |  |
-| 46 | 2% | 83% |  |
+| 46 | 1.5% | 83% |  |
 | 47 | 2% | 81% |  |
-| 48 | 3% | 80% |  |
+| 48 | 2% | 80% |  |
 | 49 | 2% | 77% |  |
-| 50 | 5% | 76% |  |
-| 51 | 2% | 71% |  |
-| 52 | 4% | 69% |  |
-| 53 | 6% | 65% |  |
-| 54 | 4% | 59% |  |
+| 50 | 5% | 75% |  |
+| 51 | 3% | 71% |  |
+| 52 | 3% | 67% |  |
+| 53 | 6% | 64% |  |
+| 54 | 3% | 59% |  |
 | 55 | 3% | 55% |  |
 | 56 | 4% | 53% | Median |
 | 57 | 3% | 49% |  |
 | 58 | 3% | 46% |  |
-| 59 | 3% | 43% |  |
+| 59 | 3% | 42% |  |
 | 60 | 8% | 39% |  |
 | 61 | 3% | 31% |  |
 | 62 | 4% | 28% |  |
