@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Sun, 31 Mar 2019 15:43:16 +0200</pubDate>
+    <pubDate>Sun, 31 Mar 2019 17:29:49 +0200</pubDate>
     <item>
       <title>Opinion Poll by Demoscopia y Servicios for OKDIARIO, 24–27 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-27-DemoscopiayServicios.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2019-03-31T14:51:29.319296+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 20–26 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-26-IMOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 67–89 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 124–147 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 25–39 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 38–56 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 11–17 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 2–8 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 3–8 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 2–7 seats&lt;/li&gt;&lt;li&gt;Vox: 17–30 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-26-IMOP-seats.png"
+        length="217697"
+        type="image/png"/>
+      <pubDate>Sun, 31 Mar 2019 16:50:45 +0200</pubDate>
+      <dc:date>2019-03-31T16:50:45.538343+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 20–26 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-26-IMOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-26-IMOP-coalitions-seats.png"
+        length="471795"
+        type="image/png"/>
+      <pubDate>Sun, 31 Mar 2019 16:50:45 +0200</pubDate>
+      <dc:date>2019-03-31T16:50:45.538343+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IMOP for El Confidencial, 20–26 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-26-IMOP.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 18.0–22.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 28.6–33.5%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 11.0–14.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 13.2–16.9%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.5–4.4%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.8–2.0%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.8–1.9%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 1.4–2.9%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.6–1.8%&lt;/li&gt;&lt;li&gt;Vox: 8.6–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-26-IMOP.png"
         length="245924"
         type="image/png"/>
-      <pubDate>Sun, 31 Mar 2019 15:43:16 +0200</pubDate>
-      <dc:date>2019-03-31T15:43:16.121315+02:00</dc:date>
+      <pubDate>Sun, 31 Mar 2019 16:50:45 +0200</pubDate>
+      <dc:date>2019-03-31T16:50:45.538343+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metroscopia for Henneo, 18–25 March 2019 – Voting Intentions</title>
@@ -86,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-25-Metroscopia.png"
         length="165965"
         type="image/png"/>
-      <pubDate>Sat, 30 Mar 2019 20:23:11 +0100</pubDate>
-      <dc:date>2019-03-30T20:23:11.047924+01:00</dc:date>
+      <pubDate>Sun, 31 Mar 2019 17:20:49 +0200</pubDate>
+      <dc:date>2019-03-31T17:20:49.605373+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–24 March 2019 – Voting Intentions</title>
@@ -146,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-22-GAD3.png"
         length="212121"
         type="image/png"/>
-      <pubDate>Sat, 30 Mar 2019 17:20:30 +0100</pubDate>
-      <dc:date>2019-03-30T17:20:30.91366+01:00</dc:date>
+      <pubDate>Sun, 31 Mar 2019 17:21:09 +0200</pubDate>
+      <dc:date>2019-03-31T17:21:09.505932+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sondaxe for La Voz de Galicia, 15–20 March 2019 – Seat Projections for the Parties</title>
@@ -216,8 +236,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-17-electoPanel.png"
         length="230050"
         type="image/png"/>
-      <pubDate>Sun, 31 Mar 2019 14:10:21 +0200</pubDate>
-      <dc:date>2019-03-31T14:10:21.610982+02:00</dc:date>
+      <pubDate>Sun, 31 Mar 2019 17:29:49 +0200</pubDate>
+      <dc:date>2019-03-31T17:29:49.516203+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 11–15 March 2019 – Seat Projections for the Parties</title>
@@ -2199,6 +2219,6 @@
       <pubDate>Thu, 21 Mar 2019 19:48:55 +0100</pubDate>
       <dc:date>2019-03-21T19:48:55.652918+01:00</dc:date>
     </item>
-    <dc:date>2019-03-31T15:43:16.121315+02:00</dc:date>
+    <dc:date>2019-03-31T17:29:49.516203+02:00</dc:date>
   </channel>
 </rss>
