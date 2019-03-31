@@ -32,17 +32,17 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-socialista-obrero-español">Partido Socialista Obrero Español</a> | 85 | 116 | 116 |116 |116 |116 |
-| <a href="#partido-popular">Partido Popular</a> | 137 | 83 | 83 |83 |83 |83 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía">Ciudadanos–Partido de la Ciudadanía</a> | 32 | 53 | 53 |53 |53 |53 |
-| <a href="#unidos-podemos">Unidos Podemos</a> | 71 | 37 | 37 |37 |37 |37 |
-| <a href="#vox">Vox</a> | 0 | 33 | 33 |33 |33 |33 |
+| <a href="#partido-socialista-obrero-español">Partido Socialista Obrero Español</a> | 85 | 122 | 119–122 |119–122 |119–122 |119–122 |
+| <a href="#partido-popular">Partido Popular</a> | 137 | 83 | 83–86 |83–86 |83–86 |83–86 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía">Ciudadanos–Partido de la Ciudadanía</a> | 32 | 49 | 47–49 |47–49 |47–49 |47–49 |
+| <a href="#unidos-podemos">Unidos Podemos</a> | 71 | 36 | 35–36 |35–36 |35–36 |35–36 |
+| <a href="#vox">Vox</a> | 0 | 30 | 30–35 |30–35 |30–35 |30–35 |
 | <a href="#esquerra-republicana-de-catalunya–catalunya-sí">Esquerra Republicana de Catalunya–Catalunya Sí</a> | 9 | 15 | 15 |15 |15 |15 |
-| <a href="#partit-demòcrata-europeu-català">Partit Demòcrata Europeu Català</a> | 8 | 4 | 4 |4 |4 |4 |
-| <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco</a> | 5 | 6 | 6 |6 |6 |6 |
+| <a href="#partit-demòcrata-europeu-català">Partit Demòcrata Europeu Català</a> | 8 | 5 | 4–5 |4–5 |4–5 |4–5 |
+| <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco</a> | 5 | 8 | 5–8 |5–8 |5–8 |5–8 |
 | <a href="#partido-animalista-contra-el-maltrato-animal">Partido Animalista Contra el Maltrato Animal</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#euskal-herria-bildu">Euskal Herria Bildu</a> | 2 | 3 | 3 |3 |3 |3 |
-| <a href="#coalición-canaria–partido-nacionalista-canario">Coalición Canaria–Partido Nacionalista Canario</a> | 1 | 0 | 0 |0 |0 |0 |
+| <a href="#euskal-herria-bildu">Euskal Herria Bildu</a> | 2 | 2 | 2–3 |2–3 |2–3 |2–3 |
+| <a href="#coalición-canaria–partido-nacionalista-canario">Coalición Canaria–Partido Nacionalista Canario</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 
 ### Partido Socialista Obrero Español
 
@@ -83,7 +83,14 @@
 | 113 | 0% | 100% |  |
 | 114 | 0% | 100% |  |
 | 115 | 0% | 100% |  |
-| 116 | 100% | 100% | Median |
+| 116 | 0% | 100% |  |
+| 117 | 0% | 99.9% |  |
+| 118 | 0% | 99.9% |  |
+| 119 | 43% | 99.9% |  |
+| 120 | 0% | 57% |  |
+| 121 | 0% | 57% |  |
+| 122 | 57% | 57% | Median |
+| 123 | 0% | 0% |  |
 
 ### Partido Popular
 
@@ -93,11 +100,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 83 | 100% | 100% | Median |
-| 84 | 0% | 0% |  |
-| 85 | 0% | 0% |  |
-| 86 | 0% | 0% |  |
-| 87 | 0% | 0% |  |
+| 83 | 57% | 100% | Median |
+| 84 | 0% | 43% |  |
+| 85 | 0% | 43% |  |
+| 86 | 43% | 43% |  |
+| 87 | 0% | 0.1% |  |
 | 88 | 0% | 0% |  |
 | 89 | 0% | 0% |  |
 | 90 | 0% | 0% |  |
@@ -172,13 +179,10 @@
 | 44 | 0% | 100% |  |
 | 45 | 0% | 100% |  |
 | 46 | 0% | 100% |  |
-| 47 | 0% | 100% |  |
-| 48 | 0% | 100% |  |
-| 49 | 0% | 100% |  |
-| 50 | 0% | 100% |  |
-| 51 | 0% | 100% |  |
-| 52 | 0% | 100% |  |
-| 53 | 100% | 100% | Median |
+| 47 | 43% | 100% |  |
+| 48 | 0% | 57% |  |
+| 49 | 57% | 57% | Median |
+| 50 | 0% | 0% |  |
 
 ### Unidos Podemos
 
@@ -188,7 +192,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 37 | 100% | 100% | Median |
+| 35 | 43% | 100% |  |
+| 36 | 57% | 57% | Median |
+| 37 | 0% | 0.1% |  |
 | 38 | 0% | 0% |  |
 | 39 | 0% | 0% |  |
 | 40 | 0% | 0% |  |
@@ -262,10 +268,13 @@
 | 27 | 0% | 100% |  |
 | 28 | 0% | 100% |  |
 | 29 | 0% | 100% |  |
-| 30 | 0% | 100% |  |
-| 31 | 0% | 100% |  |
-| 32 | 0% | 100% |  |
-| 33 | 100% | 100% | Median |
+| 30 | 57% | 100% | Median |
+| 31 | 0% | 43% |  |
+| 32 | 0% | 43% |  |
+| 33 | 0.1% | 43% |  |
+| 34 | 0% | 43% |  |
+| 35 | 43% | 43% |  |
+| 36 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí
 
@@ -281,7 +290,7 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 100% | 100% | Median |
+| 15 | 99.9% | 100% | Median |
 
 ### Partit Demòcrata Europeu Català
 
@@ -291,8 +300,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 100% | 100% | Median |
-| 5 | 0% | 0% |  |
+| 4 | 43% | 100% |  |
+| 5 | 57% | 57% | Median |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% | Last Result |
@@ -305,8 +314,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0% | 100% | Last Result |
-| 6 | 100% | 100% | Median |
+| 5 | 43% | 100% | Last Result |
+| 6 | 0.1% | 57% |  |
+| 7 | 0% | 57% |  |
+| 8 | 57% | 57% | Median |
+| 9 | 0% | 0% |  |
 
 ### Partido Animalista Contra el Maltrato Animal
 
@@ -326,8 +338,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0% | 100% | Last Result |
-| 3 | 100% | 100% | Median |
+| 1 | 0.1% | 100% |  |
+| 2 | 57% | 99.9% | Last Result, Median |
+| 3 | 43% | 43% |  |
+| 4 | 0% | 0% |  |
 
 ### Coalición Canaria–Partido Nacionalista Canario
 
@@ -337,8 +351,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% | Last Result |
+| 0 | 57% | 100% | Median |
+| 1 | 43% | 43% | Last Result |
+| 2 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -349,23 +364,23 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Socialista Obrero Español – Partido Popular – Ciudadanos–Partido de la Ciudadanía | 254 | 252 | 100% | 252 | 252 | 252 | 252 |
-| Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía – Unidos Podemos | 188 | 206 | 100% | 206 | 206 | 206 | 206 |
-| Partido Socialista Obrero Español – Partido Popular | 222 | 199 | 100% | 199 | 199 | 199 | 199 |
-| Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco – Partit Demòcrata Europeu Català – Euskal Herria Bildu | 180 | 181 | 100% | 181 | 181 | 181 | 181 |
-| Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català | 173 | 172 | 0% | 172 | 172 | 172 | 172 |
-| Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Euskal Herria Bildu | 167 | 171 | 0% | 171 | 171 | 171 | 171 |
-| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Vox | 169 | 169 | 0% | 169 | 169 | 169 | 169 |
-| Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía | 117 | 169 | 0% | 169 | 169 | 169 | 169 |
-| Partido Socialista Obrero Español – Unidos Podemos – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco – Euskal Herria Bildu | 163 | 162 | 0% | 162 | 162 | 162 | 162 |
-| Partido Socialista Obrero Español – Unidos Podemos – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | 161 | 159 | 0% | 159 | 159 | 159 | 159 |
-| Partido Socialista Obrero Español – Unidos Podemos | 156 | 153 | 0% | 153 | 153 | 153 | 153 |
-| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | 174 | 142 | 0% | 142 | 142 | 142 | 142 |
-| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Coalición Canaria–Partido Nacionalista Canario | 170 | 136 | 0% | 136 | 136 | 136 | 136 |
-| Partido Popular – Ciudadanos–Partido de la Ciudadanía | 169 | 136 | 0% | 136 | 136 | 136 | 136 |
-| Partido Popular – Vox | 137 | 116 | 0% | 116 | 116 | 116 | 116 |
-| Partido Socialista Obrero Español | 85 | 116 | 0% | 116 | 116 | 116 | 116 |
-| Partido Popular | 137 | 83 | 0% | 83 | 83 | 83 | 83 |
+| Partido Socialista Obrero Español – Partido Popular – Ciudadanos–Partido de la Ciudadanía | 254 | 254 | 100% | 252–254 | 252–254 | 252–254 | 252–254 |
+| Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía – Unidos Podemos | 188 | 207 | 100% | 201–207 | 201–207 | 201–207 | 201–207 |
+| Partido Socialista Obrero Español – Partido Popular | 222 | 205 | 100% | 205 | 205 | 205 | 205 |
+| Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco – Partit Demòcrata Europeu Català – Euskal Herria Bildu | 180 | 188 | 100% | 181–188 | 181–188 | 181–188 | 181–188 |
+| Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català | 173 | 178 | 57% | 173–178 | 173–178 | 173–178 | 173–178 |
+| Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Euskal Herria Bildu | 167 | 175 | 0% | 172–175 | 172–175 | 172–175 | 172–175 |
+| Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía | 117 | 171 | 0% | 166–171 | 166–171 | 166–171 | 166–171 |
+| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Vox | 169 | 162 | 0% | 162–168 | 162–168 | 162–168 | 162–168 |
+| Partido Socialista Obrero Español – Unidos Podemos – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco – Euskal Herria Bildu | 163 | 168 | 0% | 162–168 | 162–168 | 162–168 | 162–168 |
+| Partido Socialista Obrero Español – Unidos Podemos – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | 161 | 166 | 0% | 159–166 | 159–166 | 159–166 | 159–166 |
+| Partido Socialista Obrero Español – Unidos Podemos | 156 | 158 | 0% | 154–158 | 154–158 | 154–158 | 154–158 |
+| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | 174 | 140 | 0% | 138–140 | 138–140 | 138–140 | 138–140 |
+| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Coalición Canaria–Partido Nacionalista Canario | 170 | 132 | 0% | 132–134 | 132–134 | 132–134 | 132–134 |
+| Partido Popular – Ciudadanos–Partido de la Ciudadanía | 169 | 132 | 0% | 132–133 | 132–133 | 132–133 | 132–133 |
+| Partido Socialista Obrero Español | 85 | 122 | 0% | 119–122 | 119–122 | 119–122 | 119–122 |
+| Partido Popular – Vox | 137 | 113 | 0% | 113–121 | 113–121 | 113–121 | 113–121 |
+| Partido Popular | 137 | 83 | 0% | 83–86 | 83–86 | 83–86 | 83–86 |
 
 ### Partido Socialista Obrero Español – Partido Popular – Ciudadanos–Partido de la Ciudadanía
 
@@ -373,9 +388,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 252 | 100% | 100% | Median |
-| 253 | 0% | 0% |  |
-| 254 | 0% | 0% | Last Result |
+| 252 | 43% | 100% |  |
+| 253 | 0% | 57% |  |
+| 254 | 57% | 57% | Last Result, Median |
+| 255 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía – Unidos Podemos
 
@@ -396,12 +412,14 @@
 | 198 | 0% | 100% |  |
 | 199 | 0% | 100% |  |
 | 200 | 0% | 100% |  |
-| 201 | 0% | 100% |  |
-| 202 | 0% | 100% |  |
-| 203 | 0% | 100% |  |
-| 204 | 0% | 100% |  |
-| 205 | 0% | 100% |  |
-| 206 | 100% | 100% | Median |
+| 201 | 43% | 100% |  |
+| 202 | 0% | 57% |  |
+| 203 | 0% | 57% |  |
+| 204 | 0% | 57% |  |
+| 205 | 0% | 57% |  |
+| 206 | 0% | 57% |  |
+| 207 | 57% | 57% | Median |
+| 208 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español – Partido Popular
 
@@ -409,13 +427,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 199 | 100% | 100% | Median |
-| 200 | 0% | 0% |  |
-| 201 | 0% | 0% |  |
-| 202 | 0% | 0% |  |
-| 203 | 0% | 0% |  |
-| 204 | 0% | 0% |  |
-| 205 | 0% | 0% |  |
+| 201 | 0% | 100% |  |
+| 202 | 0% | 99.9% |  |
+| 203 | 0% | 99.9% |  |
+| 204 | 0% | 99.9% |  |
+| 205 | 99.9% | 99.9% | Median |
 | 206 | 0% | 0% |  |
 | 207 | 0% | 0% |  |
 | 208 | 0% | 0% |  |
@@ -441,7 +457,15 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 180 | 0% | 100% | Last Result |
-| 181 | 100% | 100% | Median |
+| 181 | 43% | 100% |  |
+| 182 | 0% | 57% |  |
+| 183 | 0% | 57% |  |
+| 184 | 0% | 57% |  |
+| 185 | 0% | 57% |  |
+| 186 | 0% | 57% |  |
+| 187 | 0% | 57% |  |
+| 188 | 57% | 57% | Median |
+| 189 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català
 
@@ -449,8 +473,15 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 172 | 100% | 100% | Median |
-| 173 | 0% | 0% | Last Result |
+| 171 | 0% | 100% |  |
+| 172 | 0% | 99.9% |  |
+| 173 | 43% | 99.9% | Last Result |
+| 174 | 0% | 57% |  |
+| 175 | 0% | 57% |  |
+| 176 | 0% | 57% | Majority |
+| 177 | 0% | 57% |  |
+| 178 | 57% | 57% | Median |
+| 179 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Euskal Herria Bildu
 
@@ -461,16 +492,13 @@
 | 167 | 0% | 100% | Last Result |
 | 168 | 0% | 100% |  |
 | 169 | 0% | 100% |  |
-| 170 | 0% | 100% |  |
-| 171 | 100% | 100% | Median |
-
-### Partido Popular – Ciudadanos–Partido de la Ciudadanía – Vox
-
-![Graph with seats probability mass function not yet produced](2019-03-17-electoPanel-coalitions-seats-pmf-pp–cs–vox.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 169 | 100% | 100% | Last Result, Median |
+| 170 | 0% | 99.9% |  |
+| 171 | 0% | 99.9% |  |
+| 172 | 43% | 99.9% |  |
+| 173 | 0% | 57% |  |
+| 174 | 0% | 57% |  |
+| 175 | 57% | 57% | Median |
+| 176 | 0% | 0% | Majority |
 
 ### Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía
 
@@ -527,10 +555,29 @@
 | 163 | 0% | 100% |  |
 | 164 | 0% | 100% |  |
 | 165 | 0% | 100% |  |
-| 166 | 0% | 100% |  |
-| 167 | 0% | 100% |  |
-| 168 | 0% | 100% |  |
-| 169 | 100% | 100% | Median |
+| 166 | 43% | 99.9% |  |
+| 167 | 0% | 57% |  |
+| 168 | 0% | 57% |  |
+| 169 | 0% | 57% |  |
+| 170 | 0% | 57% |  |
+| 171 | 57% | 57% | Median |
+| 172 | 0% | 0% |  |
+
+### Partido Popular – Ciudadanos–Partido de la Ciudadanía – Vox
+
+![Graph with seats probability mass function not yet produced](2019-03-17-electoPanel-coalitions-seats-pmf-pp–cs–vox.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 162 | 57% | 100% | Median |
+| 163 | 0% | 43% |  |
+| 164 | 0% | 43% |  |
+| 165 | 0% | 43% |  |
+| 166 | 0% | 43% |  |
+| 167 | 0% | 43% |  |
+| 168 | 43% | 43% |  |
+| 169 | 0% | 0.1% | Last Result |
+| 170 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español – Unidos Podemos – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco – Euskal Herria Bildu
 
@@ -538,8 +585,15 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 162 | 100% | 100% | Median |
-| 163 | 0% | 0% | Last Result |
+| 161 | 0% | 100% |  |
+| 162 | 43% | 99.9% |  |
+| 163 | 0% | 57% | Last Result |
+| 164 | 0% | 57% |  |
+| 165 | 0% | 57% |  |
+| 166 | 0% | 57% |  |
+| 167 | 0% | 57% |  |
+| 168 | 57% | 57% | Median |
+| 169 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español – Unidos Podemos – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco
 
@@ -547,9 +601,16 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 159 | 100% | 100% | Median |
-| 160 | 0% | 0% |  |
-| 161 | 0% | 0% | Last Result |
+| 158 | 0% | 100% |  |
+| 159 | 43% | 99.9% |  |
+| 160 | 0% | 57% |  |
+| 161 | 0% | 57% | Last Result |
+| 162 | 0% | 57% |  |
+| 163 | 0% | 57% |  |
+| 164 | 0% | 57% |  |
+| 165 | 0% | 57% |  |
+| 166 | 57% | 57% | Median |
+| 167 | 0% | 0% |  |
 
 ### Partido Socialista Obrero Español – Unidos Podemos
 
@@ -557,10 +618,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 153 | 100% | 100% | Median |
-| 154 | 0% | 0% |  |
-| 155 | 0% | 0% |  |
-| 156 | 0% | 0% | Last Result |
+| 152 | 0% | 100% |  |
+| 153 | 0% | 99.9% |  |
+| 154 | 43% | 99.9% |  |
+| 155 | 0% | 57% |  |
+| 156 | 0% | 57% | Last Result |
+| 157 | 0% | 57% |  |
+| 158 | 57% | 57% | Median |
+| 159 | 0% | 0% |  |
 
 ### Partido Popular – Ciudadanos–Partido de la Ciudadanía – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco
 
@@ -568,7 +633,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 142 | 100% | 100% | Median |
+| 138 | 43% | 100% |  |
+| 139 | 0% | 57% |  |
+| 140 | 57% | 57% | Median |
+| 141 | 0% | 0.1% |  |
+| 142 | 0% | 0.1% |  |
 | 143 | 0% | 0% |  |
 | 144 | 0% | 0% |  |
 | 145 | 0% | 0% |  |
@@ -608,7 +677,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 136 | 100% | 100% | Median |
+| 132 | 57% | 100% | Median |
+| 133 | 0% | 43% |  |
+| 134 | 43% | 43% |  |
+| 135 | 0% | 0.1% |  |
+| 136 | 0% | 0.1% |  |
 | 137 | 0% | 0% |  |
 | 138 | 0% | 0% |  |
 | 139 | 0% | 0% |  |
@@ -650,7 +723,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 136 | 100% | 100% | Median |
+| 132 | 57% | 100% | Median |
+| 133 | 43% | 43% |  |
+| 134 | 0% | 0.1% |  |
+| 135 | 0% | 0.1% |  |
+| 136 | 0% | 0.1% |  |
 | 137 | 0% | 0% |  |
 | 138 | 0% | 0% |  |
 | 139 | 0% | 0% |  |
@@ -684,35 +761,6 @@
 | 167 | 0% | 0% |  |
 | 168 | 0% | 0% |  |
 | 169 | 0% | 0% | Last Result |
-
-### Partido Popular – Vox
-
-![Graph with seats probability mass function not yet produced](2019-03-17-electoPanel-coalitions-seats-pmf-pp–vox.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 116 | 100% | 100% | Median |
-| 117 | 0% | 0% |  |
-| 118 | 0% | 0% |  |
-| 119 | 0% | 0% |  |
-| 120 | 0% | 0% |  |
-| 121 | 0% | 0% |  |
-| 122 | 0% | 0% |  |
-| 123 | 0% | 0% |  |
-| 124 | 0% | 0% |  |
-| 125 | 0% | 0% |  |
-| 126 | 0% | 0% |  |
-| 127 | 0% | 0% |  |
-| 128 | 0% | 0% |  |
-| 129 | 0% | 0% |  |
-| 130 | 0% | 0% |  |
-| 131 | 0% | 0% |  |
-| 132 | 0% | 0% |  |
-| 133 | 0% | 0% |  |
-| 134 | 0% | 0% |  |
-| 135 | 0% | 0% |  |
-| 136 | 0% | 0% |  |
-| 137 | 0% | 0% | Last Result |
 
 ### Partido Socialista Obrero Español
 
@@ -751,7 +799,46 @@
 | 113 | 0% | 100% |  |
 | 114 | 0% | 100% |  |
 | 115 | 0% | 100% |  |
-| 116 | 100% | 100% | Median |
+| 116 | 0% | 100% |  |
+| 117 | 0% | 99.9% |  |
+| 118 | 0% | 99.9% |  |
+| 119 | 43% | 99.9% |  |
+| 120 | 0% | 57% |  |
+| 121 | 0% | 57% |  |
+| 122 | 57% | 57% | Median |
+| 123 | 0% | 0% |  |
+
+### Partido Popular – Vox
+
+![Graph with seats probability mass function not yet produced](2019-03-17-electoPanel-coalitions-seats-pmf-pp–vox.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 113 | 57% | 100% | Median |
+| 114 | 0% | 43% |  |
+| 115 | 0% | 43% |  |
+| 116 | 0% | 43% |  |
+| 117 | 0% | 43% |  |
+| 118 | 0% | 43% |  |
+| 119 | 0% | 43% |  |
+| 120 | 0% | 43% |  |
+| 121 | 43% | 43% |  |
+| 122 | 0% | 0% |  |
+| 123 | 0% | 0% |  |
+| 124 | 0% | 0% |  |
+| 125 | 0% | 0% |  |
+| 126 | 0% | 0% |  |
+| 127 | 0% | 0% |  |
+| 128 | 0% | 0% |  |
+| 129 | 0% | 0% |  |
+| 130 | 0% | 0% |  |
+| 131 | 0% | 0% |  |
+| 132 | 0% | 0% |  |
+| 133 | 0% | 0% |  |
+| 134 | 0% | 0% |  |
+| 135 | 0% | 0% |  |
+| 136 | 0% | 0% |  |
+| 137 | 0% | 0% | Last Result |
 
 ### Partido Popular
 
@@ -759,11 +846,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 83 | 100% | 100% | Median |
-| 84 | 0% | 0% |  |
-| 85 | 0% | 0% |  |
-| 86 | 0% | 0% |  |
-| 87 | 0% | 0% |  |
+| 83 | 57% | 100% | Median |
+| 84 | 0% | 43% |  |
+| 85 | 0% | 43% |  |
+| 86 | 43% | 43% |  |
+| 87 | 0% | 0.1% |  |
 | 88 | 0% | 0% |  |
 | 89 | 0% | 0% |  |
 | 90 | 0% | 0% |  |
@@ -827,6 +914,6 @@
 ### Calculations
 
 + **Sample size:** 7400
-+ **Simulations done:** 8
-+ **Error estimate:** 0.81%
++ **Simulations done:** 1,024
++ **Error estimate:** 1.31%
 

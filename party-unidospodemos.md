@@ -186,18 +186,18 @@ Last result: **71** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36 | 30–43 | 28–44 | 28–47 | 25–53 |
-| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 40 | 35–46 | 35–47 | 33–49 | 31–53 |
-| [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 36 | 36 | 36 | 36 | 36 |
-| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 34 | 28–37 | 28–37 | 28–37 | 22–37 |
+| N/A | [Poll Average](average.html) | 36 | 30–43 | 30–45 | 28–47 | 25–53 |
+| [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 40 | 35–45 | 35–47 | 34–49 | 31–54 |
+| [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 39 | 32–42 | 31–43 | 29–45 | 26–48 |
+| [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 33 | 29–37 | 28–38 | 26–40 | 24–42 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo | 38 | 35–43 | 33–43 | 32–44 | 32–47 |
-| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 39 | 36–39 | 34–39 | 34–40 | 34–40 |
+| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 34 | 34–36 | 32–38 | 32–38 | 32–38 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 33 | 27–37 | 26–38 | 25–39 | 23–41 |
-| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 34 | 31–44 | 29–44 | 29–44 | 29–49 |
+| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 36 | 31–41 | 30–46 | 30–46 | 24–48 |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 30 | 30 | 26–32 | 25–32 | 25–36 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 37 | 32–41 | 30–43 | 28–44 | 25–48 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 34 | 29–38 | 27–38 | 26–40 | 24–43 |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 37 | 37 | 37 | 37 | 37 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 36 | 35–36 | 35–36 | 35–36 | 35–36 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 40 | 35–47 | 34–51 | 32–53 | 30–57 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 34 | 29–39 | 28–40 | 26–42 | 24–46 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 39 | 34–45 | 32–47 | 31–50 | 28–55 |
@@ -205,7 +205,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 38 | 36–42 | 34–44 | 33–48 | 32–51 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 35 | 29–41 | 28–42 | 27–44 | 25–46 |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 28 | 24–36 | 23–36 | 22–39 | 22–42 |
-| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 35 | 34–37 | 29–37 | 29–37 | 29–37 |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 37 | 32–39 | 30–40 | 30–40 | 30–41 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 40 | 35–45 | 34–46 | 33–49 | 29–54 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 28 | 22–35 | 22–36 | 22–38 | 20–40 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 38 | 34–42 | 33–43 | 31–45 | 28–47 |
@@ -341,34 +341,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.1% | 100% |  |
-| 23 | 0.1% | 99.9% |  |
-| 24 | 0.1% | 99.9% |  |
-| 25 | 0.5% | 99.7% |  |
-| 26 | 0.5% | 99.2% |  |
-| 27 | 0.5% | 98.7% |  |
-| 28 | 4% | 98% |  |
-| 29 | 1.2% | 94% |  |
-| 30 | 7% | 93% |  |
-| 31 | 2% | 86% |  |
-| 32 | 3% | 84% |  |
-| 33 | 3% | 81% |  |
-| 34 | 7% | 78% |  |
-| 35 | 5% | 71% |  |
-| 36 | 18% | 66% | Median |
-| 37 | 9% | 47% |  |
-| 38 | 7% | 38% |  |
-| 39 | 5% | 32% |  |
-| 40 | 9% | 26% |  |
-| 41 | 3% | 17% |  |
-| 42 | 3% | 14% |  |
-| 43 | 3% | 11% |  |
-| 44 | 3% | 8% |  |
-| 45 | 1.0% | 5% |  |
-| 46 | 1.1% | 4% |  |
-| 47 | 0.5% | 3% |  |
-| 48 | 0.5% | 2% |  |
-| 49 | 0.5% | 2% |  |
+| 23 | 0.1% | 100% |  |
+| 24 | 0.2% | 99.9% |  |
+| 25 | 0.6% | 99.7% |  |
+| 26 | 0.5% | 99.0% |  |
+| 27 | 0.7% | 98% |  |
+| 28 | 1.1% | 98% |  |
+| 29 | 2% | 97% |  |
+| 30 | 8% | 95% |  |
+| 31 | 3% | 87% |  |
+| 32 | 5% | 84% |  |
+| 33 | 6% | 79% |  |
+| 34 | 8% | 74% |  |
+| 35 | 7% | 66% |  |
+| 36 | 12% | 59% | Median |
+| 37 | 7% | 47% |  |
+| 38 | 8% | 40% |  |
+| 39 | 6% | 32% |  |
+| 40 | 10% | 26% |  |
+| 41 | 4% | 17% |  |
+| 42 | 3% | 13% |  |
+| 43 | 3% | 10% |  |
+| 44 | 2% | 7% |  |
+| 45 | 1.2% | 5% |  |
+| 46 | 2% | 4% |  |
+| 47 | 0.4% | 3% |  |
+| 48 | 0.6% | 2% |  |
+| 49 | 0.3% | 2% |  |
 | 50 | 0.4% | 1.2% |  |
 | 51 | 0.2% | 0.9% |  |
 | 52 | 0.2% | 0.7% |  |
@@ -376,7 +375,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 0.1% | 0.3% |  |
 | 55 | 0.1% | 0.2% |  |
 | 56 | 0.1% | 0.1% |  |
-| 57 | 0% | 0% |  |
+| 57 | 0% | 0.1% |  |
 | 58 | 0% | 0% |  |
 | 59 | 0% | 0% |  |
 | 60 | 0% | 0% |  |
