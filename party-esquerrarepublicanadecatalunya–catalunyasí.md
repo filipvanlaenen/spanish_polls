@@ -186,9 +186,9 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 9–15 | 9–15 | 7–15 | 7–16 |
 | [20–26 March 2019](2019-03-26-IMOP.html) | IMOP <br> El Confidencial | 14 | 12–16 | 11–17 | 11–17 | 10–20 |
 | [18–25 March 2019](2019-03-25-Metroscopia.html) | Metroscopia <br> Henneo |  |  |  |  |  |
-| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 9–13 | 9–13 |
+| [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 15 | 14–17 | 13–19 | 13–20 | 10–20 |
-| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 14 | 10–16 | 9–17 | 9–19 | 8–20 |
+| [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 14 | 10–16 | 9–17 | 9–18 | 8–20 |
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 13 | 11–13 | 11–13 | 10–14 | 10–14 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 16 | 14–20 | 13–20 | 13–21 | 11–22 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País |  |  |  |  |  |
@@ -200,7 +200,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–16 | 11–16 | 9–17 | 9–17 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 14 | 10–15 | 9–16 | 9–17 | 7–19 |
-| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–17 | 13–17 | 13–17 | 12–17 |
+| [22 February–3 March 2019](2019-03-03-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–15 | 13–15 | 12–17 |
 | [19–22 February 2019](2019-02-22-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 12–16 | 11–18 | 11–18 | 9–20 |
 | [18–22 February 2019](2019-02-22-GAD3.html) | GAD3 <br> ABC | 13 | 9–16 | 9–17 | 9–19 | 7–20 |
 | [13–21 February 2019](2019-02-21-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 15 | 14–18 | 13–18 | 13–19 | 12–21 |
@@ -337,19 +337,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.3% | 100% |  |
-| 7 | 1.2% | 99.7% |  |
-| 8 | 1.5% | 98% |  |
+| 7 | 1.1% | 99.7% |  |
+| 8 | 1.5% | 98.5% |  |
 | 9 | 7% | 97% | Last Result |
-| 10 | 4% | 90% |  |
-| 11 | 11% | 87% |  |
+| 10 | 5% | 90% |  |
+| 11 | 10% | 86% |  |
 | 12 | 13% | 75% |  |
-| 13 | 11% | 62% |  |
-| 14 | 15% | 51% | Median |
-| 15 | 15% | 36% |  |
+| 13 | 12% | 63% |  |
+| 14 | 14% | 51% | Median |
+| 15 | 16% | 37% |  |
 | 16 | 4% | 21% |  |
 | 17 | 3% | 17% |  |
 | 18 | 2% | 14% |  |
-| 19 | 3% | 12% |  |
+| 19 | 2% | 12% |  |
 | 20 | 8% | 9% |  |
 | 21 | 0.9% | 1.0% |  |
 | 22 | 0.1% | 0.1% |  |
