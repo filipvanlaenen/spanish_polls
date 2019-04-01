@@ -189,14 +189,14 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 15 | 14–17 | 13–19 | 13–20 | 10–20 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 14 | 10–16 | 9–17 | 9–18 | 8–20 |
-| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 13 | 11–13 | 11–13 | 10–14 | 10–14 |
+| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 11 | 10–14 | 10–14 | 10–14 | 10–14 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 16 | 14–20 | 13–20 | 13–21 | 11–22 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País |  |  |  |  |  |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–15 | 14–15 | 13–15 | 12–16 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 12 | 9–15 | 9–15 | 8–16 | 7–18 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
-| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–16 | 13–16 | 13–17 |
+| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 15 | 14–15 | 14–16 | 13–16 | 12–17 |
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–16 | 11–16 | 9–17 | 9–17 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 14 | 10–15 | 9–16 | 9–17 | 7–19 |
@@ -341,10 +341,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 1.5% | 98.5% |  |
 | 9 | 7% | 97% | Last Result |
 | 10 | 5% | 90% |  |
-| 11 | 10% | 86% |  |
-| 12 | 13% | 75% |  |
-| 13 | 12% | 63% |  |
-| 14 | 14% | 51% | Median |
+| 11 | 13% | 85% |  |
+| 12 | 12% | 72% |  |
+| 13 | 8% | 60% |  |
+| 14 | 15% | 52% | Median |
 | 15 | 16% | 37% |  |
 | 16 | 4% | 21% |  |
 | 17 | 3% | 17% |  |

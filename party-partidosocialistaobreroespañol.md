@@ -197,14 +197,14 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [22 February–24 March 2019](2019-03-24-electoPanel.html) | electoPanel <br> electomania.es | 126 | 122–129 | 121–131 | 120–132 | 119–135 |
 | [17–23 March 2019](2019-03-23-IMOP.html) | IMOP <br> El Confidencial | 135 | 128–143 | 125–145 | 123–146 | 119–149 |
 | [18–22 March 2019](2019-03-22-NCReport.html) | NC Report <br> La Razón | 112 | 104–121 | 101–123 | 98–125 | 94–130 |
-| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 136 | 134–139 | 133–140 | 131–142 | 128–145 |
+| [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 136 | 131–139 | 131–140 | 131–142 | 129–142 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 120 | 110–127 | 105–130 | 103–131 | 98–135 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 118 | 113–126 | 111–130 | 109–132 | 105–136 |
-| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 120 | 111–122 | 108–124 | 108–125 | 108–126 |
+| [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 119 | 114–123 | 111–124 | 108–124 | 108–126 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 107 | 97–115 | 94–117 | 90–119 | 88–124 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 143 | 134–151 | 131–153 | 128–155 | 122–159 |
 | [8–11 March 2019](2019-03-11-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 106 | 96–113 | 93–115 | 91–117 | 88–121 |
-| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 113 | 110–119 | 109–120 | 106–120 | 106–126 |
+| [22 February–10 March 2019](2019-03-10-electoPanel.html) | electoPanel <br> electomania.es | 117 | 113–121 | 112–121 | 110–123 | 108–126 |
 | [5–8 March 2019](2019-03-08-SocioMétrica.html) | SocioMétrica <br> El Español | 120 | 114–126 | 112–129 | 109–132 | 105–135 |
 | [4–8 March 2019](2019-03-08-Invymark.html) | Invymark <br> laSexta | 106 | 96–113 | 94–115 | 93–117 | 90–120 |
 | [4–8 March 2019](2019-03-08-GAD3.html) | GAD3 <br> ABC | 132 | 123–142 | 119–143 | 116–145 | 113–152 |
@@ -390,21 +390,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 128 | 3% | 35% |  |
 | 129 | 2% | 32% |  |
 | 130 | 1.4% | 30% |  |
-| 131 | 2% | 29% |  |
-| 132 | 1.4% | 27% |  |
-| 133 | 2% | 26% |  |
-| 134 | 2% | 24% |  |
-| 135 | 5% | 22% |  |
-| 136 | 5% | 17% |  |
+| 131 | 3% | 29% |  |
+| 132 | 2% | 26% |  |
+| 133 | 2% | 24% |  |
+| 134 | 2% | 23% |  |
+| 135 | 6% | 21% |  |
+| 136 | 3% | 15% |  |
 | 137 | 1.3% | 12% |  |
-| 138 | 0.9% | 11% |  |
-| 139 | 2% | 10% |  |
-| 140 | 0.9% | 8% |  |
-| 141 | 1.3% | 7% |  |
-| 142 | 0.8% | 5% |  |
-| 143 | 0.6% | 5% |  |
+| 138 | 2% | 10% |  |
+| 139 | 1.1% | 9% |  |
+| 140 | 1.0% | 8% |  |
+| 141 | 1.2% | 7% |  |
+| 142 | 1.0% | 6% |  |
+| 143 | 0.6% | 4% |  |
 | 144 | 0.5% | 4% |  |
-| 145 | 0.7% | 4% |  |
+| 145 | 0.6% | 3% |  |
 | 146 | 0.4% | 3% |  |
 | 147 | 0.7% | 2% |  |
 | 148 | 0.4% | 2% |  |
