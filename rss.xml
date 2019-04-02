@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Mon, 01 Apr 2019 23:51:37 +0200</pubDate>
+    <pubDate>Tue, 02 Apr 2019 15:47:01 +0200</pubDate>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–31 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-31-electoPanel.html</link>
@@ -26,8 +26,28 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-30-NCReport.png"
         length="287508"
         type="image/png"/>
-      <pubDate>Mon, 01 Apr 2019 23:51:37 +0200</pubDate>
-      <dc:date>2019-04-01T23:51:37.020369+02:00</dc:date>
+      <pubDate>Tue, 02 Apr 2019 15:47:01 +0200</pubDate>
+      <dc:date>2019-04-02T15:47:01.735683+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 24–30 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-30-IMOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 73–96 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 115–140 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 32–45 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 33–53 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 13–20 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1–6 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 3–8 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 2–7 seats&lt;/li&gt;&lt;li&gt;Vox: 16–29 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-30-IMOP-seats.png"
+        length="220426"
+        type="image/png"/>
+      <pubDate>Tue, 02 Apr 2019 13:39:50 +0200</pubDate>
+      <dc:date>2019-04-02T13:39:50.283298+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 24–30 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-30-IMOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-30-IMOP-coalitions-seats.png"
+        length="470780"
+        type="image/png"/>
+      <pubDate>Tue, 02 Apr 2019 13:39:50 +0200</pubDate>
+      <dc:date>2019-04-02T13:39:50.283298+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 24–30 March 2019 – Voting Intentions</title>
@@ -36,8 +56,28 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-30-IMOP.png"
         length="249619"
         type="image/png"/>
-      <pubDate>Mon, 01 Apr 2019 23:07:45 +0200</pubDate>
-      <dc:date>2019-04-01T23:07:45.33032+02:00</dc:date>
+      <pubDate>Tue, 02 Apr 2019 13:39:50 +0200</pubDate>
+      <dc:date>2019-04-02T13:39:50.283298+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 25–29 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-29-SocioMétrica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 63–82 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 116–139 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 27–41 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 46–62 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 9–16 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 3–8 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 3–10 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 2–7 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0–2 seats&lt;/li&gt;&lt;li&gt;Vox: 26–41 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-29-SocioMétrica-seats.png"
+        length="230270"
+        type="image/png"/>
+      <pubDate>Tue, 02 Apr 2019 14:57:06 +0200</pubDate>
+      <dc:date>2019-04-02T14:57:06.504897+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 25–29 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-29-SocioMétrica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-29-SocioMétrica-coalitions-seats.png"
+        length="465694"
+        type="image/png"/>
+      <pubDate>Tue, 02 Apr 2019 14:57:06 +0200</pubDate>
+      <dc:date>2019-04-02T14:57:06.504897+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 25–29 March 2019 – Voting Intentions</title>
@@ -46,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-29-SocioMétrica.png"
         length="257735"
         type="image/png"/>
-      <pubDate>Mon, 01 Apr 2019 23:40:20 +0200</pubDate>
-      <dc:date>2019-04-01T23:40:20.081298+02:00</dc:date>
+      <pubDate>Tue, 02 Apr 2019 14:57:06 +0200</pubDate>
+      <dc:date>2019-04-02T14:57:06.504897+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 25–29 March 2019 – Voting Intentions</title>
@@ -2409,6 +2449,6 @@
       <pubDate>Thu, 21 Mar 2019 19:48:55 +0100</pubDate>
       <dc:date>2019-03-21T19:48:55.652918+01:00</dc:date>
     </item>
-    <dc:date>2019-04-01T23:51:37.020369+02:00</dc:date>
+    <dc:date>2019-04-02T15:47:01.735683+02:00</dc:date>
   </channel>
 </rss>
