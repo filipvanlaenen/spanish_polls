@@ -183,11 +183,11 @@ Last result: **2** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 2–7 | 1–7 | 1–7 | 0–9 |
+| N/A | [Poll Average](average.html) | 4 | 2–6 | 1–7 | 1–7 | 0–9 |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 2–5 | 2–5 | 2–5 |
-| [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 3 | 0–7 | 0–8 | 0–10 | 0–12 |
-| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 6 | 3–7 | 2–7 | 2–7 | 1–8 |
-| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 2 | 2–6 | 2–6 | 2–7 | 1–7 |
+| [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 3 | 1–7 | 0–9 | 0–10 | 0–12 |
+| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 5 | 4–7 | 3–7 | 2–7 | 1–7 |
+| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 4 | 2–6 | 2–7 | 2–7 | 1–7 |
 | [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 4 | 2–6 | 2–6 | 1–7 | 1–8 |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2–6 | 1–7 | 1–7 | 0–7 |
@@ -343,18 +343,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.5% | 100% |  |
-| 1 | 6% | 98.5% |  |
-| 2 | 31% | 92% | Last Result |
-| 3 | 9% | 62% |  |
-| 4 | 17% | 53% | Median |
-| 5 | 19% | 36% |  |
-| 6 | 7% | 17% |  |
-| 7 | 9% | 10% |  |
-| 8 | 0.5% | 1.1% |  |
-| 9 | 0.2% | 0.6% |  |
-| 10 | 0.2% | 0.4% |  |
-| 11 | 0.1% | 0.1% |  |
+| 0 | 1.3% | 100% |  |
+| 1 | 6% | 98.7% |  |
+| 2 | 25% | 93% | Last Result |
+| 3 | 10% | 68% |  |
+| 4 | 21% | 58% | Median |
+| 5 | 21% | 37% |  |
+| 6 | 9% | 17% |  |
+| 7 | 7% | 8% |  |
+| 8 | 0.5% | 1.2% |  |
+| 9 | 0.4% | 0.7% |  |
+| 10 | 0.2% | 0.3% |  |
+| 11 | 0.1% | 0.2% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 

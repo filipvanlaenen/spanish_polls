@@ -181,11 +181,11 @@ Last result: **1** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–3 | 0–4 | 0–4 |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
-| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–2 | 0–2 | 0–2 | 0–4 |
 | [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO |  |  |  |  |  |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0–1 | 0–2 | 0–2 | 0–4 |
@@ -341,11 +341,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Median |
-| 1 | 38% | 50% | Last Result |
-| 2 | 7% | 12% |  |
+| 0 | 42% | 100% |  |
+| 1 | 43% | 58% | Last Result, Median |
+| 2 | 10% | 15% |  |
 | 3 | 2% | 5% |  |
-| 4 | 2% | 2% |  |
+| 4 | 3% | 3% |  |
 | 5 | 0.1% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
