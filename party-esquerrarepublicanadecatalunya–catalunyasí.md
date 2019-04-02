@@ -188,8 +188,8 @@ Last result: **9** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 9–20 | 9–20 | 8–20 | 6–21 |
-| [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 12 | 10–12 | 9–12 | 9–12 | 9–12 |
-| [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 14 | 8–20 | 7–21 | 7–22 | 5–24 |
+| [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
+| [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 14 | 9–19 | 7–21 | 7–22 | 5–24 |
 | [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 15 | 14–19 | 13–20 | 13–20 | 11–20 |
 | [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 11–15 | 10–15 | 9–16 | 9–19 |
 | [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
@@ -347,18 +347,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.1% | 100% |  |
+| 5 | 0% | 100% |  |
 | 6 | 0.4% | 99.9% |  |
-| 7 | 2% | 99.5% |  |
+| 7 | 1.5% | 99.5% |  |
 | 8 | 2% | 98% |  |
 | 9 | 7% | 96% | Last Result |
-| 10 | 4% | 89% |  |
-| 11 | 11% | 85% |  |
-| 12 | 12% | 73% |  |
+| 10 | 4% | 90% |  |
+| 11 | 19% | 85% |  |
+| 12 | 5% | 66% |  |
 | 13 | 6% | 61% |  |
-| 14 | 13% | 54% | Median |
-| 15 | 17% | 41% |  |
-| 16 | 4% | 24% |  |
+| 14 | 13% | 55% | Median |
+| 15 | 17% | 42% |  |
+| 16 | 4% | 25% |  |
 | 17 | 4% | 21% |  |
 | 18 | 3% | 17% |  |
 | 19 | 3% | 14% |  |

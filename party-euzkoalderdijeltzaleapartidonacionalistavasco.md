@@ -185,8 +185,8 @@ Last result: **5** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 4–8 | 3–9 | 3–10 | 2–11 |
-| [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6–7 | 6–7 | 6–7 |
-| [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 7 | 3–10 | 3–11 | 2–12 | 0–14 |
+| [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 7 | 3–10 | 3–11 | 2–12 | 1–14 |
 | [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 6 | 3–7 | 3–7 | 3–8 | 2–10 |
 | [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 4–7 | 3–8 | 3–10 | 3–10 |
 | [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
@@ -344,20 +344,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 0.2% | 99.9% |  |
-| 2 | 0.7% | 99.8% |  |
-| 3 | 6% | 99.1% |  |
+| 1 | 0.2% | 100% |  |
+| 2 | 0.6% | 99.8% |  |
+| 3 | 6% | 99.2% |  |
 | 4 | 5% | 93% |  |
-| 5 | 4% | 87% | Last Result |
-| 6 | 57% | 84% | Median |
-| 7 | 13% | 26% |  |
-| 8 | 8% | 13% |  |
-| 9 | 1.5% | 5% |  |
+| 5 | 4% | 88% | Last Result |
+| 6 | 52% | 84% | Median |
+| 7 | 18% | 32% |  |
+| 8 | 9% | 15% |  |
+| 9 | 2% | 5% |  |
 | 10 | 3% | 4% |  |
-| 11 | 0.5% | 0.8% |  |
-| 12 | 0.3% | 0.3% |  |
-| 13 | 0% | 0.1% |  |
+| 11 | 0.3% | 0.8% |  |
+| 12 | 0.3% | 0.4% |  |
+| 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
