@@ -10,11 +10,11 @@ Last result: **1.2%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.8% | 0.8–2.0% | 0.7–2.3% | 0.5–3.1% |
-| [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.1–1.5% | 1.1–1.6% | 1.1–1.6% | 1.0–1.6% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.8% | 0.8–2.0% | 0.7–2.3% | 0.5–3.0% |
+| [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.1–1.5% | 1.1–1.5% | 1.1–1.6% | 1.0–1.6% |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 1.3% | 0.8–2.7% | 0.7–3.0% | 0.5–3.4% | 0.4–4.1% |
-| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.7–1.8% | 0.5–2.1% |
-| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 1.2% | N/A | N/A | N/A | N/A |
+| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 1.1% | 0.8–1.6% | 0.8–1.7% | 0.7–1.8% | 0.6–2.1% |
+| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 1.2% | 0.9–1.6% | 0.8–1.7% | 0.8–1.9% | 0.6–2.1% |
 | [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta | 0.0% | N/A | N/A | N/A | N/A |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 1.5% | 1.2–2.1% | 1.1–2.3% | 1.0–2.4% | 0.8–2.7% |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1.2% | 0.9–1.7% | 0.8–1.9% | 0.7–2.0% | 0.6–2.3% |
@@ -168,10 +168,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.7% | 100% |  |
-| 0.5–1.5% | 80% | 99.3% | Last Result, Median |
-| 1.5–2.5% | 18% | 20% |  |
-| 2.5–3.5% | 1.3% | 1.5% |  |
+| 0.0–0.5% | 0.6% | 100% |  |
+| 0.5–1.5% | 80% | 99.4% | Last Result, Median |
+| 1.5–2.5% | 18% | 19% |  |
+| 2.5–3.5% | 1.2% | 1.3% |  |
 | 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -184,11 +184,11 @@ Last result: **5** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 3–8 | 2–9 | 2–12 | 1–12 |
-| [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 3 | 2–12 | 2–12 | 1–12 | 1–17 |
-| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
-| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 6 | 4–8 | 3–8 | 3–10 | 2–11 |
+| [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6–7 | 6–7 | 6–7 |
+| [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 7 | 3–10 | 2–11 | 2–12 | 0–13 |
+| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 6 | 3–7 | 3–7 | 3–8 | 2–10 |
+| [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 4–6 | 4–7 | 3–7 | 3–8 |
 | [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 7 | 6–8 | 5–9 | 4–10 | 3–10 |
 | [21–27 March 2019](2019-03-27-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 6 | 4–7 | 3–8 | 3–8 | 2–10 |
@@ -344,23 +344,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.6% | 100% |  |
-| 2 | 7% | 99.4% |  |
-| 3 | 6% | 93% |  |
-| 4 | 3% | 86% |  |
-| 5 | 3% | 83% | Last Result |
-| 6 | 52% | 80% | Median |
-| 7 | 12% | 28% |  |
-| 8 | 9% | 16% |  |
-| 9 | 2% | 7% |  |
-| 10 | 1.2% | 5% |  |
-| 11 | 0.1% | 3% |  |
-| 12 | 3% | 3% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 0.2% | 99.9% |  |
+| 2 | 0.8% | 99.8% |  |
+| 3 | 5% | 99.0% |  |
+| 4 | 6% | 94% |  |
+| 5 | 3% | 87% | Last Result |
+| 6 | 60% | 84% | Median |
+| 7 | 11% | 24% |  |
+| 8 | 8% | 13% |  |
+| 9 | 1.3% | 5% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.5% | 0.8% |  |
+| 12 | 0.2% | 0.3% |  |
 | 13 | 0% | 0.1% |  |
-| 14 | 0% | 0.1% |  |
-| 15 | 0% | 0.1% |  |
-| 16 | 0% | 0.1% |  |
-| 17 | 0.1% | 0.1% |  |
-| 18 | 0% | 0% |  |
+| 14 | 0% | 0% |  |
 
 
