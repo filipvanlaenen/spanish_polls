@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Tue, 02 Apr 2019 19:03:36 +0200</pubDate>
+    <pubDate>Thu, 04 Apr 2019 19:25:34 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 27 March–2 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-02-IMOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 18.8–23.0%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 27.6–32.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 12.8–16.5%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 13.1–16.8%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.7–4.6%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.7–1.8%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.7–1.8%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 1.0–2.2%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.6–1.6%&lt;/li&gt;&lt;li&gt;Vox: 8.2–11.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-02-IMOP.png"
+        length="249892"
+        type="image/png"/>
+      <pubDate>Thu, 04 Apr 2019 19:25:34 +0200</pubDate>
+      <dc:date>2019-04-04T19:25:34.566743+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–31 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-03-31-electoPanel.html#seats</link>
@@ -2509,6 +2519,6 @@
       <pubDate>Thu, 21 Mar 2019 19:48:55 +0100</pubDate>
       <dc:date>2019-03-21T19:48:55.652918+01:00</dc:date>
     </item>
-    <dc:date>2019-04-02T19:03:36.916227+02:00</dc:date>
+    <dc:date>2019-04-04T19:25:34.566743+02:00</dc:date>
   </channel>
 </rss>
