@@ -9,10 +9,10 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PP | PSOE | UP | Cs | ERC | PDeCAT | EAJ/PNV | PACMA | EH Bildu | CC | Vox | BNG |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 June 2016 | General Election | 33.0% <br> 137 | 22.6% <br> 85 | 21.2% <br> 71 | 13.1% <br> 32 | 2.7% <br> 9 | 2.0% <br> 8 | 1.2% <br> 5 | 1.2% <br> 0 | 0.8% <br> 2 | 0.3% <br> 1 | 0.2% <br> 0 | 0.2% <br> 0 |
-| N/A | Poll Average | 15–25% <br> 60–105 | 24–32% <br> 101–145 | 11–16% <br> 25–47 | 13–19% <br> 36–67 | 2–5% <br> 8–20 | 1–2% <br> 1–10 | 1–2% <br> 3–10 | 1–2% <br> 0–1 | 0–2% <br> 1–7 | 0–1% <br> 0–4 | 6–15% <br> 12–47 | N/A <br> N/A |
+| N/A | Poll Average | 15–25% <br> 60–105 | 24–32% <br> 101–145 | 11–16% <br> 25–46 | 13–19% <br> 36–67 | 2–5% <br> 8–20 | 1–2% <br> 1–10 | 1–2% <br> 3–10 | 1–2% <br> 0–1 | 0–2% <br> 1–7 | 0–1% <br> 0–4 | 6–15% <br> 12–47 | N/A <br> N/A |
+| [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 19–23% <br> 79 | 28–32% <br> 134 | 13–16% <br> 37 | 13–17% <br> 55 | 3–5% <br> 15 | 1–2% <br> 4 | 1–2% <br> 4 | 1–2% <br> 0 | 1–2% <br> 7 | N/A <br> N/A | 8–11% <br> 14 | N/A <br> N/A |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 19–21% <br> 77–84 | 27–29% <br> 118–125 | 12–14% <br> 35–38 | 16–17% <br> 53–62 | 2–3% <br> 10–12 | 1–2% <br> 4–6 | 1–2% <br> 6–8 | 1% <br> 0 | 1% <br> 2–5 | 0% <br> 0–1 | 10–11% <br> 25–27 | N/A <br> N/A |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 19–28% <br> 72–120 | 22–32% <br> 87–137 | 9–16% <br> 19–46 | 13–21% <br> 34–74 | 2–6% <br> 7–22 | 1–3% <br> 1–13 | 1–3% <br> 2–12 | N/A <br> N/A | 0–2% <br> 0–9 | N/A <br> N/A | 7–14% <br> 13–42 | N/A <br> N/A |
-| [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 20–24% <br> 73–96 | 28–32% <br> 115–140 | 12–16% <br> 32–45 | 12–16% <br> 33–53 | 3–5% <br> 13–20 | 1–2% <br> 1–6 | 1–2% <br> 3–8 | 1–3% <br> 0–1 | 1–2% <br> 2–7 | N/A <br> N/A | 8–11% <br> 16–29 | N/A <br> N/A |
 | [25–29 March 2019](2019-03-29-SocioMétrica.html) | SocioMétrica <br> El Español | 17–21% <br> 63–82 | 27–31% <br> 116–139 | 12–15% <br> 27–41 | 14–18% <br> 46–62 | 2–4% <br> 9–16 | 1–2% <br> 3–8 | 1–2% <br> 3–10 | 1–2% <br> 0–1 | 1% <br> 2–7 | 0–1% <br> 0–2 | 10–14% <br> 26–41 | N/A <br> N/A |
 | [25–29 March 2019](2019-03-29-Invymark.html) | Invymark <br> laSexta | 18–22% <br> 68–94 | 24–28% <br> 96–122 | 11–15% <br> 26–43 | 15–20% <br> 50–68 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 27–48 | N/A <br> N/A |
 | [24–27 March 2019](2019-03-27-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 19–23% <br> 72–93 | 25–30% <br> 104–129 | 13–17% <br> 34–49 | 15–19% <br> 48–66 | 1–3% <br> 6–14 | 1–2% <br> 3–9 | 1–2% <br> 4–10 | N/A <br> N/A | 1–2% <br> 1–7 | N/A <br> N/A | 10–13% <br> 21–34 | N/A <br> N/A |
@@ -49,23 +49,23 @@ Only polls for which at least the sample size has been published are included in
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](average.png "Voting Intentions")
+![Graph with voting intentions not yet produced](average-.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-popular">Partido Popular</a> | 33.0% | 19.9% | 16.9–22.7% |15.3–23.7% | 14.7–24.6% | 14.0–26.8% |
+| <a href="#partido-popular">Partido Popular</a> | 33.0% | 19.8% | 16.9–22.6% |15.3–23.6% | 14.7–24.6% | 14.0–26.8% |
 | <a href="#partido-socialista-obrero-español">Partido Socialista Obrero Español</a> | 22.6% | 28.1% | 25.7–31.0% |25.0–31.5% | 24.4–32.1% | 23.0–33.4% |
-| <a href="#unidos-podemos">Unidos Podemos</a> | 21.2% | 13.5% | 11.7–15.3% |11.3–15.8% | 10.9–16.1% | 9.6–16.8% |
-| <a href="#ciudadanos–partido-de-la-ciudadanía">Ciudadanos–Partido de la Ciudadanía</a> | 13.1% | 16.3% | 13.4–18.2% |12.9–18.7% | 12.7–19.2% | 12.0–20.4% |
+| <a href="#unidos-podemos">Unidos Podemos</a> | 21.2% | 13.5% | 11.7–15.4% |11.3–15.8% | 10.9–16.2% | 9.6–16.9% |
+| <a href="#ciudadanos–partido-de-la-ciudadanía">Ciudadanos–Partido de la Ciudadanía</a> | 13.1% | 16.3% | 13.5–18.2% |13.0–18.7% | 12.7–19.2% | 12.1–20.4% |
 | <a href="#esquerra-republicana-de-catalunya–catalunya-sí">Esquerra Republicana de Catalunya–Catalunya Sí</a> | 2.7% | 3.0% | 2.2–4.5% |2.0–4.9% | 1.8–5.1% | 1.5–5.6% |
 | <a href="#partit-demòcrata-europeu-català">Partit Demòcrata Europeu Català</a> | 2.0% | 1.4% | 0.9–2.0% |0.8–2.2% | 0.7–2.5% | 0.6–3.1% |
 | <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco</a> | 1.2% | 1.3% | 0.9–1.8% |0.8–2.0% | 0.7–2.3% | 0.5–3.0% |
-| <a href="#partido-animalista-contra-el-maltrato-animal">Partido Animalista Contra el Maltrato Animal</a> | 1.2% | 1.4% | 1.0–2.0% |0.9–2.2% | 0.9–2.4% | 0.7–2.7% |
+| <a href="#partido-animalista-contra-el-maltrato-animal">Partido Animalista Contra el Maltrato Animal</a> | 1.2% | 1.4% | 1.0–1.9% |0.9–2.0% | 0.9–2.2% | 0.7–2.4% |
 | <a href="#euskal-herria-bildu">Euskal Herria Bildu</a> | 0.8% | 0.9% | 0.6–1.3% |0.5–1.5% | 0.4–1.7% | 0.3–2.2% |
 | <a href="#coalición-canaria–partido-nacionalista-canario">Coalición Canaria–Partido Nacionalista Canario</a> | 0.3% | 0.3% | 0.2–0.6% |0.1–0.7% | 0.1–0.9% | 0.1–1.1% |
-| <a href="#vox">Vox</a> | 0.2% | 11.2% | 8.1–13.7% |6.8–14.3% | 6.4–14.9% | 5.9–15.8% |
+| <a href="#vox">Vox</a> | 0.2% | 11.2% | 8.2–13.7% |6.8–14.3% | 6.4–14.9% | 5.9–15.8% |
 | <a href="#bloque-nacionalista-galego–nós-candidatura-galega">Bloque Nacionalista Galego–Nós Candidatura Galega</a> | 0.2% | N/A | N/A |N/A | N/A | N/A |
 
 ### Partido Popular
@@ -82,12 +82,12 @@ Only polls for which at least the sample size has been published are included in
 | 16.5–17.5% | 5% | 91% |  |
 | 17.5–18.5% | 11% | 87% |  |
 | 18.5–19.5% | 19% | 75% |  |
-| 19.5–20.5% | 20% | 57% | Median |
-| 20.5–21.5% | 13% | 37% |  |
-| 21.5–22.5% | 13% | 24% |  |
-| 22.5–23.5% | 6% | 11% |  |
+| 19.5–20.5% | 21% | 56% | Median |
+| 20.5–21.5% | 13% | 35% |  |
+| 21.5–22.5% | 12% | 22% |  |
+| 22.5–23.5% | 5% | 10% |  |
 | 23.5–24.5% | 3% | 5% |  |
-| 24.5–25.5% | 1.4% | 3% |  |
+| 24.5–25.5% | 1.3% | 3% |  |
 | 25.5–26.5% | 0.7% | 1.2% |  |
 | 26.5–27.5% | 0.3% | 0.6% |  |
 | 27.5–28.5% | 0.2% | 0.3% |  |
@@ -112,7 +112,7 @@ Only polls for which at least the sample size has been published are included in
 | 25.5–26.5% | 11% | 92% |  |
 | 26.5–27.5% | 18% | 80% |  |
 | 27.5–28.5% | 20% | 62% | Median |
-| 28.5–29.5% | 15% | 43% |  |
+| 28.5–29.5% | 15% | 42% |  |
 | 29.5–30.5% | 12% | 27% |  |
 | 30.5–31.5% | 10% | 15% |  |
 | 31.5–32.5% | 3% | 5% |  |
@@ -133,11 +133,11 @@ Only polls for which at least the sample size has been published are included in
 | 9.5–10.5% | 1.1% | 99.5% |  |
 | 10.5–11.5% | 6% | 98% |  |
 | 11.5–12.5% | 18% | 93% |  |
-| 12.5–13.5% | 28% | 75% | Median |
-| 13.5–14.5% | 25% | 47% |  |
-| 14.5–15.5% | 15% | 22% |  |
-| 15.5–16.5% | 6% | 7% |  |
-| 16.5–17.5% | 0.9% | 1.0% |  |
+| 12.5–13.5% | 27% | 75% | Median |
+| 13.5–14.5% | 24% | 48% |  |
+| 14.5–15.5% | 16% | 23% |  |
+| 15.5–16.5% | 6% | 8% |  |
+| 16.5–17.5% | 1.0% | 1.1% |  |
 | 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
 | 19.5–20.5% | 0% | 0% |  |
@@ -151,11 +151,11 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 2% | 99.9% |  |
-| 12.5–13.5% | 10% | 98% | Last Result |
-| 13.5–14.5% | 10% | 88% |  |
-| 14.5–15.5% | 12% | 78% |  |
-| 15.5–16.5% | 22% | 66% | Median |
+| 11.5–12.5% | 1.4% | 99.9% |  |
+| 12.5–13.5% | 9% | 98% | Last Result |
+| 13.5–14.5% | 9% | 89% |  |
+| 14.5–15.5% | 13% | 80% |  |
+| 15.5–16.5% | 23% | 67% | Median |
 | 16.5–17.5% | 24% | 44% |  |
 | 17.5–18.5% | 14% | 20% |  |
 | 18.5–19.5% | 5% | 6% |  |
@@ -188,7 +188,7 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.4% | 100% |  |
 | 0.5–1.5% | 68% | 99.6% | Median |
-| 1.5–2.5% | 30% | 32% | Last Result |
+| 1.5–2.5% | 29% | 32% | Last Result |
 | 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -213,9 +213,9 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 58% | 100% | Last Result, Median |
-| 1.5–2.5% | 41% | 42% |  |
-| 2.5–3.5% | 1.1% | 1.1% |  |
+| 0.5–1.5% | 66% | 100% | Last Result, Median |
+| 1.5–2.5% | 34% | 34% |  |
+| 2.5–3.5% | 0.2% | 0.2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 ### Euskal Herria Bildu
@@ -224,8 +224,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 6% | 100% |  |
-| 0.5–1.5% | 90% | 94% | Last Result, Median |
+| 0.0–0.5% | 7% | 100% |  |
+| 0.5–1.5% | 90% | 93% | Last Result, Median |
 | 1.5–2.5% | 4% | 4% |  |
 | 2.5–3.5% | 0.2% | 0.2% |  |
 | 3.5–4.5% | 0% | 0% |  |
@@ -256,7 +256,7 @@ Only polls for which at least the sample size has been published are included in
 | 6.5–7.5% | 4% | 96% |  |
 | 7.5–8.5% | 5% | 92% |  |
 | 8.5–9.5% | 11% | 87% |  |
-| 9.5–10.5% | 14% | 76% |  |
+| 9.5–10.5% | 14% | 77% |  |
 | 10.5–11.5% | 21% | 63% | Median |
 | 11.5–12.5% | 18% | 42% |  |
 | 12.5–13.5% | 12% | 24% |  |
@@ -269,30 +269,30 @@ Only polls for which at least the sample size has been published are included in
 
 ## Seats
 
-![Graph with seats not yet produced](average-seats.png "Seats")
+![Graph with seats not yet produced](average--seats.png "Seats")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partido-popular">Partido Popular</a> | 137 | 79 | 65–92 |64–97 | 60–105 | 54–114 |
+| <a href="#partido-popular">Partido Popular</a> | 137 | 79 | 65–91 |64–97 | 60–105 | 54–114 |
 | <a href="#partido-socialista-obrero-español">Partido Socialista Obrero Español</a> | 85 | 122 | 109–136 |104–141 | 101–145 | 93–152 |
-| <a href="#unidos-podemos">Unidos Podemos</a> | 71 | 36 | 30–42 |28–44 | 25–47 | 22–53 |
-| <a href="#ciudadanos–partido-de-la-ciudadanía">Ciudadanos–Partido de la Ciudadanía</a> | 32 | 55 | 39–64 |36–66 | 36–67 | 31–71 |
+| <a href="#unidos-podemos">Unidos Podemos</a> | 71 | 37 | 30–42 |28–44 | 25–46 | 22–53 |
+| <a href="#ciudadanos–partido-de-la-ciudadanía">Ciudadanos–Partido de la Ciudadanía</a> | 32 | 55 | 40–64 |37–66 | 36–67 | 32–71 |
 | <a href="#esquerra-republicana-de-catalunya–catalunya-sí">Esquerra Republicana de Catalunya–Catalunya Sí</a> | 9 | 14 | 9–20 |9–20 | 8–20 | 6–21 |
-| <a href="#partit-demòcrata-europeu-català">Partit Demòcrata Europeu Català</a> | 8 | 5 | 3–8 |2–9 | 1–10 | 1–12 |
+| <a href="#partit-demòcrata-europeu-català">Partit Demòcrata Europeu Català</a> | 8 | 5 | 3–8 |3–9 | 1–10 | 1–12 |
 | <a href="#euzko-alderdi-jeltzalea/partido-nacionalista-vasco">Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco</a> | 5 | 6 | 4–8 |3–9 | 3–10 | 2–11 |
-| <a href="#partido-animalista-contra-el-maltrato-animal">Partido Animalista Contra el Maltrato Animal</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#euskal-herria-bildu">Euskal Herria Bildu</a> | 2 | 4 | 2–6 |1–7 | 1–7 | 0–9 |
+| <a href="#partido-animalista-contra-el-maltrato-animal">Partido Animalista Contra el Maltrato Animal</a> | 0 | 0 | 0 |0 | 0–1 | 0–1 |
+| <a href="#euskal-herria-bildu">Euskal Herria Bildu</a> | 2 | 4 | 2–7 |1–7 | 1–7 | 0–9 |
 | <a href="#coalición-canaria–partido-nacionalista-canario">Coalición Canaria–Partido Nacionalista Canario</a> | 1 | 1 | 0–2 |0–3 | 0–4 | 0–4 |
-| <a href="#vox">Vox</a> | 0 | 28 | 17–41 |12–45 | 12–47 | 9–52 |
+| <a href="#vox">Vox</a> | 0 | 27 | 14–41 |12–45 | 12–47 | 9–52 |
 | <a href="#bloque-nacionalista-galego–nós-candidatura-galega">Bloque Nacionalista Galego–Nós Candidatura Galega</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
 ### Partido Popular
 
 *For a full overview of the results for this party, see the [Partido Popular](party-partidopopular.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-partidopopular.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-partidopopular.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -318,31 +318,31 @@ Only polls for which at least the sample size has been published are included in
 | 70 | 2% | 82% |  |
 | 71 | 3% | 80% |  |
 | 72 | 2% | 77% |  |
-| 73 | 5% | 75% |  |
-| 74 | 4% | 70% |  |
+| 73 | 4% | 75% |  |
+| 74 | 4% | 71% |  |
 | 75 | 4% | 67% |  |
-| 76 | 4% | 62% |  |
+| 76 | 4% | 63% |  |
 | 77 | 3% | 58% |  |
 | 78 | 3% | 55% |  |
-| 79 | 3% | 52% | Median |
-| 80 | 6% | 49% |  |
-| 81 | 4% | 42% |  |
-| 82 | 3% | 38% |  |
-| 83 | 2% | 35% |  |
-| 84 | 4% | 33% |  |
-| 85 | 2% | 29% |  |
-| 86 | 3% | 27% |  |
-| 87 | 3% | 24% |  |
-| 88 | 3% | 22% |  |
-| 89 | 3% | 19% |  |
-| 90 | 2% | 16% |  |
-| 91 | 4% | 14% |  |
-| 92 | 1.3% | 10% |  |
-| 93 | 0.8% | 9% |  |
+| 79 | 10% | 52% | Median |
+| 80 | 6% | 43% |  |
+| 81 | 3% | 37% |  |
+| 82 | 2% | 33% |  |
+| 83 | 2% | 31% |  |
+| 84 | 4% | 29% |  |
+| 85 | 2% | 25% |  |
+| 86 | 2% | 23% |  |
+| 87 | 2% | 21% |  |
+| 88 | 2% | 19% |  |
+| 89 | 2% | 17% |  |
+| 90 | 2% | 15% |  |
+| 91 | 4% | 13% |  |
+| 92 | 0.9% | 9% |  |
+| 93 | 0.7% | 8% |  |
 | 94 | 0.8% | 8% |  |
 | 95 | 1.4% | 7% |  |
 | 96 | 0.6% | 6% |  |
-| 97 | 0.6% | 5% |  |
+| 97 | 0.5% | 5% |  |
 | 98 | 0.4% | 5% |  |
 | 99 | 0.2% | 4% |  |
 | 100 | 0.2% | 4% |  |
@@ -388,7 +388,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Partido Socialista Obrero Español](party-partidosocialistaobreroespañol.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-partidosocialistaobreroespañol.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-partidosocialistaobreroespañol.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -414,7 +414,7 @@ Only polls for which at least the sample size has been published are included in
 | 102 | 0.5% | 97% |  |
 | 103 | 1.1% | 97% |  |
 | 104 | 1.1% | 96% |  |
-| 105 | 0.7% | 95% |  |
+| 105 | 0.8% | 95% |  |
 | 106 | 1.0% | 94% |  |
 | 107 | 0.9% | 93% |  |
 | 108 | 1.3% | 92% |  |
@@ -428,31 +428,31 @@ Only polls for which at least the sample size has been published are included in
 | 116 | 3% | 73% |  |
 | 117 | 3% | 70% |  |
 | 118 | 3% | 67% |  |
-| 119 | 4% | 64% |  |
+| 119 | 3% | 65% |  |
 | 120 | 5% | 61% |  |
-| 121 | 5% | 56% |  |
-| 122 | 6% | 51% | Median |
-| 123 | 3% | 45% |  |
-| 124 | 2% | 42% |  |
-| 125 | 2% | 40% |  |
-| 126 | 2% | 37% |  |
-| 127 | 4% | 35% |  |
-| 128 | 1.3% | 31% |  |
-| 129 | 2% | 30% |  |
-| 130 | 2% | 28% |  |
-| 131 | 3% | 26% |  |
-| 132 | 2% | 24% |  |
-| 133 | 1.3% | 22% |  |
-| 134 | 2% | 21% |  |
-| 135 | 6% | 19% |  |
-| 136 | 2% | 12% |  |
-| 137 | 1.0% | 10% |  |
-| 138 | 2% | 9% |  |
-| 139 | 1.1% | 7% |  |
-| 140 | 0.8% | 6% |  |
+| 121 | 4% | 56% |  |
+| 122 | 6% | 52% | Median |
+| 123 | 2% | 46% |  |
+| 124 | 2% | 44% |  |
+| 125 | 2% | 42% |  |
+| 126 | 2% | 40% |  |
+| 127 | 4% | 38% |  |
+| 128 | 1.1% | 35% |  |
+| 129 | 1.4% | 33% |  |
+| 130 | 1.3% | 32% |  |
+| 131 | 2% | 31% |  |
+| 132 | 1.3% | 29% |  |
+| 133 | 1.1% | 27% |  |
+| 134 | 8% | 26% |  |
+| 135 | 6% | 18% |  |
+| 136 | 2% | 11% |  |
+| 137 | 0.8% | 9% |  |
+| 138 | 1.4% | 8% |  |
+| 139 | 1.0% | 7% |  |
+| 140 | 0.7% | 6% |  |
 | 141 | 0.7% | 5% |  |
 | 142 | 0.7% | 5% |  |
-| 143 | 0.6% | 4% |  |
+| 143 | 0.5% | 4% |  |
 | 144 | 0.4% | 3% |  |
 | 145 | 0.6% | 3% |  |
 | 146 | 0.3% | 2% |  |
@@ -474,7 +474,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Unidos Podemos](party-unidospodemos.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-unidospodemos.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-unidospodemos.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -495,21 +495,21 @@ Only polls for which at least the sample size has been published are included in
 | 30 | 3% | 91% |  |
 | 31 | 4% | 88% |  |
 | 32 | 4% | 84% |  |
-| 33 | 4% | 79% |  |
+| 33 | 4% | 80% |  |
 | 34 | 4% | 76% |  |
-| 35 | 6% | 71% |  |
-| 36 | 17% | 65% | Median |
-| 37 | 8% | 48% |  |
-| 38 | 8% | 40% |  |
-| 39 | 7% | 32% |  |
-| 40 | 9% | 25% |  |
-| 41 | 4% | 16% |  |
+| 35 | 6% | 72% |  |
+| 36 | 16% | 66% |  |
+| 37 | 14% | 50% | Median |
+| 38 | 7% | 36% |  |
+| 39 | 6% | 29% |  |
+| 40 | 8% | 23% |  |
+| 41 | 3% | 15% |  |
 | 42 | 3% | 12% |  |
-| 43 | 3% | 9% |  |
+| 43 | 2% | 9% |  |
 | 44 | 2% | 7% |  |
 | 45 | 1.0% | 5% |  |
 | 46 | 1.2% | 4% |  |
-| 47 | 0.4% | 3% |  |
+| 47 | 0.4% | 2% |  |
 | 48 | 0.5% | 2% |  |
 | 49 | 0.3% | 2% |  |
 | 50 | 0.4% | 1.3% |  |
@@ -517,7 +517,7 @@ Only polls for which at least the sample size has been published are included in
 | 52 | 0.2% | 0.8% |  |
 | 53 | 0.2% | 0.6% |  |
 | 54 | 0.1% | 0.4% |  |
-| 55 | 0.1% | 0.3% |  |
+| 55 | 0.1% | 0.2% |  |
 | 56 | 0.1% | 0.1% |  |
 | 57 | 0% | 0.1% |  |
 | 58 | 0% | 0.1% |  |
@@ -539,41 +539,41 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Ciudadanos–Partido de la Ciudadanía](party-ciudadanos–partidodelaciudadanía.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-ciudadanos–partidodelaciudadanía.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-ciudadanos–partidodelaciudadanía.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0% | 100% |  |
 | 26 | 0% | 99.9% |  |
-| 27 | 0.1% | 99.9% |  |
-| 28 | 0% | 99.8% |  |
+| 27 | 0% | 99.9% |  |
+| 28 | 0% | 99.9% |  |
 | 29 | 0.1% | 99.8% |  |
-| 30 | 0.1% | 99.7% |  |
-| 31 | 0.2% | 99.6% |  |
-| 32 | 0.2% | 99.4% | Last Result |
-| 33 | 0.5% | 99.2% |  |
-| 34 | 0.3% | 98.7% |  |
-| 35 | 0.8% | 98% |  |
-| 36 | 3% | 98% |  |
-| 37 | 2% | 95% |  |
-| 38 | 2% | 93% |  |
-| 39 | 1.3% | 91% |  |
-| 40 | 2% | 89% |  |
-| 41 | 1.4% | 88% |  |
-| 42 | 1.1% | 86% |  |
-| 43 | 1.0% | 85% |  |
-| 44 | 2% | 84% |  |
-| 45 | 2% | 82% |  |
-| 46 | 2% | 80% |  |
-| 47 | 2% | 78% |  |
-| 48 | 2% | 77% |  |
-| 49 | 3% | 75% |  |
-| 50 | 6% | 72% |  |
-| 51 | 4% | 66% |  |
-| 52 | 3% | 62% |  |
-| 53 | 5% | 59% |  |
-| 54 | 4% | 54% |  |
-| 55 | 5% | 51% | Median |
+| 30 | 0.1% | 99.8% |  |
+| 31 | 0.2% | 99.7% |  |
+| 32 | 0.2% | 99.5% | Last Result |
+| 33 | 0.5% | 99.4% |  |
+| 34 | 0.2% | 98.9% |  |
+| 35 | 0.7% | 98.6% |  |
+| 36 | 2% | 98% |  |
+| 37 | 2% | 96% |  |
+| 38 | 2% | 94% |  |
+| 39 | 1.0% | 92% |  |
+| 40 | 1.3% | 91% |  |
+| 41 | 1.0% | 90% |  |
+| 42 | 0.8% | 89% |  |
+| 43 | 0.8% | 88% |  |
+| 44 | 2% | 87% |  |
+| 45 | 2% | 85% |  |
+| 46 | 1.4% | 84% |  |
+| 47 | 2% | 82% |  |
+| 48 | 2% | 81% |  |
+| 49 | 2% | 79% |  |
+| 50 | 5% | 77% |  |
+| 51 | 4% | 72% |  |
+| 52 | 3% | 68% |  |
+| 53 | 5% | 66% |  |
+| 54 | 3% | 61% |  |
+| 55 | 12% | 57% | Median |
 | 56 | 4% | 46% |  |
 | 57 | 4% | 42% |  |
 | 58 | 3% | 38% |  |
@@ -607,7 +607,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Esquerra Republicana de Catalunya–Catalunya Sí](party-esquerrarepublicanadecatalunya–catalunyasí.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-esquerrarepublicanadecatalunya–catalunyasí.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-esquerrarepublicanadecatalunya–catalunyasí.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -620,13 +620,13 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 19% | 85% |  |
 | 12 | 5% | 66% |  |
 | 13 | 6% | 61% |  |
-| 14 | 13% | 55% | Median |
-| 15 | 17% | 42% |  |
-| 16 | 4% | 25% |  |
-| 17 | 4% | 21% |  |
-| 18 | 3% | 17% |  |
-| 19 | 3% | 14% |  |
-| 20 | 9% | 11% |  |
+| 14 | 11% | 56% | Median |
+| 15 | 24% | 44% |  |
+| 16 | 3% | 21% |  |
+| 17 | 2% | 18% |  |
+| 18 | 3% | 16% |  |
+| 19 | 3% | 13% |  |
+| 20 | 9% | 10% |  |
 | 21 | 1.2% | 2% |  |
 | 22 | 0.2% | 0.4% |  |
 | 23 | 0.1% | 0.2% |  |
@@ -637,17 +637,17 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Partit Demòcrata Europeu Català](party-partitdemòcrataeuropeucatalà.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-partitdemòcrataeuropeucatalà.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-partitdemòcrataeuropeucatalà.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 4% | 99.9% |  |
-| 2 | 1.5% | 95% |  |
-| 3 | 15% | 94% |  |
-| 4 | 14% | 79% |  |
-| 5 | 20% | 65% | Median |
-| 6 | 19% | 44% |  |
+| 1 | 3% | 99.9% |  |
+| 2 | 0.7% | 97% |  |
+| 3 | 13% | 96% |  |
+| 4 | 21% | 83% |  |
+| 5 | 19% | 62% | Median |
+| 6 | 18% | 43% |  |
 | 7 | 5% | 26% |  |
 | 8 | 15% | 21% | Last Result |
 | 9 | 2% | 6% |  |
@@ -664,18 +664,18 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco](party-euzkoalderdijeltzaleapartidonacionalistavasco.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-euzkoalderdijeltzaleapartidonacionalistavasco.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-euzkoalderdijeltzaleapartidonacionalistavasco.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.2% | 100% |  |
-| 2 | 0.6% | 99.8% |  |
-| 3 | 6% | 99.2% |  |
-| 4 | 5% | 93% |  |
-| 5 | 4% | 88% | Last Result |
-| 6 | 52% | 84% | Median |
-| 7 | 18% | 32% |  |
-| 8 | 9% | 15% |  |
+| 2 | 0.5% | 99.8% |  |
+| 3 | 5% | 99.3% |  |
+| 4 | 14% | 94% |  |
+| 5 | 3% | 80% | Last Result |
+| 6 | 46% | 77% | Median |
+| 7 | 16% | 31% |  |
+| 8 | 9% | 14% |  |
 | 9 | 2% | 5% |  |
 | 10 | 3% | 4% |  |
 | 11 | 0.3% | 0.8% |  |
@@ -688,33 +688,33 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Partido Animalista Contra el Maltrato Animal](party-partidoanimalistacontraelmaltratoanimal.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-partidoanimalistacontraelmaltratoanimal.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-partidoanimalistacontraelmaltratoanimal.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Last Result, Median |
-| 1 | 13% | 13% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 4% | 4% |  |
 | 2 | 0% | 0% |  |
 
 ### Euskal Herria Bildu
 
 *For a full overview of the results for this party, see the [Euskal Herria Bildu](party-euskalherriabildu.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-euskalherriabildu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-euskalherriabildu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.2% | 100% |  |
 | 1 | 6% | 98.8% |  |
-| 2 | 26% | 93% | Last Result |
+| 2 | 25% | 93% | Last Result |
 | 3 | 9% | 67% |  |
-| 4 | 23% | 58% | Median |
-| 5 | 19% | 35% |  |
-| 6 | 9% | 17% |  |
-| 7 | 7% | 8% |  |
-| 8 | 0.5% | 1.3% |  |
-| 9 | 0.6% | 0.8% |  |
-| 10 | 0.1% | 0.3% |  |
+| 4 | 21% | 59% | Median |
+| 5 | 16% | 38% |  |
+| 6 | 6% | 22% |  |
+| 7 | 15% | 17% |  |
+| 8 | 0.5% | 1.4% |  |
+| 9 | 0.5% | 0.9% |  |
+| 10 | 0.2% | 0.4% |  |
 | 11 | 0.1% | 0.2% |  |
 | 12 | 0% | 0.1% |  |
 | 13 | 0% | 0% |  |
@@ -723,7 +723,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Coalición Canaria–Partido Nacionalista Canario](party-coalicióncanaria–partidonacionalistacanario.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-coalicióncanaria–partidonacionalistacanario.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-coalicióncanaria–partidonacionalistacanario.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -739,7 +739,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Vox](party-vox.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-vox.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--seats-pmf-vox.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -755,24 +755,24 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0.2% | 99.7% |  |
 | 10 | 0.3% | 99.5% |  |
 | 11 | 0.5% | 99.2% |  |
-| 12 | 5% | 98.6% |  |
+| 12 | 5% | 98.7% |  |
 | 13 | 0.5% | 94% |  |
-| 14 | 1.2% | 93% |  |
-| 15 | 1.1% | 92% |  |
-| 16 | 1.0% | 91% |  |
-| 17 | 2% | 90% |  |
-| 18 | 2% | 89% |  |
-| 19 | 2% | 86% |  |
-| 20 | 2% | 84% |  |
-| 21 | 5% | 82% |  |
-| 22 | 3% | 77% |  |
-| 23 | 3% | 75% |  |
-| 24 | 4% | 71% |  |
-| 25 | 4% | 67% |  |
-| 26 | 8% | 63% |  |
-| 27 | 5% | 56% |  |
-| 28 | 4% | 51% | Median |
-| 29 | 4% | 47% |  |
+| 14 | 8% | 93% |  |
+| 15 | 1.1% | 86% |  |
+| 16 | 0.9% | 85% |  |
+| 17 | 1.4% | 84% |  |
+| 18 | 2% | 82% |  |
+| 19 | 1.3% | 80% |  |
+| 20 | 2% | 79% |  |
+| 21 | 5% | 77% |  |
+| 22 | 2% | 72% |  |
+| 23 | 2% | 70% |  |
+| 24 | 3% | 68% |  |
+| 25 | 3% | 65% |  |
+| 26 | 8% | 62% |  |
+| 27 | 4% | 54% | Median |
+| 28 | 3% | 50% |  |
+| 29 | 4% | 46% |  |
 | 30 | 6% | 42% |  |
 | 31 | 3% | 36% |  |
 | 32 | 4% | 33% |  |
@@ -806,33 +806,33 @@ Only polls for which at least the sample size has been published are included in
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](average--coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partido Popular – Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía | 254 | 257 | 100% | 241–266 | 236–270 | 231–273 | 225–278 |
-| Partido Socialista Obrero Español – Unidos Podemos – Ciudadanos–Partido de la Ciudadanía | 188 | 211 | 99.5% | 197–234 | 191–239 | 186–242 | 175–252 |
-| Partido Popular – Partido Socialista Obrero Español | 222 | 201 | 99.6% | 189–217 | 185–224 | 183–226 | 176–231 |
-| Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco – Euskal Herria Bildu | 180 | 187 | 88% | 174–207 | 169–209 | 164–212 | 154–222 |
-| Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía | 117 | 175 | 46% | 161–198 | 156–199 | 152–204 | 143–209 |
-| Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català | 173 | 177 | 55% | 164–197 | 159–198 | 154–203 | 144–211 |
-| Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Euskal Herria Bildu | 167 | 174 | 45% | 161–194 | 155–200 | 150–202 | 141–213 |
-| Partido Socialista Obrero Español – Unidos Podemos – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco – Euskal Herria Bildu | 163 | 169 | 24% | 155–186 | 149–189 | 144–193 | 134–200 |
-| Partido Socialista Obrero Español – Unidos Podemos – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | 161 | 165 | 18% | 151–181 | 145–185 | 140–189 | 130–196 |
-| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Vox | 169 | 162 | 9% | 142–175 | 141–180 | 137–185 | 127–195 |
-| Partido Socialista Obrero Español – Unidos Podemos | 156 | 158 | 7% | 145–175 | 139–179 | 133–183 | 123–190 |
-| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | 174 | 137 | 0.6% | 124–156 | 121–160 | 118–167 | 112–176 |
-| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Coalición Canaria–Partido Nacionalista Canario | 170 | 132 | 0.3% | 120–150 | 117–155 | 114–161 | 108–170 |
-| Partido Popular – Ciudadanos–Partido de la Ciudadanía | 169 | 131 | 0.2% | 119–150 | 115–154 | 112–160 | 107–169 |
+| Partido Popular – Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía | 254 | 258 | 100% | 241–268 | 236–270 | 231–273 | 225–278 |
+| Partido Socialista Obrero Español – Unidos Podemos – Ciudadanos–Partido de la Ciudadanía | 188 | 213 | 99.5% | 197–234 | 191–239 | 186–242 | 175–252 |
+| Partido Popular – Partido Socialista Obrero Español | 222 | 201 | 99.6% | 189–216 | 185–224 | 183–226 | 176–231 |
+| Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco – Euskal Herria Bildu | 180 | 187 | 88% | 174–206 | 169–209 | 164–212 | 154–222 |
+| Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía | 117 | 176 | 52% | 161–198 | 157–199 | 152–204 | 143–209 |
+| Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català | 173 | 177 | 56% | 164–196 | 159–198 | 154–203 | 144–211 |
+| Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Euskal Herria Bildu | 167 | 174 | 45% | 161–193 | 155–200 | 150–202 | 141–213 |
+| Partido Socialista Obrero Español – Unidos Podemos – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco – Euskal Herria Bildu | 163 | 169 | 28% | 155–186 | 149–188 | 144–193 | 134–200 |
+| Partido Socialista Obrero Español – Unidos Podemos – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | 161 | 165 | 16% | 151–181 | 145–184 | 140–189 | 130–196 |
+| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Vox | 169 | 162 | 9% | 143–175 | 141–180 | 137–185 | 127–195 |
+| Partido Socialista Obrero Español – Unidos Podemos | 156 | 158 | 7% | 145–175 | 139–178 | 133–183 | 123–190 |
+| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco | 174 | 138 | 0.6% | 125–156 | 121–160 | 118–167 | 112–176 |
+| Partido Popular – Ciudadanos–Partido de la Ciudadanía – Coalición Canaria–Partido Nacionalista Canario | 170 | 133 | 0.3% | 120–150 | 117–155 | 114–161 | 108–170 |
+| Partido Popular – Ciudadanos–Partido de la Ciudadanía | 169 | 132 | 0.2% | 119–150 | 115–154 | 112–160 | 107–169 |
 | Partido Socialista Obrero Español | 85 | 122 | 0% | 109–136 | 104–141 | 101–145 | 93–152 |
-| Partido Popular – Vox | 137 | 109 | 0% | 86–123 | 77–126 | 76–131 | 66–142 |
-| Partido Popular | 137 | 79 | 0% | 65–92 | 64–97 | 60–105 | 54–114 |
+| Partido Popular – Vox | 137 | 108 | 0% | 86–123 | 77–126 | 76–131 | 66–142 |
+| Partido Popular | 137 | 79 | 0% | 65–91 | 64–97 | 60–105 | 54–114 |
 
 ### Partido Popular – Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pp–psoe–cs.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-pp–psoe–cs.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -868,26 +868,26 @@ Only polls for which at least the sample size has been published are included in
 | 247 | 2% | 81% |  |
 | 248 | 2% | 80% |  |
 | 249 | 3% | 78% |  |
-| 250 | 4% | 75% |  |
-| 251 | 3% | 71% |  |
-| 252 | 3% | 69% |  |
-| 253 | 3% | 66% |  |
-| 254 | 3% | 63% | Last Result |
-| 255 | 5% | 60% |  |
-| 256 | 4% | 56% | Median |
-| 257 | 4% | 52% |  |
-| 258 | 3% | 48% |  |
-| 259 | 4% | 45% |  |
-| 260 | 4% | 42% |  |
-| 261 | 10% | 37% |  |
-| 262 | 5% | 28% |  |
-| 263 | 2% | 22% |  |
-| 264 | 7% | 20% |  |
-| 265 | 2% | 13% |  |
-| 266 | 2% | 11% |  |
-| 267 | 2% | 9% |  |
-| 268 | 1.2% | 7% |  |
-| 269 | 1.1% | 6% |  |
+| 250 | 3% | 75% |  |
+| 251 | 2% | 72% |  |
+| 252 | 2% | 69% |  |
+| 253 | 2% | 67% |  |
+| 254 | 3% | 64% | Last Result |
+| 255 | 4% | 62% |  |
+| 256 | 3% | 58% | Median |
+| 257 | 3% | 55% |  |
+| 258 | 2% | 52% |  |
+| 259 | 3% | 49% |  |
+| 260 | 3% | 46% |  |
+| 261 | 10% | 43% |  |
+| 262 | 5% | 33% |  |
+| 263 | 2% | 28% |  |
+| 264 | 7% | 26% |  |
+| 265 | 2% | 19% |  |
+| 266 | 2% | 17% |  |
+| 267 | 2% | 16% |  |
+| 268 | 8% | 14% |  |
+| 269 | 1.0% | 6% |  |
 | 270 | 0.8% | 5% |  |
 | 271 | 0.9% | 4% |  |
 | 272 | 0.8% | 3% |  |
@@ -911,7 +911,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Socialista Obrero Español – Unidos Podemos – Ciudadanos–Partido de la Ciudadanía
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-psoe–up–cs.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-psoe–up–cs.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -939,7 +939,7 @@ Only polls for which at least the sample size has been published are included in
 | 184 | 0.1% | 98.5% |  |
 | 185 | 0.2% | 98% |  |
 | 186 | 1.0% | 98% |  |
-| 187 | 0.3% | 97% |  |
+| 187 | 0.2% | 97% |  |
 | 188 | 0.3% | 97% | Last Result |
 | 189 | 0.3% | 97% |  |
 | 190 | 0.6% | 96% |  |
@@ -952,33 +952,33 @@ Only polls for which at least the sample size has been published are included in
 | 197 | 1.0% | 90% |  |
 | 198 | 2% | 89% |  |
 | 199 | 1.3% | 87% |  |
-| 200 | 2% | 86% |  |
+| 200 | 1.5% | 86% |  |
 | 201 | 3% | 84% |  |
-| 202 | 2% | 81% |  |
-| 203 | 3% | 79% |  |
-| 204 | 3% | 76% |  |
-| 205 | 4% | 73% |  |
-| 206 | 3% | 69% |  |
-| 207 | 3% | 66% |  |
-| 208 | 3% | 64% |  |
-| 209 | 7% | 61% |  |
-| 210 | 2% | 54% |  |
-| 211 | 3% | 52% |  |
-| 212 | 3% | 49% |  |
-| 213 | 3% | 46% | Median |
-| 214 | 4% | 43% |  |
-| 215 | 3% | 39% |  |
-| 216 | 3% | 36% |  |
-| 217 | 7% | 33% |  |
-| 218 | 2% | 27% |  |
-| 219 | 2% | 24% |  |
-| 220 | 4% | 23% |  |
-| 221 | 2% | 19% |  |
-| 222 | 0.9% | 17% |  |
-| 223 | 0.8% | 16% |  |
-| 224 | 0.8% | 16% |  |
-| 225 | 0.7% | 15% |  |
-| 226 | 0.5% | 14% |  |
+| 202 | 2% | 82% |  |
+| 203 | 2% | 79% |  |
+| 204 | 3% | 77% |  |
+| 205 | 4% | 74% |  |
+| 206 | 3% | 70% |  |
+| 207 | 2% | 68% |  |
+| 208 | 2% | 65% |  |
+| 209 | 5% | 63% |  |
+| 210 | 2% | 58% |  |
+| 211 | 3% | 56% |  |
+| 212 | 2% | 53% |  |
+| 213 | 3% | 51% |  |
+| 214 | 4% | 48% | Median |
+| 215 | 2% | 44% |  |
+| 216 | 3% | 42% |  |
+| 217 | 7% | 39% |  |
+| 218 | 2% | 33% |  |
+| 219 | 2% | 31% |  |
+| 220 | 4% | 29% |  |
+| 221 | 2% | 25% |  |
+| 222 | 0.8% | 23% |  |
+| 223 | 0.7% | 23% |  |
+| 224 | 0.8% | 22% |  |
+| 225 | 0.6% | 21% |  |
+| 226 | 7% | 21% |  |
 | 227 | 0.5% | 14% |  |
 | 228 | 0.4% | 13% |  |
 | 229 | 0.4% | 13% |  |
@@ -1013,7 +1013,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Popular – Partido Socialista Obrero Español
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pp–psoe.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-pp–psoe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1053,32 +1053,32 @@ Only polls for which at least the sample size has been published are included in
 | 201 | 6% | 51% | Median |
 | 202 | 7% | 45% |  |
 | 203 | 4% | 38% |  |
-| 204 | 4% | 34% |  |
-| 205 | 2% | 30% |  |
-| 206 | 2% | 28% |  |
+| 204 | 4% | 35% |  |
+| 205 | 2% | 31% |  |
+| 206 | 2% | 29% |  |
 | 207 | 2% | 26% |  |
-| 208 | 1.4% | 24% |  |
-| 209 | 2% | 23% |  |
-| 210 | 2% | 21% |  |
-| 211 | 2% | 19% |  |
-| 212 | 2% | 17% |  |
-| 213 | 1.4% | 15% |  |
-| 214 | 0.8% | 14% |  |
-| 215 | 1.3% | 13% |  |
-| 216 | 1.0% | 12% |  |
-| 217 | 0.9% | 11% |  |
-| 218 | 0.9% | 10% |  |
-| 219 | 0.4% | 9% |  |
-| 220 | 0.9% | 9% |  |
-| 221 | 0.6% | 8% |  |
-| 222 | 0.5% | 7% | Last Result |
-| 223 | 1.0% | 7% |  |
-| 224 | 1.0% | 6% |  |
-| 225 | 1.2% | 5% |  |
-| 226 | 2% | 4% |  |
+| 208 | 1.3% | 25% |  |
+| 209 | 1.3% | 23% |  |
+| 210 | 0.9% | 22% |  |
+| 211 | 1.0% | 21% |  |
+| 212 | 0.9% | 20% |  |
+| 213 | 7% | 19% |  |
+| 214 | 0.7% | 12% |  |
+| 215 | 0.9% | 11% |  |
+| 216 | 0.7% | 10% |  |
+| 217 | 0.6% | 9% |  |
+| 218 | 0.5% | 9% |  |
+| 219 | 0.3% | 8% |  |
+| 220 | 0.6% | 8% |  |
+| 221 | 0.5% | 7% |  |
+| 222 | 0.4% | 7% | Last Result |
+| 223 | 0.9% | 6% |  |
+| 224 | 0.9% | 5% |  |
+| 225 | 1.1% | 5% |  |
+| 226 | 2% | 3% |  |
 | 227 | 0.7% | 2% |  |
-| 228 | 0.3% | 1.3% |  |
-| 229 | 0.3% | 1.0% |  |
+| 228 | 0.3% | 1.2% |  |
+| 229 | 0.2% | 0.9% |  |
 | 230 | 0.1% | 0.7% |  |
 | 231 | 0.2% | 0.6% |  |
 | 232 | 0.1% | 0.4% |  |
@@ -1094,7 +1094,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco – Euskal Herria Bildu
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-psoe–up–erc–pdecat–eajpnv–ehbildu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-psoe–up–erc–pdecat–eajpnv–ehbildu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1137,39 +1137,39 @@ Only polls for which at least the sample size has been published are included in
 | 179 | 3% | 80% |  |
 | 180 | 2% | 77% | Last Result |
 | 181 | 2% | 75% |  |
-| 182 | 3% | 72% |  |
+| 182 | 3% | 73% |  |
 | 183 | 6% | 69% |  |
-| 184 | 3% | 63% |  |
+| 184 | 3% | 64% |  |
 | 185 | 7% | 60% |  |
 | 186 | 3% | 53% |  |
-| 187 | 3% | 50% | Median |
-| 188 | 4% | 48% |  |
+| 187 | 3% | 51% |  |
+| 188 | 4% | 48% | Median |
 | 189 | 3% | 44% |  |
-| 190 | 3% | 40% |  |
-| 191 | 3% | 37% |  |
-| 192 | 5% | 34% |  |
-| 193 | 2% | 29% |  |
-| 194 | 3% | 27% |  |
-| 195 | 2% | 24% |  |
-| 196 | 2% | 23% |  |
-| 197 | 2% | 20% |  |
-| 198 | 1.3% | 19% |  |
-| 199 | 2% | 18% |  |
-| 200 | 1.1% | 16% |  |
-| 201 | 1.0% | 15% |  |
-| 202 | 1.1% | 14% |  |
-| 203 | 0.7% | 13% |  |
-| 204 | 0.6% | 12% |  |
-| 205 | 0.6% | 11% |  |
-| 206 | 0.6% | 11% |  |
-| 207 | 0.7% | 10% |  |
+| 190 | 2% | 41% |  |
+| 191 | 3% | 39% |  |
+| 192 | 5% | 36% |  |
+| 193 | 2% | 32% |  |
+| 194 | 2% | 30% |  |
+| 195 | 1.5% | 28% |  |
+| 196 | 2% | 26% |  |
+| 197 | 1.1% | 24% |  |
+| 198 | 1.1% | 23% |  |
+| 199 | 1.4% | 22% |  |
+| 200 | 1.0% | 21% |  |
+| 201 | 7% | 20% |  |
+| 202 | 0.7% | 12% |  |
+| 203 | 0.5% | 12% |  |
+| 204 | 0.5% | 11% |  |
+| 205 | 0.5% | 11% |  |
+| 206 | 0.4% | 10% |  |
+| 207 | 0.5% | 10% |  |
 | 208 | 0.5% | 9% |  |
 | 209 | 5% | 9% |  |
 | 210 | 0.5% | 4% |  |
 | 211 | 0.7% | 4% |  |
 | 212 | 0.5% | 3% |  |
 | 213 | 0.3% | 2% |  |
-| 214 | 0.3% | 2% |  |
+| 214 | 0.2% | 2% |  |
 | 215 | 0.3% | 2% |  |
 | 216 | 0.1% | 2% |  |
 | 217 | 0.3% | 1.5% |  |
@@ -1178,7 +1178,7 @@ Only polls for which at least the sample size has been published are included in
 | 220 | 0.1% | 0.7% |  |
 | 221 | 0.1% | 0.6% |  |
 | 222 | 0.2% | 0.5% |  |
-| 223 | 0.1% | 0.4% |  |
+| 223 | 0.1% | 0.3% |  |
 | 224 | 0% | 0.2% |  |
 | 225 | 0.1% | 0.2% |  |
 | 226 | 0% | 0.1% |  |
@@ -1188,7 +1188,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Socialista Obrero Español – Ciudadanos–Partido de la Ciudadanía
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-psoe–cs.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-psoe–cs.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1228,44 +1228,44 @@ Only polls for which at least the sample size has been published are included in
 | 150 | 0.2% | 98% |  |
 | 151 | 0.3% | 98% |  |
 | 152 | 0.4% | 98% |  |
-| 153 | 0.8% | 97% |  |
+| 153 | 0.7% | 97% |  |
 | 154 | 0.7% | 97% |  |
 | 155 | 0.4% | 96% |  |
 | 156 | 0.6% | 96% |  |
 | 157 | 1.2% | 95% |  |
 | 158 | 1.4% | 94% |  |
 | 159 | 1.0% | 92% |  |
-| 160 | 1.3% | 91% |  |
-| 161 | 1.2% | 90% |  |
-| 162 | 1.5% | 89% |  |
-| 163 | 2% | 87% |  |
-| 164 | 2% | 85% |  |
-| 165 | 2% | 83% |  |
-| 166 | 2% | 81% |  |
-| 167 | 3% | 79% |  |
-| 168 | 3% | 76% |  |
-| 169 | 2% | 74% |  |
-| 170 | 6% | 71% |  |
-| 171 | 4% | 66% |  |
-| 172 | 3% | 62% |  |
-| 173 | 5% | 58% |  |
-| 174 | 4% | 54% |  |
-| 175 | 4% | 50% |  |
-| 176 | 3% | 46% | Majority |
-| 177 | 4% | 44% | Median |
-| 178 | 3% | 39% |  |
-| 179 | 2% | 37% |  |
-| 180 | 2% | 35% |  |
-| 181 | 6% | 33% |  |
-| 182 | 3% | 27% |  |
-| 183 | 1.5% | 24% |  |
-| 184 | 2% | 22% |  |
-| 185 | 2% | 20% |  |
-| 186 | 1.0% | 18% |  |
-| 187 | 0.9% | 17% |  |
-| 188 | 0.7% | 16% |  |
-| 189 | 0.5% | 15% |  |
-| 190 | 0.5% | 15% |  |
+| 160 | 1.2% | 91% |  |
+| 161 | 1.1% | 90% |  |
+| 162 | 1.4% | 89% |  |
+| 163 | 2% | 88% |  |
+| 164 | 2% | 86% |  |
+| 165 | 2% | 84% |  |
+| 166 | 2% | 82% |  |
+| 167 | 3% | 81% |  |
+| 168 | 2% | 77% |  |
+| 169 | 2% | 75% |  |
+| 170 | 5% | 73% |  |
+| 171 | 3% | 68% |  |
+| 172 | 3% | 65% |  |
+| 173 | 4% | 62% |  |
+| 174 | 3% | 58% |  |
+| 175 | 3% | 55% |  |
+| 176 | 2% | 52% | Majority |
+| 177 | 4% | 49% | Median |
+| 178 | 2% | 45% |  |
+| 179 | 2% | 43% |  |
+| 180 | 2% | 41% |  |
+| 181 | 6% | 39% |  |
+| 182 | 3% | 33% |  |
+| 183 | 1.4% | 30% |  |
+| 184 | 2% | 28% |  |
+| 185 | 2% | 26% |  |
+| 186 | 1.0% | 24% |  |
+| 187 | 0.8% | 23% |  |
+| 188 | 0.7% | 22% |  |
+| 189 | 7% | 22% |  |
+| 190 | 0.5% | 14% |  |
 | 191 | 0.4% | 14% |  |
 | 192 | 0.4% | 14% |  |
 | 193 | 0.4% | 13% |  |
@@ -1295,7 +1295,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-psoe–up–erc–pdecat.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-psoe–up–erc–pdecat.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1343,34 +1343,34 @@ Only polls for which at least the sample size has been published are included in
 | 173 | 6% | 70% | Last Result |
 | 174 | 6% | 65% |  |
 | 175 | 3% | 58% |  |
-| 176 | 3% | 55% | Majority |
-| 177 | 3% | 53% | Median |
-| 178 | 3% | 49% |  |
-| 179 | 4% | 47% |  |
-| 180 | 3% | 42% |  |
-| 181 | 3% | 39% |  |
-| 182 | 2% | 36% |  |
-| 183 | 3% | 34% |  |
-| 184 | 5% | 31% |  |
-| 185 | 2% | 26% |  |
-| 186 | 3% | 24% |  |
-| 187 | 2% | 22% |  |
-| 188 | 3% | 20% |  |
-| 189 | 1.2% | 17% |  |
-| 190 | 1.3% | 16% |  |
-| 191 | 1.0% | 15% |  |
-| 192 | 0.9% | 14% |  |
-| 193 | 0.7% | 13% |  |
-| 194 | 0.6% | 12% |  |
-| 195 | 0.6% | 12% |  |
-| 196 | 0.7% | 11% |  |
-| 197 | 0.5% | 10% |  |
-| 198 | 5% | 10% |  |
+| 176 | 3% | 56% | Majority |
+| 177 | 3% | 53% |  |
+| 178 | 2% | 50% | Median |
+| 179 | 3% | 47% |  |
+| 180 | 3% | 44% |  |
+| 181 | 2% | 41% |  |
+| 182 | 2% | 38% |  |
+| 183 | 2% | 37% |  |
+| 184 | 5% | 34% |  |
+| 185 | 1.3% | 29% |  |
+| 186 | 2% | 28% |  |
+| 187 | 1.4% | 26% |  |
+| 188 | 2% | 24% |  |
+| 189 | 0.9% | 22% |  |
+| 190 | 8% | 21% |  |
+| 191 | 0.8% | 13% |  |
+| 192 | 0.7% | 13% |  |
+| 193 | 0.6% | 12% |  |
+| 194 | 0.5% | 11% |  |
+| 195 | 0.5% | 11% |  |
+| 196 | 0.5% | 10% |  |
+| 197 | 0.4% | 10% |  |
+| 198 | 5% | 9% |  |
 | 199 | 0.8% | 5% |  |
-| 200 | 0.5% | 4% |  |
+| 200 | 0.4% | 4% |  |
 | 201 | 0.6% | 4% |  |
 | 202 | 0.4% | 3% |  |
-| 203 | 0.4% | 3% |  |
+| 203 | 0.3% | 3% |  |
 | 204 | 0.3% | 2% |  |
 | 205 | 0.3% | 2% |  |
 | 206 | 0.3% | 2% |  |
@@ -1389,7 +1389,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Socialista Obrero Español – Unidos Podemos – Esquerra Republicana de Catalunya–Catalunya Sí – Euskal Herria Bildu
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-psoe–up–erc–ehbildu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-psoe–up–erc–ehbildu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1441,40 +1441,40 @@ Only polls for which at least the sample size has been published are included in
 | 172 | 3% | 62% |  |
 | 173 | 6% | 58% |  |
 | 174 | 4% | 52% |  |
-| 175 | 4% | 48% |  |
-| 176 | 3% | 45% | Median, Majority |
-| 177 | 2% | 42% |  |
-| 178 | 5% | 40% |  |
+| 175 | 4% | 49% |  |
+| 176 | 3% | 45% | Majority |
+| 177 | 2% | 42% | Median |
+| 178 | 4% | 40% |  |
 | 179 | 2% | 35% |  |
-| 180 | 3% | 33% |  |
-| 181 | 3% | 30% |  |
-| 182 | 3% | 27% |  |
-| 183 | 2% | 24% |  |
-| 184 | 2% | 22% |  |
-| 185 | 1.3% | 20% |  |
-| 186 | 1.1% | 18% |  |
-| 187 | 1.1% | 17% |  |
-| 188 | 0.9% | 16% |  |
-| 189 | 1.3% | 15% |  |
-| 190 | 0.8% | 14% |  |
-| 191 | 0.9% | 13% |  |
-| 192 | 0.8% | 12% |  |
-| 193 | 0.9% | 12% |  |
-| 194 | 0.8% | 11% |  |
-| 195 | 0.6% | 10% |  |
-| 196 | 0.6% | 9% |  |
-| 197 | 0.5% | 9% |  |
-| 198 | 0.4% | 8% |  |
-| 199 | 0.4% | 8% |  |
+| 180 | 2% | 33% |  |
+| 181 | 2% | 31% |  |
+| 182 | 3% | 29% |  |
+| 183 | 2% | 26% |  |
+| 184 | 2% | 24% |  |
+| 185 | 0.9% | 23% |  |
+| 186 | 0.9% | 22% |  |
+| 187 | 1.0% | 21% |  |
+| 188 | 0.6% | 20% |  |
+| 189 | 1.2% | 19% |  |
+| 190 | 0.6% | 18% |  |
+| 191 | 0.5% | 18% |  |
+| 192 | 0.5% | 17% |  |
+| 193 | 7% | 17% |  |
+| 194 | 0.5% | 9% |  |
+| 195 | 0.5% | 9% |  |
+| 196 | 0.4% | 8% |  |
+| 197 | 0.4% | 8% |  |
+| 198 | 0.3% | 8% |  |
+| 199 | 0.2% | 7% |  |
 | 200 | 4% | 7% |  |
-| 201 | 0.3% | 3% |  |
+| 201 | 0.2% | 3% |  |
 | 202 | 0.3% | 3% |  |
 | 203 | 0.3% | 2% |  |
 | 204 | 0.4% | 2% |  |
-| 205 | 0.2% | 2% |  |
-| 206 | 0.1% | 2% |  |
-| 207 | 0.3% | 1.4% |  |
-| 208 | 0.1% | 1.2% |  |
+| 205 | 0.1% | 2% |  |
+| 206 | 0.1% | 1.5% |  |
+| 207 | 0.2% | 1.4% |  |
+| 208 | 0% | 1.1% |  |
 | 209 | 0.2% | 1.1% |  |
 | 210 | 0.1% | 0.9% |  |
 | 211 | 0% | 0.7% |  |
@@ -1490,7 +1490,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Socialista Obrero Español – Unidos Podemos – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco – Euskal Herria Bildu
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-psoe–up–eajpnv–ehbildu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-psoe–up–eajpnv–ehbildu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1536,38 +1536,38 @@ Only polls for which at least the sample size has been published are included in
 | 161 | 3% | 77% |  |
 | 162 | 3% | 74% |  |
 | 163 | 3% | 71% | Last Result |
-| 164 | 3% | 67% |  |
+| 164 | 3% | 68% |  |
 | 165 | 3% | 64% |  |
 | 166 | 4% | 61% |  |
-| 167 | 4% | 57% |  |
-| 168 | 3% | 53% | Median |
-| 169 | 7% | 50% |  |
-| 170 | 3% | 43% |  |
-| 171 | 2% | 40% |  |
-| 172 | 4% | 38% |  |
-| 173 | 4% | 34% |  |
-| 174 | 3% | 30% |  |
-| 175 | 3% | 27% |  |
-| 176 | 2% | 24% | Majority |
-| 177 | 2% | 22% |  |
-| 178 | 2% | 20% |  |
-| 179 | 1.2% | 19% |  |
-| 180 | 0.9% | 17% |  |
-| 181 | 2% | 16% |  |
-| 182 | 0.9% | 15% |  |
-| 183 | 1.2% | 14% |  |
-| 184 | 0.9% | 13% |  |
-| 185 | 0.7% | 12% |  |
-| 186 | 5% | 11% |  |
-| 187 | 0.6% | 6% |  |
-| 188 | 0.7% | 6% |  |
-| 189 | 0.6% | 5% |  |
-| 190 | 0.8% | 5% |  |
+| 167 | 4% | 58% |  |
+| 168 | 3% | 53% |  |
+| 169 | 6% | 50% | Median |
+| 170 | 2% | 44% |  |
+| 171 | 2% | 42% |  |
+| 172 | 3% | 39% |  |
+| 173 | 4% | 36% |  |
+| 174 | 2% | 32% |  |
+| 175 | 2% | 30% |  |
+| 176 | 1.5% | 28% | Majority |
+| 177 | 2% | 26% |  |
+| 178 | 2% | 25% |  |
+| 179 | 1.1% | 23% |  |
+| 180 | 0.8% | 22% |  |
+| 181 | 1.4% | 21% |  |
+| 182 | 7% | 20% |  |
+| 183 | 0.7% | 12% |  |
+| 184 | 0.6% | 12% |  |
+| 185 | 0.5% | 11% |  |
+| 186 | 5% | 10% |  |
+| 187 | 0.5% | 6% |  |
+| 188 | 0.5% | 5% |  |
+| 189 | 0.5% | 5% |  |
+| 190 | 0.7% | 4% |  |
 | 191 | 0.4% | 4% |  |
 | 192 | 0.4% | 3% |  |
 | 193 | 0.6% | 3% |  |
-| 194 | 0.4% | 2% |  |
-| 195 | 0.3% | 2% |  |
+| 194 | 0.3% | 2% |  |
+| 195 | 0.2% | 2% |  |
 | 196 | 0.3% | 2% |  |
 | 197 | 0.4% | 1.4% |  |
 | 198 | 0.2% | 1.0% |  |
@@ -1583,7 +1583,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Socialista Obrero Español – Unidos Podemos – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-psoe–up–eajpnv.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-psoe–up–eajpnv.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1625,58 +1625,58 @@ Only polls for which at least the sample size has been published are included in
 | 153 | 1.4% | 88% |  |
 | 154 | 2% | 87% |  |
 | 155 | 5% | 85% |  |
-| 156 | 3% | 80% |  |
+| 156 | 3% | 81% |  |
 | 157 | 2% | 78% |  |
 | 158 | 3% | 75% |  |
 | 159 | 4% | 72% |  |
 | 160 | 3% | 69% |  |
-| 161 | 3% | 66% | Last Result |
-| 162 | 4% | 63% |  |
-| 163 | 3% | 59% |  |
-| 164 | 3% | 56% | Median |
-| 165 | 8% | 53% |  |
-| 166 | 4% | 45% |  |
-| 167 | 3% | 41% |  |
-| 168 | 3% | 39% |  |
-| 169 | 2% | 36% |  |
-| 170 | 3% | 34% |  |
-| 171 | 5% | 31% |  |
-| 172 | 2% | 26% |  |
-| 173 | 3% | 24% |  |
-| 174 | 2% | 21% |  |
-| 175 | 1.2% | 19% |  |
-| 176 | 2% | 18% | Majority |
-| 177 | 1.4% | 16% |  |
-| 178 | 1.0% | 15% |  |
-| 179 | 0.9% | 14% |  |
-| 180 | 0.8% | 13% |  |
-| 181 | 5% | 12% |  |
-| 182 | 0.6% | 7% |  |
-| 183 | 0.7% | 6% |  |
-| 184 | 0.8% | 6% |  |
+| 161 | 2% | 66% | Last Result |
+| 162 | 4% | 64% |  |
+| 163 | 3% | 60% |  |
+| 164 | 3% | 57% |  |
+| 165 | 7% | 54% | Median |
+| 166 | 3% | 47% |  |
+| 167 | 2% | 44% |  |
+| 168 | 3% | 41% |  |
+| 169 | 2% | 38% |  |
+| 170 | 2% | 36% |  |
+| 171 | 4% | 34% |  |
+| 172 | 2% | 30% |  |
+| 173 | 2% | 28% |  |
+| 174 | 2% | 26% |  |
+| 175 | 8% | 24% |  |
+| 176 | 2% | 16% | Majority |
+| 177 | 0.9% | 14% |  |
+| 178 | 0.7% | 13% |  |
+| 179 | 0.7% | 13% |  |
+| 180 | 0.6% | 12% |  |
+| 181 | 5% | 11% |  |
+| 182 | 0.5% | 7% |  |
+| 183 | 0.5% | 6% |  |
+| 184 | 0.7% | 6% |  |
 | 185 | 0.4% | 5% |  |
-| 186 | 0.5% | 5% |  |
+| 186 | 0.5% | 4% |  |
 | 187 | 0.5% | 4% |  |
-| 188 | 0.7% | 4% |  |
-| 189 | 0.5% | 3% |  |
+| 188 | 0.6% | 3% |  |
+| 189 | 0.4% | 3% |  |
 | 190 | 0.4% | 2% |  |
-| 191 | 0.3% | 2% |  |
+| 191 | 0.2% | 2% |  |
 | 192 | 0.4% | 2% |  |
 | 193 | 0.3% | 1.4% |  |
-| 194 | 0.3% | 1.1% |  |
+| 194 | 0.3% | 1.0% |  |
 | 195 | 0.2% | 0.8% |  |
 | 196 | 0.2% | 0.6% |  |
 | 197 | 0.1% | 0.4% |  |
 | 198 | 0.1% | 0.3% |  |
 | 199 | 0% | 0.2% |  |
 | 200 | 0% | 0.2% |  |
-| 201 | 0.1% | 0.1% |  |
+| 201 | 0% | 0.1% |  |
 | 202 | 0% | 0.1% |  |
 | 203 | 0% | 0% |  |
 
 ### Partido Popular – Ciudadanos–Partido de la Ciudadanía – Vox
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pp–cs–vox.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-pp–cs–vox.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1687,42 +1687,42 @@ Only polls for which at least the sample size has been published are included in
 | 125 | 0% | 99.8% |  |
 | 126 | 0.1% | 99.8% |  |
 | 127 | 0.2% | 99.7% |  |
-| 128 | 0.1% | 99.4% |  |
+| 128 | 0.1% | 99.5% |  |
 | 129 | 0.1% | 99.4% |  |
 | 130 | 0.2% | 99.3% |  |
 | 131 | 0.3% | 99.1% |  |
-| 132 | 0.3% | 98.8% |  |
+| 132 | 0.2% | 98.8% |  |
 | 133 | 0.2% | 98.5% |  |
-| 134 | 0.3% | 98% |  |
+| 134 | 0.2% | 98% |  |
 | 135 | 0.3% | 98% |  |
 | 136 | 0.3% | 98% |  |
-| 137 | 0.6% | 98% |  |
-| 138 | 0.7% | 97% |  |
-| 139 | 0.6% | 96% |  |
-| 140 | 0.6% | 96% |  |
+| 137 | 0.5% | 98% |  |
+| 138 | 0.6% | 97% |  |
+| 139 | 0.5% | 96% |  |
+| 140 | 0.4% | 96% |  |
 | 141 | 5% | 95% |  |
-| 142 | 0.6% | 90% |  |
-| 143 | 0.6% | 90% |  |
-| 144 | 0.6% | 89% |  |
-| 145 | 0.8% | 89% |  |
-| 146 | 0.9% | 88% |  |
-| 147 | 1.0% | 87% |  |
-| 148 | 1.0% | 86% |  |
-| 149 | 2% | 85% |  |
-| 150 | 1.2% | 83% |  |
-| 151 | 1.1% | 82% |  |
-| 152 | 2% | 81% |  |
-| 153 | 2% | 79% |  |
-| 154 | 2% | 77% |  |
-| 155 | 3% | 75% |  |
-| 156 | 2% | 72% |  |
-| 157 | 4% | 70% |  |
-| 158 | 4% | 66% |  |
-| 159 | 2% | 62% |  |
-| 160 | 4% | 60% |  |
-| 161 | 4% | 56% |  |
-| 162 | 4% | 52% | Median |
-| 163 | 3% | 49% |  |
+| 142 | 0.5% | 91% |  |
+| 143 | 0.4% | 90% |  |
+| 144 | 0.5% | 90% |  |
+| 145 | 0.6% | 89% |  |
+| 146 | 0.6% | 89% |  |
+| 147 | 0.6% | 88% |  |
+| 148 | 7% | 88% |  |
+| 149 | 1.4% | 80% |  |
+| 150 | 1.1% | 79% |  |
+| 151 | 0.9% | 78% |  |
+| 152 | 2% | 77% |  |
+| 153 | 2% | 75% |  |
+| 154 | 2% | 74% |  |
+| 155 | 2% | 72% |  |
+| 156 | 2% | 70% |  |
+| 157 | 4% | 68% |  |
+| 158 | 4% | 64% |  |
+| 159 | 2% | 61% |  |
+| 160 | 3% | 59% |  |
+| 161 | 4% | 56% | Median |
+| 162 | 4% | 52% |  |
+| 163 | 3% | 48% |  |
 | 164 | 4% | 46% |  |
 | 165 | 6% | 42% |  |
 | 166 | 4% | 37% |  |
@@ -1770,7 +1770,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Socialista Obrero Español – Unidos Podemos
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-psoe–up.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-psoe–up.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1819,36 +1819,36 @@ Only polls for which at least the sample size has been published are included in
 | 153 | 3% | 72% |  |
 | 154 | 3% | 69% |  |
 | 155 | 3% | 66% |  |
-| 156 | 3% | 62% | Last Result |
+| 156 | 3% | 63% | Last Result |
 | 157 | 4% | 59% |  |
-| 158 | 6% | 55% | Median |
-| 159 | 3% | 48% |  |
-| 160 | 4% | 45% |  |
-| 161 | 2% | 41% |  |
-| 162 | 2% | 39% |  |
-| 163 | 2% | 37% |  |
-| 164 | 4% | 34% |  |
-| 165 | 4% | 30% |  |
-| 166 | 2% | 26% |  |
-| 167 | 2% | 24% |  |
-| 168 | 2% | 21% |  |
-| 169 | 1.5% | 20% |  |
-| 170 | 2% | 18% |  |
-| 171 | 1.3% | 16% |  |
-| 172 | 1.3% | 15% |  |
-| 173 | 0.9% | 14% |  |
-| 174 | 0.8% | 13% |  |
-| 175 | 5% | 12% |  |
-| 176 | 0.6% | 7% | Majority |
-| 177 | 0.8% | 6% |  |
-| 178 | 0.7% | 6% |  |
-| 179 | 0.5% | 5% |  |
-| 180 | 0.5% | 5% |  |
-| 181 | 0.5% | 4% |  |
-| 182 | 0.7% | 4% |  |
+| 158 | 6% | 55% |  |
+| 159 | 2% | 49% | Median |
+| 160 | 3% | 46% |  |
+| 161 | 2% | 43% |  |
+| 162 | 2% | 41% |  |
+| 163 | 2% | 39% |  |
+| 164 | 3% | 37% |  |
+| 165 | 4% | 33% |  |
+| 166 | 2% | 30% |  |
+| 167 | 2% | 28% |  |
+| 168 | 2% | 26% |  |
+| 169 | 1.3% | 24% |  |
+| 170 | 2% | 23% |  |
+| 171 | 7% | 21% |  |
+| 172 | 0.8% | 13% |  |
+| 173 | 0.7% | 13% |  |
+| 174 | 0.7% | 12% |  |
+| 175 | 5% | 11% |  |
+| 176 | 0.5% | 7% | Majority |
+| 177 | 0.6% | 6% |  |
+| 178 | 0.7% | 5% |  |
+| 179 | 0.4% | 5% |  |
+| 180 | 0.4% | 4% |  |
+| 181 | 0.4% | 4% |  |
+| 182 | 0.6% | 3% |  |
 | 183 | 0.5% | 3% |  |
-| 184 | 0.4% | 2% |  |
-| 185 | 0.4% | 2% |  |
+| 184 | 0.3% | 2% |  |
+| 185 | 0.3% | 2% |  |
 | 186 | 0.4% | 2% |  |
 | 187 | 0.2% | 1.3% |  |
 | 188 | 0.3% | 1.1% |  |
@@ -1864,7 +1864,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Popular – Ciudadanos–Partido de la Ciudadanía – Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pp–cs–eajpnv.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-pp–cs–eajpnv.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1880,37 +1880,37 @@ Only polls for which at least the sample size has been published are included in
 | 113 | 0.1% | 99.5% |  |
 | 114 | 0.5% | 99.3% |  |
 | 115 | 0.3% | 98.8% |  |
-| 116 | 0.3% | 98.5% |  |
+| 116 | 0.3% | 98.6% |  |
 | 117 | 0.4% | 98% |  |
-| 118 | 0.8% | 98% |  |
+| 118 | 0.7% | 98% |  |
 | 119 | 0.8% | 97% |  |
 | 120 | 0.7% | 96% |  |
-| 121 | 0.9% | 95% |  |
+| 121 | 0.9% | 96% |  |
 | 122 | 2% | 95% |  |
 | 123 | 2% | 93% |  |
-| 124 | 1.2% | 91% |  |
+| 124 | 1.0% | 91% |  |
 | 125 | 2% | 90% |  |
-| 126 | 2% | 88% |  |
-| 127 | 3% | 86% |  |
-| 128 | 3% | 83% |  |
-| 129 | 2% | 79% |  |
-| 130 | 3% | 77% |  |
-| 131 | 3% | 74% |  |
-| 132 | 4% | 72% |  |
-| 133 | 3% | 68% |  |
-| 134 | 4% | 65% |  |
-| 135 | 6% | 61% |  |
-| 136 | 3% | 54% |  |
-| 137 | 4% | 52% |  |
-| 138 | 2% | 48% |  |
-| 139 | 2% | 46% |  |
-| 140 | 2% | 43% | Median |
-| 141 | 2% | 42% |  |
-| 142 | 2% | 40% |  |
-| 143 | 2% | 38% |  |
-| 144 | 3% | 35% |  |
+| 126 | 2% | 89% |  |
+| 127 | 3% | 87% |  |
+| 128 | 3% | 84% |  |
+| 129 | 2% | 81% |  |
+| 130 | 3% | 79% |  |
+| 131 | 3% | 77% |  |
+| 132 | 4% | 74% |  |
+| 133 | 3% | 70% |  |
+| 134 | 4% | 68% |  |
+| 135 | 6% | 64% |  |
+| 136 | 2% | 57% |  |
+| 137 | 3% | 55% |  |
+| 138 | 9% | 52% |  |
+| 139 | 2% | 43% |  |
+| 140 | 2% | 41% | Median |
+| 141 | 2% | 39% |  |
+| 142 | 2% | 38% |  |
+| 143 | 2% | 36% |  |
+| 144 | 2% | 34% |  |
 | 145 | 2% | 32% |  |
-| 146 | 5% | 31% |  |
+| 146 | 5% | 30% |  |
 | 147 | 3% | 26% |  |
 | 148 | 2% | 23% |  |
 | 149 | 2% | 21% |  |
@@ -1959,7 +1959,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Popular – Ciudadanos–Partido de la Ciudadanía – Coalición Canaria–Partido Nacionalista Canario
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pp–cs–cc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-pp–cs–cc.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -1973,34 +1973,34 @@ Only polls for which at least the sample size has been published are included in
 | 109 | 0.1% | 99.5% |  |
 | 110 | 0.5% | 99.4% |  |
 | 111 | 0.3% | 98.9% |  |
-| 112 | 0.4% | 98.5% |  |
-| 113 | 0.4% | 98% |  |
+| 112 | 0.4% | 98.6% |  |
+| 113 | 0.3% | 98% |  |
 | 114 | 0.6% | 98% |  |
 | 115 | 1.0% | 97% |  |
-| 116 | 1.2% | 96% |  |
+| 116 | 1.1% | 96% |  |
 | 117 | 1.0% | 95% |  |
 | 118 | 1.4% | 94% |  |
 | 119 | 2% | 93% |  |
 | 120 | 2% | 91% |  |
-| 121 | 3% | 88% |  |
-| 122 | 2% | 86% |  |
-| 123 | 3% | 83% |  |
-| 124 | 4% | 81% |  |
-| 125 | 2% | 77% |  |
-| 126 | 3% | 75% |  |
-| 127 | 4% | 72% |  |
-| 128 | 5% | 68% |  |
-| 129 | 7% | 63% |  |
-| 130 | 3% | 57% |  |
-| 131 | 3% | 54% |  |
-| 132 | 3% | 51% |  |
-| 133 | 2% | 48% |  |
-| 134 | 2% | 46% |  |
-| 135 | 2% | 43% | Median |
-| 136 | 2% | 41% |  |
-| 137 | 2% | 39% |  |
-| 138 | 3% | 37% |  |
-| 139 | 5% | 34% |  |
+| 121 | 2% | 89% |  |
+| 122 | 2% | 87% |  |
+| 123 | 2% | 84% |  |
+| 124 | 3% | 82% |  |
+| 125 | 2% | 79% |  |
+| 126 | 3% | 77% |  |
+| 127 | 4% | 74% |  |
+| 128 | 4% | 70% |  |
+| 129 | 6% | 66% |  |
+| 130 | 2% | 59% |  |
+| 131 | 3% | 57% |  |
+| 132 | 3% | 55% |  |
+| 133 | 2% | 52% |  |
+| 134 | 2% | 50% |  |
+| 135 | 9% | 48% | Median |
+| 136 | 2% | 39% |  |
+| 137 | 2% | 37% |  |
+| 138 | 2% | 35% |  |
+| 139 | 5% | 33% |  |
 | 140 | 2% | 29% |  |
 | 141 | 3% | 27% |  |
 | 142 | 3% | 24% |  |
@@ -2011,7 +2011,7 @@ Only polls for which at least the sample size has been published are included in
 | 147 | 2% | 15% |  |
 | 148 | 1.0% | 13% |  |
 | 149 | 0.9% | 12% |  |
-| 150 | 1.1% | 11% |  |
+| 150 | 1.2% | 11% |  |
 | 151 | 3% | 10% |  |
 | 152 | 0.7% | 7% |  |
 | 153 | 0.5% | 6% |  |
@@ -2050,7 +2050,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Popular – Ciudadanos–Partido de la Ciudadanía
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pp–cs.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-pp–cs.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -2065,40 +2065,40 @@ Only polls for which at least the sample size has been published are included in
 | 108 | 0.5% | 99.4% |  |
 | 109 | 0.2% | 98.9% |  |
 | 110 | 0.2% | 98.7% |  |
-| 111 | 0.5% | 98% |  |
+| 111 | 0.5% | 98.5% |  |
 | 112 | 0.7% | 98% |  |
-| 113 | 0.8% | 97% |  |
+| 113 | 0.7% | 97% |  |
 | 114 | 0.9% | 97% |  |
 | 115 | 0.8% | 96% |  |
 | 116 | 2% | 95% |  |
-| 117 | 1.5% | 93% |  |
-| 118 | 2% | 92% |  |
-| 119 | 2% | 90% |  |
-| 120 | 3% | 88% |  |
-| 121 | 2% | 85% |  |
-| 122 | 3% | 83% |  |
-| 123 | 3% | 81% |  |
-| 124 | 3% | 77% |  |
-| 125 | 3% | 74% |  |
-| 126 | 3% | 71% |  |
-| 127 | 3% | 68% |  |
-| 128 | 4% | 65% |  |
-| 129 | 7% | 61% |  |
-| 130 | 3% | 54% |  |
-| 131 | 3% | 51% |  |
-| 132 | 2% | 48% |  |
-| 133 | 2% | 46% |  |
-| 134 | 2% | 43% | Median |
-| 135 | 2% | 41% |  |
-| 136 | 2% | 39% |  |
-| 137 | 3% | 37% |  |
-| 138 | 2% | 34% |  |
-| 139 | 5% | 32% |  |
+| 117 | 1.4% | 93% |  |
+| 118 | 1.1% | 92% |  |
+| 119 | 2% | 91% |  |
+| 120 | 3% | 89% |  |
+| 121 | 2% | 86% |  |
+| 122 | 2% | 84% |  |
+| 123 | 3% | 82% |  |
+| 124 | 3% | 79% |  |
+| 125 | 3% | 77% |  |
+| 126 | 3% | 73% |  |
+| 127 | 3% | 70% |  |
+| 128 | 4% | 67% |  |
+| 129 | 6% | 64% |  |
+| 130 | 3% | 57% |  |
+| 131 | 3% | 55% |  |
+| 132 | 2% | 52% |  |
+| 133 | 2% | 50% |  |
+| 134 | 9% | 48% | Median |
+| 135 | 2% | 39% |  |
+| 136 | 2% | 37% |  |
+| 137 | 2% | 35% |  |
+| 138 | 2% | 33% |  |
+| 139 | 4% | 31% |  |
 | 140 | 2% | 27% |  |
 | 141 | 4% | 25% |  |
 | 142 | 2% | 22% |  |
-| 143 | 2% | 20% |  |
-| 144 | 1.5% | 18% |  |
+| 143 | 2% | 19% |  |
+| 144 | 1.4% | 18% |  |
 | 145 | 1.5% | 16% |  |
 | 146 | 2% | 15% |  |
 | 147 | 1.0% | 13% |  |
@@ -2142,7 +2142,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Socialista Obrero Español
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-psoe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -2168,7 +2168,7 @@ Only polls for which at least the sample size has been published are included in
 | 102 | 0.5% | 97% |  |
 | 103 | 1.1% | 97% |  |
 | 104 | 1.1% | 96% |  |
-| 105 | 0.7% | 95% |  |
+| 105 | 0.8% | 95% |  |
 | 106 | 1.0% | 94% |  |
 | 107 | 0.9% | 93% |  |
 | 108 | 1.3% | 92% |  |
@@ -2182,31 +2182,31 @@ Only polls for which at least the sample size has been published are included in
 | 116 | 3% | 73% |  |
 | 117 | 3% | 70% |  |
 | 118 | 3% | 67% |  |
-| 119 | 4% | 64% |  |
+| 119 | 3% | 65% |  |
 | 120 | 5% | 61% |  |
-| 121 | 5% | 56% |  |
-| 122 | 6% | 51% | Median |
-| 123 | 3% | 45% |  |
-| 124 | 2% | 42% |  |
-| 125 | 2% | 40% |  |
-| 126 | 2% | 37% |  |
-| 127 | 4% | 35% |  |
-| 128 | 1.3% | 31% |  |
-| 129 | 2% | 30% |  |
-| 130 | 2% | 28% |  |
-| 131 | 3% | 26% |  |
-| 132 | 2% | 24% |  |
-| 133 | 1.3% | 22% |  |
-| 134 | 2% | 21% |  |
-| 135 | 6% | 19% |  |
-| 136 | 2% | 12% |  |
-| 137 | 1.0% | 10% |  |
-| 138 | 2% | 9% |  |
-| 139 | 1.1% | 7% |  |
-| 140 | 0.8% | 6% |  |
+| 121 | 4% | 56% |  |
+| 122 | 6% | 52% | Median |
+| 123 | 2% | 46% |  |
+| 124 | 2% | 44% |  |
+| 125 | 2% | 42% |  |
+| 126 | 2% | 40% |  |
+| 127 | 4% | 38% |  |
+| 128 | 1.1% | 35% |  |
+| 129 | 1.4% | 33% |  |
+| 130 | 1.3% | 32% |  |
+| 131 | 2% | 31% |  |
+| 132 | 1.3% | 29% |  |
+| 133 | 1.1% | 27% |  |
+| 134 | 8% | 26% |  |
+| 135 | 6% | 18% |  |
+| 136 | 2% | 11% |  |
+| 137 | 0.8% | 9% |  |
+| 138 | 1.4% | 8% |  |
+| 139 | 1.0% | 7% |  |
+| 140 | 0.7% | 6% |  |
 | 141 | 0.7% | 5% |  |
 | 142 | 0.7% | 5% |  |
-| 143 | 0.6% | 4% |  |
+| 143 | 0.5% | 4% |  |
 | 144 | 0.4% | 3% |  |
 | 145 | 0.6% | 3% |  |
 | 146 | 0.3% | 2% |  |
@@ -2226,7 +2226,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Popular – Vox
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pp–vox.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-pp–vox.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -2260,37 +2260,37 @@ Only polls for which at least the sample size has been published are included in
 | 89 | 0.4% | 89% |  |
 | 90 | 0.5% | 88% |  |
 | 91 | 0.3% | 88% |  |
-| 92 | 0.4% | 87% |  |
-| 93 | 0.5% | 87% |  |
-| 94 | 0.5% | 87% |  |
-| 95 | 0.5% | 86% |  |
-| 96 | 0.6% | 86% |  |
-| 97 | 0.9% | 85% |  |
-| 98 | 1.5% | 84% |  |
-| 99 | 1.1% | 83% |  |
-| 100 | 1.0% | 81% |  |
-| 101 | 2% | 80% |  |
-| 102 | 2% | 79% |  |
-| 103 | 4% | 76% |  |
-| 104 | 3% | 73% |  |
-| 105 | 3% | 69% |  |
-| 106 | 5% | 67% |  |
-| 107 | 5% | 61% | Median |
-| 108 | 4% | 56% |  |
-| 109 | 4% | 53% |  |
-| 110 | 4% | 49% |  |
-| 111 | 3% | 45% |  |
-| 112 | 6% | 42% |  |
-| 113 | 3% | 36% |  |
-| 114 | 3% | 33% |  |
-| 115 | 2% | 30% |  |
-| 116 | 3% | 28% |  |
-| 117 | 4% | 25% |  |
+| 92 | 0.4% | 88% |  |
+| 93 | 7% | 87% |  |
+| 94 | 0.4% | 80% |  |
+| 95 | 0.5% | 80% |  |
+| 96 | 0.6% | 79% |  |
+| 97 | 0.8% | 79% |  |
+| 98 | 1.3% | 78% |  |
+| 99 | 1.1% | 77% |  |
+| 100 | 0.9% | 75% |  |
+| 101 | 2% | 74% |  |
+| 102 | 2% | 73% |  |
+| 103 | 3% | 70% |  |
+| 104 | 3% | 67% |  |
+| 105 | 3% | 64% |  |
+| 106 | 5% | 62% | Median |
+| 107 | 5% | 57% |  |
+| 108 | 3% | 52% |  |
+| 109 | 3% | 49% |  |
+| 110 | 3% | 46% |  |
+| 111 | 2% | 43% |  |
+| 112 | 6% | 41% |  |
+| 113 | 3% | 35% |  |
+| 114 | 3% | 32% |  |
+| 115 | 2% | 29% |  |
+| 116 | 3% | 27% |  |
+| 117 | 4% | 24% |  |
 | 118 | 3% | 21% |  |
 | 119 | 2% | 18% |  |
 | 120 | 2% | 16% |  |
 | 121 | 2% | 14% |  |
-| 122 | 1.5% | 12% |  |
+| 122 | 1.4% | 12% |  |
 | 123 | 1.5% | 10% |  |
 | 124 | 1.2% | 9% |  |
 | 125 | 2% | 8% |  |
@@ -2326,7 +2326,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partido Popular
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average--coalitions-seats-pmf-pp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -2352,31 +2352,31 @@ Only polls for which at least the sample size has been published are included in
 | 70 | 2% | 82% |  |
 | 71 | 3% | 80% |  |
 | 72 | 2% | 77% |  |
-| 73 | 5% | 75% |  |
-| 74 | 4% | 70% |  |
+| 73 | 4% | 75% |  |
+| 74 | 4% | 71% |  |
 | 75 | 4% | 67% |  |
-| 76 | 4% | 62% |  |
+| 76 | 4% | 63% |  |
 | 77 | 3% | 58% |  |
 | 78 | 3% | 55% |  |
-| 79 | 3% | 52% | Median |
-| 80 | 6% | 49% |  |
-| 81 | 4% | 42% |  |
-| 82 | 3% | 38% |  |
-| 83 | 2% | 35% |  |
-| 84 | 4% | 33% |  |
-| 85 | 2% | 29% |  |
-| 86 | 3% | 27% |  |
-| 87 | 3% | 24% |  |
-| 88 | 3% | 22% |  |
-| 89 | 3% | 19% |  |
-| 90 | 2% | 16% |  |
-| 91 | 4% | 14% |  |
-| 92 | 1.3% | 10% |  |
-| 93 | 0.8% | 9% |  |
+| 79 | 10% | 52% | Median |
+| 80 | 6% | 43% |  |
+| 81 | 3% | 37% |  |
+| 82 | 2% | 33% |  |
+| 83 | 2% | 31% |  |
+| 84 | 4% | 29% |  |
+| 85 | 2% | 25% |  |
+| 86 | 2% | 23% |  |
+| 87 | 2% | 21% |  |
+| 88 | 2% | 19% |  |
+| 89 | 2% | 17% |  |
+| 90 | 2% | 15% |  |
+| 91 | 4% | 13% |  |
+| 92 | 0.9% | 9% |  |
+| 93 | 0.7% | 8% |  |
 | 94 | 0.8% | 8% |  |
 | 95 | 1.4% | 7% |  |
 | 96 | 0.6% | 6% |  |
-| 97 | 0.6% | 5% |  |
+| 97 | 0.5% | 5% |  |
 | 98 | 0.4% | 5% |  |
 | 99 | 0.2% | 4% |  |
 | 100 | 0.2% | 4% |  |
@@ -2422,6 +2422,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 15
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 15,728,640
++ **Lowest number of simulations done in a poll included in this average:** 1,024
++ **Total number of simulations done in the polls included in this average:** 14,681,088
 + **Error estimate:** 3.73%
