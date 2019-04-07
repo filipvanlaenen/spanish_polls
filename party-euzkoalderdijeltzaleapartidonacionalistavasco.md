@@ -11,6 +11,7 @@ Last result: **1.2%** (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.9–1.8% | 0.8–2.0% | 0.7–2.3% | 0.5–3.0% |
+| [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1.2% | 0.9–1.7% | 0.8–1.9% | 0.7–2.0% | 0.6–2.3% |
 | [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.7–1.8% | 0.6–2.1% |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.1–1.5% | 1.1–1.5% | 1.1–1.6% | 1.0–1.6% |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 1.3% | 0.8–2.7% | 0.7–3.0% | 0.5–3.4% | 0.4–4.1% |
@@ -186,7 +187,8 @@ Last result: **5** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 4–8 | 3–9 | 3–10 | 2–11 |
-| [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 4 | 4 | 4 | 4 | 3–4 |
+| [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 5–8 | 4–8 | 4–8 | 4–8 |
+| [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 6 | 3–6 | 3–7 | 3–8 | 2–8 |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 7 | 3–10 | 3–11 | 2–12 | 1–14 |
 | [24–30 March 2019](2019-03-30-IMOP.html) | IMOP <br> El Confidencial | 6 | 3–7 | 3–7 | 3–8 | 2–10 |
@@ -347,16 +349,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.2% | 100% |  |
-| 2 | 0.5% | 99.8% |  |
-| 3 | 5% | 99.3% |  |
-| 4 | 14% | 94% |  |
-| 5 | 3% | 80% | Last Result |
-| 6 | 46% | 77% | Median |
-| 7 | 16% | 31% |  |
-| 8 | 9% | 14% |  |
+| 2 | 0.6% | 99.8% |  |
+| 3 | 6% | 99.2% |  |
+| 4 | 6% | 94% |  |
+| 5 | 6% | 87% | Last Result |
+| 6 | 45% | 81% | Median |
+| 7 | 16% | 37% |  |
+| 8 | 15% | 20% |  |
 | 9 | 2% | 5% |  |
-| 10 | 3% | 4% |  |
-| 11 | 0.3% | 0.8% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.3% | 0.7% |  |
 | 12 | 0.3% | 0.4% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0.1% |  |
