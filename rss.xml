@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Thu, 04 Apr 2019 19:25:34 +0200</pubDate>
+    <pubDate>Sun, 07 Apr 2019 11:24:29 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 26 March–3 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-03-Celeste-Tel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 21.2–26.2%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 24.6–29.9%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 11.9–16.0%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 13.7–18.0%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.0–4.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.0–2.6%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.7–2.0%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 1.0–2.5%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.4–1.4%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Vox: 7.2–10.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-03-Celeste-Tel.png"
+        length="270092"
+        type="image/png"/>
+      <pubDate>Sun, 07 Apr 2019 11:24:29 +0200</pubDate>
+      <dc:date>2019-04-07T11:24:29.898586+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 27 March–2 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-02-IMOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 71–91 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 117–142 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 33–49 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 36–57 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 12–19 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1–7 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 3–8 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 1–7 seats&lt;/li&gt;&lt;li&gt;Vox: 16–28 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-02-IMOP-seats.png"
+        length="219266"
+        type="image/png"/>
+      <pubDate>Fri, 05 Apr 2019 16:06:13 +0200</pubDate>
+      <dc:date>2019-04-05T16:06:13.22135+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMOP for El Confidencial, 27 March–2 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-02-IMOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-02-IMOP-coalitions-seats.png"
+        length="474559"
+        type="image/png"/>
+      <pubDate>Fri, 05 Apr 2019 16:06:13 +0200</pubDate>
+      <dc:date>2019-04-05T16:06:13.22135+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 27 March–2 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-02-IMOP.html</link>
@@ -16,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-02-IMOP.png"
         length="249892"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 19:25:34 +0200</pubDate>
-      <dc:date>2019-04-04T19:25:34.566743+02:00</dc:date>
+      <pubDate>Fri, 05 Apr 2019 16:06:13 +0200</pubDate>
+      <dc:date>2019-04-05T16:06:13.22135+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–31 March 2019 – Seat Projections for the Parties</title>
@@ -2519,6 +2549,6 @@
       <pubDate>Thu, 21 Mar 2019 19:48:55 +0100</pubDate>
       <dc:date>2019-03-21T19:48:55.652918+01:00</dc:date>
     </item>
-    <dc:date>2019-04-04T19:25:34.566743+02:00</dc:date>
+    <dc:date>2019-04-07T11:24:29.898586+02:00</dc:date>
   </channel>
 </rss>
