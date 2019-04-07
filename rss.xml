@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Sun, 07 Apr 2019 11:24:29 +0200</pubDate>
+    <pubDate>Sun, 07 Apr 2019 15:37:33 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 26 March–3 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-03-Celeste-Tel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 86–112 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 103–128 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 30–46 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 41–62 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 7–16 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1–10 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 3–8 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 1–7 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0–2 seats&lt;/li&gt;&lt;li&gt;Vox: 13–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-03-Celeste-Tel-seats.png"
+        length="234723"
+        type="image/png"/>
+      <pubDate>Sun, 07 Apr 2019 15:37:33 +0200</pubDate>
+      <dc:date>2019-04-07T15:37:33.322384+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 26 March–3 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-03-Celeste-Tel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-03-Celeste-Tel-coalitions-seats.png"
+        length="482664"
+        type="image/png"/>
+      <pubDate>Sun, 07 Apr 2019 15:37:33 +0200</pubDate>
+      <dc:date>2019-04-07T15:37:33.322384+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 26 March–3 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-03-Celeste-Tel.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-03-Celeste-Tel.png"
         length="270092"
         type="image/png"/>
-      <pubDate>Sun, 07 Apr 2019 11:24:29 +0200</pubDate>
-      <dc:date>2019-04-07T11:24:29.898586+02:00</dc:date>
+      <pubDate>Sun, 07 Apr 2019 15:37:33 +0200</pubDate>
+      <dc:date>2019-04-07T15:37:33.322384+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 27 March–2 April 2019 – Seat Projections for the Parties</title>
@@ -2549,6 +2569,6 @@
       <pubDate>Thu, 21 Mar 2019 19:48:55 +0100</pubDate>
       <dc:date>2019-03-21T19:48:55.652918+01:00</dc:date>
     </item>
-    <dc:date>2019-04-07T11:24:29.898586+02:00</dc:date>
+    <dc:date>2019-04-07T15:37:33.322384+02:00</dc:date>
   </channel>
 </rss>
