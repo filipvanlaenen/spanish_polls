@@ -196,7 +196,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36 | 30–42 | 28–45 | 25–47 | 22–53 |
-| [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 34 | 32–34 | 32–37 | 32–37 | 32–37 |
+| [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 36 | 33–41 | 33–43 | 30–46 | 28–49 |
 | [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 39 | 36–44 | 35–48 | 33–49 | 31–53 |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 36 | 36 | 35–37 | 35–38 | 34–39 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 30 | 22–40 | 21–44 | 19–46 | 15–56 |
@@ -368,27 +368,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 0.5% | 98.8% |  |
 | 25 | 0.8% | 98% |  |
 | 26 | 1.1% | 97% |  |
-| 27 | 0.9% | 96% |  |
+| 27 | 1.0% | 96% |  |
 | 28 | 2% | 95% |  |
 | 29 | 3% | 94% |  |
 | 30 | 3% | 91% |  |
 | 31 | 4% | 88% |  |
-| 32 | 5% | 84% |  |
-| 33 | 4% | 79% |  |
-| 34 | 9% | 75% |  |
-| 35 | 6% | 66% |  |
-| 36 | 16% | 61% | Median |
-| 37 | 9% | 45% |  |
-| 38 | 7% | 36% |  |
-| 39 | 4% | 29% |  |
-| 40 | 8% | 25% |  |
-| 41 | 4% | 16% |  |
+| 32 | 4% | 84% |  |
+| 33 | 4% | 80% |  |
+| 34 | 4% | 75% |  |
+| 35 | 6% | 71% |  |
+| 36 | 18% | 65% | Median |
+| 37 | 8% | 47% |  |
+| 38 | 8% | 39% |  |
+| 39 | 5% | 31% |  |
+| 40 | 9% | 26% |  |
+| 41 | 4% | 17% |  |
 | 42 | 3% | 13% |  |
 | 43 | 2% | 10% |  |
 | 44 | 2% | 7% |  |
 | 45 | 1.1% | 5% |  |
 | 46 | 1.2% | 4% |  |
-| 47 | 0.4% | 3% |  |
+| 47 | 0.5% | 3% |  |
 | 48 | 0.5% | 2% |  |
 | 49 | 0.4% | 2% |  |
 | 50 | 0.4% | 1.4% |  |

@@ -200,7 +200,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 28 | 16–41 | 12–45 | 12–47 | 9–52 |
-| [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21 | 16–21 | 16–24 | 16–24 | 16–24 |
+| [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 19 | 15–22 | 13–23 | 13–25 | 11–28 |
 | [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 23 | 17–27 | 16–28 | 16–28 | 14–31 |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 26 | 25–26 | 25–27 | 25–27 | 23–29 |
 | [28–30 March 2019](2019-03-30-NCReport.html) | NC Report <br> La Razón | 25 | 15–34 | 14–39 | 13–42 | 11–50 |
@@ -373,19 +373,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.2% | 99.7% |  |
 | 10 | 0.3% | 99.5% |  |
 | 11 | 0.5% | 99.2% |  |
-| 12 | 5% | 98.7% |  |
-| 13 | 0.4% | 94% |  |
-| 14 | 1.1% | 94% |  |
-| 15 | 1.0% | 92% |  |
-| 16 | 3% | 91% |  |
-| 17 | 1.2% | 89% |  |
-| 18 | 1.1% | 88% |  |
-| 19 | 1.5% | 86% |  |
-| 20 | 2% | 85% |  |
-| 21 | 7% | 83% |  |
-| 22 | 2% | 77% |  |
+| 12 | 5% | 98.6% |  |
+| 13 | 0.7% | 94% |  |
+| 14 | 1.3% | 93% |  |
+| 15 | 1.2% | 92% |  |
+| 16 | 1.2% | 91% |  |
+| 17 | 1.3% | 90% |  |
+| 18 | 2% | 88% |  |
+| 19 | 4% | 87% |  |
+| 20 | 2% | 83% |  |
+| 21 | 4% | 81% |  |
+| 22 | 3% | 77% |  |
 | 23 | 4% | 74% |  |
-| 24 | 4% | 71% |  |
+| 24 | 4% | 70% |  |
 | 25 | 4% | 67% |  |
 | 26 | 8% | 63% |  |
 | 27 | 5% | 55% |  |
