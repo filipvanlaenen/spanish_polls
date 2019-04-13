@@ -195,10 +195,10 @@ Last result: **5** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 4–8 | 3–9 | 3–10 | 2–11 |
-| [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 6 | 6 | 4–6 | 4–6 | 4–10 |
+| [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 6 | 6–9 | 4–9 | 4–10 | 3–10 |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6 | 6 | 6 |
-| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 3 | 2–10 | 2–10 | 2–11 | 1–12 |
+| [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6 | 6–7 | 6–8 |
+| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 6 | 5–10 | 4–10 | 3–10 | 3–10 |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
@@ -219,7 +219,7 @@ Last result: **5** seats (General Election of 26 June 2016)
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 6 | 6–7 | 5–8 | 5–8 | 4–8 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 6 | 3–8 | 3–8 | 3–8 | 1–10 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País |  |  |  |  |  |
-| [1–18 March 2019](2019-03-18-CIS.html) | CIS | 6 | 6 | 6–7 | 6–7 | 6–7 |
+| [1–18 March 2019](2019-03-18-CIS.html) | CIS | 6 | 6 | 6 | 6 | 6 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 6 | 3–8 | 3–8 | 3–9 | 2–10 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -365,14 +365,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.2% | 100% |  |
-| 2 | 0.5% | 99.8% |  |
+| 2 | 0.6% | 99.8% |  |
 | 3 | 5% | 99.2% |  |
 | 4 | 6% | 94% |  |
 | 5 | 3% | 88% | Last Result |
-| 6 | 59% | 85% | Median |
-| 7 | 13% | 26% |  |
-| 8 | 7% | 13% |  |
-| 9 | 2% | 6% |  |
+| 6 | 54% | 85% | Median |
+| 7 | 15% | 30% |  |
+| 8 | 8% | 15% |  |
+| 9 | 3% | 7% |  |
 | 10 | 3% | 4% |  |
 | 11 | 0.4% | 0.8% |  |
 | 12 | 0.3% | 0.5% |  |
