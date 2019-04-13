@@ -35,7 +35,7 @@ Last result: **0.8%** (General Election of 26 June 2016)
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 0.7% | 0.6–0.9% | 0.6–0.9% | 0.5–0.9% | 0.5–1.0% |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 0.0% | N/A | N/A | N/A | N/A |
-| [1–18 March 2019](2019-03-18-CIS.html) | CIS | 1.1% | N/A | N/A | N/A | N/A |
+| [1–18 March 2019](2019-03-18-CIS.html) | CIS | 1.1% | 1.0–1.2% | 1.0–1.2% | 0.9–1.3% | 0.9–1.3% |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 0.8% | 0.7–1.0% | 0.6–1.0% | 0.6–1.0% | 0.6–1.1% |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
@@ -178,9 +178,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 9% | 100% |  |
-| 0.5–1.5% | 87% | 91% | Last Result, Median |
-| 1.5–2.5% | 4% | 4% |  |
+| 0.0–0.5% | 8% | 100% |  |
+| 0.5–1.5% | 88% | 92% | Last Result, Median |
+| 1.5–2.5% | 3% | 4% |  |
 | 2.5–3.5% | 0.2% | 0.2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -218,7 +218,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 2 | 1–7 | 1–7 | 1–7 | 1–7 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País |  |  |  |  |  |
-| [1–18 March 2019](2019-03-18-CIS.html) | CIS |  |  |  |  |  |
+| [1–18 March 2019](2019-03-18-CIS.html) | CIS | 5 | 5 | 5 | 5 | 5–6 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 2 | 1–4 | 0–6 | 0–6 | 0–7 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -363,19 +363,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.5% | 100% |  |
-| 1 | 7% | 98.5% |  |
-| 2 | 50% | 91% | Last Result, Median |
-| 3 | 6% | 41% |  |
-| 4 | 14% | 35% |  |
-| 5 | 9% | 21% |  |
-| 6 | 6% | 12% |  |
-| 7 | 4% | 6% |  |
-| 8 | 0.6% | 2% |  |
-| 9 | 0.7% | 1.0% |  |
-| 10 | 0.2% | 0.4% |  |
+| 0 | 1.3% | 100% |  |
+| 1 | 6% | 98.7% |  |
+| 2 | 44% | 92% | Last Result, Median |
+| 3 | 6% | 49% |  |
+| 4 | 12% | 43% |  |
+| 5 | 20% | 31% |  |
+| 6 | 6% | 11% |  |
+| 7 | 4% | 5% |  |
+| 8 | 0.5% | 1.4% |  |
+| 9 | 0.6% | 0.9% |  |
+| 10 | 0.1% | 0.3% |  |
 | 11 | 0.1% | 0.2% |  |
-| 12 | 0.1% | 0.1% |  |
+| 12 | 0% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
 

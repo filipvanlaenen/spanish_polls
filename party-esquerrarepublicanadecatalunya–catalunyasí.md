@@ -10,7 +10,7 @@ Last result: **2.7%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.2–4.0% | 2.0–4.4% | 1.8–4.8% | 1.5–5.5% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.3–4.5% | 2.0–4.7% | 1.8–4.8% | 1.5–5.5% |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 3.1% | 2.6–3.8% | 2.5–4.0% | 2.3–4.2% | 2.1–4.5% |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.4–2.8% | 2.3–2.9% | 2.3–3.0% | 2.2–3.1% |
@@ -35,7 +35,7 @@ Last result: **2.7%** (General Election of 26 June 2016)
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 2.6% | 2.4–2.9% | 2.3–2.9% | 2.3–3.0% | 2.1–3.1% |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 0.0% | N/A | N/A | N/A | N/A |
-| [1–18 March 2019](2019-03-18-CIS.html) | CIS | 4.5% | N/A | N/A | N/A | N/A |
+| [1–18 March 2019](2019-03-18-CIS.html) | CIS | 4.5% | 4.3–4.7% | 4.2–4.8% | 4.2–4.8% | 4.1–4.9% |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 3.2% | 2.9–3.5% | 2.9–3.6% | 2.8–3.6% | 2.7–3.8% |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
@@ -179,13 +179,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.9% | 100% |  |
-| 1.5–2.5% | 23% | 99.1% |  |
-| 2.5–3.5% | 53% | 76% | Last Result, Median |
-| 3.5–4.5% | 19% | 23% |  |
-| 4.5–5.5% | 3% | 4% |  |
-| 5.5–6.5% | 0.4% | 0.5% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 0.8% | 100% |  |
+| 1.5–2.5% | 20% | 99.2% |  |
+| 2.5–3.5% | 47% | 79% | Last Result, Median |
+| 3.5–4.5% | 24% | 32% |  |
+| 4.5–5.5% | 7% | 8% |  |
+| 5.5–6.5% | 0.4% | 0.4% |  |
+| 6.5–7.5% | 0% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -197,7 +197,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 9–17 | 8–19 | 8–20 | 6–21 |
+| N/A | [Poll Average](average.html) | 14 | 9–18 | 9–20 | 8–20 | 6–21 |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 14 | 14 | 14 | 14 | 12–16 |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14 | 14 | 14 | 12–14 |
@@ -222,7 +222,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 11 | 10–14 | 10–14 | 10–14 | 10–14 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 16 | 14–20 | 13–20 | 13–21 | 11–22 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País |  |  |  |  |  |
-| [1–18 March 2019](2019-03-18-CIS.html) | CIS |  |  |  |  |  |
+| [1–18 March 2019](2019-03-18-CIS.html) | CIS | 17 | 16–20 | 16–21 | 16–21 | 16–21 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 14 | 14–15 | 14–15 | 13–15 | 12–16 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 12 | 9–15 | 9–15 | 8–16 | 7–18 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -367,23 +367,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.1% | 100% |  |
+| 5 | 0% | 100% |  |
 | 6 | 0.5% | 99.9% |  |
 | 7 | 2% | 99.4% |  |
-| 8 | 3% | 98% |  |
-| 9 | 8% | 95% | Last Result |
-| 10 | 3% | 87% |  |
-| 11 | 7% | 84% |  |
-| 12 | 9% | 77% |  |
-| 13 | 5% | 68% |  |
-| 14 | 37% | 63% | Median |
-| 15 | 12% | 26% |  |
-| 16 | 3% | 14% |  |
-| 17 | 2% | 11% |  |
-| 18 | 2% | 8% |  |
-| 19 | 3% | 6% |  |
-| 20 | 2% | 3% |  |
-| 21 | 0.8% | 1.2% |  |
+| 8 | 2% | 98% |  |
+| 9 | 7% | 95% | Last Result |
+| 10 | 3% | 89% |  |
+| 11 | 6% | 86% |  |
+| 12 | 8% | 80% |  |
+| 13 | 5% | 72% |  |
+| 14 | 33% | 67% | Median |
+| 15 | 11% | 34% |  |
+| 16 | 6% | 23% |  |
+| 17 | 5% | 17% |  |
+| 18 | 3% | 12% |  |
+| 19 | 4% | 9% |  |
+| 20 | 4% | 5% |  |
+| 21 | 1.3% | 2% |  |
 | 22 | 0.2% | 0.4% |  |
 | 23 | 0.1% | 0.2% |  |
 | 24 | 0% | 0.1% |  |
