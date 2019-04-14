@@ -195,11 +195,11 @@ Last result: **2** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 2–5 | 1–6 | 1–7 | 1–7 |
-| [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2 | 2 | 2 | 2 | 2 |
+| [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 3 | 2–5 | 1–5 | 1–6 | 0–7 |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 4 | 1–5 | 1–5 | 1–6 | 0–7 |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 2–5 | 2–5 |
-| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 6 | 2–6 | 2–6 | 2–6 | 2–6 |
+| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 4 | 2–6 | 2–6 | 1–7 | 0–7 |
 | [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 4 | 2–6 | 2–7 | 1–7 | 1–7 |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
@@ -366,15 +366,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 6% | 99.8% |  |
-| 2 | 29% | 94% | Last Result |
-| 3 | 6% | 64% |  |
-| 4 | 21% | 59% | Median |
-| 5 | 28% | 37% |  |
-| 6 | 5% | 9% |  |
-| 7 | 3% | 3% |  |
-| 8 | 0.1% | 0.2% |  |
+| 0 | 0.5% | 100% |  |
+| 1 | 7% | 99.5% |  |
+| 2 | 20% | 93% | Last Result |
+| 3 | 8% | 73% |  |
+| 4 | 27% | 64% | Median |
+| 5 | 28% | 38% |  |
+| 6 | 6% | 10% |  |
+| 7 | 3% | 4% |  |
+| 8 | 0.2% | 0.3% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
