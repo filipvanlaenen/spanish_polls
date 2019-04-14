@@ -209,12 +209,12 @@ Last result: **0** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 18–40 | 13–44 | 13–46 | 11–52 |
-| [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 11–23 | 10–23 | 10–23 | 9–23 |
+| N/A | [Poll Average](average.html) | 28 | 19–40 | 13–44 | 13–46 | 11–52 |
+| [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 11–17 | 11–21 | 9–23 | 8–24 |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 24 | 19–27 | 17–27 | 16–28 | 15–33 |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 29 | 26–33 | 24–34 | 23–35 | 22–38 |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 26 | 25–27 | 25–28 | 25–29 | 23–30 |
-| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 19 | 17–25 | 17–27 | 14–27 | 13–30 |
+| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 20 | 17–25 | 17–26 | 14–27 | 13–30 |
 | [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 21 | 15–25 | 15–26 | 15–27 | 14–28 |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 24 | 19–29 | 18–30 | 17–32 | 15–34 |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 27 | 23–31 | 22–32 | 21–33 | 18–35 |
@@ -389,22 +389,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0.1% | 100% |  |
-| 10 | 0.3% | 99.9% |  |
-| 11 | 2% | 99.6% |  |
-| 12 | 0.3% | 98% |  |
-| 13 | 3% | 98% |  |
-| 14 | 0.4% | 95% |  |
-| 15 | 0.2% | 95% |  |
-| 16 | 0.2% | 94% |  |
+| 8 | 0.1% | 100% |  |
+| 9 | 0.1% | 99.9% |  |
+| 10 | 0.1% | 99.8% |  |
+| 11 | 0.4% | 99.7% |  |
+| 12 | 0.9% | 99.3% |  |
+| 13 | 4% | 98% |  |
+| 14 | 0.2% | 95% |  |
+| 15 | 0.4% | 95% |  |
+| 16 | 0.4% | 94% |  |
 | 17 | 2% | 94% |  |
-| 18 | 3% | 93% |  |
+| 18 | 2% | 92% |  |
 | 19 | 2% | 90% |  |
-| 20 | 0.9% | 88% |  |
+| 20 | 1.1% | 88% |  |
 | 21 | 2% | 87% |  |
-| 22 | 3% | 85% |  |
-| 23 | 6% | 82% |  |
+| 22 | 4% | 85% |  |
+| 23 | 5% | 81% |  |
 | 24 | 4% | 77% |  |
 | 25 | 4% | 73% |  |
 | 26 | 8% | 69% |  |

@@ -204,11 +204,11 @@ Last result: **32** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 52 | 42–61 | 39–64 | 36–66 | 31–68 |
-| [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 56 | 51–59 | 50–60 | 42–60 | 37–62 |
+| [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 58 | 50–59 | 48–59 | 46–60 | 38–64 |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 50 | 49–58 | 46–61 | 45–62 | 41–65 |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 40 | 35–47 | 33–48 | 31–49 | 26–51 |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 55 | 51–58 | 51–58 | 51–58 | 50–60 |
-| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 54 | 48–58 | 46–60 | 40–61 | 36–64 |
+| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 54 | 47–59 | 46–60 | 41–61 | 36–65 |
 | [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 51 | 45–56 | 43–56 | 41–58 | 37–63 |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 53 | 47–57 | 44–61 | 42–63 | 38–66 |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 48 | 40–52 | 38–54 | 37–55 | 33–59 |
@@ -384,12 +384,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0.2% | 99.7% |  |
 | 32 | 0.2% | 99.5% | Last Result |
 | 33 | 0.4% | 99.3% |  |
-| 34 | 0.3% | 98.9% |  |
-| 35 | 0.5% | 98.6% |  |
+| 34 | 0.3% | 98.8% |  |
+| 35 | 0.4% | 98.5% |  |
 | 36 | 0.7% | 98% |  |
 | 37 | 0.6% | 97% |  |
 | 38 | 1.2% | 97% |  |
-| 39 | 1.3% | 96% |  |
+| 39 | 1.2% | 96% |  |
 | 40 | 2% | 94% |  |
 | 41 | 2% | 93% |  |
 | 42 | 5% | 91% |  |
@@ -399,18 +399,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 46 | 3% | 80% |  |
 | 47 | 2% | 76% |  |
 | 48 | 3% | 74% |  |
-| 49 | 3% | 72% |  |
-| 50 | 8% | 69% |  |
-| 51 | 7% | 61% |  |
-| 52 | 5% | 53% | Median |
+| 49 | 3% | 71% |  |
+| 50 | 9% | 69% |  |
+| 51 | 6% | 60% |  |
+| 52 | 5% | 54% | Median |
 | 53 | 6% | 49% |  |
-| 54 | 5% | 43% |  |
-| 55 | 7% | 38% |  |
-| 56 | 5% | 31% |  |
-| 57 | 4% | 26% |  |
-| 58 | 5% | 22% |  |
-| 59 | 2% | 17% |  |
-| 60 | 3% | 15% |  |
+| 54 | 4% | 43% |  |
+| 55 | 6% | 38% |  |
+| 56 | 5% | 32% |  |
+| 57 | 4% | 27% |  |
+| 58 | 3% | 23% |  |
+| 59 | 5% | 20% |  |
+| 60 | 2% | 14% |  |
 | 61 | 3% | 12% |  |
 | 62 | 2% | 9% |  |
 | 63 | 2% | 8% |  |
