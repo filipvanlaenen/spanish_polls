@@ -10,10 +10,12 @@ Last result: **1.2%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.8% | 0.8–2.0% | 0.7–2.3% | 0.5–3.1% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.7% | 0.8–1.9% | 0.7–2.1% | 0.6–2.4% |
+| [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1.2% | 0.9–1.7% | 0.8–1.9% | 0.7–2.0% | 0.6–2.3% |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.0% | 0.7–2.3% |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.2–1.5% | 1.1–1.5% | 1.1–1.6% | 1.0–1.6% |
+| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
@@ -178,12 +180,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.7% | 100% |  |
-| 0.5–1.5% | 78% | 99.3% | Last Result, Median |
-| 1.5–2.5% | 19% | 21% |  |
-| 2.5–3.5% | 1.3% | 1.5% |  |
-| 3.5–4.5% | 0.2% | 0.2% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.4% | 100% |  |
+| 0.5–1.5% | 81% | 99.6% | Last Result, Median |
+| 1.5–2.5% | 19% | 19% |  |
+| 2.5–3.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -194,11 +195,13 @@ Last result: **5** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 3–9 | 3–10 | 2–11 |
-| [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 6 | 6–9 | 4–9 | 4–10 | 3–10 |
+| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 3–9 | 3–10 |
+| [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 8 | 8 | 8 | 8 |
+| [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 6 | 4–8 | 4–8 | 4–9 | 3–10 |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6 | 6–7 | 6–8 |
-| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 6 | 5–10 | 4–10 | 3–10 | 3–10 |
+| [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 7 | 5–7 | 5–9 | 5–9 | 5–9 |
+| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 6 | 4–8 | 4–10 | 3–10 | 3–10 |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
@@ -364,20 +367,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% |  |
-| 2 | 0.6% | 99.8% |  |
-| 3 | 5% | 99.2% |  |
-| 4 | 6% | 94% |  |
-| 5 | 3% | 88% | Last Result |
-| 6 | 54% | 85% | Median |
-| 7 | 15% | 30% |  |
-| 8 | 8% | 15% |  |
-| 9 | 3% | 7% |  |
-| 10 | 3% | 4% |  |
-| 11 | 0.4% | 0.8% |  |
-| 12 | 0.3% | 0.5% |  |
-| 13 | 0.1% | 0.1% |  |
-| 14 | 0% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 0.3% | 99.9% |  |
+| 3 | 4% | 99.7% |  |
+| 4 | 5% | 95% |  |
+| 5 | 2% | 90% | Last Result |
+| 6 | 52% | 88% | Median |
+| 7 | 14% | 37% |  |
+| 8 | 20% | 23% |  |
+| 9 | 1.2% | 3% |  |
+| 10 | 2% | 2% |  |
+| 11 | 0% | 0% |  |
 
 

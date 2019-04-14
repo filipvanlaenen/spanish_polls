@@ -10,10 +10,12 @@ Last result: **2.7%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.3–4.5% | 2.0–4.7% | 1.8–4.8% | 1.5–5.5% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.3–4.4% | 2.0–4.6% | 1.8–4.7% | 1.5–5.1% |
+| [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.8–4.4% |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 3.1% | 2.6–3.8% | 2.5–4.0% | 2.3–4.2% | 2.1–4.5% |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 2.6% | 2.4–2.8% | 2.3–2.9% | 2.3–3.0% | 2.2–3.1% |
+| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 3.2% | 2.7–3.9% | 2.5–4.1% | 2.4–4.2% | 2.2–4.6% |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
@@ -179,14 +181,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.8% | 100% |  |
-| 1.5–2.5% | 20% | 99.2% |  |
-| 2.5–3.5% | 47% | 79% | Last Result, Median |
-| 3.5–4.5% | 24% | 32% |  |
-| 4.5–5.5% | 7% | 8% |  |
-| 5.5–6.5% | 0.4% | 0.4% |  |
-| 6.5–7.5% | 0% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.6% | 100% |  |
+| 1.5–2.5% | 21% | 99.4% |  |
+| 2.5–3.5% | 50% | 79% | Last Result, Median |
+| 3.5–4.5% | 22% | 29% |  |
+| 4.5–5.5% | 6% | 6% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -197,11 +198,13 @@ Last result: **9** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 9–19 | 9–20 | 8–20 | 6–21 |
-| [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 14 | 12–16 | 10–16 | 10–17 | 9–20 |
+| N/A | [Poll Average](average.html) | 14 | 10–19 | 9–20 | 8–20 | 7–21 |
+| [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 13 | 13 | 13 | 13 |
+| [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 14 | 11–15 | 11–16 | 10–16 | 9–18 |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–14 | 11–14 | 11–14 | 9–14 |
-| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 15 | 12–16 | 11–16 | 10–16 | 9–18 |
+| [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 12 | 12–14 | 11–14 | 11–14 | 10–14 |
+| [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 11 | 8–11 | 8–12 | 8–12 | 8–12 |
+| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 14 | 12–16 | 11–17 | 10–18 | 9–19 |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
@@ -367,27 +370,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0% | 100% |  |
-| 6 | 0.5% | 99.9% |  |
-| 7 | 2% | 99.4% |  |
-| 8 | 2% | 98% |  |
-| 9 | 7% | 95% | Last Result |
-| 10 | 3% | 88% |  |
-| 11 | 7% | 85% |  |
-| 12 | 16% | 78% |  |
-| 13 | 5% | 62% |  |
-| 14 | 18% | 57% | Median |
-| 15 | 13% | 39% |  |
-| 16 | 5% | 25% |  |
-| 17 | 5% | 21% |  |
-| 18 | 2% | 16% |  |
+| 6 | 0.4% | 100% |  |
+| 7 | 0.9% | 99.6% |  |
+| 8 | 2% | 98.7% |  |
+| 9 | 6% | 97% | Last Result |
+| 10 | 1.0% | 91% |  |
+| 11 | 6% | 90% |  |
+| 12 | 14% | 84% |  |
+| 13 | 18% | 69% |  |
+| 14 | 18% | 51% | Median |
+| 15 | 11% | 33% |  |
+| 16 | 3% | 22% |  |
+| 17 | 5% | 19% |  |
+| 18 | 1.1% | 15% |  |
 | 19 | 4% | 13% |  |
-| 20 | 8% | 9% |  |
-| 21 | 0.7% | 1.1% |  |
-| 22 | 0.2% | 0.4% |  |
-| 23 | 0.1% | 0.2% |  |
-| 24 | 0% | 0.1% |  |
-| 25 | 0% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 20 | 9% | 9% |  |
+| 21 | 0.5% | 0.6% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
