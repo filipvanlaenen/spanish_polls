@@ -200,7 +200,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 2–5 | 2–5 |
 | [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 3 | 1–5 | 1–6 | 1–7 | 0–7 |
-| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 4 | 2–6 | 2–7 | 1–7 | 1–7 |
+| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 4 | 2–6 | 2–6 | 1–7 | 1–7 |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
@@ -221,7 +221,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 2 | 1–7 | 1–7 | 1–7 | 1–7 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País |  |  |  |  |  |
-| [1–18 March 2019](2019-03-18-CIS.html) | CIS | 5 | 5 | 5 | 5 | 4–6 |
+| [1–18 March 2019](2019-03-18-CIS.html) | CIS | 5 | 5 | 5 | 5 | 5 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 3 | 2–4 | 2–4 | 2–5 | 1–5 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 2 | 1–4 | 0–6 | 0–6 | 0–7 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
@@ -371,7 +371,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 18% | 91% | Last Result |
 | 3 | 9% | 74% |  |
 | 4 | 28% | 65% | Median |
-| 5 | 26% | 37% |  |
+| 5 | 27% | 37% |  |
 | 6 | 6% | 10% |  |
 | 7 | 4% | 4% |  |
 | 8 | 0.2% | 0.3% |  |

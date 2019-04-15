@@ -201,7 +201,7 @@ Last result: **8** seats (General Election of 26 June 2016)
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 5 | 4–8 | 2–8 | 2–9 | 1–10 |
-| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 4 | 1–6 | 1–8 | 1–8 | 1–8 |
+| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 4 | 2–6 | 1–8 | 1–8 | 1–8 |
 | [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica |  |  |  |  |  |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
@@ -369,8 +369,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% |  |
 | 2 | 1.0% | 98% |  |
-| 3 | 12% | 97% |  |
-| 4 | 24% | 85% |  |
+| 3 | 14% | 97% |  |
+| 4 | 22% | 84% |  |
 | 5 | 22% | 61% | Median |
 | 6 | 17% | 40% |  |
 | 7 | 4% | 23% |  |

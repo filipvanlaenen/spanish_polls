@@ -209,8 +209,8 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 31 | 26–36 | 25–37 | 24–37 | 24–38 |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 36 | 36–38 | 36–38 | 36–38 | 35–40 |
 | [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 38 | 33–41 | 32–43 | 31–46 | 27–50 |
-| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 35 | 32–41 | 31–43 | 29–43 | 27–45 |
-| [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 42 | 36–50 | 36–53 | 34–55 | 32–58 |
+| [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 35 | 32–40 | 31–41 | 29–43 | 28–45 |
+| [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 42 | 36–50 | 35–53 | 34–55 | 31–58 |
 | [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 31 | 25–36 | 24–37 | 24–37 | 23–39 |
 | [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC | 29 | 25–33 | 25–33 | 24–34 | 23–36 |
 | [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 36 | 33–41 | 33–43 | 30–46 | 28–49 |
@@ -230,7 +230,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 30 | 27–32 | 26–33 | 25–34 | 25–36 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 37 | 32–41 | 30–43 | 28–44 | 25–48 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 34 | 29–38 | 27–38 | 26–40 | 24–43 |
-| [1–18 March 2019](2019-03-18-CIS.html) | CIS | 38 | 36–38 | 35–39 | 35–39 | 34–39 |
+| [1–18 March 2019](2019-03-18-CIS.html) | CIS | 37 | 36–38 | 35–38 | 35–39 | 35–39 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 36 | 33–37 | 33–38 | 31–38 | 31–39 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 40 | 35–47 | 34–51 | 32–53 | 30–57 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 34 | 29–39 | 28–40 | 26–42 | 24–46 |
@@ -388,9 +388,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 4% | 84% |  |
 | 34 | 6% | 80% |  |
 | 35 | 10% | 74% |  |
-| 36 | 17% | 65% | Median |
-| 37 | 10% | 48% |  |
-| 38 | 12% | 38% |  |
+| 36 | 19% | 65% | Median |
+| 37 | 11% | 46% |  |
+| 38 | 9% | 35% |  |
 | 39 | 5% | 26% |  |
 | 40 | 5% | 21% |  |
 | 41 | 3% | 16% |  |
@@ -398,12 +398,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 43 | 3% | 10% |  |
 | 44 | 2% | 7% |  |
 | 45 | 1.3% | 5% |  |
-| 46 | 1.0% | 4% |  |
-| 47 | 0.6% | 3% |  |
+| 46 | 0.9% | 4% |  |
+| 47 | 0.7% | 3% |  |
 | 48 | 0.5% | 2% |  |
-| 49 | 0.3% | 2% |  |
-| 50 | 0.2% | 1.3% |  |
-| 51 | 0.1% | 1.1% |  |
+| 49 | 0.4% | 2% |  |
+| 50 | 0.3% | 1.3% |  |
+| 51 | 0.2% | 1.1% |  |
 | 52 | 0.2% | 0.9% |  |
 | 53 | 0.1% | 0.7% |  |
 | 54 | 0.2% | 0.5% |  |
