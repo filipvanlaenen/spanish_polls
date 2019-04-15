@@ -204,15 +204,15 @@ Last result: **71** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36 | 31–42 | 28–45 | 26–47 | 24–54 |
-| [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 35 | 35–47 | 35–49 | 34–54 | 31–56 |
+| [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 37 | 35–45 | 35–49 | 33–53 | 31–55 |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 36 | 34–40 | 33–42 | 32–43 | 30–47 |
 | [8–9 April 2019](2019-04-09-GAD3.html) | GAD3 <br> ABC | 31 | 26–36 | 25–37 | 24–37 | 24–38 |
 | [22 February–7 April 2019](2019-04-07-electoPanel.html) | electoPanel <br> electomania.es | 36 | 36–38 | 36–38 | 36–38 | 35–40 |
 | [22 February–7 April 2019](2019-04-07-NCReport.html) | NC Report <br> La Razón | 38 | 33–41 | 32–43 | 31–46 | 27–50 |
 | [31 March–6 April 2019](2019-04-06-IMOP.html) | IMOP <br> El Confidencial | 35 | 32–41 | 31–43 | 29–43 | 27–45 |
-| [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 42 | 36–49 | 36–52 | 35–55 | 32–59 |
-| [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 31 | 26–36 | 24–37 | 24–37 | 23–40 |
-| [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC | 28 | 25–32 | 24–33 | 24–34 | 23–36 |
+| [1–5 April 2019](2019-04-05-SimpleLógica.html) | Simple Lógica | 42 | 36–50 | 36–53 | 34–55 | 32–58 |
+| [1–5 April 2019](2019-04-05-GESOP.html) | GESOP <br> El Periódico | 31 | 25–36 | 24–37 | 24–37 | 23–39 |
+| [26 March–4 April 2019](2019-04-04-GAD3.html) | GAD3 <br> ABC | 29 | 25–33 | 25–33 | 24–34 | 23–36 |
 | [26 March–3 April 2019](2019-04-03-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 36 | 33–41 | 33–43 | 30–46 | 28–49 |
 | [27 March–2 April 2019](2019-04-02-IMOP.html) | IMOP <br> El Confidencial | 39 | 36–44 | 35–48 | 33–49 | 31–53 |
 | [22 February–31 March 2019](2019-03-31-electoPanel.html) | electoPanel <br> electomania.es | 36 | 36 | 35–37 | 35–38 | 34–39 |
@@ -230,7 +230,7 @@ Last result: **71** seats (General Election of 26 June 2016)
 | [1–22 March 2019](2019-03-22-GAD3.html) | GAD3 <br> ABC | 30 | 27–32 | 26–33 | 25–34 | 25–36 |
 | [15–20 March 2019](2019-03-20-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 37 | 32–41 | 30–43 | 28–44 | 25–48 |
 | [14–19 March 2019](2019-03-19-40dB.html) | 40dB <br> El País | 34 | 29–38 | 27–38 | 26–40 | 24–43 |
-| [1–18 March 2019](2019-03-18-CIS.html) | CIS | 38 | 36–38 | 36–38 | 35–38 | 35–39 |
+| [1–18 March 2019](2019-03-18-CIS.html) | CIS | 38 | 36–38 | 35–39 | 35–39 | 34–39 |
 | [22 February–17 March 2019](2019-03-17-electoPanel.html) | electoPanel <br> electomania.es | 36 | 33–37 | 33–38 | 31–38 | 31–39 |
 | [11–15 March 2019](2019-03-15-NCReport.html) | NC Report <br> La Razón | 40 | 35–47 | 34–51 | 32–53 | 30–57 |
 | [4–13 March 2019](2019-03-13-SimpleLógica.html) | Simple Lógica | 34 | 29–39 | 28–40 | 26–42 | 24–46 |
@@ -377,35 +377,35 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 23 | 0.1% | 100% |  |
 | 24 | 0.7% | 99.9% |  |
-| 25 | 0.8% | 99.1% |  |
-| 26 | 0.9% | 98% |  |
-| 27 | 1.1% | 97% |  |
-| 28 | 2% | 96% |  |
+| 25 | 0.9% | 99.2% |  |
+| 26 | 1.0% | 98% |  |
+| 27 | 1.2% | 97% |  |
+| 28 | 1.4% | 96% |  |
 | 29 | 2% | 95% |  |
 | 30 | 3% | 93% |  |
 | 31 | 3% | 90% |  |
 | 32 | 3% | 87% |  |
 | 33 | 4% | 84% |  |
 | 34 | 6% | 80% |  |
-| 35 | 11% | 75% |  |
-| 36 | 17% | 64% | Median |
-| 37 | 9% | 47% |  |
-| 38 | 14% | 39% |  |
-| 39 | 4% | 25% |  |
+| 35 | 10% | 74% |  |
+| 36 | 17% | 65% | Median |
+| 37 | 10% | 48% |  |
+| 38 | 12% | 38% |  |
+| 39 | 5% | 26% |  |
 | 40 | 5% | 21% |  |
 | 41 | 3% | 16% |  |
 | 42 | 3% | 13% |  |
-| 43 | 2% | 10% |  |
+| 43 | 3% | 10% |  |
 | 44 | 2% | 7% |  |
 | 45 | 1.3% | 5% |  |
 | 46 | 1.0% | 4% |  |
-| 47 | 0.8% | 3% |  |
-| 48 | 0.6% | 2% |  |
-| 49 | 0.4% | 2% |  |
-| 50 | 0.3% | 1.3% |  |
-| 51 | 0.1% | 1.0% |  |
+| 47 | 0.6% | 3% |  |
+| 48 | 0.5% | 2% |  |
+| 49 | 0.3% | 2% |  |
+| 50 | 0.2% | 1.3% |  |
+| 51 | 0.1% | 1.1% |  |
 | 52 | 0.2% | 0.9% |  |
-| 53 | 0.1% | 0.6% |  |
+| 53 | 0.1% | 0.7% |  |
 | 54 | 0.2% | 0.5% |  |
 | 55 | 0.2% | 0.4% |  |
 | 56 | 0.1% | 0.2% |  |
