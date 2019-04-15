@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Sun, 14 Apr 2019 18:43:58 +0200</pubDate>
+    <pubDate>Mon, 15 Apr 2019 12:04:03 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 4–10 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-10-Celeste-Tel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 85–120 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 100–128 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 33–53 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 43–61 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 9–15 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 4–10 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 3–8 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 1–7 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0–3 seats&lt;/li&gt;&lt;li&gt;Vox: 10–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-10-Celeste-Tel-seats.png"
+        length="232714"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 20:25:41 +0200</pubDate>
+      <dc:date>2019-04-14T20:25:41.090813+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel for eldiario.es, 4–10 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-10-Celeste-Tel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-10-Celeste-Tel-coalitions-seats.png"
+        length="511058"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 20:25:41 +0200</pubDate>
+      <dc:date>2019-04-14T20:25:41.090813+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 4–10 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-10-Celeste-Tel.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-10-Celeste-Tel.png"
         length="269192"
         type="image/png"/>
-      <pubDate>Sun, 14 Apr 2019 18:43:58 +0200</pubDate>
-      <dc:date>2019-04-14T18:43:58.530596+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 20:25:41 +0200</pubDate>
+      <dc:date>2019-04-14T20:25:41.090813+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 3–9 April 2019 – Seat Projections for the Parties</title>
@@ -156,8 +176,28 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-05-SimpleLógica.png"
         length="184146"
         type="image/png"/>
-      <pubDate>Sat, 13 Apr 2019 11:44:41 +0200</pubDate>
-      <dc:date>2019-04-13T11:44:41.209741+02:00</dc:date>
+      <pubDate>Mon, 15 Apr 2019 12:04:03 +0200</pubDate>
+      <dc:date>2019-04-15T12:04:03.819935+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 1–5 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-05-GESOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 73–98 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 119–143 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 24–37 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 37–55 seats&lt;/li&gt;&lt;li&gt;Vox: 21–33 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-05-GESOP-seats.png"
+        length="159914"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 22:40:43 +0200</pubDate>
+      <dc:date>2019-04-14T22:40:43.884498+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 1–5 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-05-GESOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-05-GESOP-coalitions-seats.png"
+        length="465354"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 22:40:43 +0200</pubDate>
+      <dc:date>2019-04-14T22:40:43.884498+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 1–5 April 2019 – Voting Intentions</title>
@@ -166,8 +206,28 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-05-GESOP.png"
         length="177268"
         type="image/png"/>
-      <pubDate>Sat, 13 Apr 2019 12:11:02 +0200</pubDate>
-      <dc:date>2019-04-13T12:11:02.009932+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 22:40:43 +0200</pubDate>
+      <dc:date>2019-04-14T22:40:43.884498+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for ABC, 26 March–4 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-04-GAD3.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 76–90 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 129–145 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 24–34 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 43–54 seats&lt;/li&gt;&lt;li&gt;Vox: 19–29 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-04-GAD3-seats.png"
+        length="142952"
+        type="image/png"/>
+      <pubDate>Mon, 15 Apr 2019 11:55:36 +0200</pubDate>
+      <dc:date>2019-04-15T11:55:36.977792+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for ABC, 26 March–4 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-04-GAD3.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-04-GAD3-coalitions-seats.png"
+        length="401534"
+        type="image/png"/>
+      <pubDate>Mon, 15 Apr 2019 11:55:36 +0200</pubDate>
+      <dc:date>2019-04-15T11:55:36.977792+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 26 March–4 April 2019 – Voting Intentions</title>
@@ -176,8 +236,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-04-GAD3.png"
         length="158755"
         type="image/png"/>
-      <pubDate>Sat, 13 Apr 2019 13:07:38 +0200</pubDate>
-      <dc:date>2019-04-13T13:07:38.427764+02:00</dc:date>
+      <pubDate>Mon, 15 Apr 2019 11:55:36 +0200</pubDate>
+      <dc:date>2019-04-15T11:55:36.977792+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 26 March–3 April 2019 – Seat Projections for the Parties</title>
@@ -696,8 +756,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-03-18-CIS.png"
         length="217805"
         type="image/png"/>
-      <pubDate>Sat, 13 Apr 2019 16:33:29 +0200</pubDate>
-      <dc:date>2019-04-13T16:33:29.125603+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 22:57:48 +0200</pubDate>
+      <dc:date>2019-04-14T22:57:48.108794+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–17 March 2019 – Seat Projections for the Parties</title>
@@ -2749,6 +2809,6 @@
       <pubDate>Thu, 21 Mar 2019 19:48:55 +0100</pubDate>
       <dc:date>2019-03-21T19:48:55.652918+01:00</dc:date>
     </item>
-    <dc:date>2019-04-14T18:43:58.530596+02:00</dc:date>
+    <dc:date>2019-04-15T12:04:03.819935+02:00</dc:date>
   </channel>
 </rss>
