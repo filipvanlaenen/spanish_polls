@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_polls</id>
   <title>All Registered Polls for the Congress of Deputies</title>
-  <updated>2019-04-15T14:59:41.197332+02:00</updated>
+  <updated>2019-04-16T19:21:19.766878+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular: 18.3–23.5%, 69–94 seats</li><li>Partido Socialista Obrero Español: 25.1–30.9%, 104–135 seats</li><li>Unidos Podemos: 12.0–16.5%, 31–47 seats</li><li>Ciudadanos–Partido de la Ciudadanía: 14.4–19.2%, 47–65 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí: 1.5–3.5%, 7–15 seats</li><li>Partit Demòcrata Europeu Català: 0.7–2.1%, 1–9 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.9–2.5%, 3–10 seats</li><li>Euskal Herria Bildu: 0.6–2.0%, 2–9 seats</li><li>Coalición Canaria–Partido Nacionalista Canario: 0.1–0.8%, 0–2 seats</li><li>Vox: 9.8–14.0%, 22–37 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_polls/2019-04-11-DemoscopiayServicios.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_polls/2019-04-11-DemoscopiayServicios.html"/>
+    <title>Opinion Poll by Demoscopia y Servicios for ESdiario, 8–11 April 2019</title>
+    <updated>2019-04-16T19:21:19.766878+02:00</updated>
+    <dc:date>2019-04-16T19:21:19.766878+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular: 21.5–26.5%, 85–120 seats</li><li>Partido Socialista Obrero Español: 24.7–30.0%, 100–128 seats</li><li>Unidos Podemos: 12.7–16.9%, 33–53 seats</li><li>Ciudadanos–Partido de la Ciudadanía: 13.9–18.2%, 43–61 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí: 2.0–4.0%, 9–15 seats</li><li>Partit Demòcrata Europeu Català: 1.0–2.6%, 4–10 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.7–2.0%, 3–8 seats</li><li>Partido Animalista Contra el Maltrato Animal: 1.0–2.5%, 0–1 seats</li><li>Euskal Herria Bildu: 0.4–1.6%, 1–7 seats</li><li>Coalición Canaria–Partido Nacionalista Canario: 0.1–0.8%, 0–3 seats</li><li>Vox: 6.4–9.6%, 10–22 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_polls/2019-04-10-Celeste-Tel.html</id>
@@ -503,5 +511,5 @@
     <updated>2019-03-16T18:43:40.083724+01:00</updated>
     <dc:date>2019-03-16T18:43:40.083724+01:00</dc:date>
   </entry>
-  <dc:date>2019-04-15T14:59:41.197332+02:00</dc:date>
+  <dc:date>2019-04-16T19:21:19.766878+02:00</dc:date>
 </feed>
