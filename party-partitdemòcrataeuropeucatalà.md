@@ -10,7 +10,7 @@ Last result: **2.0%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 1.0–1.9% | 0.9–2.1% | 0.8–2.3% | 0.6–2.7% |
+| N/A | [Poll Average](average.html) | 1.4% | 1.0–1.9% | 0.9–2.2% | 0.8–2.3% | 0.6–2.7% |
 | [22 February–14 April 2019](2019-04-14-electoPanel.html) | electoPanel <br> electomania.es | 1.3% | 1.2–1.5% | 1.1–1.5% | 1.1–1.6% | 1.0–1.6% |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.0% | 0.7–2.3% |
@@ -187,10 +187,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.2% | 100% |  |
-| 0.5–1.5% | 71% | 99.8% | Median |
-| 1.5–2.5% | 28% | 29% | Last Result |
-| 2.5–3.5% | 0.9% | 0.9% |  |
+| 0.0–0.5% | 0.1% | 100% |  |
+| 0.5–1.5% | 69% | 99.9% | Median |
+| 1.5–2.5% | 30% | 31% | Last Result |
+| 2.5–3.5% | 1.0% | 1.0% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -202,13 +202,13 @@ Last result: **8** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–8 | 2–8 | 1–9 | 1–10 |
+| N/A | [Poll Average](average.html) | 5 | 3–8 | 3–8 | 2–9 | 1–10 |
 | [22 February–14 April 2019](2019-04-14-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–6 | 4–6 | 4–7 |
-| [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 5 | 3–8 | 1–8 | 1–8 | 1–9 |
-| [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 4 | 3–7 | 3–8 | 3–8 | 1–8 |
-| [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 4–8 | 4–8 | 3–8 | 1–8 |
+| [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 5 | 3–8 | 3–8 | 1–8 | 1–10 |
+| [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 5 | 3–7 | 3–8 | 2–8 | 1–8 |
+| [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 4 | 3–8 | 3–8 | 3–8 | 2–9 |
 | [8–11 April 2019](2019-04-11-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [9–11 April 2019](2019-04-11-GAD3.html) | GAD3 <br> La Vanguardia | 7 | 3–8 | 2–8 | 2–8 | 1–9 |
+| [9–11 April 2019](2019-04-11-GAD3.html) | GAD3 <br> La Vanguardia | 5 | 1–8 | 1–8 | 1–8 | 1–9 |
 | [8–11 April 2019](2019-04-11-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 4 | 2–8 | 1–8 | 1–9 | 1–10 |
 | [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 4–8 | 4–9 | 4–10 | 3–10 |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial | 4 | 3–6 | 3–7 | 2–8 | 1–9 |
@@ -381,16 +381,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 3% | 100% |  |
-| 2 | 2% | 97% |  |
-| 3 | 16% | 95% |  |
-| 4 | 27% | 79% |  |
+| 1 | 2% | 100% |  |
+| 2 | 2% | 98% |  |
+| 3 | 21% | 96% |  |
+| 4 | 22% | 75% |  |
 | 5 | 15% | 52% | Median |
-| 6 | 8% | 36% |  |
-| 7 | 6% | 29% |  |
-| 8 | 20% | 22% | Last Result |
+| 6 | 11% | 37% |  |
+| 7 | 6% | 26% |  |
+| 8 | 16% | 20% | Last Result |
 | 9 | 2% | 3% |  |
-| 10 | 0.6% | 0.8% |  |
+| 10 | 0.7% | 0.9% |  |
 | 11 | 0.1% | 0.2% |  |
 | 12 | 0% | 0.1% |  |
 | 13 | 0% | 0% |  |

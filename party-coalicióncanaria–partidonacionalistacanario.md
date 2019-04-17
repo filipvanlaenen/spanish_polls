@@ -202,11 +202,11 @@ Last result: **1** seats (General Election of 26 June 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–3 | 0–4 | 0–4 |
 | [22 February–14 April 2019](2019-04-14-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 1 | 0–2 | 0–2 | 0–3 | 0–4 |
-| [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 1 | 0–1 | 0–2 | 0–3 | 0–3 |
+| [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
+| [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [8–11 April 2019](2019-04-11-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [9–11 April 2019](2019-04-11-GAD3.html) | GAD3 <br> La Vanguardia | 1 | 1–2 | 0–4 | 0–4 | 0–5 |
+| [9–11 April 2019](2019-04-11-GAD3.html) | GAD3 <br> La Vanguardia | 1 | 0–2 | 0–4 | 0–4 | 0–5 |
 | [8–11 April 2019](2019-04-11-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 1 | 0–2 | 0–2 | 0–2 | 0–4 |
 | [4–10 April 2019](2019-04-10-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 0–1 | 0–2 | 0–3 | 0–4 |
 | [3–9 April 2019](2019-04-09-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
@@ -379,11 +379,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 58% | 81% | Last Result, Median |
-| 2 | 17% | 23% |  |
+| 0 | 23% | 100% |  |
+| 1 | 56% | 77% | Last Result, Median |
+| 2 | 16% | 21% |  |
 | 3 | 2% | 5% |  |
-| 4 | 3% | 3% |  |
+| 4 | 2% | 3% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
