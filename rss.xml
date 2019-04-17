@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Tue, 16 Apr 2019 19:37:39 +0200</pubDate>
+    <pubDate>Wed, 17 Apr 2019 20:09:36 +0200</pubDate>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–14 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-14-electoPanel.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-14-NCReport.png"
         length="256752"
         type="image/png"/>
-      <pubDate>Tue, 16 Apr 2019 18:07:23 +0200</pubDate>
-      <dc:date>2019-04-16T18:07:23.327645+02:00</dc:date>
+      <pubDate>Tue, 16 Apr 2019 22:37:46 +0200</pubDate>
+      <dc:date>2019-04-16T22:37:46.349279+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 7–13 April 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-13-IMOP.png"
         length="263310"
         type="image/png"/>
-      <pubDate>Tue, 16 Apr 2019 19:37:39 +0200</pubDate>
-      <dc:date>2019-04-16T19:37:39.947583+02:00</dc:date>
+      <pubDate>Tue, 16 Apr 2019 20:19:37 +0200</pubDate>
+      <dc:date>2019-04-16T20:19:37.992319+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 5–12 April 2019 – Voting Intentions</title>
@@ -46,8 +46,28 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-12-SocioMétrica.png"
         length="257401"
         type="image/png"/>
-      <pubDate>Tue, 16 Apr 2019 17:04:41 +0200</pubDate>
-      <dc:date>2019-04-16T17:04:41.143427+02:00</dc:date>
+      <pubDate>Tue, 16 Apr 2019 21:36:58 +0200</pubDate>
+      <dc:date>2019-04-16T21:36:58.47295+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 8–11 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-11-Invymark.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 71–97 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 102–128 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 26–43 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 45–64 seats&lt;/li&gt;&lt;li&gt;Vox: 26–45 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-11-Invymark-seats.png"
+        length="165435"
+        type="image/png"/>
+      <pubDate>Wed, 17 Apr 2019 20:09:36 +0200</pubDate>
+      <dc:date>2019-04-17T20:09:36.095013+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Invymark for laSexta, 8–11 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-11-Invymark.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-11-Invymark-coalitions-seats.png"
+        length="496795"
+        type="image/png"/>
+      <pubDate>Wed, 17 Apr 2019 20:09:36 +0200</pubDate>
+      <dc:date>2019-04-17T20:09:36.095013+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Invymark for laSexta, 8–11 April 2019 – Voting Intentions</title>
@@ -56,8 +76,28 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-11-Invymark.png"
         length="181265"
         type="image/png"/>
-      <pubDate>Tue, 16 Apr 2019 17:43:17 +0200</pubDate>
-      <dc:date>2019-04-16T17:43:17.64482+02:00</dc:date>
+      <pubDate>Wed, 17 Apr 2019 20:09:36 +0200</pubDate>
+      <dc:date>2019-04-17T20:09:36.095013+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for La Vanguardia, 9–11 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-11-GAD3.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 69–103 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 116–152 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 22–38 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 28–54 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 11–22 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1–8 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 3–10 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 0–1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 1–7 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0–4 seats&lt;/li&gt;&lt;li&gt;Vox: 20–41 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-11-GAD3-seats.png"
+        length="242689"
+        type="image/png"/>
+      <pubDate>Wed, 17 Apr 2019 18:28:30 +0200</pubDate>
+      <dc:date>2019-04-17T18:28:30.520611+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for La Vanguardia, 9–11 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-11-GAD3.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-11-GAD3-coalitions-seats.png"
+        length="544511"
+        type="image/png"/>
+      <pubDate>Wed, 17 Apr 2019 18:28:30 +0200</pubDate>
+      <dc:date>2019-04-17T18:28:30.520611+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for La Vanguardia, 9–11 April 2019 – Voting Intentions</title>
@@ -66,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-11-GAD3.png"
         length="280337"
         type="image/png"/>
-      <pubDate>Tue, 16 Apr 2019 16:47:05 +0200</pubDate>
-      <dc:date>2019-04-16T16:47:05.664678+02:00</dc:date>
+      <pubDate>Wed, 17 Apr 2019 18:28:30 +0200</pubDate>
+      <dc:date>2019-04-17T18:28:30.520611+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoscopia y Servicios for ESdiario, 8–11 April 2019 – Seat Projections for the Parties</title>
@@ -2959,6 +2999,6 @@
       <pubDate>Thu, 21 Mar 2019 19:48:55 +0100</pubDate>
       <dc:date>2019-03-21T19:48:55.652918+01:00</dc:date>
     </item>
-    <dc:date>2019-04-16T19:37:39.947583+02:00</dc:date>
+    <dc:date>2019-04-17T20:09:36.095013+02:00</dc:date>
   </channel>
 </rss>
