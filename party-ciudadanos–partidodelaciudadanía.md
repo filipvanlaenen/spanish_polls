@@ -212,11 +212,11 @@ Last result: **32** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51 | 41–60 | 38–63 | 35–65 | 30–68 |
-| [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es | 50 | 49–51 | 47–51 | 47–51 | 45–53 |
+| N/A | [Poll Average](average.html) | 50 | 41–60 | 38–63 | 35–65 | 30–68 |
+| [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es | 50 | 49–51 | 48–51 | 47–51 | 46–53 |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 38 | 32–44 | 30–46 | 27–47 | 23–49 |
 | [22 February–14 April 2019](2019-04-14-electoPanel.html) | electoPanel <br> electomania.es | 51 | 49–52 | 49–53 | 49–53 | 45–55 |
-| [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español | 51 | 48–55 | 46–57 | 45–61 | 44–64 |
+| [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español | 52 | 46–58 | 45–61 | 42–62 | 39–63 |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 51 | 48–60 | 42–61 | 36–62 | 35–62 |
 | [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 49 | 45–58 | 45–59 | 43–61 | 39–64 |
 | [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 51 | 44–56 | 44–56 | 41–56 | 39–61 |
@@ -410,31 +410,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 1.0% | 97% |  |
 | 37 | 1.0% | 96% |  |
 | 38 | 1.3% | 95% |  |
-| 39 | 1.1% | 94% |  |
+| 39 | 1.2% | 94% |  |
 | 40 | 2% | 93% |  |
 | 41 | 2% | 91% |  |
 | 42 | 2% | 89% |  |
 | 43 | 1.4% | 87% |  |
 | 44 | 2% | 86% |  |
-| 45 | 4% | 84% |  |
+| 45 | 4% | 83% |  |
 | 46 | 8% | 80% |  |
 | 47 | 2% | 72% |  |
 | 48 | 3% | 70% |  |
-| 49 | 11% | 67% |  |
-| 50 | 6% | 57% |  |
-| 51 | 11% | 51% | Median |
+| 49 | 8% | 67% |  |
+| 50 | 10% | 59% | Median |
+| 51 | 9% | 49% |  |
 | 52 | 5% | 40% |  |
-| 53 | 4% | 35% |  |
-| 54 | 5% | 31% |  |
-| 55 | 4% | 26% |  |
-| 56 | 2% | 22% |  |
-| 57 | 2% | 20% |  |
+| 53 | 4% | 36% |  |
+| 54 | 4% | 32% |  |
+| 55 | 5% | 28% |  |
+| 56 | 3% | 23% |  |
+| 57 | 3% | 21% |  |
 | 58 | 3% | 18% |  |
 | 59 | 4% | 15% |  |
 | 60 | 2% | 11% |  |
 | 61 | 2% | 9% |  |
-| 62 | 1.3% | 7% |  |
-| 63 | 1.1% | 6% |  |
+| 62 | 1.5% | 7% |  |
+| 63 | 1.2% | 6% |  |
 | 64 | 1.0% | 5% |  |
 | 65 | 1.2% | 4% |  |
 | 66 | 0.7% | 2% |  |

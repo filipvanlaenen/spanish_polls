@@ -209,10 +209,10 @@ Last result: **9** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 10–19 | 9–20 | 9–20 | 7–21 |
-| [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 13–14 | 12–14 | 11–14 |
+| [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13 | 12–14 | 12–14 | 11–14 |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [22 February–14 April 2019](2019-04-14-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 12–14 | 11–14 | 10–14 |
-| [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–16 | 12–20 | 12–20 | 11–20 |
+| [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–16 | 11–18 | 11–18 | 10–20 |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 12 | 10–15 | 9–16 | 9–17 | 8–20 |
 | [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 14 | 12–16 | 9–17 | 9–17 | 9–19 |
 | [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–15 | 12–15 | 11–16 | 9–18 |
@@ -397,14 +397,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 5% | 93% |  |
 | 11 | 7% | 88% |  |
 | 12 | 11% | 81% |  |
-| 13 | 19% | 71% |  |
-| 14 | 17% | 51% | Median |
-| 15 | 9% | 34% |  |
-| 16 | 6% | 25% |  |
+| 13 | 18% | 70% |  |
+| 14 | 16% | 52% | Median |
+| 15 | 11% | 36% |  |
+| 16 | 5% | 25% |  |
 | 17 | 3% | 20% |  |
 | 18 | 5% | 17% |  |
-| 19 | 3% | 12% |  |
-| 20 | 8% | 9% |  |
+| 19 | 3% | 11% |  |
+| 20 | 8% | 8% |  |
 | 21 | 0.4% | 0.5% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |

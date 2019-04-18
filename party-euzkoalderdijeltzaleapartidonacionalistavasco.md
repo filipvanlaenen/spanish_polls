@@ -206,7 +206,7 @@ Last result: **5** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 4–8 | 3–8 | 3–8 | 3–10 |
-| [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6 | 6 | 6–8 |
+| [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6 | 6 | 6–7 | 6–7 |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [22 February–14 April 2019](2019-04-14-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 3–7 | 3–7 | 3–7 | 2–9 |
@@ -389,13 +389,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
 | 2 | 0.4% | 99.9% |  |
-| 3 | 8% | 99.5% |  |
-| 4 | 5% | 91% |  |
-| 5 | 5% | 87% | Last Result |
+| 3 | 9% | 99.5% |  |
+| 4 | 5% | 90% |  |
+| 5 | 4% | 85% | Last Result |
 | 6 | 57% | 81% | Median |
 | 7 | 11% | 24% |  |
 | 8 | 10% | 13% |  |
-| 9 | 1.4% | 2% |  |
+| 9 | 1.3% | 2% |  |
 | 10 | 0.9% | 1.0% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
