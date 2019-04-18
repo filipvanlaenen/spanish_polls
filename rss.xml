@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Wed, 17 Apr 2019 20:09:36 +0200</pubDate>
+    <pubDate>Wed, 17 Apr 2019 22:19:07 +0200</pubDate>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–14 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-14-electoPanel.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-14-electoPanel.png"
         length="224053"
         type="image/png"/>
-      <pubDate>Tue, 16 Apr 2019 17:59:19 +0200</pubDate>
-      <dc:date>2019-04-16T17:59:19.450972+02:00</dc:date>
+      <pubDate>Wed, 17 Apr 2019 22:19:07 +0200</pubDate>
+      <dc:date>2019-04-17T22:19:07.298969+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 30 March–14 April 2019 – Voting Intentions</title>
@@ -2999,6 +2999,6 @@
       <pubDate>Thu, 21 Mar 2019 19:48:55 +0100</pubDate>
       <dc:date>2019-03-21T19:48:55.652918+01:00</dc:date>
     </item>
-    <dc:date>2019-04-17T20:09:36.095013+02:00</dc:date>
+    <dc:date>2019-04-17T22:19:07.298969+02:00</dc:date>
   </channel>
 </rss>
