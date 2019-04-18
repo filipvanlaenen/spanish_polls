@@ -214,13 +214,13 @@ Last result: **71** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36 | 31–42 | 28–44 | 27–47 | 24–54 |
-| [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es | 36 | 36–37 | 36–38 | 35–38 | 34–40 |
-| [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 32 | 26–36 | 25–37 | 25–38 | 24–40 |
+| [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es | 36 | 36–37 | 35–38 | 35–38 | 34–40 |
+| [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 32 | 27–36 | 25–37 | 25–38 | 24–40 |
 | [22 February–14 April 2019](2019-04-14-electoPanel.html) | electoPanel <br> electomania.es | 36 | 36–37 | 35–38 | 34–39 | 33–40 |
 | [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español | 36 | 31–41 | 29–42 | 29–44 | 27–46 |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 39 | 33–42 | 29–44 | 28–46 | 26–52 |
 | [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 38 | 35–43 | 34–45 | 32–47 | 32–51 |
-| [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 37 | 34–40 | 31–42 | 30–43 | 29–44 |
+| [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 36 | 35–40 | 33–41 | 32–41 | 29–44 |
 | [8–11 April 2019](2019-04-11-Invymark.html) | Invymark <br> laSexta | 35 | 30–40 | 27–41 | 26–43 | 25–45 |
 | [9–11 April 2019](2019-04-11-GAD3.html) | GAD3 <br> La Vanguardia | 29 | 24–35 | 23–37 | 22–38 | 21–40 |
 | [8–11 April 2019](2019-04-11-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 38 | 34–42 | 32–45 | 31–47 | 25–51 |
@@ -399,7 +399,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 0.6% | 99.9% |  |
 | 25 | 0.9% | 99.3% |  |
 | 26 | 0.8% | 98% |  |
-| 27 | 1.2% | 98% |  |
+| 27 | 1.1% | 98% |  |
 | 28 | 2% | 96% |  |
 | 29 | 2% | 95% |  |
 | 30 | 2% | 93% |  |
@@ -408,9 +408,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 4% | 84% |  |
 | 34 | 5% | 80% |  |
 | 35 | 11% | 75% |  |
-| 36 | 19% | 64% | Median |
-| 37 | 11% | 45% |  |
-| 38 | 8% | 35% |  |
+| 36 | 18% | 64% | Median |
+| 37 | 11% | 46% |  |
+| 38 | 9% | 35% |  |
 | 39 | 4% | 26% |  |
 | 40 | 6% | 22% |  |
 | 41 | 5% | 16% |  |
