@@ -10,11 +10,11 @@ Last result: **0.8%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.3% | 0.5–1.5% | 0.4–1.7% | 0.3–2.0% |
-| [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es | 0.9% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.3% | 0.5–1.5% | 0.5–1.6% | 0.4–1.9% |
+| [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es | 0.9% | 0.8–1.0% | 0.7–1.1% | 0.7–1.1% | 0.7–1.2% |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [22 February–14 April 2019](2019-04-14-electoPanel.html) | electoPanel <br> electomania.es | 0.8% | 0.7–0.9% | 0.7–1.0% | 0.6–1.0% | 0.6–1.1% |
-| [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español | 1.0% | N/A | N/A | N/A | N/A |
+| [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
 | [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 0.8% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% | 0.4–1.6% |
 | [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
@@ -190,9 +190,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 7% | 100% |  |
-| 0.5–1.5% | 89% | 93% | Last Result, Median |
-| 1.5–2.5% | 4% | 4% |  |
+| 0.0–0.5% | 5% | 100% |  |
+| 0.5–1.5% | 92% | 95% | Last Result, Median |
+| 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -204,11 +204,11 @@ Last result: **2** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 1–6 | 1–7 | 1–7 | 0–9 |
-| [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 4 | 2–6 | 1–7 | 1–7 | 1–9 |
+| [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–5 | 3–5 | 2–5 |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [22 February–14 April 2019](2019-04-14-electoPanel.html) | electoPanel <br> electomania.es | 4 | 2–4 | 2–4 | 2–5 | 2–5 |
-| [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 2–7 | 2–7 | 2–7 | 2–7 |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 3 | 1–7 | 1–7 | 1–7 | 0–7 |
 | [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 4 | 1–6 | 1–6 | 1–6 | 0–7 |
 | [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 4 | 2–6 | 2–6 | 2–7 | 1–8 |
@@ -386,16 +386,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% |  |
-| 1 | 11% | 99.4% |  |
-| 2 | 13% | 89% | Last Result |
-| 3 | 13% | 75% |  |
-| 4 | 16% | 62% | Median |
-| 5 | 29% | 46% |  |
+| 0 | 0.4% | 100% |  |
+| 1 | 8% | 99.6% |  |
+| 2 | 13% | 91% | Last Result |
+| 3 | 10% | 79% |  |
+| 4 | 21% | 69% | Median |
+| 5 | 30% | 47% |  |
 | 6 | 8% | 17% |  |
-| 7 | 8% | 9% |  |
-| 8 | 0.5% | 1.2% |  |
-| 9 | 0.6% | 0.7% |  |
+| 7 | 9% | 10% |  |
+| 8 | 0.4% | 0.9% |  |
+| 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% |  |
 
 
