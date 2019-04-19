@@ -208,10 +208,10 @@ Last result: **8** seats (General Election of 26 June 2016)
 | N/A | [Poll Average](average.html) | 5 | 3–8 | 3–8 | 2–9 | 1–10 |
 | [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [22 February–14 April 2019](2019-04-14-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–5 | 4–6 | 4–6 | 4–7 |
+| [22 February–14 April 2019](2019-04-14-electoPanel.html) | electoPanel <br> electomania.es | 4 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [7–14 April 2019](2019-04-14-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 4–8 | 3–8 | 3–8 | 1–9 |
 | [30 March–14 April 2019](2019-04-14-NCReport.html) | NC Report <br> La Razón | 5 | 3–8 | 3–8 | 1–8 | 1–10 |
-| [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 5 | 3–7 | 3–8 | 2–8 | 1–8 |
+| [7–13 April 2019](2019-04-13-IMOP.html) | IMOP <br> El Confidencial | 4 | 3–7 | 3–8 | 3–8 | 1–8 |
 | [5–12 April 2019](2019-04-12-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 4–7 | 3–8 | 3–8 | 3–8 |
 | [8–11 April 2019](2019-04-11-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [9–11 April 2019](2019-04-11-GAD3.html) | GAD3 <br> La Vanguardia | 5 | 1–8 | 1–8 | 1–8 | 1–9 |
@@ -387,14 +387,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 2% | 98% |  |
+| 1 | 1.5% | 100% |  |
+| 2 | 2% | 98.5% |  |
 | 3 | 20% | 97% |  |
-| 4 | 23% | 77% |  |
-| 5 | 16% | 54% | Median |
-| 6 | 14% | 37% |  |
-| 7 | 5% | 23% |  |
-| 8 | 15% | 18% | Last Result |
+| 4 | 24% | 77% |  |
+| 5 | 18% | 53% | Median |
+| 6 | 13% | 35% |  |
+| 7 | 5% | 22% |  |
+| 8 | 14% | 18% | Last Result |
 | 9 | 2% | 3% |  |
 | 10 | 0.8% | 1.0% |  |
 | 11 | 0.1% | 0.2% |  |
