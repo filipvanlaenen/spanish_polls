@@ -233,10 +233,10 @@ Last result: **85** seats (General Election of 26 June 2016)
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 129 | 129–140 | 128–141 | 121–145 | 119–147 |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 117 | 109–128 | 106–133 | 105–135 | 100–137 |
 | [22 February–16 April 2019](2019-04-16-electoPanel.html) | electoPanel <br> electomania.es | 123 | 121–125 | 118–126 | 117–127 | 117–129 |
-| [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 139 | 129–140 | 128–140 | 126–144 | 120–145 |
+| [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 135 | 126–140 | 124–140 | 120–143 | 118–146 |
 | [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 131 | 124–140 | 121–145 | 121–146 | 117–149 |
 | [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es | 126 | 122–129 | 120–129 | 119–129 | 118–130 |
-| [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 120 | 109–129 | 107–131 | 105–134 | 100–137 |
+| [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 119 | 109–129 | 107–131 | 104–133 | 100–137 |
 | [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 132 | 122–137 | 121–139 | 119–140 | 115–144 |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC | 137 | 131–143 | 129–145 | 128–147 | 124–150 |
 | [12–15 April 2019](2019-04-15-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 120 | 113–135 | 110–136 | 110–137 | 108–139 |
@@ -428,7 +428,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 92 | 0% | 100% |  |
 | 93 | 0% | 100% |  |
 | 94 | 0% | 100% |  |
-| 95 | 0% | 99.9% |  |
+| 95 | 0% | 100% |  |
 | 96 | 0.1% | 99.9% |  |
 | 97 | 0.1% | 99.8% |  |
 | 98 | 0.1% | 99.8% |  |
@@ -450,19 +450,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 114 | 2% | 83% |  |
 | 115 | 2% | 81% |  |
 | 116 | 2% | 79% |  |
-| 117 | 2% | 76% |  |
-| 118 | 3% | 74% |  |
+| 117 | 2% | 77% |  |
+| 118 | 4% | 75% |  |
 | 119 | 3% | 71% |  |
 | 120 | 3% | 68% |  |
 | 121 | 4% | 65% |  |
 | 122 | 3% | 61% |  |
-| 123 | 3% | 58% |  |
+| 123 | 2% | 58% |  |
 | 124 | 6% | 56% | Median |
 | 125 | 2% | 50% |  |
 | 126 | 3% | 48% |  |
-| 127 | 3% | 45% |  |
+| 127 | 2% | 45% |  |
 | 128 | 3% | 42% |  |
-| 129 | 3% | 39% |  |
+| 129 | 3% | 40% |  |
 | 130 | 3% | 37% |  |
 | 131 | 2% | 34% |  |
 | 132 | 3% | 32% |  |
@@ -474,7 +474,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 138 | 2% | 12% |  |
 | 139 | 3% | 10% |  |
 | 140 | 2% | 8% |  |
-| 141 | 1.1% | 6% |  |
+| 141 | 1.2% | 6% |  |
 | 142 | 1.0% | 5% |  |
 | 143 | 0.8% | 4% |  |
 | 144 | 0.7% | 3% |  |

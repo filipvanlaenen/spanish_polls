@@ -216,7 +216,7 @@ Last result: **5** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 3–8 | 3–9 | 3–10 |
+| N/A | [Poll Average](average.html) | 6 | 3–8 | 3–8 | 3–9 | 2–10 |
 | [22 February–19 April 2019](2019-04-19-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [22 February–18 April 2019](2019-04-18-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 4–6 | 3–6 | 3–6 | 3–7 |
@@ -227,7 +227,7 @@ Last result: **5** seats (General Election of 26 June 2016)
 | [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 3–7 | 3–7 | 3–7 | 2–9 |
 | [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 6 | 4–7 | 3–8 | 3–9 | 3–10 |
 | [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 6 | 3–8 | 3–8 | 3–9 | 3–10 |
+| [13–15 April 2019](2019-04-15-TopPosition.html) | Top Position | 6 | 3–8 | 3–8 | 3–9 | 2–10 |
 | [8–15 April 2019](2019-04-15-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 4–8 | 3–8 | 3–9 | 3–9 |
 | [9–15 April 2019](2019-04-15-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [12–15 April 2019](2019-04-15-DemoscopiayServicios.html) | Demoscopia y Servicios <br> OKDIARIO | 7 | 5–8 | 4–10 | 3–10 | 3–10 |
@@ -410,14 +410,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
-| 2 | 0.4% | 99.9% |  |
-| 3 | 9% | 99.5% |  |
-| 4 | 8% | 91% |  |
+| 2 | 0.5% | 99.9% |  |
+| 3 | 10% | 99.5% |  |
+| 4 | 7% | 90% |  |
 | 5 | 8% | 83% | Last Result |
-| 6 | 47% | 74% | Median |
-| 7 | 13% | 27% |  |
-| 8 | 11% | 14% |  |
-| 9 | 1.3% | 3% |  |
+| 6 | 47% | 75% | Median |
+| 7 | 14% | 28% |  |
+| 8 | 12% | 15% |  |
+| 9 | 1.1% | 3% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
