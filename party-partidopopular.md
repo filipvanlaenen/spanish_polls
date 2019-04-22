@@ -234,12 +234,12 @@ Last result: **137** seats (General Election of 26 June 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 81 | 69–100 | 65–105 | 61–108 | 55–113 |
 | [22 February–19 April 2019](2019-04-19-electoPanel.html) | electoPanel <br> electomania.es | 79 | 77–82 | 77–84 | 77–84 | 77–84 |
-| [22 February–18 April 2019](2019-04-18-electoPanel.html) | electoPanel <br> electomania.es | 82 | 76–82 | 76–82 | 76–82 | 76–86 |
+| [22 February–18 April 2019](2019-04-18-electoPanel.html) | electoPanel <br> electomania.es | 82 | 76–83 | 76–84 | 76–84 | 76–86 |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 69 | 69–76 | 67–77 | 67–77 | 63–82 |
-| [22 February–17 April 2019](2019-04-17-electoPanel.html) | electoPanel <br> electomania.es | 81 | 81–85 | 81–85 | 79–85 | 79–85 |
-| [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 77 | 66–80 | 65–80 | 65–80 | 62–82 |
+| [22 February–17 April 2019](2019-04-17-electoPanel.html) | electoPanel <br> electomania.es | 81 | 79–85 | 79–85 | 79–85 | 77–86 |
+| [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 77 | 67–78 | 65–82 | 62–82 | 60–83 |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 101 | 86–109 | 86–113 | 83–117 | 81–120 |
-| [22 February–16 April 2019](2019-04-16-electoPanel.html) | electoPanel <br> electomania.es | 81 | 75–81 | 75–83 | 75–84 | 75–85 |
+| [22 February–16 April 2019](2019-04-16-electoPanel.html) | electoPanel <br> electomania.es | 81 | 80–83 | 79–84 | 78–85 | 75–85 |
 | [9–16 April 2019](2019-04-16-SocioMétrica.html) | SocioMétrica <br> El Español | 71 | 64–77 | 63–78 | 62–80 | 58–84 |
 | [10–16 April 2019](2019-04-16-IMOP.html) | IMOP <br> El Confidencial | 76 | 68–84 | 65–88 | 65–88 | 63–88 |
 | [22 February–15 April 2019](2019-04-15-electoPanel.html) | electoPanel <br> electomania.es | 81 | 76–82 | 76–84 | 76–84 | 75–85 |
