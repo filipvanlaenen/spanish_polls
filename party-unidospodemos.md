@@ -225,10 +225,10 @@ Last result: **71** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36 | 29–42 | 27–43 | 25–46 | 24–53 |
-| [22 February–19 April 2019](2019-04-19-electoPanel.html) | electoPanel <br> electomania.es | 37 | 37–39 | 37–41 | 37–41 | 37–41 |
+| [22 February–19 April 2019](2019-04-19-electoPanel.html) | electoPanel <br> electomania.es | 37 | 37–39 | 37–39 | 36–41 | 35–41 |
 | [22 February–18 April 2019](2019-04-18-electoPanel.html) | electoPanel <br> electomania.es | 37 | 36–38 | 35–38 | 35–39 | 35–40 |
-| [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 36 | 36–37 | 36–39 | 35–40 | 34–43 |
-| [22 February–17 April 2019](2019-04-17-electoPanel.html) | electoPanel <br> electomania.es | 37 | 37–39 | 36–39 | 35–40 | 35–40 |
+| [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 36 | 36–38 | 35–39 | 32–41 | 31–45 |
+| [22 February–17 April 2019](2019-04-17-electoPanel.html) | electoPanel <br> electomania.es | 37 | 36–38 | 36–39 | 35–40 | 35–40 |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 36 | 36–41 | 33–42 | 31–43 | 31–47 |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 39 | 34–43 | 32–44 | 31–47 | 30–52 |
 | [22 February–16 April 2019](2019-04-16-electoPanel.html) | electoPanel <br> electomania.es | 38 | 36–38 | 36–38 | 35–39 | 35–39 |
@@ -427,17 +427,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 2% | 92% |  |
 | 30 | 3% | 90% |  |
 | 31 | 3% | 86% |  |
-| 32 | 3% | 83% |  |
-| 33 | 4% | 80% |  |
+| 32 | 4% | 83% |  |
+| 33 | 4% | 79% |  |
 | 34 | 5% | 75% |  |
 | 35 | 6% | 70% |  |
-| 36 | 18% | 64% | Median |
-| 37 | 11% | 47% |  |
+| 36 | 17% | 64% | Median |
+| 37 | 13% | 47% |  |
 | 38 | 7% | 35% |  |
-| 39 | 8% | 28% |  |
+| 39 | 7% | 27% |  |
 | 40 | 6% | 21% |  |
-| 41 | 5% | 15% |  |
-| 42 | 3% | 10% |  |
+| 41 | 4% | 15% |  |
+| 42 | 3% | 11% |  |
 | 43 | 2% | 7% |  |
 | 44 | 1.2% | 5% |  |
 | 45 | 0.9% | 4% |  |
@@ -446,7 +446,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 48 | 0.4% | 2% |  |
 | 49 | 0.2% | 1.4% |  |
 | 50 | 0.4% | 1.2% |  |
-| 51 | 0.1% | 0.8% |  |
+| 51 | 0.2% | 0.8% |  |
 | 52 | 0.2% | 0.7% |  |
 | 53 | 0.2% | 0.5% |  |
 | 54 | 0.1% | 0.4% |  |

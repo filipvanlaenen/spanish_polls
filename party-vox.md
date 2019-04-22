@@ -231,10 +231,10 @@ Last result: **0** seats (General Election of 26 June 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29 | 18–42 | 15–46 | 13–47 | 11–53 |
-| [22 February–19 April 2019](2019-04-19-electoPanel.html) | electoPanel <br> electomania.es | 35 | 33–36 | 33–36 | 31–36 | 31–40 |
+| [22 February–19 April 2019](2019-04-19-electoPanel.html) | electoPanel <br> electomania.es | 33 | 33–36 | 33–36 | 31–37 | 31–40 |
 | [22 February–18 April 2019](2019-04-18-electoPanel.html) | electoPanel <br> electomania.es | 34 | 32–36 | 32–36 | 32–40 | 31–40 |
-| [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 27 | 25–27 | 25–27 | 24–32 | 22–35 |
-| [22 February–17 April 2019](2019-04-17-electoPanel.html) | electoPanel <br> electomania.es | 33 | 31–33 | 30–33 | 30–34 | 29–35 |
+| [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 29 | 26–29 | 25–30 | 24–31 | 22–33 |
+| [22 February–17 April 2019](2019-04-17-electoPanel.html) | electoPanel <br> electomania.es | 33 | 30–33 | 29–34 | 28–34 | 28–36 |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 27 | 22–28 | 19–31 | 19–33 | 18–34 |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 11–19 | 11–20 | 9–23 | 8–24 |
 | [22 February–16 April 2019](2019-04-16-electoPanel.html) | electoPanel <br> electomania.es | 29 | 28–31 | 27–33 | 27–33 | 27–33 |
@@ -449,18 +449,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 3% | 80% |  |
 | 24 | 3% | 77% |  |
 | 25 | 4% | 74% |  |
-| 26 | 4% | 70% |  |
-| 27 | 11% | 66% |  |
-| 28 | 5% | 55% |  |
-| 29 | 4% | 50% | Median |
+| 26 | 3% | 70% |  |
+| 27 | 6% | 67% |  |
+| 28 | 5% | 60% |  |
+| 29 | 8% | 55% | Median |
 | 30 | 4% | 47% |  |
 | 31 | 4% | 43% |  |
 | 32 | 4% | 39% |  |
-| 33 | 6% | 35% |  |
-| 34 | 4% | 29% |  |
-| 35 | 3% | 26% |  |
-| 36 | 5% | 23% |  |
-| 37 | 1.4% | 18% |  |
+| 33 | 8% | 35% |  |
+| 34 | 3% | 27% |  |
+| 35 | 2% | 24% |  |
+| 36 | 3% | 21% |  |
+| 37 | 2% | 18% |  |
 | 38 | 1.2% | 17% |  |
 | 39 | 1.1% | 15% |  |
 | 40 | 2% | 14% |  |
