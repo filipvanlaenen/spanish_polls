@@ -10,25 +10,25 @@ Last result: **2.7%** (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.5–3.8% | 2.5–4.0% | 2.4–4.2% | 2.2–4.5% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.7–4.5% |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 3.3% | 2.8–3.9% | 2.7–4.1% | 2.5–4.2% | 2.3–4.5% |
-| [22 February–20 April 2019](2019-04-20-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.5–2.9% | 2.4–3.0% | 2.4–3.1% | 2.3–3.2% |
-| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 3.2% | N/A | N/A | N/A | N/A |
-| [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 3.0% | N/A | N/A | N/A | N/A |
-| [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2.9% | N/A | N/A | N/A | N/A |
+| [22 February–20 April 2019](2019-04-20-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.5–2.9% | 2.5–3.0% | 2.4–3.0% | 2.3–3.1% |
+| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 3.2% | 2.7–3.8% | 2.6–4.0% | 2.5–4.1% | 2.3–4.5% |
+| [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.0% | 2.0–4.4% |
+| [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.1–4.1% | 1.8–4.5% |
 | [22 February–19 April 2019](2019-04-19-electoPanel.html) | electoPanel <br> electomania.es | 2.8% | 2.6–3.0% | 2.5–3.1% | 2.5–3.1% | 2.4–3.2% |
-| [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 3.1% | N/A | N/A | N/A | N/A |
-| [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 2.9% | N/A | N/A | N/A | N/A |
-| [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 3.3% | N/A | N/A | N/A | N/A |
-| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 3.3% | N/A | N/A | N/A | N/A |
+| [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 3.1% | 2.6–3.7% | 2.5–3.9% | 2.4–4.0% | 2.2–4.3% |
+| [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
+| [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 3.3% | 2.8–4.1% | 2.6–4.3% | 2.5–4.5% | 2.2–4.9% |
+| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 3.3% | 3.1–3.6% | 3.0–3.6% | 3.0–3.7% | 2.9–3.8% |
 | [22 February–18 April 2019](2019-04-18-electoPanel.html) | electoPanel <br> electomania.es | 2.8% | 2.6–3.0% | 2.5–3.1% | 2.5–3.1% | 2.4–3.2% |
-| [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 2.8% | N/A | N/A | N/A | N/A |
+| [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 3.2% | 2.7–3.8% | 2.6–4.0% | 2.5–4.1% | 2.3–4.5% |
-| [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 2.4% | N/A | N/A | N/A | N/A |
-| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 3.3% | N/A | N/A | N/A | N/A |
+| [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–4.0% |
+| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 3.3% | 2.8–3.9% | 2.7–4.0% | 2.6–4.2% | 2.4–4.5% |
 | [22 February–17 April 2019](2019-04-17-electoPanel.html) | electoPanel <br> electomania.es | 2.7% | 2.5–2.9% | 2.4–3.0% | 2.4–3.0% | 2.3–3.1% |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 3.4% | 2.9–4.0% | 2.8–4.2% | 2.6–4.3% | 2.4–4.6% |
-| [3–17 April 2019](2019-04-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.8% | N/A | N/A | N/A | N/A |
+| [3–17 April 2019](2019-04-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 3.8% | 3.5–4.1% | 3.4–4.2% | 3.4–4.3% | 3.2–4.4% |
 | [15–17 April 2019](2019-04-17-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 0.0% | N/A | N/A | N/A | N/A |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.1–4.1% | 1.8–4.5% |
 | [22 February–16 April 2019](2019-04-16-electoPanel.html) | electoPanel <br> electomania.es | 2.8% | 2.6–3.0% | 2.5–3.1% | 2.5–3.2% | 2.4–3.3% |
@@ -216,10 +216,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 12% | 100% |  |
-| 2.5–3.5% | 70% | 88% | Last Result, Median |
-| 3.5–4.5% | 18% | 18% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 13% | 99.8% |  |
+| 2.5–3.5% | 63% | 86% | Last Result, Median |
+| 3.5–4.5% | 23% | 23% |  |
 | 4.5–5.5% | 0.4% | 0.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -232,22 +233,22 @@ Last result: **9** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 10–15 | 10–16 | 10–17 | 9–20 |
-| [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 10–15 | 10–15 | 10–15 | 9–17 |
-| [22 February–20 April 2019](2019-04-20-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial |  |  |  |  |  |
-| [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 14 | 11–15 | 9–16 | 9–17 | 7–19 |
+| [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 15 | 14–15 | 14–15 | 12–17 |
+| [22 February–20 April 2019](2019-04-20-electoPanel.html) | electoPanel <br> electomania.es | 14 | 13–14 | 13–14 | 13–14 | 11–14 |
+| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 15 | 15 | 15 | 15 |
+| [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 14 | 11–15 | 9–17 | 9–18 | 9–19 |
+| [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14 | 11–14 | 9–15 | 9–15 | 9–16 |
 | [22 February–19 April 2019](2019-04-19-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 13–14 | 12–14 | 11–14 |
-| [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
-| [22 February–18 April 2019](2019-04-18-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 12–14 | 11–14 | 10–14 |
-| [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
+| [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 13 | 13 | 13 | 13 |
+| [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 14 | 9–14 | 9–15 | 8–15 | 8–16 |
+| [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 15 | 13–18 | 11–19 | 10–20 | 9–20 |
+| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 14 | 14 | 14–15 | 14–15 | 14–15 |
+| [22 February–18 April 2019](2019-04-18-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 12–14 | 12–14 | 10–14 |
+| [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 11 | 11–14 | 9–15 | 9–16 | 9–19 |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–15 | 13–15 | 11–16 | 10–17 |
-| [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario |  |  |  |  |  |
-| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País |  |  |  |  |  |
+| [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 12 | 8–15 | 7–15 | 7–15 | 6–15 |
+| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 12 | 11–14 | 11–15 | 11–16 | 10–16 |
 | [22 February–17 April 2019](2019-04-17-electoPanel.html) | electoPanel <br> electomania.es | 13 | 11–14 | 11–14 | 11–14 | 10–14 |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–15 | 12–16 | 11–18 | 10–20 |
 | [3–17 April 2019](2019-04-17-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
@@ -440,20 +441,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0% | 100% |  |
-| 9 | 1.2% | 99.9% | Last Result |
-| 10 | 18% | 98.8% |  |
-| 11 | 5% | 81% |  |
-| 12 | 4% | 75% |  |
-| 13 | 3% | 72% |  |
-| 14 | 32% | 69% | Median |
-| 15 | 29% | 37% |  |
-| 16 | 4% | 8% |  |
-| 17 | 2% | 4% |  |
-| 18 | 0.5% | 2% |  |
-| 19 | 0.6% | 1.2% |  |
-| 20 | 0.5% | 0.6% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 6 | 0.1% | 100% |  |
+| 7 | 0.8% | 99.9% |  |
+| 8 | 0.9% | 99.2% |  |
+| 9 | 5% | 98% | Last Result |
+| 10 | 1.0% | 93% |  |
+| 11 | 11% | 92% |  |
+| 12 | 13% | 81% |  |
+| 13 | 7% | 68% |  |
+| 14 | 36% | 61% | Median |
+| 15 | 19% | 25% |  |
+| 16 | 3% | 6% |  |
+| 17 | 1.1% | 3% |  |
+| 18 | 1.3% | 2% |  |
+| 19 | 0.3% | 0.8% |  |
+| 20 | 0.5% | 0.5% |  |
+| 21 | 0% | 0% |  |
 
 
