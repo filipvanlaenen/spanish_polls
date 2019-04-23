@@ -242,7 +242,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
-| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 1 | 1 | 1 | 1 | 1 |
+| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22 February–18 April 2019](2019-04-18-electoPanel.html) | electoPanel <br> electomania.es | 1 | 1 | 1 | 1 | 1 |
 | [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia |  |  |  |  |  |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
@@ -440,8 +440,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 38% | 100% | Last Result |
-| 1 | 61% | 62% | Median |
+| 0 | 48% | 100% | Last Result |
+| 1 | 51% | 52% | Median |
 | 2 | 0.3% | 0.5% |  |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
