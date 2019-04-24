@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/spanish_polls</id>
   <title>All Registered Polls for the Congress of Deputies</title>
-  <updated>2019-04-22T20:32:28.303604+02:00</updated>
+  <updated>2019-04-23T22:43:44.183062+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular: 19.3–20.9%, 77–84 seats</li><li>Partido Socialista Obrero Español: 26.7–28.5%, 119–125 seats</li><li>Unidos Podemos: 13.1–14.4%, 36–41 seats</li><li>Ciudadanos–Partido de la Ciudadanía: 13.5–14.9%, 42–50 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí: 2.5–3.1%, 12–14 seats</li><li>Partit Demòcrata Europeu Català: 1.1–1.5%, 4–6 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 1.1–1.5%, 6–8 seats</li><li>Partido Animalista Contra el Maltrato Animal: 2.0–2.6%, 1 seats</li><li>Euskal Herria Bildu: 0.6–1.0%, 2–4 seats</li><li>Coalición Canaria–Partido Nacionalista Canario: 0.1–0.3%, 0–1 seats</li><li>Vox: 11.9–13.2%, 32–38 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/spanish_polls/2019-04-19-electoPanel.html</id>
@@ -30,6 +30,14 @@
     <title>Opinion Poll by SocioMétrica for El Español, 11–18 April 2019</title>
     <updated>2019-04-22T15:26:58.100875+02:00</updated>
     <dc:date>2019-04-22T15:26:58.100875+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular: 19.1–24.3%, 70–105 seats</li><li>Partido Socialista Obrero Español: 25.6–31.4%, 105–140 seats</li><li>Unidos Podemos: 11.8–16.2%, 26–48 seats</li><li>Ciudadanos–Partido de la Ciudadanía: 12.6–17.1%, 32–59 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí: 1.6–3.6%, 7–15 seats</li><li>Partit Demòcrata Europeu Català: 0.6–2.1%, 1–8 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.8–2.3%, 3–10 seats</li><li>Euskal Herria Bildu: 0.5–1.8%, 1–7 seats</li><li>Coalición Canaria–Partido Nacionalista Canario: 0.1–0.9%, 0–4 seats</li><li>Vox: 10.5–14.7%, 25–44 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/spanish_polls/2019-04-18-DemoscopiayServicios.html</id>
+    <link href="https://filipvanlaenen.github.io/spanish_polls/2019-04-18-DemoscopiayServicios.html"/>
+    <title>Opinion Poll by Demoscopia y Servicios for ESdiario, 15–18 April 2019</title>
+    <updated>2019-04-23T22:43:44.183062+02:00</updated>
+    <dc:date>2019-04-23T22:43:44.183062+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Popular: 19.6–21.2%, 79–85 seats</li><li>Partido Socialista Obrero Español: 26.8–28.6%, 117–126 seats</li><li>Unidos Podemos: 13.0–14.4%, 35–40 seats</li><li>Ciudadanos–Partido de la Ciudadanía: 13.9–15.3%, 43–51 seats</li><li>Esquerra Republicana de Catalunya–Catalunya Sí: 2.4–3.0%, 11–14 seats</li><li>Partit Demòcrata Europeu Català: 1.1–1.6%, 4–7 seats</li><li>Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 1.2–1.7%, 6–8 seats</li><li>Partido Animalista Contra el Maltrato Animal: 1.9–2.5%, 1 seats</li><li>Euskal Herria Bildu: 0.6–1.0%, 2–4 seats</li><li>Coalición Canaria–Partido Nacionalista Canario: 0.1–0.3%, 0–1 seats</li><li>Vox: 11.4–12.7%, 28–34 seats</li></ul></div></content>
@@ -671,5 +679,5 @@
     <updated>2019-03-16T18:43:40.083724+01:00</updated>
     <dc:date>2019-03-16T18:43:40.083724+01:00</dc:date>
   </entry>
-  <dc:date>2019-04-22T20:32:28.303604+02:00</dc:date>
+  <dc:date>2019-04-23T22:43:44.183062+02:00</dc:date>
 </feed>
