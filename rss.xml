@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Tue, 23 Apr 2019 20:09:48 +0200</pubDate>
+    <pubDate>Tue, 23 Apr 2019 22:57:55 +0200</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 14–21 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-21-SocioMétrica.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-20-electoPanel.png"
         length="223559"
         type="image/png"/>
-      <pubDate>Tue, 23 Apr 2019 19:54:15 +0200</pubDate>
-      <dc:date>2019-04-23T19:54:15.567102+02:00</dc:date>
+      <pubDate>Tue, 23 Apr 2019 20:35:22 +0200</pubDate>
+      <dc:date>2019-04-23T20:35:22.405804+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 13–20 April 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-20-IMOP.png"
         length="262738"
         type="image/png"/>
-      <pubDate>Tue, 23 Apr 2019 14:23:41 +0200</pubDate>
-      <dc:date>2019-04-23T14:23:41.031193+02:00</dc:date>
+      <pubDate>Tue, 23 Apr 2019 20:57:32 +0200</pubDate>
+      <dc:date>2019-04-23T20:57:32.453686+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 15–20 April 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-20-Celeste-Tel.png"
         length="268574"
         type="image/png"/>
-      <pubDate>Tue, 23 Apr 2019 14:39:28 +0200</pubDate>
-      <dc:date>2019-04-23T14:39:28.502971+02:00</dc:date>
+      <pubDate>Tue, 23 Apr 2019 22:57:55 +0200</pubDate>
+      <dc:date>2019-04-23T22:57:55.688413+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–19 April 2019 – Seat Projections for the Parties</title>
@@ -200,14 +200,34 @@
       <dc:date>2019-04-22T15:26:58.100875+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Demoscopia y Servicios for ESdiario, 15–18 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-18-DemoscopiayServicios.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 70–105 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 105–140 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 26–48 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 32–59 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 7–15 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1–8 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 3–10 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 1–7 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0–4 seats&lt;/li&gt;&lt;li&gt;Vox: 25–44 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-18-DemoscopiayServicios-seats.png"
+        length="235748"
+        type="image/png"/>
+      <pubDate>Tue, 23 Apr 2019 22:43:44 +0200</pubDate>
+      <dc:date>2019-04-23T22:43:44.183062+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoscopia y Servicios for ESdiario, 15–18 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-18-DemoscopiayServicios.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-18-DemoscopiayServicios-coalitions-seats.png"
+        length="566188"
+        type="image/png"/>
+      <pubDate>Tue, 23 Apr 2019 22:43:44 +0200</pubDate>
+      <dc:date>2019-04-23T22:43:44.183062+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demoscopia y Servicios for ESdiario, 15–18 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-18-DemoscopiayServicios.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 19.1–24.3%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 25.6–31.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 11.8–16.2%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 12.6–17.1%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 1.6–3.6%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.6–2.1%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.1–0.9%&lt;/li&gt;&lt;li&gt;Vox: 10.5–14.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-18-DemoscopiayServicios.png"
         length="260177"
         type="image/png"/>
-      <pubDate>Tue, 23 Apr 2019 20:09:48 +0200</pubDate>
-      <dc:date>2019-04-23T20:09:48.57143+02:00</dc:date>
+      <pubDate>Tue, 23 Apr 2019 22:43:44 +0200</pubDate>
+      <dc:date>2019-04-23T22:43:44.183062+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by 40dB for El País, 15–18 April 2019 – Voting Intentions</title>
@@ -3649,6 +3669,6 @@
       <pubDate>Thu, 21 Mar 2019 19:48:55 +0100</pubDate>
       <dc:date>2019-03-21T19:48:55.652918+01:00</dc:date>
     </item>
-    <dc:date>2019-04-23T20:09:48.57143+02:00</dc:date>
+    <dc:date>2019-04-23T22:57:55.688413+02:00</dc:date>
   </channel>
 </rss>
