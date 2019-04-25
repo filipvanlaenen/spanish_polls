@@ -248,16 +248,16 @@ Last result: **0** seats (General Election of 26 June 2016)
 | N/A | [Poll Average](average.html) | 28 | 19–39 | 14–42 | 12–45 | 11–49 |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 37 | 33–37 | 32–37 | 31–37 | 27–44 |
 | [22 February–20 April 2019](2019-04-20-electoPanel.html) | electoPanel <br> electomania.es | 35 | 33–38 | 33–38 | 33–38 | 31–39 |
-| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 33 | 27–33 | 26–33 | 25–34 | 23–38 |
+| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 33 | 26–34 | 26–35 | 25–37 | 23–41 |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 24 | 19–27 | 19–28 | 19–29 | 16–33 |
 | [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 11–18 | 11–21 | 10–22 | 8–24 |
 | [22 February–19 April 2019](2019-04-19-electoPanel.html) | electoPanel <br> electomania.es | 34 | 33–38 | 32–38 | 32–38 | 31–40 |
-| [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 28 | 24–30 | 21–31 | 21–33 | 21–37 |
+| [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 27 | 24–30 | 22–32 | 21–33 | 20–36 |
 | [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 20 | 15–24 | 13–26 | 13–28 | 10–30 |
 | [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 34 | 28–43 | 27–44 | 26–47 | 24–49 |
 | [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 30 | 28–32 | 28–33 | 28–33 | 28–33 |
 | [22 February–18 April 2019](2019-04-18-electoPanel.html) | electoPanel <br> electomania.es | 34 | 32–36 | 32–37 | 31–38 | 30–40 |
-| [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 29 | 23–32 | 22–35 | 21–36 | 16–39 |
+| [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 28 | 23–32 | 21–34 | 18–36 | 16–39 |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 29 | 26–29 | 25–30 | 24–31 | 22–33 |
 | [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 31 | 27–40 | 26–43 | 25–44 | 23–47 |
 | [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 39 | 31–43 | 29–44 | 28–45 | 28–47 |
@@ -470,7 +470,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.4% | 95% |  |
 | 15 | 1.0% | 95% |  |
 | 16 | 0.7% | 94% |  |
-| 17 | 1.4% | 93% |  |
+| 17 | 1.5% | 93% |  |
 | 18 | 0.8% | 91% |  |
 | 19 | 3% | 91% |  |
 | 20 | 1.1% | 88% |  |
@@ -478,18 +478,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 2% | 85% |  |
 | 23 | 5% | 83% |  |
 | 24 | 4% | 78% |  |
-| 25 | 2% | 74% |  |
-| 26 | 6% | 71% |  |
-| 27 | 6% | 65% |  |
-| 28 | 9% | 59% | Median |
-| 29 | 7% | 50% |  |
+| 25 | 3% | 74% |  |
+| 26 | 7% | 71% |  |
+| 27 | 7% | 64% |  |
+| 28 | 9% | 58% | Median |
+| 29 | 5% | 48% |  |
 | 30 | 4% | 43% |  |
 | 31 | 4% | 39% |  |
-| 32 | 4% | 36% |  |
+| 32 | 4% | 35% |  |
 | 33 | 5% | 32% |  |
 | 34 | 4% | 27% |  |
-| 35 | 3% | 24% |  |
-| 36 | 1.2% | 21% |  |
+| 35 | 3% | 23% |  |
+| 36 | 1.0% | 21% |  |
 | 37 | 6% | 20% |  |
 | 38 | 3% | 14% |  |
 | 39 | 2% | 11% |  |
