@@ -229,22 +229,22 @@ Last result: **1** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–4 |
+| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–3 | 0–4 |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [22 February–20 April 2019](2019-04-20-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 0–2 | 0–3 | 0–4 |
 | [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0–1 | 0–2 | 0–2 | 0–4 |
 | [22 February–19 April 2019](2019-04-19-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 1 | 1–2 | 0–2 | 0–3 | 0–4 |
+| [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta |  |  |  |  |  |
 | [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22 February–18 April 2019](2019-04-18-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 1 | 1 | 1–2 | 1–3 | 0–5 |
+| [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 1 | 1–2 | 1–4 | 0–4 | 0–5 |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [15–18 April 2019](2019-04-18-DemoscopiayServicios.html) | Demoscopia y Servicios <br> ESdiario | 1 | 0–2 | 0–2 | 0–4 | 0–4 |
-| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
+| [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 2 | 1–2 | 1–2 | 0–3 | 0–3 |
 | [22 February–17 April 2019](2019-04-17-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [3–17 April 2019](2019-04-17-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
@@ -437,11 +437,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 29% | 100% |  |
-| 1 | 55% | 71% | Last Result, Median |
-| 2 | 14% | 15% |  |
-| 3 | 0.8% | 2% |  |
-| 4 | 0.9% | 1.0% |  |
+| 0 | 31% | 100% |  |
+| 1 | 53% | 69% | Last Result, Median |
+| 2 | 13% | 16% |  |
+| 3 | 1.3% | 3% |  |
+| 4 | 1.3% | 1.5% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
