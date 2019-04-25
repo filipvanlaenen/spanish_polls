@@ -233,16 +233,16 @@ Last result: **9** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 10–15 | 9–16 | 9–17 | 7–19 |
-| [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–15 | 14–15 | 13–15 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 11–15 | 9–16 | 9–17 | 7–19 |
+| [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–15 | 13–15 | 12–16 | 11–17 |
 | [22 February–20 April 2019](2019-04-20-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 13–14 | 13–14 | 11–14 |
 | [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–15 | 11–15 | 9–16 | 9–19 |
-| [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 14 | 10–15 | 10–16 | 10–18 | 9–18 |
-| [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 9–15 | 9–15 | 8–15 | 8–17 |
+| [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 13 | 10–15 | 10–17 | 9–17 | 9–18 |
+| [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 11 | 10–15 | 9–15 | 9–15 | 8–16 |
 | [22 February–19 April 2019](2019-04-19-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 13–14 | 12–14 | 11–14 |
 | [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 11–15 | 10–17 | 10–17 | 9–17 |
 | [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 13 | 9–15 | 9–15 | 9–16 | 8–18 |
-| [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 15 | 13–17 | 12–18 | 11–20 | 9–20 |
+| [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 15 | 12–18 | 12–18 | 11–20 | 9–20 |
 | [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 15 | 14–15 | 14–15 | 14–15 | 13–16 |
 | [22 February–18 April 2019](2019-04-18-electoPanel.html) | electoPanel <br> electomania.es | 13 | 13–14 | 12–14 | 12–14 | 10–14 |
 | [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 11 | 9–15 | 9–16 | 9–16 | 8–19 |
@@ -251,7 +251,7 @@ Last result: **9** seats (General Election of 26 June 2016)
 | [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 13 | 12–15 | 12–16 | 11–16 | 9–16 |
 | [22 February–17 April 2019](2019-04-17-electoPanel.html) | electoPanel <br> electomania.es | 13 | 11–14 | 11–14 | 11–14 | 10–14 |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–15 | 12–16 | 11–18 | 10–20 |
-| [3–17 April 2019](2019-04-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 15–16 | 15–17 | 14–17 | 14–18 |
+| [3–17 April 2019](2019-04-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 15 | 15–16 | 15–17 | 14–17 | 14–19 |
 | [15–17 April 2019](2019-04-17-InstitutoDYM.html) | Instituto DYM <br> El Independiente |  |  |  |  |  |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 13 | 9–15 | 8–16 | 8–16 | 8–18 |
 | [22 February–16 April 2019](2019-04-16-electoPanel.html) | electoPanel <br> electomania.es | 14 | 12–14 | 12–14 | 12–14 | 11–14 |
@@ -443,18 +443,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.1% | 100% |  |
 | 7 | 0.5% | 99.9% |  |
-| 8 | 1.1% | 99.4% |  |
-| 9 | 6% | 98% | Last Result |
-| 10 | 4% | 93% |  |
-| 11 | 8% | 89% |  |
-| 12 | 8% | 81% |  |
-| 13 | 14% | 73% |  |
-| 14 | 22% | 59% | Median |
-| 15 | 28% | 37% |  |
-| 16 | 6% | 9% |  |
-| 17 | 1.2% | 3% |  |
-| 18 | 1.2% | 2% |  |
-| 19 | 0.3% | 0.7% |  |
+| 8 | 1.0% | 99.4% |  |
+| 9 | 5% | 98% | Last Result |
+| 10 | 3% | 93% |  |
+| 11 | 12% | 91% |  |
+| 12 | 9% | 79% |  |
+| 13 | 14% | 70% |  |
+| 14 | 20% | 56% | Median |
+| 15 | 26% | 36% |  |
+| 16 | 6% | 10% |  |
+| 17 | 2% | 3% |  |
+| 18 | 1.0% | 2% |  |
+| 19 | 0.4% | 0.8% |  |
 | 20 | 0.3% | 0.4% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |

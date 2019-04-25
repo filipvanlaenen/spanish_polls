@@ -233,8 +233,8 @@ Last result: **1** seats (General Election of 26 June 2016)
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [22 February–20 April 2019](2019-04-20-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 1 | 1–2 | 0–2 | 0–3 | 0–4 |
-| [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0 | 0–1 | 0–2 | 0–2 | 0–4 |
+| [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 1 | 0–1 | 0–2 | 0–2 | 0–4 |
+| [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 1 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [22 February–19 April 2019](2019-04-19-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
@@ -437,11 +437,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% |  |
-| 1 | 51% | 68% | Last Result, Median |
-| 2 | 14% | 17% |  |
-| 3 | 1.4% | 3% |  |
-| 4 | 1.3% | 1.5% |  |
+| 0 | 29% | 100% |  |
+| 1 | 55% | 71% | Last Result, Median |
+| 2 | 13% | 16% |  |
+| 3 | 1.3% | 3% |  |
+| 4 | 1.2% | 1.4% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
