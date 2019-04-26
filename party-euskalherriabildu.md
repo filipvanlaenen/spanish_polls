@@ -232,7 +232,7 @@ Last result: **2** seats (General Election of 26 June 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 2–6 | 1–6 | 1–7 | 0–7 |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 3 | 2–5 | 1–5 | 1–6 | 1–7 |
-| [22 February–20 April 2019](2019-04-20-electoPanel.html) | electoPanel <br> electomania.es | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [22 February–20 April 2019](2019-04-20-electoPanel.html) | electoPanel <br> electomania.es | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 2–6 | 2–7 | 2–7 | 1–7 |
 | [14–20 April 2019](2019-04-20-IMOP.html) | IMOP <br> El Confidencial | 2 | 1–6 | 1–6 | 1–6 | 1–7 |
 | [15–20 April 2019](2019-04-20-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 4 | 2–6 | 1–6 | 1–7 | 0–7 |
@@ -440,10 +440,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.7% | 100% |  |
 | 1 | 8% | 99.3% |  |
-| 2 | 20% | 91% | Last Result |
-| 3 | 21% | 71% |  |
+| 2 | 21% | 91% | Last Result |
+| 3 | 20% | 70% |  |
 | 4 | 26% | 50% | Median |
-| 5 | 12% | 24% |  |
+| 5 | 13% | 24% |  |
 | 6 | 8% | 11% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0.2% | 0.4% |  |
