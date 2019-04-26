@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Congress of Deputies</title>
     <link>https://filipvanlaenen.github.io/spanish_polls</link>
     <description>All Registered Polls for the Congress of Deputies</description>
-    <pubDate>Thu, 25 Apr 2019 20:11:59 +0200</pubDate>
+    <pubDate>Thu, 25 Apr 2019 22:49:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 14–21 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-21-SocioMétrica.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2019-04-25T20:11:59.727743+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 22 February–20 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-20-electoPanel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 76–84 seats&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 118–127 seats&lt;/li&gt;&lt;li&gt;Unidos Podemos: 36–41 seats&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 42–50 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 12–14 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 4–6 seats&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 6–8 seats&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 1 seats&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 2–5 seats&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0–1 seats&lt;/li&gt;&lt;li&gt;Vox: 32–38 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-20-electoPanel-seats.png"
+        length="187547"
+        type="image/png"/>
+      <pubDate>Thu, 25 Apr 2019 22:49:38 +0200</pubDate>
+      <dc:date>2019-04-25T22:49:38.760654+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 22 February–20 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-20-electoPanel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-20-electoPanel-coalitions-seats.png"
+        length="354929"
+        type="image/png"/>
+      <pubDate>Thu, 25 Apr 2019 22:49:38 +0200</pubDate>
+      <dc:date>2019-04-25T22:49:38.760654+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by electoPanel for electomania.es, 22 February–20 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/spanish_polls/2019-04-20-electoPanel.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Popular: 19.1–20.7%&lt;/li&gt;&lt;li&gt;Partido Socialista Obrero Español: 26.7–28.4%&lt;/li&gt;&lt;li&gt;Unidos Podemos: 13.0–14.3%&lt;/li&gt;&lt;li&gt;Ciudadanos–Partido de la Ciudadanía: 13.6–15.0%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 2.4–3.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.1–1.5%&lt;/li&gt;&lt;li&gt;Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco: 1.1–1.5%&lt;/li&gt;&lt;li&gt;Partido Animalista Contra el Maltrato Animal: 1.9–2.5%&lt;/li&gt;&lt;li&gt;Euskal Herria Bildu: 0.6–1.0%&lt;/li&gt;&lt;li&gt;Coalición Canaria–Partido Nacionalista Canario: 0.1–0.3%&lt;/li&gt;&lt;li&gt;Vox: 11.9–13.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-20-electoPanel.png"
         length="223559"
         type="image/png"/>
-      <pubDate>Tue, 23 Apr 2019 20:35:22 +0200</pubDate>
-      <dc:date>2019-04-23T20:35:22.405804+02:00</dc:date>
+      <pubDate>Thu, 25 Apr 2019 22:49:38 +0200</pubDate>
+      <dc:date>2019-04-25T22:49:38.760654+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 13–20 April 2019 – Seat Projections for the Parties</title>
@@ -596,8 +616,8 @@
       <enclosure url="https://filipvanlaenen.github.io/spanish_polls/2019-04-16-Metroscopia.png"
         length="157523"
         type="image/png"/>
-      <pubDate>Thu, 25 Apr 2019 20:04:13 +0200</pubDate>
-      <dc:date>2019-04-25T20:04:13.823274+02:00</dc:date>
+      <pubDate>Thu, 25 Apr 2019 20:41:37 +0200</pubDate>
+      <dc:date>2019-04-25T20:41:37.772346+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP for El Confidencial, 10–16 April 2019 – Seat Projections for the Parties</title>
@@ -3849,6 +3869,6 @@
       <pubDate>Thu, 21 Mar 2019 19:48:55 +0100</pubDate>
       <dc:date>2019-03-21T19:48:55.652918+01:00</dc:date>
     </item>
-    <dc:date>2019-04-25T20:11:59.727743+02:00</dc:date>
+    <dc:date>2019-04-25T22:49:38.760654+02:00</dc:date>
   </channel>
 </rss>
