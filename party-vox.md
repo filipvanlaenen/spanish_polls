@@ -255,7 +255,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 27 | 24–30 | 22–32 | 21–33 | 20–36 |
 | [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 20 | 15–24 | 13–26 | 13–28 | 10–30 |
 | [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 34 | 28–43 | 27–44 | 26–46 | 24–49 |
-| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 30 | 28–32 | 28–33 | 28–33 | 28–33 |
+| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 29 | 28–31 | 28–32 | 28–32 | 28–33 |
 | [22 February–18 April 2019](2019-04-18-electoPanel.html) | electoPanel <br> electomania.es | 34 | 32–36 | 32–37 | 31–38 | 30–40 |
 | [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 28 | 23–32 | 21–34 | 18–36 | 16–39 |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 29 | 26–29 | 25–30 | 24–31 | 22–33 |
@@ -263,7 +263,7 @@ Last result: **0** seats (General Election of 26 June 2016)
 | [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 39 | 31–43 | 29–44 | 28–45 | 28–47 |
 | [22 February–17 April 2019](2019-04-17-electoPanel.html) | electoPanel <br> electomania.es | 33 | 30–33 | 29–34 | 28–34 | 28–36 |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 27 | 22–28 | 19–31 | 19–33 | 18–34 |
-| [3–17 April 2019](2019-04-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 26 | 23–27 | 23–27 | 22–27 | 21–28 |
+| [3–17 April 2019](2019-04-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 25 | 23–27 | 23–27 | 22–27 | 21–28 |
 | [15–17 April 2019](2019-04-17-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 26 | 21–31 | 19–33 | 18–33 | 16–37 |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 11–19 | 11–20 | 9–23 | 8–24 |
 | [22 February–16 April 2019](2019-04-16-electoPanel.html) | electoPanel <br> electomania.es | 29 | 28–31 | 27–33 | 27–33 | 27–33 |
@@ -480,13 +480,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 5% | 78% |  |
 | 25 | 4% | 73% |  |
 | 26 | 5% | 69% |  |
-| 27 | 7% | 65% |  |
+| 27 | 6% | 64% |  |
 | 28 | 9% | 58% | Median |
-| 29 | 5% | 49% |  |
-| 30 | 4% | 44% |  |
-| 31 | 4% | 39% |  |
-| 32 | 4% | 35% |  |
-| 33 | 6% | 31% |  |
+| 29 | 7% | 49% |  |
+| 30 | 4% | 42% |  |
+| 31 | 5% | 38% |  |
+| 32 | 3% | 34% |  |
+| 33 | 5% | 31% |  |
 | 34 | 4% | 26% |  |
 | 35 | 2% | 22% |  |
 | 36 | 1.2% | 20% |  |

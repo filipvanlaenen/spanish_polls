@@ -237,7 +237,7 @@ Last result: **32** seats (General Election of 26 June 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 47 | 38–53 | 36–56 | 33–58 | 27–62 |
+| N/A | [Poll Average](average.html) | 47 | 39–53 | 36–56 | 33–58 | 27–62 |
 | [14–21 April 2019](2019-04-21-SocioMétrica.html) | SocioMétrica <br> El Español | 50 | 47–50 | 46–53 | 44–54 | 39–57 |
 | [22 February–20 April 2019](2019-04-20-electoPanel.html) | electoPanel <br> electomania.es | 46 | 43–49 | 42–50 | 42–50 | 41–51 |
 | [13–20 April 2019](2019-04-20-SocioMétrica.html) | SocioMétrica <br> El Español | 50 | 46–54 | 43–57 | 42–60 | 39–60 |
@@ -247,7 +247,7 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [12–19 April 2019](2019-04-19-SocioMétrica.html) | SocioMétrica <br> El Español | 49 | 45–57 | 45–60 | 43–60 | 40–63 |
 | [15–19 April 2019](2019-04-19-NCReport.html) | NC Report <br> La Razón | 49 | 35–54 | 35–55 | 33–58 | 30–62 |
 | [15–19 April 2019](2019-04-19-Invymark.html) | Invymark <br> laSexta | 49 | 43–55 | 40–57 | 38–59 | 34–62 |
-| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 40 | 38–46 | 38–46 | 38–46 | 37–47 |
+| [1–19 April 2019](2019-04-19-GAD3.html) | GAD3 <br> ABC | 40 | 39–43 | 38–45 | 38–46 | 38–47 |
 | [22 February–18 April 2019](2019-04-18-electoPanel.html) | electoPanel <br> electomania.es | 46 | 43–49 | 43–49 | 42–49 | 42–50 |
 | [11–18 April 2019](2019-04-18-Sondaxe.html) | Sondaxe <br> La Voz de Galicia | 46 | 38–52 | 35–54 | 32–54 | 29–57 |
 | [11–18 April 2019](2019-04-18-SocioMétrica.html) | SocioMétrica <br> El Español | 49 | 47–53 | 41–53 | 41–54 | 41–60 |
@@ -255,7 +255,7 @@ Last result: **32** seats (General Election of 26 June 2016)
 | [15–18 April 2019](2019-04-18-40dB.html) | 40dB <br> El País | 45 | 38–49 | 38–50 | 37–51 | 33–55 |
 | [22 February–17 April 2019](2019-04-17-electoPanel.html) | electoPanel <br> electomania.es | 47 | 46–50 | 43–51 | 43–51 | 43–51 |
 | [10–17 April 2019](2019-04-17-SocioMétrica.html) | SocioMétrica <br> El Español | 51 | 47–54 | 46–57 | 44–61 | 41–63 |
-| [3–17 April 2019](2019-04-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 49 | 46–51 | 44–51 | 44–52 | 42–52 |
+| [3–17 April 2019](2019-04-17-SigmaDos.html) | Sigma Dos <br> El Mundo | 49 | 46–51 | 45–51 | 44–52 | 42–52 |
 | [15–17 April 2019](2019-04-17-InstitutoDYM.html) | Instituto DYM <br> El Independiente | 51 | 44–59 | 41–61 | 39–62 | 36–65 |
 | [11–17 April 2019](2019-04-17-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 52 | 46–60 | 42–60 | 39–63 | 35–67 |
 | [22 February–16 April 2019](2019-04-16-electoPanel.html) | electoPanel <br> electomania.es | 50 | 50–51 | 49–52 | 49–52 | 46–54 |
@@ -461,19 +461,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 0.7% | 97% |  |
 | 35 | 1.1% | 96% |  |
 | 36 | 0.9% | 95% |  |
-| 37 | 1.5% | 94% |  |
-| 38 | 3% | 93% |  |
-| 39 | 3% | 90% |  |
-| 40 | 3% | 87% |  |
-| 41 | 3% | 84% |  |
-| 42 | 2% | 81% |  |
-| 43 | 4% | 79% |  |
-| 44 | 4% | 74% |  |
-| 45 | 7% | 70% |  |
+| 37 | 1.4% | 94% |  |
+| 38 | 2% | 93% |  |
+| 39 | 3% | 91% |  |
+| 40 | 5% | 88% |  |
+| 41 | 3% | 83% |  |
+| 42 | 3% | 80% |  |
+| 43 | 4% | 77% |  |
+| 44 | 4% | 73% |  |
+| 45 | 7% | 69% |  |
 | 46 | 5% | 62% |  |
 | 47 | 7% | 57% | Median |
 | 48 | 7% | 50% |  |
-| 49 | 8% | 43% |  |
+| 49 | 7% | 43% |  |
 | 50 | 14% | 36% |  |
 | 51 | 4% | 21% |  |
 | 52 | 5% | 17% |  |
